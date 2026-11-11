@@ -49,20 +49,20 @@ Limits of layer 2:
 - Names marked "sp. nov." in the report are kept as printed. They are report names and are not counted as published species.
 - Status words (High, Medium, Severe and so on) are the centres' own and are not comparable between centres.
 
-### Layer 3: AICRP annual report 1990–91 (survey chapter, printed pp. 9–39)
+### Layer 3: AICRP annual report 1990–91 (survey chapter I and taxonomic chapter II, printed pp. 9–58)
 
-Survey tables from seven centres: Kalyani, Coimbatore, Navsari, Varanasi, Ludhiana, Pusa and Hisar. Bangalore's survey section lists localities only, and the taxonomic chapter (printed pp. 40–55) is not yet transcribed. The tables were typed from the page images; the transcription notes, including rows left out and uncertain readings, are in `data/aicrp/transcription/NOTES_1990-91.md`.
+Seven centres: Kalyani, Coimbatore, Navsari, Varanasi, Ludhiana, Pusa and Hisar from the survey chapter, plus Bangalore from Chapter II (host × place table, with localities in Andhra Pradesh and Karnataka). Chapter II also adds Kalyani, Pusa (phytoseiids of Bihar) and Hisar (taxonomy tables 13–17). The tables were typed from the page images; the transcription notes, including rows left out and uncertain readings, are in `data/aicrp/transcription/NOTES_1990-91.md`.
 
 | Measure | Value |
 | --- | ---: |
-| Observation rows | 604 |
-| Distinct mite species names | 68 |
-| Distinct host names | 170 |
-| Species × state pairs joined to the checklist | 102 |
-| ...of which not in the Gupta & Mondal (2023) layer | 50 |
-| ...of which also not in the 1996–98 layer | 31 |
+| Observation rows | 1,000 |
+| Distinct mite species names | 95 |
+| Distinct host names | 250 |
+| Species × state pairs joined to the checklist | 147 (69 species) |
+| ...of which not in the Gupta & Mondal (2023) layer | 74 |
+| ...of which also not in the 1996–98 layer | 53 |
 
-The 31 pairs new to both layers are Gujarat (10), Haryana (8), Bihar, West Bengal and Tamil Nadu (3 each), and one each for Himachal Pradesh, Kerala and Punjab. Gujarat comes only from this report. Navsari, Hisar and Kalyani print no locality per row, so their state is the centre's state. Navsari rows are one per slide, so a host and mite can repeat.
+The 53 pairs new to both layers are Haryana (15), Gujarat (10), Andhra Pradesh (9), Bihar (5), West Bengal (4), Karnataka (3) and Tamil Nadu (3), and one each for Kerala, Himachal Pradesh, Punjab and Uttar Pradesh. Gujarat and Andhra Pradesh come only from this report. Navsari, Hisar (Table 8) and Kalyani (Table 1) print no locality per row, so their state is the centre's state. Navsari rows are one per slide, so a host and mite can repeat. Hisar's Chapter II tables 13–17 (block C11) aggregate the same Haryana collection as Table 8 (block C07) with specimen counts, so the two blocks must not be summed.
 
 ## Files
 

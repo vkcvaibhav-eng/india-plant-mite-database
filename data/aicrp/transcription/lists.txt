@@ -235,3 +235,104 @@ C05|Amblyseius multidentatus (S&S)|Citrus|Ludhiana||4 specimens
 C05|Amblyseius (Proprioseius) sp.||Kapurthala||3 specimens; no host printed
 C05|Platyseiella sp.||Patiala||4 specimens; no host printed
 C05|Typhlodromus sp.|Bohar; Citrus; Brinjal|Ferozepur; Ludhiana; Hoshiarpur; Shimla||4 specimens
+# C09 Kalyani Chapter II (printed pp. 40-43), no localities except as above
+C09|Polyphagotarsonemus latus (Banks)|Solanum melongena (Brinjal); Lycopersicon esculentum (Tomato); Solanum tuberosum (Potato); Althaea rosea (Hollyhock); Dahlia variabilis (Dahlia); Chrysanthemum sp.; Ipomoea sp.; Capsicum annum (Chilli); Amaranthus sp.; Vigna mungo; Digera arvensis (weed)||phytophagous|hosts 4-14 of the table
+C09|Tarsonemus ananas|Ananas comosus (Pineapple)||phytophagous|
+C09|Petrobia (Tetranychina) hirti (Ewing)|Oxalis corniculata||phytophagous|printed 'hirti'
+C09|Petrobia (Petrobia) latens (Muller)|Fodder crop (unidentified)||phytophagous|
+C09|Aponychus corpuzae Rimando|Bambusa tulda||phytophagous|
+C09|Tetranychus sp.|Bambusa tulda; Zizyphus zuzuba; Dieffenbachia sp. (indoor potting)||phytophagous|
+C09|Eutetranychus maximae Nassar & Ghai|Zizyphus zuzuba||phytophagous|
+C09|Eutetranychus orientalis (Klein)|Tabernaemontana coronaria; Nerium oleander||phytophagous|
+C09|Oligonychus coffeae (Nietner)|Corchorus capsularis||phytophagous|
+C09|Oligonychus indicus (Hirst)|Saccharum officinarum; Oryza sativa (seedling, glasshouse)||phytophagous|
+C09|Schizotetranychus andropogoni (Hirst)|Saccharum officinarum||phytophagous|
+C09|Oligonychus mangiferus (Rahman & Sapra)|Mangifera indica (grafted seedlings); Rosa indica (potted plants, fruiting stage)||phytophagous|
+C09|Panonychus citri (McGregor)|Carica papaya (older leaves)||phytophagous|
+C09|Schizotetranychus cajani Gupta|Cajanus cajan||phytophagous|
+C09|Tetranychus fijiensis Hirst|Cocos nucifera||phytophagous|
+C09|Tetranychus cinnabarinus (Boisd.)|Lantana camara; Phaseolus aureus; Solanum melongena; Abelmoschus esculentus||phytophagous|four hosts bracketed against two species
+C09|Tetranychus neocaledonicus Andre|Lantana camara; Phaseolus aureus; Solanum melongena; Abelmoschus esculentus||phytophagous|four hosts bracketed against two species
+C09|Tetranychus ludeni Zacher|Dolichos lablab; Glycine max||phytophagous|
+C09|Raoiella indica Hirst|Cocos nucifera (older leaves); Areca catechu (moderately older leaves, unhealthy plantation)||phytophagous|
+C09|Dolichotetranychus floridanus (Banks)|Ananas comosus (leaf sheath portion)||phytophagous|
+C09|Brevipalpus phoenicis (Geijskes)|Aralia sp. (potted plants); Zinnia sp. (late flowering stage); Psidium guajava (old leaves); Nyctanthes arbor-tristis (leaves infested with rust); Citrus sp.||phytophagous|
+C09|Brevipalpus sp.|Jasminum sambac; Solanum melongena||phytophagous|
+C09|Brevipalpus californicus (Banks)|Lagerstroemia indica; Rosa indica; Murraya exotica; Bougainvillea spectabilis; Abelmoschus esculentus; Luffa acutangula; Momordica charantia; Dalbergia sissoo; Solanum melongena||phytophagous|
+# C10 Pusa Chapter II Table 12 (printed pp. 51-52): phytoseiids from Bihar; host, district (locality) and mite list printed separately
+C10|Amblyseius largoensis (Muma)|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Amblyseius coccineae Gupta|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Amblyseius pruni Gupta|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|printed 'purni'
+C10|Amblyseius finlandicus (Oud.)|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Amblyseius paraaerialis (Muma)|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Phytoseius intermedius Evans & Macfarlane|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Typhlodromus homalii Gupta|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Typhlodromus fleschneri Chant|Litchi chinensis|Samastipur (Pusa); Muzaffarpur (Dholi); Vaishali; Purnea; Motihari; Saharsa; Madhubani|predator|
+C10|Amblyseius sp.|Mangifera indica|Samastipur (Pusa); Muzaffarpur (Dholi); Patna|predator|
+C10|Amblyseius multidentatus (Swirski & Shechter)|Solanum melongena|Samastipur (Pusa)|predator|
+C10|Amblyseius tetranychivorus (Gupta)|Solanum melongena|Samastipur (Pusa)|predator|
+C10|Amblyseius tetranychivorus (Gupta)|Abelmoschus esculentus|Samastipur (Pusa)|predator|
+C10|Amblyseius multidentatus (Swirski & Shechter)|Abelmoschus esculentus|Samastipur (Pusa)|predator|
+C10|Phytoseius sp.|Abelmoschus esculentus|Samastipur (Pusa)|predator|printed 'Phytoseius spp.'
+C10|Amblyseius sp.|Citrus sp.|Samastipur (Pusa); Samastipur (Mahmada); Samastipur (Nemopur)|predator|
+C10|Amblyseius sp.|Lycopersicon esculentum|Muzaffarpur (Dholi); Samastipur (Pusa)|predator|
+C10|Phytoseius sp.|Lycopersicon esculentum|Muzaffarpur (Dholi); Samastipur (Pusa)|predator|
+C10|Phytoseiidae|Musa sp.; Carica papaya; Artocarpus heterophyllus; Eugenia sp.; Psidium guajava; Punica granatum; Bottle gourd; Cajanus cajan; Phaseolus vulgaris; Oryza sativa; Ricinus communis; Sesamum indicum|Samastipur (Pusa)|predator|printed 'not identified'; hosts 6-8 and 9-18 of the table, ditto marks for place
+# C11 Hisar Chapter II Tables 13-17 (printed pp. 54-58): the same Haryana 1990-91 collection as Table 8 (C07), aggregated by mite with specimen counts and host lists. Do not add to C07 counts. No localities.
+C11|Cheletacarus sp.|Mulberry|||Table 13 row 1; printed as new species I; 1 specimen
+C11|Cheletacarus sp.|Unidentified flower|||Table 13 row 2; printed as new species II; 1 specimen
+C11|Cheletogenes sp.|Mulberry|||Table 13 row 3; printed as nr. ornatus; 2 specimens
+C11|Cheletacarus sp.||||Table 13 row 4; printed as nr. gryphus; no host printed; 1 specimen
+C11|Chelonotus sp.|stored products|||Table 13 row 5; 1 specimen
+C11|Neoacaropsis sp.|stored products|||Table 13 row 6; printed as nr. granulatus; 1 specimen
+C11|Neoacaropsis sp.|stored wheat|||Table 13 row 7; printed as sp. nov.; 1 specimen
+C11|Acaropsis sollers|Gram|||Table 13 row 8; 2 specimens
+C11|Cheyletidae|stored products|||Table 13 row 9; printed as new genus between Eucheletopsis and Acaropsis; 1 specimen
+C11|Cheyletidae|Brinjal|||Table 13 row 10; undetermined; 1 specimen
+C11|Tetranychidae|Aru; Anjir; Ber; Brinjal; Bhindi; Cucurbits; Guava; Grapes; Lobia; Marigold; Orange; Rose; Tomato; Tori|||Table 14 row 1; 33 specimens
+C11|Tetranychus sp.|Anjir; Brinjal; Bhindi; Ber; Castor; Cucurbits; Citrus; Cauliflower; Lobia; Mirch; Chappal kadu; Marigold; Mulberry; Mousumi; Pumpkin; Tomato; Tori; Rose; Sem|||Table 14 row 2; 95 specimens
+C11|Tetranychus cinnabarinus (Boisd.)|Brinjal; Bhindi; Cucurbits; Tori; Pumpkin|||Table 14 row 3; 36 specimens
+C11|Tetranychus sp.|Brinjal; Sem|||Table 14 row 4; printed as nr. ludeni Zacher; 6 specimens
+C11|Tetranychus neocaledonicus Andre|Brinjal; Bhindi|||Table 14 row 5; 4 specimens
+C11|Eutetranychus sp.|Brinjal; Aru; Castor; Ber; Bhindi; Debdaru; Gheea; Mousumi; Marigold; Neem; Lemon; Lal ghas|||Table 14 row 6; 22 specimens
+C11|Eutetranychus orientalis (Klein)|Ber; Castor; Debdaru; Lemon; Neem; Mousumi|||Table 14 row 7; 8 specimens
+C11|Eutetranychus bredini Pritchard & Baker|Neem|||Table 14 row 8; 1 specimen
+C11|Eutetranychus africanus (Tucker)|Lemon|||Table 14 row 9; 1 specimen
+C11|Eutetranychus sp.|Orange|||Table 14 row 10; printed as nr. enodes (reading uncertain); 1 specimen
+C11|Oligonychus sp.|Brinjal; Grapes|||Table 14 row 11; 3 specimens
+C11|Eotetranychus sp.|Anjeer; Ber; Brinjal; Cauliflower|||Table 14 row 12; 10 specimens
+C11|Eotetranychus sp.|Ber|||Table 14 row 13; printed as nr. mandensis; 2 specimens
+C11|Schizotetranychus sp.|Brinjal; Tori|||Table 14 row 14; 2 specimens
+C11|Bryobia sp.|Lemon|||Table 14 row 15; 1 specimen
+C11|Tenuipalpidae|Anar; Bhindi; Ber; Guava; Chinarose; Leswa; Lemon; Mulberry; Marigold; Ornamental plants; Tecoma; Tomato; Mousumi|||Table 15 row 1; 35 specimens
+C11|Tenuipalpus sp.|Anar; Mehendi|||Table 15 row 2; 7 specimens
+C11|Tenuipalpus punjabensis (Maninder & Ghai)|Anar|||Table 15 row 3; 2 specimens
+C11|Brevipalpus sp.|Anar; Ber; Brinjal; Bhindi; Lemon; Falsa; Mousumi; Mirch; Tomato; Tecoma; Tori; Karela|||Table 15 row 4; 40 specimens
+C11|Brevipalpus californicus (Banks)|Brinjal; Lemon; Karela; Mousumi|||Table 15 row 5; 4 specimens
+C11|Brevipalpus deleoni Pritchard & Baker|Lemon; Grapes|||Table 15 row 6; 2 specimens
+C11|Brevipalpus euphorbiae Mohansundaram|Brinjal|||Table 15 row 7; 1 specimen
+C11|Brevipalpus obovatus Donnadieu|Citrus|||Table 15 row 8; 1 specimen
+C11|Brevipalpus phoenicis (Geijskes)|Ber|||Table 15 row 9; 2 specimens
+C11|Terminalichus serratus Nassar & Ghai|Citrus; Guava|||Table 15 row 10; 2 specimens
+C11|Bdellidae|Anar; Anjir; Brinjal; Lemon; Mousumi; Rose|||Table 16 row 1; 7 specimens
+C11|Pronematus sp.|Brinjal|||Table 16 row 2; 1 specimen
+C11|Cunaxa sp.|Brinjal; Sem|||Table 16 row 3; 2 specimens
+C11|Stigmaeidae|Brinjal; Bhindi; Mango; Sem|||Table 16 row 4; 18 specimens
+C11|Agistemus sp.|Brinjal; Lemon; Mango; Mousumi; Mirch; Sem; Tecoma; Rose|||Table 16 row 5; 38 specimens
+C11|Agistemus fleschneri Summers|Sem|||Table 16 row 6; 1 specimen
+C11|Sphaerolophus sp.|Tori|||Table 16 row 7; Erythraeidae; 1 specimen
+C11|Tarsonemus sp.|Anjir|||Table 16 row 8; 1 specimen
+C11|Acaridae|Brinjal|||Table 16 row 9; genus not printed; 1 specimen
+C11|Rhizoglyphus sp.|Marigold|||Table 16 row 10; 2 specimens
+C11|Acerus sp.|Ber|||Table 16 row 11; 1 specimen
+C11|Pyroglyphidae|Brinjal|||Table 16; undetermined; 1 specimen
+C11|Phytoseiidae|Anjeer; Aru; Arjun; Ber; Brinjal; Bhindi; Castor; Falsa; Guava; Gawar; Lemon; Leswa; Mulberry; Mirch; Marigold; Neem; Sem; Saras tree; Tori; Tecoma; Wild plants|||Table 17 row 1; 130 specimens
+C11|Amblyseius sp.|Ber; Brinjal; Falsa; Leswa; Mulberry|||Table 17 row 2; 6 specimens
+C11|Amblyseius alstoniae Gupta|Grapes; Mirach|||Table 17 row 3; 2 specimens
+C11|Amblyseius delhiensis (Narayanan & Kaur)|Ber; Lemon; Mousumi|||Table 17 row 4; 3 specimens
+C11|Amblyseius multidentatus (Swirski & Shechter)|Ladies finger|||Table 17 row 5; 1 specimen
+C11|Amblyseius neococcineae Gupta|Ladies finger|||Table 17 row 6; 1 specimen
+C11|Phytoseius indicus Bhattacharyya|Brinjal|||Table 17 row 7; 1 specimen
+C11|Phytoseius jujuba Gupta|Ber|||Table 17 row 8; 1 specimen
+C11|Phytoseius roseus Gupta|Anjeer; Ber; Mousumi|||Table 17 row 9; 4 specimens
+C11|Typhlodromus homalii Gupta|Arjun tree; Ber; Mango|||Table 17 row 10; 3 specimens

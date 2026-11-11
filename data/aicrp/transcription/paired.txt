@@ -250,3 +250,51 @@ C06|Maize|Khagaria|Oligonychus sp.||table row 1
 C06|Arhar|Khagaria|Tetranychus ludeni Zacher||table row 2
 C06|Chilli|Khagaria|Schizotetranychus sp.; Tetranychus cinnabarinus (Boisd.)||table row 3
 C06|Castor|Khagaria|Tetranychus sp.; Tenuipalpidae||table row 4; Tenuipalpidae printed as 'not identified'
+# C08 Bangalore Chapter II Table 9 (printed pp. 44-46): species, host, place of collection. Places in Andhra Pradesh are printed with '(A.P.)', the rest are Karnataka.
+C08|Remphal|Ananthapalle|Eutetranychus orientalis (Klein)||
+C08|Citrus sp.|Vijayanagaram|Eutetranychus orientalis (Klein)||printed 'Vijayanagaram (A.P.)'
+C08|Neem|Anakapalle|Eutetranychus orientalis (Klein)||
+C08|Neem|Pothnal|Eutetranychus orientalis (Klein)||
+C08|Polyalthea|Anakapalle|Eutetranychus orientalis (Klein)||
+C08|Papaya|Anakapalle|Eutetranychus orientalis (Klein)||
+C08|Bamboo|Bangalore|Stylophoronychus lalii Prasad||
+C08|Bamboo|Vishakapatnam|Oligonychus bambusae Mohansundaram||
+C08|Calopogonium|Anakapalle|Eotetranychus broodryi Meyer||epithet reading uncertain
+C08|Zizyphus|Sindhanur|Eotetranychus rajouriensis Nassar & Ghai||
+C08|Sugarcane|Anakapalle|Schizotetranychus andropogoni (Hirst)||
+C08|Neem|Tallapalem|Schizotetranychus hindustanicus (Hirst)||
+C08|Cotton|Chintamani|Tetranychus neocaledonicus Andre||
+C08|Weed|Ananthapalle|Tetranychus neocaledonicus Andre||
+C08|Brinjal|Hessarghatta|Tetranychus macfarlanei Baker & Pritchard||
+C08|Brinjal|Anakapalle|Tetranychus macfarlanei Baker & Pritchard||
+C08|Bhendi|Hessarghatta|Tetranychus macfarlanei Baker & Pritchard||
+C08|Bhendi|Makavarpalem|Tetranychus macfarlanei Baker & Pritchard||
+C08|Dolichos|Makavarpalem|Tetranychus macfarlanei Baker & Pritchard||
+C08|Tapioca|Tallapalem|Tetranychus macfarlanei Baker & Pritchard||
+C08|Cotton|Raichur|Tetranychus macfarlanei Baker & Pritchard||three cotton entries at Raichur (varieties printed in brackets, not legible)
+C08|Cotton|Jawalgere|Tetranychus macfarlanei Baker & Pritchard||
+C08|Cotton|Sindhanur|Tetranychus macfarlanei Baker & Pritchard||variety MCU 5
+C08|Woodrose|Anakapalle|Tetranychus macfarlanei Baker & Pritchard||
+C08|Mango|Anakapalle|Tetranychus fijiensis Hirst||printed 'fijinsis'
+C08|Euphorbiaceae plant|Ananthapalle|Tetranychus urticae Koch||
+C08|Banana|Tallapalem|Oligonychus indicus (Hirst)||
+C08|Coconut|Anakapalle|Oligonychus indicus (Hirst)||
+C08|Acacia auriculiformis|Vizianagaram|Oligonychus biharensis (Hirst)||
+C08|Dodonea viscosa|Vishakapatnam|Oligonychus biharensis (Hirst)||
+C08|Ficus sp.|Jog falls|Oligonychus biharensis (Hirst)||
+C08|Mango|Vishakapatnam|Oligonychus mangiferus (Rahman & Sapra)||
+C08|Hydrocarpus laurifolia|Jog falls|Tenuipalpus lalbaghensis Channabasavanna & Lakkundi||
+C08|Terminalia tomentosa|Ghati Subramanya|Terminalichus panajiensis Maninder & Ghai||
+C08|Coconut|Hebbal|Dolichotetranychus sp.||
+C08|Hibiscus sp.|Tirupathi|Obuloides rajmohani Baker & Tuttle||epithet reading uncertain
+C08|Cherry|Raichur|Polyphagotarsonemus latus (Banks)||
+C08|Chillies|Makavarapallem|Polyphagotarsonemus latus (Banks)||
+C08|Sugarcane|Mandya|Aceria sacchari Channabasavanna||
+C08|Sugarcane|Makali Durga|Aceria sacchari Channabasavanna||
+C08|Cotton|Jawalgare|Amblyseius longispinosus (Evans)||
+C08|Leucas aspera|Jog falls|Amblyseius longispinosus (Evans)||
+C08|Sesamum|Raichur|Amblyseius sp.||
+# C09 Kalyani Chapter II (printed pp. 40-43): Polyphagotarsonemus latus with localities for hosts 1-3
+C09|Corchorus olitorius (Jute)|Kalyani; Itachuna|Polyphagotarsonemus latus (Banks)||Itachuna is in Hooghly; host and place lists printed for one host
+C09|Gossypium sp. (Cotton)|Kalyani|Polyphagotarsonemus latus (Banks)||
+C09|Vigna sinensis (Cowpea)|Kalyani; Bhaluka; Harindanga|Polyphagotarsonemus latus (Banks)||three localities printed for one host

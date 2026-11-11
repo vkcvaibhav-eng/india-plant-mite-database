@@ -56,14 +56,15 @@ FAMILY_WORDS = {"phytoseiid": "Phytoseiidae", "tydeid": "Tydeidae", "tarsonemid"
 HIGHER = {"mesostigmata", "cryptostigmata", "astigmata"}
 GENUS_FAMILY = {}
 for fam, gens in {
-    "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella",
-    "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus",
+    "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella Stylophoronychus",
+    "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus Obuloides",
     "Tarsonemidae": "Polyphagotarsonemus Tarsonemus Stenotarsonemus Fungitarsonemus Lupotarsonemus",
     "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus",
     "Phytoseiidae": "Amblyseius Phytoseius Typhlodromus Indodromus Platyseiella",
     "Tuckerellidae": "Tuckerella", "Anystidae": "Anystis",
     "Tydeidae": "Pronematus Tydeus Lorryia", "Stigmaeidae": "Agistemus Mediolata", "Cunaxidae": "Cunaxa",
-    "Cheyletidae": "Cheletogenes Cheletominus Hemicheyletia Cheyletus Cheletomorpha Chelacaropsis", "Bdellidae": "Bdella",
+    "Cheyletidae": "Cheletogenes Cheletominus Hemicheyletia Cheyletus Cheletomorpha Chelacaropsis Cheletacarus Chelonotus Neoacaropsis Acaropsis",
+    "Erythraeidae": "Sphaerolophus", "Bdellidae": "Bdella",
     "Acaridae": "Acarus Tyrophagus Rhizoglyphus Suidasia Lardoglyphus", "Ascidae": "Lasioseius",
     "Hydrozetidae": "Hydrozetes", "Malaconothridae": "Trimalaconothrus", "Oribatulidae": "Scheloribates", "Liacaridae": "Liacarus",
     "Pygmephoridae": "Pygmephorus", "Glycyphagidae": "Austroglycyphagus Glycyphagus",
@@ -79,7 +80,9 @@ for st, places in {
     "Kerala": "Kottayam Calicut Palghat", "Tamil Nadu": "Coimbatore Sivagangai Trichy Bhavanisagar",
     "Karnataka": "Mangalore Dharwad Bangalore Hosakote",
     "Uttar Pradesh": "Varanasi Allahabad Azamgarh Jaunpur Ghazipur Lucknow Kanpur Ballia Pratapgarh Mirzapur",
-    "Bihar": "Madhubani Saharsa Khagaria",
+    "Bihar": "Madhubani Saharsa Khagaria Samastipur Muzaffarpur Vaishali Purnea Motihari Patna Dholi Pusa",
+    "Andhra Pradesh": "Ananthapalle Anakapalle Vijayanagaram Vizianagaram Vishakapatnam Tallapalem Makavarpalem Makavarapallem Tirupathi",
+    "West Bengal": "Kalyani Itachuna Bhaluka Harindanga",
 }.items():
     for p in re.split(r"[ |]", places.replace("|", "|")):
         pass
@@ -95,6 +98,9 @@ for st, places in {
 PLACE_STATE.update({"Fatehgarh Sahib": "Punjab", "Dehra Baba Nanak": "Punjab", "Dera Baba Nanak": "Punjab"})
 for bad in ("Fatehgarh", "Sahib", "Dehra", "Baba", "Nanak"):
     PLACE_STATE.pop(bad, None)
+PLACE_STATE.update({"Jog falls": "Karnataka", "Ghati Subramanya": "Karnataka", "Makali Durga": "Karnataka",
+                    "Pothnal": "Karnataka", "Raichur": "Karnataka", "Sindhanur": "Karnataka", "Chintamani": "Karnataka",
+                    "Hessarghatta": "Karnataka", "Jawalgere": "Karnataka", "Jawalgare": "Karnataka", "Mandya": "Karnataka", "Hebbal": "Karnataka"})
 AMBIGUOUS_PLACES = {"Sujanpur": "Sujanpur exists in Himachal Pradesh and in Punjab"}
 
 def split_authority(mite):
@@ -118,6 +124,8 @@ def classify(name):
     return n, "unresolved"
 
 def host_parts(h):
+    m = re.match(r"^([A-Z][a-z]+ (?:[a-z\-]+|sp\.))\s*\(([A-Z][a-z]+(?: [a-z]+)?)\)\s*$", h)   # Scientific name (Common name)
+    if m and not re.match(r"^[A-Z][a-z]+ [a-z]+$", m.group(2)): return m.group(2), m.group(1)
     if h.startswith("sci:"): return "", h[4:].strip()   # host printed as a scientific name
     m = re.match(r"^(.*?)\s*\(([A-Z][a-z]+ .*?)\)\s*$", h)
     if m: return m.group(1).strip(), m.group(2).strip()
@@ -130,11 +138,18 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):
     b = blocks[block_id]
+    stages = {}
+    clean = []
+    for h in hosts:   # lower-case bracket text after a host is a plant part or stage, kept in the remark
+        m = re.match(r"^(.*?)\s*\(([a-z][^()]*)\)\s*$", h)
+        if m and m.group(1): stages[m.group(1)] = m.group(2); clean.append(m.group(1))
+        else: clean.append(h)
+    hosts = clean
     for piece in re.split(r"\s+and\s+(?=[A-Z][a-z]+id\b)", mite) if " and " in mite and mite.lower().endswith(("bdellid", "bdellidae")) else [mite]:
         remark = ""
         if " ~ " in piece: piece, remark = [x.strip() for x in piece.split(" ~ ", 1)]
@@ -163,7 +178,7 @@ def add(block_id, mite, hosts, places, status, note, pairing, code=""):
                 "host_as_printed": h, "host_common": hc, "host_scientific": hs,
                 "place_as_printed": pl, "state": st, "state_basis": basis if pl else "centre_state",
                 "status": status, "occurrence_code": code, "pairing": how,
-                "remark": "; ".join(x for x in (remark, note, extra) if x),
+                "remark": "; ".join(x for x in (remark, note, extra, ("host: " + stages[h]) if h in stages else "") if x),
             })
 
 def semis(s): return [x.strip() for x in s.split(";") if x.strip()]

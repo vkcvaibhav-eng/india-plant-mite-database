@@ -1,10 +1,11 @@
 mite_name,family,rows,centres,ambiguous_join
-Amblyseius coccineae,Phytoseiidae,1,Kalyani,0
 Brevipalpus malviyai,Tenuipalpidae,2,Varanasi,0
 Eotetranychus andropogoni,Tetranychidae,17,Ludhiana,0
+Eotetranychus broodryi,Tetranychidae,1,Bangalore,0
 Eutetranychus annedkei,Tetranychidae,4,Varanasi,0
 Lupotarsonemus myceliophagus,Tarsonemidae,1,Varanasi,0
-Tarsonemus ananas,Tarsonemidae,1,Kalyani,0
+Obuloides rajmohani,Tenuipalpidae,1,Bangalore,0
+Tarsonemus ananas,Tarsonemidae,2,Kalyani,0
 Tarsonemus occidentalis,Tarsonemidae,2,Varanasi,0
 Tenuipalpus convolvulae,Tenuipalpidae,1,Coimbatore,0
 Tetranychus evansi,Tetranychidae,1,Hisar,0
