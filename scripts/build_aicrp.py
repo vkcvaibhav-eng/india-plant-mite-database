@@ -3,6 +3,7 @@
 Source reports (annual reports of the All India Coordinated Research Project on Agricultural Acarology):
   AICRP 1996-98  (survey chapter IV.1, printed pp. 185-212)
   AICRP 1992-94  (survey chapter III.1, printed pp. 40-62: Bangalore, Coimbatore, Navsari, Ludhiana, Varanasi, Pusa, Kalyani, pigeonpea sterility mosaic survey)
+  AICRP 1989     (Second Workshop, Hisar; survey tables and notes of Kalyani, Coimbatore, Ludhiana, Bangalore, Navsari, Varanasi)
   AICRP 1988     (First Workshop, 5-7 October 1988; survey tables of Bangalore, Coimbatore, Ludhiana, Hisar material, Pusa, Varanasi)
   AICRP 1990-91  (survey chapter I, printed pp. 9-39; Bangalore has localities only, Chapter II taxonomic study not yet transcribed)
 Each transcribed row keeps the text as printed apart from obvious OCR noise (flagged in 'note').
@@ -55,13 +56,14 @@ ABBREV = {
 }
 FAMILY_WORDS = {"phytoseiid": "Phytoseiidae", "tydeid": "Tydeidae", "tarsonemid": "Tarsonemidae", "tenuipalpid": "Tenuipalpidae",
                 "tetranychid": "Tetranychidae", "stigmaeid": "Stigmaeidae", "bdellid": "Bdellidae", "eriophyid": "Eriophyidae", "acarid": "Acaridae"}
-HIGHER = {"mesostigmata", "cryptostigmata", "astigmata"}
+HIGHER = {"mesostigmata", "cryptostigmata", "astigmata", "macroseiinae"}
 GENUS_FAMILY = {}
 for fam, gens in {
-    "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella Stylophoronychus",
-    "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus Obuloides",
+    "Tetranychidae": "Eonychus Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella Stylophoronychus",
+    "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus Obuloides Krugeria",
     "Tarsonemidae": "Polyphagotarsonemus Tarsonemus Stenotarsonemus Steneotarsonemus Fungitarsonemus Lupotarsonemus",
-    "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus Aculus Aculops Chiracus Diptilomiopus Ditrimacus Tegonotus Neocalaconus",
+    "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus Aculus Aculops Chiracus Diptilomiopus Ditrimacus Tegonotus Neocalaconus Acaphyllisa Anthocoptes Ashieldophyes Calepitrimerus Cheiracus Ditrymacus Floracarus Metaculus Neocalacarus Phyllocoptruta Rhombacus Tetra",
+    "Pyemotidae": "Pyemotes",
     "Phytoseiidae": "Amblyseius Phytoseius Typhlodromus Indodromus Platyseiella",
     "Tuckerellidae": "Tuckerella", "Anystidae": "Anystis",
     "Cunaxidae": "Cunaxa Neocunaxoides Dactyloscirus Pseudocunaxa Scirula", "Laelapidae": "Ololaelaps Pseudoparasitus Hypoaspis", "Galumnidae": "Galumna",
@@ -117,6 +119,17 @@ PLACE_STATE.update({
     "Sitamarhi": "Bihar", "Bhagalpur": "Bihar", "East Champaran": "Bihar", "Pusa Farm": "Bihar", "Dholi Farm": "Bihar",
     "Dang": "Gujarat", "Navsari": "Gujarat", "Plassey": "West Bengal", "Garhshankar": "Punjab",
 })
+PLACE_STATE.update({
+    **{w: "West Bengal" for w in ("Kalyani", "Madanpur", "Sonarpur", "Mondouri", "Bankura", "Halisahar", "Santipur", "Chakdah", "Bagnan", "Guptipara", "Burdwan", "Mohitnagar",
+                                  "Chinsura", "Chinsurah", "Barasat", "Barrackpur", "Coochbehar", "Baruipur", "Malda", "Murshidabad", "Debali", "Jhargram", "Krishnagar", "Mirik",
+                                  "Pedong", "Haringhata", "Midnapore", "Howrah", "Sonamukhi")},
+    "Puri": "Odisha", "Udala": "Odisha", "Chandikhal": "Odisha", "Mahimada": "Bihar",
+    "Dholakuan": "Himachal Pradesh", "Kulu": "Himachal Pradesh", "Malerkotla": "Punjab",
+    "Karnataka": "Karnataka", "GKVK, Bangalore": "Karnataka", "Botanical Gardens, GKVK, Bangalore": "Karnataka", "Mangalore": "Karnataka", "Mysore": "Karnataka",
+    "North Karnataka": "Karnataka", "Western Ghats of Karnataka": "Karnataka", "Hirehalli": "Karnataka", "Bangalore": "Karnataka",
+    "APAU, Hyderabad": "Telangana", "APAU campus, Hyderabad": "Telangana", "Kalyani Dam, Thirupathi": "Andhra Pradesh",
+    "Surat": "Gujarat", "Bharuch": "Gujarat", "Durgapura (Jaipur)": "Rajasthan", "Jobner": "Rajasthan",
+})
 AMBIGUOUS_PLACES = {"Sujanpur": "Sujanpur exists in Himachal Pradesh and in Punjab"}
 
 def split_authority(mite):
@@ -154,7 +167,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):

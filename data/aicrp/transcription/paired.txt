@@ -442,3 +442,60 @@ E09|Pigeonpea|Bidar|Aceria cajani||Bidar taluk fields; vector mites up to 14 per
 E09|Pigeonpea|Belgaum|Aceria cajani||Athani taluk fields; vector mites 0.11 to 14.4 per leaf; 1st week December 1993
 E09|Pigeonpea|Dharwad|Aceria cajani||Dharwad taluk villages; vector mites 0.4 to 4.5 per leaf; 1st week December 1993
 E09|Pigeonpea|GKVK, Bangalore|Aceria cajani||sown May to July; vector mites 0.4 to 0.5 per leaf, 9 to 10 per leaf in crop sown last week of June
+# F03 Ludhiana Table 1 (printed p. 90): mites recorded on various host plants, Abohar/Dholakuan/Malerkotla/Kulu, 1989; rows printed 'no infestation' are not carried; right edge of the scan is clipped so some names are completed from the visible stem; rows 17-19 have no place printed
+F03|sci:Cordia obliqua|Dholakuan|Amblyseius sp.; Terminalichus sp.; Brevipalpus sp.||collected 2.2.1989; genus printed Terminalicus
+F03|sci:Terminalia chebula|Dholakuan|Amblyseius sp.; Tenuipalpus sp.||collected 2.2.1989; two Amblyseius species (I and II) printed
+F03|sci:Shorea robusta|Dholakuan|Brevipalpus obovatus; Brevipalpus sp.||collected 2.2.1989
+F03|sci:Mallotus philippinensis|Dholakuan|Bryobia sp.; Macroseiinae||collected 2.2.1989
+F03|sci:Mangifera indica|Malerkotla|Oligonychus mangiferae||collected 2.4.1989; name clipped in the scan
+F03|sci:Vitis vinifera|Malerkotla|Oligonychus mangiferae||collected 2.4.1989; name clipped in the scan
+F03|sci:Psidium guajava|Malerkotla|Brevipalpus obovatus; Brevipalpus phoenicis||collected 2.4.1989
+F03|sci:Solanum nigrum|Kulu|Tenuipalpus sp.||collected 13.9.1989
+F03|sci:Actinidia chinensis|Kulu|Brevipalpus obovatus||collected 13.9.1989
+F03|sci:Vitis vinifera|Kulu|Oligonychus mangiferae||collected 13.9.1989; name clipped in the scan
+F03|sci:Solanum melongena|Kulu|Brevipalpus obovatus||collected 13.9.1989
+F03|sci:Ipomoea sp.|Kulu|Tenuipalpus sp.; Typhlodromus sp.||collected 13.9.1989
+F03|sci:Xanthium strumarium|Kulu|Typhlodromus sp.; Tetranychus cinnabarinus||collected 13.9.1989
+F03|sci:Amaranthus sp.||Amblyseius sp.||place and date not printed on this row
+F03|Plum||Tenuipalpus sp.||place and date not printed on this row
+# F04 Bangalore taxonomic notes (printed pp. 103-108): species with host and place where the text gives them; state of the centre is Karnataka and Andhra Pradesh, not split; collections of 1988-89
+F04|sci:Oxalis sp.|GKVK, Bangalore|Petrobia hartii (Ewing)||weed; all stages throughout the year
+F04|sci:Cassia fistula; sci:Morus alba; sci:Carica papaya; Parijath|Karnataka|Eutetranychus orientalis (Klein)||collected throughout Karnataka; peak in summer on cassia and papaya
+F04|Unidentified plant||Eutetranychus pantopus (Berlese)||printed as the first record
+F04|sci:Crallia bracteata|Mangalore|Panonychus citri (McGregor)||first record for South India as printed
+F04|sci:Morus alba||Eotetranychus suginamensis (Yokoyama)||collected November 1988; new host record as printed
+F04|sci:Cajanus cajan; sci:Pongamia pinnata||Eotetranychus broodryki Meyer||collected kharif 1988 in many tur growing regions of Karnataka and Andhra Pradesh; severe damage on a few tur plants
+F04|sci:Calotropis gigantea; sci:Holarrhena antidysenterica; sci:Pergularia daemia||Eotetranychus strychnosi Meyer||collected mostly on Asclepiadaceae in Karnataka and Andhra Pradesh
+F04|sci:Zyziphus oenoplia|APAU, Hyderabad|Eotetranychus rajouriensis Nessar and Ghai||
+F04|Ber (cultivated)|Navsari|Eotetranychus rajouriensis Nessar and Ghai||specimens sent from Navsari (Gujarat) on cultivated ber
+F04|Unidentified tree|Botanical Gardens, GKVK, Bangalore|Eotetranychus fremonti Tutle and Baker||population not heavy
+F04|Unidentified host|Mysore|Eonychus sp.||genus said to be a new record for India
+F04|Areca; Coconut; Sorghum; Maize||Oligonychus indicus (Hirst)||collected in Karnataka and Andhra Pradesh
+F04|sci:Setaria sp.|APAU campus, Hyderabad|Oligonychus oryzae (Hirst)||new host record as printed
+F04|sci:Grevillea robusta; sci:Dodonaea viscosa|Karnataka|Oligonychus biharensis (Hirst)||new host records; severe effect April-May 1989
+F04|sci:Syzigium cumini|North Karnataka|Oligonychus mangiferae (Rahman and Sapra)||leaves not severely damaged
+F04|sci:Parthenium hysterophorus||Tetranychus ludeni Zacher||first collection on this host as printed
+F04|Jasmine||Tetranychus cinnabarinus (Boisduval)||severe pest of jasmine as printed
+F04|Mulberry|Bangalore|Tetranychus sayedi (Baker and Pritchard)||November 1988; silk growing tracts around Bangalore; severe, with T. neocaledonicus
+F04|Mulberry|Bangalore|Tetranychus neocaledonicus Andre||severe damage to mulberry leaves along with T. sayedi
+F04|Papaya||Tetranychus neocaledonicus Andre||severe damage as printed
+F04|sci:Cassia tora||Tetranychus neocaledonicus Andre||addition to host list as printed
+F04|Soybean||Tetranychus macfarlanei (Baker and Pritchard)||February 1989; with T. urticae in equal numbers, severe damage
+F04|sci:Sechium edule||Tetranychus macfarlanei (Baker and Pritchard)||chow-chow; April-May 1989
+F04|Soybean||Tetranychus urticae Koch||with T. macfarlanei
+F04|Areca|=Western Ghats of Karnataka; Hirehalli|Tetranychus fijiensis Hirst||Hirehalli in South Karnataka
+F04|Monocot||Tenuipalpus sp.||probably new species as printed
+F04|sci:Grewia orbiculata|Kalyani Dam, Thirupathi|Krugeria ramosa Meyer||first record of the genus outside Africa as printed
+F04|sci:Punica granatum|Bangalore|Brevipalpus punicae||near Bangalore; young leaves severely damaged
+F04|Areca; Coconut|Chitradurga|Raoiella indica Hirst||5 year old areca garden severely affected
+# F06 Navsari survey results (printed pp. 153-158, 164): two-year seasonal surveys of pigeonpea (Surat, Bharuch), sorghum and cotton (Surat) and the sterility mosaic vector; the mite named in the population tables is recorded here as present at the place
+F06|Pigeonpea|=Surat; Bharuch|Eotetranychus broodryki Meyer||Surat population peaked at harvest; Bharuch population much higher
+F06|Pigeonpea|=Surat; Bharuch|Tetranychus macfarlanei||encountered at both locations
+F06|Pigeonpea|=Surat; Bharuch|Amblyseius sp.||predatory mite at both locations
+F06|Sorghum|Surat|Oligonychus indicus||Sorghum Research Station; abbreviated as O. in the text, species read from the figure label
+F06|Cotton|Surat|Tetranychus cinnabarinus||Cotton Research Station; printed as T. (telarius) cinnabarinus
+F06|Cotton|Surat|Tetranychus macfarlanei||Cotton Research Station
+F06|Cotton|Surat|Phytoseiidae||predatory mites more numerous than phytophagous mites
+F06|Pigeonpea|Navsari|Aceria cajani Channabasavanna||sterility mosaic vector; staggered sowing, Feb to April
+# F07 Varanasi (printed p. 5): tentative survey in March 1989 of reported outbreaks in Rajasthan
+F07|Wheat; Coriander|=Durgapura (Jaipur); Jobner|Petrobia latens||plants badly infested, March 1989; barley named in the outbreak reports

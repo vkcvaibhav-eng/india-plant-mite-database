@@ -543,3 +543,94 @@ E08|Cheyletus eruditus||||species list, no host or locality
 E08|Rhizoglyphus echinopus||||species list, no host or locality
 E08|Tyrophagus putrescentiae||||species list, no host or locality
 E08|Glycyphagus sp.||||species list, no host or locality
+# F02 Coimbatore (printed pp. 23-25): mites collected in Tamil Nadu and Kerala, listed with host and no locality; family sections a Eriophyidae, b Tetranychidae, c Tenuipalpidae
+F02|Cisaberoptus kenyae Keifer|sci:Mangifera indica||phytophagous|
+F02|Aceria commiphorae Mohanasundaram|sci:Commiphora canadata||phytophagous|
+F02|Aceria cymbopogonis Mohanasundaram|sci:Cymbopogon martini||phytophagous|
+F02|Tegonotus convolvuli Channabasavanna|sci:Ipomoea sp.||phytophagous|
+F02|Aceria sp.|Unidentified weed||phytophagous|
+F02|Tetra sp.|sci:Pithacolobium dulse||phytophagous|
+F02|Aceria mangiferae Sayed|sci:Mangifera indica||phytophagous|
+F02|Metaculus mangiferae|sci:Mangifera indica||phytophagous|
+F02|Aceria cajani Channabasavanna|sci:Cajanus cajan||phytophagous|
+F02|Aceria jasmini Channabasavanna|sci:Jasminum pubescens||phytophagous|
+F02|Cheiracus sulcatus Keifer|sci:Oryza sativa||phytophagous|
+F02|Phyllocoptruta oleivora Ashmead|sci:Citrus spp.||phytophagous|
+F02|Ashieldophyes pennadamensis Mohanasundaram|Weed||phytophagous|
+F02|Calepitrimerus azadirachtae Channabasavanna|sci:Azadirachta indica||phytophagous|
+F02|Calacarus jawrimovici Keifer|sci:Capsicum annuum||phytophagous|
+F02|Aceria jasmini Channabasavanna|sci:Jasminum sambac||phytophagous|
+F02|Tegonotus convolvuli Channabasavanna|sci:Ipomoea palmata||phytophagous|
+F02|Diptilomiopus alangii Mohanasundaram|sci:Alangium salvifolium||phytophagous|
+F02|Floracarus siruvaniensis Mohanasundaram|sci:Dolichos lablab||phytophagous|
+F02|Calacarus citrifolii Keifer|sci:Annona squamosa||phytophagous|
+F02|Acaphylla theae Watt|sci:Thea sinensis||phytophagous|
+F02|Acaphyllisa parindiae Keifer|sci:Thea sinensis||phytophagous|
+F02|Aculus menoni Channabasavanna|sci:Moringa pterygosperma||phytophagous|
+F02|Aceria barleriae Channabasavanna|sci:Barleria sp.||phytophagous|
+F02|Calacarus jasmini|sci:Jasminum sp.||phytophagous|
+F02|Calacarus carinatus Keifer|sci:Thea sinensis||phytophagous|
+F02|Phyllocoptruta oleivora Ashmead|sci:Citrus jumberi||phytophagous|
+F02|Metaculus mangiferae Attiah|Mango shoot||phytophagous|
+F02|Aceria sp.|sci:Cynodon dactylon||phytophagous|
+F02|Aceria sacchari Channabasavanna|sci:Saccharum officinarum||phytophagous|
+F02|Aceria punicae Channabasavanna|sci:Punica granatum||phytophagous|
+F02|Aceria gastrotrichus Channabasavanna|sci:Ipomoea staphylina||phytophagous|
+F02|Eriophyes morindae Mohanasundaram|sci:Morinda tinctoria||phytophagous|
+F02|Eriophyes ailanthes Mohanasundaram|sci:Ailanthes excelsa||phytophagous|
+F02|Acalitus gossypii (Massey)|sci:Gossypium arboreum||phytophagous|
+F02|Phyllocoptruta musae Keifer|sci:Musa sapientum||phytophagous|
+F02|Aceria mori Keifer|sci:Morus alba (buds)||phytophagous|
+F02|Aceria puttarudriahi Channabasavanna|sci:Gossypium sp.||phytophagous|
+F02|Anthocoptes bambusovagrans sp. nov.|sci:Bambusa sp.||phytophagous|
+F02|Rhombacus morrisi Keifer|sci:Eucalyptus tereticornis||phytophagous|
+F02|Neocalacarus mangiferae Channabasavanna|sci:Mangifera indica||phytophagous|
+F02|Ditrymacus integrifoliae Mohanasundaram|sci:Artocarpus integrifolia||phytophagous|
+F02|Diptilomiopus artocarpae Mohanasundaram|Jack||phytophagous|
+F02|Tetranychus sp.|sci:Murraya koenigi||phytophagous|
+F02|Eutetranychus sp.|sci:Calotropis gigantia||phytophagous|
+F02|Tetranychus cinnabarinus|sci:Jasminum sambac||phytophagous|
+F02|Panonychus sp.|Unidentified weed||phytophagous|
+F02|Oligonychus sp.|Wheat||phytophagous|
+F02|Tetranychus cinnabarinus|West Indian Cherry||phytophagous|
+F02|Eutetranychus orientalis|sci:Glyricidia orientalis||phytophagous|
+F02|Schizotetranychus cajani|sci:Cajanus cajan||phytophagous|
+F02|Tetranychus ludeni|Bhendi||phytophagous|
+F02|Eutetranychus orientalis|sci:Eichorinia sp.||phytophagous|
+F02|Tetranychus sp.|sci:Ailanthes excelsa||phytophagous|
+F02|Tetranychus cinnabarinus|sci:Ricinus communis||phytophagous|
+F02|Tetranychus sp.|sci:Cajanus cajan||phytophagous|
+F02|Tetranychus sp.|sci:Santalum album||phytophagous|
+F02|Tetranychus sp.|sci:Psidium guajava||phytophagous|
+F02|Dolichotetranychus sp.|sci:Cocos nucifera||phytophagous|
+F02|Raoiella indica Hirst|sci:Cocos nucifera||phytophagous|
+F02|Tenuipalpus sp.|Clove||phytophagous|
+F02|Brevipalpus phoenicis Geijskes|Guava; Citrus||phytophagous|
+F02|Brevipalpus spp.|||phytophagous|printed 'on a variety of hosts'
+F02|Dolichotetranychus palmivora sp. nov.|Coconut||phytophagous|
+F02|Brevipalpus sp.|sci:Tectona grandis||phytophagous|
+F02|Tenuipalpus sp.|Malvaceous weed||phytophagous|
+F02|Terminalichus sp.|Guava||phytophagous|
+F02|Obuloides rajmohani|Malvaceous weed||phytophagous|
+# F05 Navsari Table 1 (printed pp. 139-140): host plants and mite species index; hosts listed per mite, no localities (Gujarat); Table 2 (mites on insects) is not carried
+F05|Tetranychus sp.|Casia; Banyan tree; Gundar; Mango; Datepalm; Lemon; Maize; Ber; Kadhi limbdi; Bajara; Pomagranate; Pointed gourd; Cashewnut; Jamun; Eucaliptus; Krishnafal; Pionir grass; Nari (water plant); Acalypha; Okra; Indian bean|||
+F05|Tetranychus cinnabarinus (Boisduval)|Soyabean; Okra; Brinjal; Mulberry; Indian bean; Turmeric; Mung; Pigeon pea; Kanski (weed); Barmasi; Naffatia; Cowpea; Little gourd; Sorghum; Bottle gourd|||
+F05|Tetranychus macfarlanei (Baker & Pritchard)|Redgram; Okra|||
+F05|Eutetranychus orientalis (Klein)|Lemon; Neem|||
+F05|Eotetranychus broodryki (Meyer)|Red gram|||
+F05|Eotetranychus rajouriensis (Nassar & Bhai)|Ber|||
+F05|Oligonychus sp.|Sugarcane; Sorghum; Johnsongrass; Coconut|||
+F05|Oligonychus biharensis (Hirst)|Cacoa|||
+F05|Oligonychus indicus (Hirst)|Sorghum; Jhonsongrass|||
+F05|Panonychus sp.|Baniyan tree|||
+F05|Petrobia sp.|Karen (ornamental plant)|||
+F05|Raoiella indica (Hirst)|Coconut; Datepalm; Arecanut; Datura; Banana; Kena (ornamental plant)|||
+F05|Raoiella macfarlanei (Pritchard & Baker)|Jamun|||
+F05|Brevipalpus phoenicis (Geij)|Guava; Pointed gourd|||
+F05|Brevipalpus sp.|Croton; Pigeonpea; Ber; Safed jamun; Tagod wild plant|||
+F05|Calepitrimerus azadirachtae (Channabasavanna)|Neem|||
+F05|Cisaberoptus kenyae (Keifer)|Mango|||
+F05|Aceria cajani (Channabasavanna)|Tur|||
+F05|Polyphagotarsonemus latus (Banks)|Cowpea|||
+F05|Pyemotes sp.|Neem|||
+F05|Rhizoglyphus sp.|Neem|||

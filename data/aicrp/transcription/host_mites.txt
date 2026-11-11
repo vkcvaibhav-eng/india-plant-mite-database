@@ -319,3 +319,55 @@ E05|Bhindi (Abelmoschus esculentus)|Varanasi|Tetranychus cinnabarinus ~ printed:
 E05|Sponge gourd|Varanasi|Schizotetranychus sp. ~ printed: highly infested the lower surface of the leaf; Amblyseius sp.|
 E05|Lasora|Varanasi|Amblyseius finlandicus ~ printed: recorded as an efficient predator; Aceria cordiae ~ printed: causes leaf gall; Cheletogenes sp.|host name partly illegible in the scan, read as Lasora (Cordia) from Aceria cordiae
 E05|Litchi (Litchi chinensis L.)|Varanasi; Lucknow|Aceria litchii Keifer ~ printed: recorded for the first time in U.P.|
+# F01 Kalyani survey table (printed pp. 47-51): 57 hosts with survey places, dates, crop state and mites; hosts printed as common names; rows with no mite printed (onion, cabbage, cauliflower, squash, mustard, groundnut) are not carried; the crop state and the survey dates go in the remark
+F01|Paddy|Kalyani; Madanpur|Oligonychus indicus|survey April, May 1989; 2-3 months old, healthy
+F01|Wheat|Kalyani; Mahimada; Sonarpur|Petrobia latens; Oligonychus sp.; Erythraeidae|survey Dec. 1988, March 1989; mature, healthy; family printed as Erythridae
+F01|Barley|Mondouri; Bankura|Oligonychus oryzae|survey March 1989; mature, healthy
+F01|Maize|Kalyani; Halisahar; Puri|Tetranychus sp.|survey April 1989; mature, healthy
+F01|Brinjal|Kalyani; Santipur; Mondouri; Chakdah; Udala|Tetranychus cinnabarinus; Brevipalpus californicus; Polyphagotarsonemus latus; Amblyseius multidentatus; Cunaxa setirostris|survey Feb., March, April 1989; mature, healthy
+F01|Potato|Kalyani; Bagnan|Polyphagotarsonemus latus|survey Jan. 1989; mature
+F01|Bhindi|Kalyani; Mondouri; Guptipara; Santipur|Tetranychus cinnabarinus; Amblyseius fallacis|survey July 1989; mature and healthy
+F01|Tomato|Kalyani; Burdwan; Mohitnagar|Tetranychus cinnabarinus|survey April 1989; mature and healthy
+F01|Radish|Kalyani|Amblyseius sp.|survey March 1989; mature and healthy
+F01|Chilli|Kalyani; Chinsura; Chandikhal|Polyphagotarsonemus latus|survey June 1989; mature and healthy
+F01|Cucurbit|Madanpur; Chinsura|Tetranychus neocaledonicus|survey May 1989; 2 months old
+F01|French bean|Kalyani; Mondouri|Tetranychus sp.|survey March 1989; mature
+F01|Pointed gourd|Barasat|Tetranychus sp.|survey Nov. 1988; healthy
+F01|Jute|Kalyani; Madanpur; Chinsurah; Barrackpur; Coochbehar|Polyphagotarsonemus latus; Oligonychus coffeae; Eotetranychus sp.; Amblyseius (Euseius) ovalis|survey July 1989; mature and healthy
+F01|Cotton|Kalyani|Tetranychidae; Tarsonemidae|survey Nov. 1989 as printed; 7 months old, healthy
+F01|Mango|Baruipur; Kalyani; Malda; Murshidabad; Chinsura|Eriophyes mangiferae; Tetranychus neocaledonicus; Eutetranychus sp.; Amblyseius (Paraphytoseius) multidentatus; Bdella sp.; Agistemus sp.; Cunaxa setirostris; Typhlodromus homalii; Amblyseius largoensis; Cheletogenes ornatus|survey Aug. 1989, June 1989, March 1989; 3-4 years old and 8-10 years old, healthy; Murshidabad printed as Mushidabad
+F01|Sugarcane|Kalyani; Santipur; Sonamukhi|Schizotetranychus sp.|survey March 1989; mature, healthy
+F01|Papaya|Kalyani; Mondouri; Baruipur; Debali|Panonychus citri; Tetranychus sp.|survey April, Aug. 1989; 1-3 years old
+F01|Ber|Kalyani; Halisahar|Eutetranychus maximae|survey June 1989; 1-4 years old, healthy
+F01|Litchi|Baruipur; Kalyani; Murshidabad|Aceria litchi; Acaphylla sp.; Agistemus sp.; Amblyseius largoensis; Amblyseius syzygii; Amblyseius herbiculous; Amblyseius homalii|survey Aug., March 1989; 6-9 years old, healthy
+F01|Cashewnut|Kalyani; Jhargram|Cheyletidae|survey March, April 1989; 4-6 years old, healthy
+F01|Plum|Santipur|Tetranychidae|survey March 1989; mature, not so healthy
+F01|Guava|Kalyani; Baruipur|Brevipalpus phoenicis; Phytoseius (Phytoseius) sp.; Pronematus sp.; Agistemus fleschneri; Amblyseius largoensis|survey April 1989; 4-6 years old, healthy
+F01|Citrus|Kalyani; Jhargram; Mondouri; Krishnagar; Mirik|Brevipalpus sp.|survey May 1989; 4-5 years old, healthy
+F01|Pine apple|Kalyani; Mohitnagar; Barasat|Dolichotetranychus floridanus; Rhizoglyphus sp.; Neocunaxoides sp.|survey July 1989; near harvesting, healthy
+F01|Coconut|Kalyani; Halisahar; Mondouri; Chinsurah|Tetranychus fijiensis|survey May, July 1989; 6-10 years old, healthy
+F01|Reri|Kalyani; Murshidabad; Haringhata|Tetranychus sp.; Amblyseius (Euseius) pruni|survey May, Aug. 1989; healthy
+F01|Soyabean|Mondouri|Tetranychus sp.|survey May 1989; healthy
+F01|Dahlia|Kalyani; Halisahar|Tetranychus cinnabarinus|survey April 1989; later stage of growth
+F01|Rose|Kalyani; Halisahar|Tetranychus cinnabarinus; Brevipalpus phoenicis|survey April 1989; mature; places and first mite given by ditto marks
+F01|Marigold|Kalyani; Midnapore; Howrah|Tetranychus cinnabarinus; Brevipalpus californicus|survey March 1989; mature
+F01|Zinnia|Kalyani|Brevipalpus phoenicis|survey May 1989; later stage of growth
+F01|Phlox|Kalyani; Mondouri|Tetranychus sp.|survey April 1989; later stage of growth
+F01|Salvia|Kalyani; Haringhata|Amblyseius ovallis|survey April 1989; later stage of growth
+F01|Hollyhock|Kalyani; Haringhata|Amblyseius (Neoseiulus) longispinosus|survey April 1989; later stage of growth; places given by ditto marks
+F01|Kanchan|Kalyani|Amblyseius (Euseius) pruni; Agistemus sp.|survey May 1989; 2-3 years old
+F01|Acalypha|Kalyani|Brevipalpus sp.|survey June 1989; 2-4 years old
+F01|Arid Orchid (epiphytic)|Kalyani; Pedong|Tetranychus sp.; Neocunaxoides sp.; Mesostigmata|survey Aug. 1989; damaged; printed as mesostigmatic mite
+F01|Tabernaemontana|Kalyani|Eutetranychus orientalis|survey Aug. 1989; 3-4 years old; printed Toberne-montana
+F01|Fanpalm|Kalyani|Tetranychus neocaledonicus|survey July 1989; 2 years old
+F01|Chrysanthemum|Kalyani|Brevipalpus phoenicis; Brevipalpus obovatus|survey April 1989; mature
+F01|Irisine (hedge plant)|Kalyani|Tetranychus cinnabarinus|survey July, Aug. 1989; mature
+F01|Stored rice|Kalyani|Cheyletus eruditus|survey June 1989; F.C.I. Godown; partially broken rice
+F01|Prawn (dried)|Kalyani|Cheyletus eruditus|survey June 1989
+F01|Stored Arum|Kalyani|Cunaxa sp.|survey June 1989; Kalyani Horticulture Store; partially damaged
+F01|Stored groundnut|Kalyani|Hypoaspis vacua; Tyrophagus putrescentiae|survey June 1989; Department of Agronomy store; partially damaged; mite printed Tryophagus putricentiae
+F01|Lantana camara|Kalyani; Madanpur|Brevipalpus sp.; Agistemus fleschneri|survey May 1989; mature
+F01|Oxalis|Kalyani; Haringhata|Petrobia (Tetranychina) hirti|survey July, Aug. 1989; damaged
+F01|Paragrass|Mondouri|Oligonychus sp.|survey May 1989; healthy
+F01|Cassia sofera|Kalyani|Amblyseius (Euseius) alstoniae|survey May 1989; healthy
+F01|Bamboo|Kalyani|Aponychus corpuzae; Pronematus sp.; Phytoseius meyerae|survey June 1989; 3-4 year old plantation
