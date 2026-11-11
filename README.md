@@ -125,15 +125,15 @@ Combined AICRP layers: 3,833 observation rows, 347 species x state pairs, 191 of
 
 ### Layer 8: AICRP Progress Report 2020-21 (XVII Group Meeting, survey chapter III.1)
 
-The first of the modern reports. Kalyani's tables for West Bengal and Bihar make up most of the rows (species, host habitat and districts), with Navsari's table for South Gujarat, Ludhiana's surveillance table, Jorhat's list for Assam and Thrissur's table of spider mites in Kerala. Bangalore, Coimbatore and Mashobra give counts or experiments only. Notes are in `data/aicrp/transcription/NOTES_2020-21.md`. The big tables were read from the text layer with `scripts/tools/layout_table.py` and checked by eye.
+The first of the modern reports. Kalyani's tables for West Bengal and Bihar make up most of the rows (species, host habitat and districts), with Navsari's table for South Gujarat, Ludhiana's surveillance table, Jorhat's list for Assam and Thrissur's table of spider mites in Kerala. Mashobra's Table 157 gives European red mite, two-spotted mite and flat mites by host and locality across Himachal Pradesh. Bangalore and Coimbatore give counts only. Notes are in `data/aicrp/transcription/NOTES_2020-21.md`. The big tables were read from the text layer with `scripts/tools/layout_table.py` and checked by eye.
 
 | Measure | Value |
 | --- | ---: |
-| Observation rows | 1,867 |
+| Observation rows | 1,978 |
 | Distinct mite species names | 88 |
-| Distinct host names | 383 |
+| Distinct host names | 405 |
 
-Combined AICRP layers: 5,700 observation rows, 441 species x state pairs, 251 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 5,811 observation rows, 441 species x state pairs, 251 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 9: AICRP Progress Report 2021-22 (XVIII Group Meeting, survey chapter III.1)
 
@@ -145,7 +145,7 @@ Smaller than the previous year: Coimbatore's place, host and mite table, Ludhian
 | Distinct mite species names | 31 |
 | Distinct host names | 114 |
 
-Combined AICRP layers: 6,017 observation rows, 454 species x state pairs, 262 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,128 observation rows, 454 species x state pairs, 262 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 10: AICRP Progress Report 2024-25 (XXI Group Meeting, chapter on diversity of plant-associated mites)
 
@@ -157,7 +157,7 @@ The most recent report in the set. Seven centres give species and host tables: B
 | Distinct mite species names | 122 |
 | Distinct host names | 197 |
 
-Combined AICRP layers: 6,774 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,885 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer.
 
 
 

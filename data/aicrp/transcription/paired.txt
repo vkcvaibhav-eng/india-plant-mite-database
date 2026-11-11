@@ -918,3 +918,102 @@ I05|Harad|Jachh|Tenuipalpidae||Table 135; August; flat red mite
 I05|Tulsi|Jachh|Tenuipalpidae||Table 135; August; flat red mite
 I05|Mushki Kapoor|Jachh|Tenuipalpidae||Table 135; August; flat red mite
 I05|Arjun|Jachh|Tenuipalpidae||Table 135; August; flat red mite
+# H08: Mashobra, Table 157, status of mites in Himachal Pradesh (April 2020-March 2021). Same conventions as block I05 (2021-22).
+H08|Apple|Summerkot|Panonychus ulmi||July, September
+H08|Apple|Chirgaon|Panonychus ulmi||July, August
+H08|Apple|Braslee|Panonychus ulmi; Tetranychus urticae||August
+H08|Apple|Dhalli|Panonychus ulmi||July; printed Dhalli, Shimla
+H08|Apple|Kufri|Panonychus ulmi||June; printed Dak Bangla, Kufri
+H08|Oregano|Panthaghatti|Tenuipalpidae||September; printed Oregan; flat red mite; Panthaghatti, Shimla
+H08|Basil|Panthaghatti|Tenuipalpidae||September; flat red mite
+H08|Apple|Mashobra|Panonychus ulmi||July
+H08|Pear|Mashobra|Panonychus ulmi||July, October
+H08|Raspberry|Mashobra|Tetranychus urticae||July
+H08|Peach|Mashobra|Tetranychus urticae||September
+H08|Tomato|Mashobra|Tetranychus urticae||September
+H08|Capsicum|Mashobra|Tetranychus urticae||September
+H08|Carnation|Mashobra|Tetranychus urticae||September
+H08|Primrose|Mashobra|Tetranychus urticae||February
+H08|Cyclamen|Mashobra|Tetranychus urticae||February; printed Cyclaman
+H08|Plum|NBPGR Phagali|Tetranychus urticae||August; NBPGR, Phagali, Shimla
+H08|Hill lemon|NBPGR Phagali|Tenuipalpidae||August; flat red mite
+H08|Peach|NBPGR Phagali|Tetranychus urticae||August
+H08|Bean|NBPGR Phagali|Tetranychus urticae||August
+H08|Brinjal|NBPGR Phagali|Tetranychus urticae||August
+H08|Kafal|NBPGR Phagali|Tenuipalpidae||August; flat mite
+H08|Apricot|Junga|Tetranychus urticae||October
+H08|Brinjal|Junga|Tetranychus urticae||October
+H08|Apple|Cheog|Panonychus ulmi||June
+H08|Apple|Matiana|Panonychus ulmi||July
+H08|Apple|Chhaila|Tetranychus urticae||September
+H08|Apple|Sandhu|Tetranychus urticae||September; Theog tehsil
+H08|Apple|Paraunthi|Panonychus ulmi||June, July
+H08|Apple|Khara Pathar|Tetranychus urticae||August
+H08|Apple|Ratnari|Panonychus ulmi||July
+H08|Apple|Kokunala|Panonychus ulmi; Tetranychus urticae||July (ERM), August (ERM and TSM)
+H08|Bean|Kokunala|Tetranychus urticae||August
+H08|Apple|Kalbog|Panonychus ulmi||August
+H08|Apple|Thana|Panonychus ulmi; Tetranychus urticae||August; Kotkhai tehsil
+H08|Apple|Madyog|Panonychus ulmi||July
+H08|Apple|Nerwa|Panonychus ulmi; Tetranychus urticae||August
+H08|Prune|Kotgarh|Tetranychus urticae||June
+H08|Apple|Kotgarh|Tetranychus urticae||June
+H08|Persimmon|Kotgarh|Tetranychus urticae||June
+H08|Plum|Kotgarh|Tetranychus urticae||June
+H08|Apple|Narkanda|Panonychus ulmi||July
+H08|Apple|Nankhari|Panonychus ulmi||July
+H08|Apple|Khakrola|Tetranychus urticae||June
+H08|Bean|Khakrola|Tetranychus urticae||June
+H08|Apple|Rampur|Panonychus ulmi||July; Rampur tehsil, Shimla district
+H08|Brinjal|Gumma|Tetranychus urticae||September
+H08|Carnation|Gumma|Tetranychus urticae||September
+H08|Brinjal|Madhorghat|Tetranychus urticae||December
+H08|Hill lemon|Madhorghat|Tenuipalpidae||December; flat red mite
+H08|Guava|Madhorghat|Tenuipalpidae||December; flat red mite
+H08|Apple|Reekong Peo|Panonychus ulmi||October
+H08|Apple|Kalpa|Panonychus ulmi; Tetranychus urticae||October
+H08|Apple|Sangla|Panonychus ulmi||October
+H08|Apple|Kafnu|Panonychus ulmi; Tetranychus urticae||October
+H08|Apple|Nagar|Panonychus ulmi||July; Kullu district
+H08|Apple|Katrain|Panonychus ulmi; Tetranychus urticae||Kullu district
+H08|Apple|Bajaura|Panonychus ulmi||Kullu district
+H08|Apple|Sundar Nagar|Tetranychus urticae||August
+H08|Papaya|Sundar Nagar|Tetranychus urticae||August
+H08|Loquat|Sundar Nagar|Tenuipalpidae||August; flat red mite
+H08|Apple|Kandaghat|Panonychus ulmi||July
+H08|Lemon|Sultanpur|Tenuipalpidae||December; flat red mite; Solan tehsil
+H08|Peach|Sultanpur|Tetranychus urticae||December
+H08|Mustard|Sultanpur|Tetranychus urticae||December
+H08|Pomegranate|Neri|Tenuipalpidae||December; flat red mite; Hamirpur district
+H08|Plum|Neri|Tetranychus urticae||December
+H08|Hill lemon|Jaach|Tenuipalpidae||July, September; flat red mite
+H08|Orange|Jaach|Tenuipalpidae||July; flat red mite
+H08|Brinjal|Jaach|Tetranychus urticae||August
+H08|Lemon|Jaach|Tenuipalpidae||August; flat red mite
+H08|Harad|Jaach|Tetranychus urticae||August
+H08|Apple|Jaach|Tenuipalpidae; Tetranychus urticae||September
+H08|Peach|Jaach|Tenuipalpidae; Tetranychus urticae||September
+H08|Plum|Jaach|Tetranychus urticae||September
+H08|Pomegranate|Jaach|Tenuipalpidae||September; flat red mite
+H08|Buel|Jaach|Tetranychus urticae; Tenuipalpidae||September
+H08|Reetha|Jaach|Tenuipalpidae||November; flat red mite
+H08|Behra|Sakri|Tenuipalpidae||September; flat red mite; Fatehpur tehsil, Kangra
+H08|Harad|Sakri|Tenuipalpidae||September; flat red mite
+H08|Loquat|Sakri|Tenuipalpidae||September; flat red mite
+H08|Kari patta|Sakri|Tenuipalpidae||September; flat red mite
+H08|Hill lemon|Sakri|Tetranychus urticae; Tenuipalpidae||September; TSM and flat mite
+H08|Pear|Sakri|Tenuipalpidae||September; flat red mite
+H08|Apple|Indora|Tenuipalpidae||March; flat red mite
+H08|Loquat|Indora|Tenuipalpidae||March; flat red mite
+H08|Chakotra|Indora|Tenuipalpidae||March; flat red mite
+H08|Chikoo|Indora|Tenuipalpidae||March; flat mite
+H08|Buel|Indora|Tetranychus urticae||March
+H08|Reetha|Indora|Tetranychus urticae||March
+H08|Brinjal|Indora|Tetranychus urticae||March
+H08|Marigold|Indora|Tetranychus urticae||March
+H08|Rose|Indora|Tetranychus urticae||March
+H08|Dahlia|Indora|Tetranychus urticae||March
+H08|Chrysanthemum|Indora|Tenuipalpidae||March; flat red mite
+H08|Calendula|Indora|Tetranychus urticae||March; printed Candula
+H08|Poppy|Indora|Tetranychus urticae||March
+H08|Pear|=Theog; Jubbal; Rohru|Eriophyidae||text; pear rust mite

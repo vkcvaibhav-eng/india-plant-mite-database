@@ -20,3 +20,5 @@ tree_forest: Jatropha*; Cassia sp.; Syzygium sp.; Eugenia*; Alangium*; Dodonaea*
 vegetable: Cucurbitaceae
 fruit: Olea europaea
 ornamental: Prunus laurocerasus
+fodder: Grewia optiva
+tree_forest: Myrica*

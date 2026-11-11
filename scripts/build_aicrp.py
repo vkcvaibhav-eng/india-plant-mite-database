@@ -187,11 +187,13 @@ def place_state(place, default):
 MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04", "H05", "I02", "J01", "J04"}
 obs, unresolved = [], collections.Counter()
 
-# Himachal Pradesh localities of the Mashobra status tables (2021-22). Generic names (Rampur, Bilaspur, Nagar, Neri, Indora, Deha, Kiari, Sakri)
+# Himachal Pradesh localities of the Mashobra status tables (2020-21, 2021-22). Generic names (Rampur, Bilaspur, Nagar, Neri, Indora, Deha, Kiari, Sakri,
+# Sandhu, Thana, Sultanpur)
 # are left to the block state so they do not capture places of the same name elsewhere.
 PLACE_STATE.update({w: "Himachal Pradesh" for w in ("Summerkot", "Chirgaon", "Baral", "Patgahar", "Kufri", "Junga", "Matiana", "Jubbal", "Khara Pathar",
     "Kuftu farm", "Kotgarh", "Narkanda", "Nankhari", "Majhewali", "Gumma", "Madhorghat", "Reekong Peo", "Kalpa", "Sangla", "Kafnu", "Katrain",
-    "Bajaura", "Sundar Nagar", "Kandaghat", "Jukhala", "Jachh", "Kumarsain", "NBPGR Phagali", "Theog", "Rohru", "Nirsoo")})
+    "Bajaura", "Sundar Nagar", "Kandaghat", "Jukhala", "Jachh", "Jaach", "Kumarsain", "NBPGR Phagali", "Theog", "Rohru", "Nirsoo",
+    "Braslee", "Dhalli", "Panthaghatti", "Cheog", "Chhaila", "Paraunthi", "Ratnari", "Kokunala", "Kalbog", "Madyog", "Nerwa", "Khakrola")})
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):
     b = blocks[block_id]
