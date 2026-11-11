@@ -106,7 +106,8 @@ for a in accounts:
 sys.path.insert(0, str(ROOT / "scripts"))
 import host_names
 HD = host_names.HostDictionary()
-STD = ["host_taxon_std", "host_rank_std", "host_family", "host_std_common", "host_basis", "host_confidence"]
+CT = host_names.CropTypes()
+STD = ["host_taxon_std", "host_rank_std", "host_family", "host_std_common", "host_basis", "host_confidence", "host_crop_type"]
 host_std_left = collections.Counter()
 for r in host_rows:
     rk, nm = r["host_rank"], r["host_name"]
@@ -114,6 +115,7 @@ for r in host_rows:
         res = {"host_taxon_std": "Undetermined plant", "host_rank_std": "group", "host_family": "", "host_std_common": "", "host_basis": "parser_rank", "host_confidence": ""}
     else:
         res = HD.resolve(nm if rk == "common_name" else "", nm if rk != "common_name" else "", "")
+    res["host_crop_type"] = CT.of(res["host_taxon_std"], res["host_rank_std"])
     r.update(res)
     if res["host_rank_std"] in ("unresolved", "ambiguous"):
         host_std_left[(nm, rk)] += 1

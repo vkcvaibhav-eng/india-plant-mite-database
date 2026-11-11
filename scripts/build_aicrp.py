@@ -261,14 +261,16 @@ for i, r in enumerate(obs, 1):
 sys.path.insert(0, str(ROOT / "scripts"))
 import host_names
 HD = host_names.HostDictionary()
+CT = host_names.CropTypes()
 host_seen = collections.OrderedDict()
 for r in obs:
     hc, hs = r["host_common"], r["host_scientific"]
     if not (hc or hs).strip():
         res = {k: "" for k in ("host_taxon_std", "host_rank_std", "host_family", "host_std_common", "host_basis", "host_confidence")}
-        res["host_check"] = ""
+        res["host_check"] = ""; res["host_crop_type"] = ""
     else:
         res = HD.resolve(hc, hs, r["block_id"])
+        res["host_crop_type"] = CT.of(res["host_taxon_std"], res["host_rank_std"])
         res["host_check"] = host_names.agree(HD, res, hs) if (hc.strip() and hs.strip()) else ""
     r.update(res)
     key = (host_names.norm(hc), host_names.norm(hs), r["block_id"] if res["host_rank_std"] == "ambiguous" else "")
@@ -278,10 +280,10 @@ for r in obs:
 write_csv(OUT / "aicrp_host_crosswalk.csv",
           [{"host_common_as_printed": d["host_common"], "host_scientific_as_printed": d["host_scientific_printed"], "host_taxon_std": d["host_taxon_std"],
             "host_rank_std": d["host_rank_std"], "host_family": d["host_family"], "host_std_common": d["host_std_common"], "host_basis": d["host_basis"],
-            "host_confidence": d["host_confidence"], "host_check": d["host_check"], "rows": d["rows"], "centres": ";".join(sorted(d["centres"]))}
+            "host_confidence": d["host_confidence"], "host_crop_type": d["host_crop_type"], "host_check": d["host_check"], "rows": d["rows"], "centres": ";".join(sorted(d["centres"]))}
            for d in sorted(host_seen.values(), key=lambda d: (-d["rows"], d["host_common"].lower()))],
           ["host_common_as_printed", "host_scientific_as_printed", "host_taxon_std", "host_rank_std", "host_family", "host_std_common", "host_basis",
-           "host_confidence", "host_check", "rows", "centres"])
+           "host_confidence", "host_crop_type", "host_check", "rows", "centres"])
 write_csv(REV / "aicrp_hosts_to_review.csv",
           [{"host_common_as_printed": d["host_common"], "host_scientific_as_printed": d["host_scientific_printed"], "issue": d["host_rank_std"] if d["host_rank_std"] in ("ambiguous", "unresolved") else "scientific_name_conflict",
             "host_taxon_used": d["host_taxon_std"], "rows": d["rows"], "centres": ";".join(sorted(d["centres"]))}

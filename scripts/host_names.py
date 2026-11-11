@@ -181,3 +181,40 @@ def agree(D, result, sci):
     if es and et != "sp." and es != et:
         return "species_differs"
     return "agree"
+
+
+# ----------------------------------------------------------------------------------------------
+CROP_PATH = DICT_PATH.parent / "host_crop_type.txt"
+_GROUP_TYPES = {"weeds and wild plants": "weed_wild", "forest plants": "tree_forest", "ornamentals": "ornamental",
+                "medicinal plants": "medicinal_aromatic", "vegetables": "vegetable", "fruits": "fruit",
+                "fodder crops": "fodder", "cucurbits": "vegetable", "grasses": "weed_wild", "shade crop": "tree_forest"}
+
+
+class CropTypes:
+    def __init__(self, path=CROP_PATH):
+        self.exact, self.genus = {}, {}
+        for raw in Path(path).read_text(encoding="utf-8").splitlines():
+            if not raw.strip() or raw.startswith("#"):
+                continue
+            t, items = raw.split(":", 1)
+            for it in items.split(";"):
+                it = it.strip()
+                if it.endswith("*"):
+                    self.genus[it[:-1].lower()] = t.strip()
+                elif it:
+                    self.exact[it.lower()] = t.strip()
+
+    def of(self, taxon, rank):
+        if rank == "substrate":
+            return "stored_product"
+        if rank == "group":
+            for k, v in _GROUP_TYPES.items():
+                if taxon.lower().startswith(k):
+                    return v
+            return "not_assigned"
+        if not taxon or rank in ("ambiguous", "unresolved"):
+            return ""
+        t = taxon.lower()
+        if t in self.exact:
+            return self.exact[t]
+        return self.genus.get(t.split()[0], "not_assigned")
