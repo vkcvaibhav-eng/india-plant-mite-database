@@ -13,6 +13,7 @@ def segs(line):
     return [m.start() for m in re.finditer(r'(?:(?<=\s{2})|^)\S', line)]
 
 NCOL = 2
+FAM = False
 
 BINOM = re.compile(r'^[A-Z][a-z]+ (\(|[a-z]|sp)')
 
@@ -25,6 +26,14 @@ def detect(lines):
             s1.append(sg[1]); s2.append(sg[2])
             if len(sg) >= 4: s3.append(sg[3])
     if not s1:
+        t1 = []
+        for l in lines:
+            sg = segs(l)
+            if len(sg) >= 2 and sg[0] - base <= 2 and BINOM.match(l.strip()):
+                t1.append(sg[1])
+        if t1:
+            t1.sort()
+            return [t1[len(t1) // 2], 400]
         return [40, 70]
     s1.sort(); s2.sort(); s3.sort()
     out = [s1[len(s1) // 2], s2[len(s2) // 2]]
@@ -48,7 +57,8 @@ def main():
     cols = None
     if '--cols' in a:
         cols = [int(x) for x in a[a.index('--cols') + 1].split(',')]
-    global NCOL
+    global NCOL, FAM
+    FAM = '--fam' in a
     if '--ncol' in a:
         NCOL = int(a[a.index('--ncol') + 1])
     lines = open(text, errors='replace').read().replace('\x0c', '').split('\n')[start - 1:end]
@@ -61,12 +71,17 @@ def main():
     recs = []
     base = min((len(l) - len(l.lstrip()) for l in lines), default=0)
     refs = [base, c1, c2] + ([c3] if c3 else [])
+    if FAM:
+        refs = [base, c1, c2, c3 if c3 else 999]
     for l in lines:
         cells = ['', '', '', '']
         for m in re.finditer(r'(?:(?<=\s{2})|^)\S.*?(?=\s{2,}|$)', l):
             k = min(range(len(refs)), key=lambda i: abs(m.start() - refs[i]))
             cells[k] += (' ' if cells[k] else '') + m.group(0).strip()
-        n, h, p = cells[0], cells[1], cells[2]
+        if FAM:
+            n, h, p = cells[1], cells[2], cells[3]
+        else:
+            n, h, p = cells[0], cells[1], cells[2]
         if n and (not recs or re.match(r'^(Family|Genus|Order|[A-Z][a-z]+ [a-z(]|[A-Z][a-z]+ sp)', n) and not re.match(r'^(Order)', n) or re.match(r'^(Family|Genus)', n)):
             if recs and re.match(r'^(Family|Genus)', n) and recs[-1]['n'] and not recs[-1]['h'] and not recs[-1]['p']:
                 recs[-1]['n'] += ' ' + n

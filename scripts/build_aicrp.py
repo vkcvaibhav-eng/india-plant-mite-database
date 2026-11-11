@@ -184,7 +184,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04", "H05", "I02"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04", "H05", "I02", "J01", "J04"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):

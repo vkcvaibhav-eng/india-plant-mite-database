@@ -6,7 +6,7 @@ This is the data repository for Paper 2 of the project *Agricultural mites in In
 
 ## Status (11 November 2026)
 
-Nine layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
+Ten layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -146,6 +146,19 @@ Smaller than the previous year: Coimbatore's place, host and mite table, Ludhian
 | Distinct host names | 84 |
 
 Combined AICRP layers: 5,872 observation rows, 453 species x state pairs, 261 of them not in the Gupta & Mondal (2023) layer.
+
+### Layer 10: AICRP Progress Report 2024-25 (XXI Group Meeting, chapter on diversity of plant-associated mites)
+
+The most recent report in the set. Seven centres give species and host tables: Bangalore, Coimbatore, Navsari (new host and state records), Ludhiana (67 predatory mite species on plants across Punjab and the neighbouring states), Mashobra (Himachal Pradesh), Jorhat (Assam) and Thrissur (Kerala). The tables rarely give a place, so most rows are host-level records for a state. Notes are in `data/aicrp/transcription/NOTES_2024-25.md`.
+
+| Measure | Value |
+| --- | ---: |
+| Observation rows | 757 |
+| Distinct mite species names | 122 |
+| Distinct host names | 197 |
+
+Combined AICRP layers: 6,629 observation rows, 496 species x state pairs, 292 of them not in the Gupta & Mondal (2023) layer.
+
 
 
 

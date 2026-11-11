@@ -1,6 +1,9 @@
 mite_name,family,rows,centres,ambiguous_join
 Aceria acaciae,Eriophyidae,1,Coimbatore,0
+Aceria doctersi,Eriophyidae,1,Thrissur,0
 Aceria punicae,Eriophyidae,1,Coimbatore,0
+Aculus malus,Eriophyidae,1,Mashobra,0
+Aculus schlechtendali,Eriophyidae,1,Mashobra,0
 Amblyseius (Typhlodromips) siggii,Phytoseiidae,1,Varanasi,0
 Anthocoptes bambusovagrans,Eriophyidae,1,Coimbatore,0
 Brevipalpus malviyai,Tenuipalpidae,4,Varanasi,0
@@ -25,5 +28,11 @@ Tarsonemus occidentalis,Tarsonemidae,4,Varanasi,0
 Tarsonemus smithi,Tarsonemidae,1,Coimbatore,0
 Tenuipalpus convolvulae,Tenuipalpidae,1,Coimbatore,0
 Tenuipalpus keiensis,Tenuipalpidae,1,Varanasi,0
+Tenuipalpus pacificus,Tenuipalpidae,1,Thrissur,0
 Tetranychus evansi,Tetranychidae,1,Hisar,0
 Typhlodromus (Typhloctonus) malviyai,Phytoseiidae,1,Varanasi,0
+Typhlodromus agilis,Phytoseiidae,6,Ludhiana,0
+Typhlodromus ghanii,Phytoseiidae,6,Ludhiana,0
+Typhlodromus hadi,Phytoseiidae,8,Ludhiana,0
+Typhlodromus malicolus,Phytoseiidae,1,Ludhiana,0
+Typhlodromus serrulatus,Phytoseiidae,6,Ludhiana,0

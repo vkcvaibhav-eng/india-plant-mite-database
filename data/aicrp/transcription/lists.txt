@@ -1015,3 +1015,284 @@ I02|Schizotetranychus krungthepensis Auger & Naing|Sugarcane|Ludhiana; Sangrur; 
 I02|Tetranychus ludeni Zacher|Beans|Ludhiana|Low|
 I02|Tetranychus macfarlanei Baker & Pritchard|Okra|Ludhiana; Abohar; Jalandhar; Ballowal Saunkhri|Major; low to very high|
 I02|Tetranychus urticae Koch|Vegetables; Fruits; Melia; Medicinal plants; Ornamentals; Weeds; Rose; Sweet potato; Carnation; Mentha|Punjab; Himachal Pradesh|Major; low to very high|Frequently found all over Punjab and H.P.
+# J01 Bangalore 2024-25 Table 1 (printed pp. 1-3): host plants of phytophagous mites in Karnataka and neighbouring states; the 49 eriophyid species are not named in the table
+J01|Tetranychus fijiensis|sci:Cucumis sativus|||
+J01|Tetranychus truncatus|sci:Tagetes erecta; sci:Luffa aegyptiaca; sci:Lablab purpureus; sci:Vicia faba; sci:Vigna unguiculata; sci:Solanum melongena; sci:Cannabis sativa; sci:Solanum lycopersicum; sci:Morus alba|||
+J01|Tetranychus macfarlanei|sci:Cucumis sativus; sci:Cucumis anguria; sci:Trichosanthes dioica; sci:Lablab purpureus; sci:Phaseolus vulgaris; sci:Abelmoschus esculentus; sci:Solanum melongena|||
+J01|Tetranychus neocaledonicus|sci:Tagetes erecta; sci:Cucumis sativus; sci:Manihot esculenta; sci:Moringa oleifera; Hibiscus; sci:Rosa sinensis; sci:Lycopersicum esculentum; sci:Solanum melongena; sci:Carica papaya|||
+J01|Tetranychus urticae|sci:Amaranthus sp.; sci:Dendranthema grandiflora; sci:Tagetes erecta; sci:Cucumis sativus; sci:Luffa acutangula; sci:Manihot esculenta; sci:Cyamopsis tetragonoloba; sci:Lablab purpureus; sci:Phaseolus lunatus; sci:Phaseolus vulgaris; sci:Vigna unguiculata; sci:Rosa sinensis; sci:Solanum melongena; sci:Lycopersicum esculentum; sci:Carica papaya; sci:Malus domestica; sci:Solanum lycopersicum; sci:Capsicum annuum; sci:Adenium sp.|||
+J01|Tetranychus udaipurensis|sci:Manihot esculenta|||
+J01|Tetranychus kanzawai|sci:Lablab purpureus|||
+J01|Tetranychus okinawanus|sci:Dendranthema grandiflora|||
+J01|Tetranychus lombardinii|sci:Jasminum auriculatum; sci:Jasminum grandiflorum; sci:Jasminum multiflorum; sci:Jasminum sambac|||
+J01|Tetranychus ludeni|sci:Cucumis sativus; sci:Vigna unguiculata; sci:Rosa sinensis; sci:Solanum melongena; sci:Ricinus communis|||
+J01|Tetranychus puschelii|Unidentified weed 1; Unidentified weed 2|||
+J01|Schizotetranychus baltazari|sci:Citrus sp.; sci:Bergera koenigii|||
+J01|Schizotetranychus mansoni|sci:Oryza sativa|||
+J01|Eotetranychus sp.|sci:Calotropis sp.; sci:Phyllanthus sp.|||
+J01|Eutetranychus orientalis|sci:Lycopersicum esculentum|||
+J01|Eutetranychus sp.|sci:Azadirachta indica|||
+J01|Oligonychus coffeae|Tea|||
+J01|Oligonychus grypus|sci:Musa sp.|||printed as gryphus
+J01|Oligonychus biharensis|sci:Rosa sinensis|||
+J01|Larvacarus transitans|sci:Ziziphus sp.|||
+J01|Dolichotetranychus sp.|sci:Areca catechu|||
+J01|Polyphagotarsonemus latus|sci:Capsicum annuum; sci:Morus alba|||
+J01|Steneotarsonemus spinki|sci:Oryza sativa|||
+J01|Diptilomiopus cocculae|sci:Cocculus pendulus|||
+J01|Diptilomiopus assamica|sci:Olea dioica|||
+J01|Cheiracus sulcatus|sci:Oryza sativa|||
+# J02 Coimbatore 2024-25 Tables 4 and 5 (printed pp. 7-9)
+J02|Oligonychus oryzae Hirst|Rice|||Table 4; host given once per group of mites in the printed table
+J02|Schizotetranychus mansoni Gupta|Rice|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus grypus Baker & Pritchard|Rice|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Black gram|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Black gram|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Black gram|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Green gram|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Cotton|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus neocaledonicus Andre|Cotton|||Table 4; host given once per group of mites in the printed table
+J02|Schizotetranychus krungthepensis Naing|Sugarcane|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus ludeni Zacher|Sunflower|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus tylus Baker & Pritchard|Coconut|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus indicus Hirst|Coconut|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Brinjal|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Brinjal|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Brinjal|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Okra|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Okra|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Okra|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Tomato|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Tomato|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus neocaledonicus Andre|Tomato|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Amaranthus|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Amaranthus|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Cucumber|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Cucumber|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Pumpkin|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Ridge gourd|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Radish|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Jasmine|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Jasmine|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus turkestani Ugarov & Nikolski|Jasmine|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Carnation|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Carnation|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Gerbera|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Gerbera|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Gypsophila|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Rose|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus biharensis Hirst|Rose|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus okinawanus|Ipomoea|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus coffeae Nietner|Coffee|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Tapioca|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Tapioca|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus lombardinii Baker & Pritchard|Tapioca|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus ludeni Zacher|Sesbania|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|Adathoda|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus truncatus Ehara|sci:Tinospora cordifolia|||Table 4; host given once per group of mites in the printed table
+J02|Schizotetranychus lespedezae|Cassia|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus urticae Koch|Banana|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus grypus Baker & Pritchard|Banana|||Table 4; host given once per group of mites in the printed table
+J02|Schizotetranychus hindustanicus Hirst|Citrus|||Table 4; host given once per group of mites in the printed table
+J02|Schizotetranychus baltazari Rimando|Citrus|||Table 4; host given once per group of mites in the printed table
+J02|Oligonychus punicae Hirst|Jamun|||Table 4; host given once per group of mites in the printed table
+J02|Tetranychus macfarlanei Baker & Pritchard|Strawberry|||Table 4; host given once per group of mites in the printed table
+J02|Schizotetranychus baltazari Rimando|Curry leaf|||Table 4; host given once per group of mites in the printed table
+J02|Raoiella indica Hirst|Banana; Coconut|||Table 4; host given once per group of mites in the printed table
+J02|Polyphagotarsonemus latus Banks|Chilli|||Table 4; host given once per group of mites in the printed table
+J02|Aceria guerreronis Keifer|Coconut|||Table 4; host given once per group of mites in the printed table
+J02|Aceria cajani Channabasavanna|Red gram|||Table 4; host given once per group of mites in the printed table
+J02|Cheiracus sulcatus Keifer|Rice|||Table 4; host given once per group of mites in the printed table
+J02|Cisaberoptus kenyae Keifer|Mango|||Table 4; host given once per group of mites in the printed table
+J02|Aceria jasmini Channabasavanna|Jasmine|||Table 4; host given once per group of mites in the printed table
+J02|Aceria pongamiae Channabasavanna|Pungam|||Table 4; host given once per group of mites in the printed table
+J02|Neoseiulus longispinosus Evans|Okra; Brinjal; Lablab; French bean|||Table 5; predatory
+J02|Euseius ovalis Evans|French bean; Mulberry|||Table 5; predatory
+J02|Euseius sp.|Champak; Solanum nigrum|||Table 5; predatory
+J02|Phytoseius kapuri Gupta|Brinjal|||Table 5; predatory
+J02|Agistemus sp.|Mulberry; Rice|||Table 5; predatory
+J02|Tydeus sp.|Mulberry|||Table 5; predatory
+# J03 Navsari 2024-25 Table 8 (printed p. 11): new host and state records; Tables 6 and 7 repeat the earlier Navsari lists
+J03|Schizotetranychus baltazari Rimando|Neem; Curry leaf|||Table 8 new host record for the state
+J03|Tetranychus urticae Koch|sci:Leptadenia reticulata (Jeevanti)|||Table 8 new host record for the state
+J03|Petrobia latens (Muller)|Coriander; Fennel; Cumin|||Table 8 new host records for the state
+J03|Neoseiulus baraki|Coconut|||Table 8 new host record for the state; printed as baraki
+J03|Schizotetranychus krungthepensis|Sugarcane|||Table 8 new record for the state
+J03|Oligonychus tylus|Date palm|||Table 8 new record for the state
+J03|Larvacarus transitans (Ewing)|Ber|||Table 8 new record for the state
+# J04 Ludhiana 2024-25 Table 9 (printed pp. 12-15): predatory mites on plants from surveys in Punjab, Jammu, Haryana, Uttarakhand, Himachal Pradesh and Rajasthan; asterisks in the printed table mark new records and are not kept; place is not given per row
+J04|Anystis baccarum Linn.|Wheat|||Table 9; predatory
+J04|Tenuiatia villosa Smith-Meyer & Uckermann|Wheat|||Table 9; predatory
+J04|Lasioseius parberlesei (Bhattacharya)|Cotton|||Table 9; predatory
+J04|Cheletogenes ornatus (Canestrini & Fanzago)|Ziziphus|||Table 9; predatory
+J04|Cheletomimus bakeri Ehara|Date palm fruits|||Table 9; predatory; in association with Oligonychus tylus
+J04|Cheyletus eruditus (Schrank)|Date palm fruits|||Table 9; predatory; in association with Oligonychus tylus
+J04|Cheyletus malaccensis Oudemans|Date palm fruits|||Table 9; predatory; in association with Oligonychus tylus
+J04|Cunaxa setirostris (Hermann)|Sugarcane|||Table 9; predatory
+J04|Cunaxa caproleus (Berlese)|Date palm|||Table 9; predatory
+J04|Amblyseius adhatodae (Muma)|Mango|||Table 9; predatory
+J04|Amblyseius andersoni (Chant)|Plum; Apple; Pomegranate; Beans|||Table 9; predatory
+J04|Amblyseius brachycalyx Karmakar, Bhowmik & Sherpa|Cherry; Apple|||Table 9; predatory
+J04|Amblyseius conulus Karmakar, Bhowmik & Sherpa|Apricot; Persimmon; Marigold|||Table 9; predatory
+J04|Amblyseius herbicolus (Chant)|Guava; Apple; Rose; Weeds; Pear|||Table 9; predatory
+J04|Amblyseius largoensis Muma|Date palm; Litchi; Mango|||Table 9; predatory; Date palm in association with Oligonychus tylus and Raoiella indica (Rajasthan); litchi and mango (U.P.)
+J04|Amblyseius sp.|Mango; Dragonfruit; Jamun; Citrus; Guava; Pomegranate; Pear; Plum; Loquat; Litchi; Peach; Persimmon; Apple; Rose; Cherry|||Table 9; predatory
+J04|Cydnoseius negevi (Swirski & Amitai)|Date palm fruits; Citrus|||Table 9; predatory; date palm in association with Oligonychus tylus
+J04|Euseius alstoniae Gupta|Pomegranate; Cotton; Vegetables; Ornamentals; Citrus; Pear; Bauhinia; Sugarcane; Ficus|||Table 9; predatory
+J04|Euseius amissibilis Meshkov|Phalsa; Plum; Pomegranate; Pear; Cherry; Apricot; Apple; Wild apple; Walnut; Marigold; Guava; Persimmon; Nectarine; Citrus; Mango; Wild peach; Peach|||Table 9; predatory; new record for India
+J04|Euseius astrictus Karmakar & Bhowmik|Ficus|||Table 9; predatory
+J04|Euseius chitradurge (Gupta)|Jackfruit|||Table 9; predatory
+J04|Euseius coccosocius (Ghai & Menon)|Apple; Guava; Litchi; Mango; Jamun; Ber; Peach; Pomegranate; Persimmon; Mulberry; Baheda; Citrus; Jackfruit; Bael; Loquat|||Table 9; predatory
+J04|Euseius delhiensis (Narayanan & Kaur)|Mango; Pomegranate; Pear; Peach; Guava; Grapes; Citrus; Jamun; Jackfruit; Papaya; Ber; Curry leaf; Cotton; Litchi|||Table 9; predatory
+J04|Euseius kalimpogensis (Gupta)|Plum; Kiwi; Lasoda|||Table 9; predatory
+J04|Euseius finlandicus (Oudemans)|Pear; Guava; Ficus; Citrus|||Table 9; predatory
+J04|Euseius ovalis (Evans)|Fig; Mulberry; Date palm|||Table 9; predatory; date palm in association with Oligonychus tylus
+J04|Euseius planocalyx|Apple|||Table 9; predatory; new species recorded as new to science
+J04|Euseius sajnekhalicus Karmakar & Kar|Guava; Weeds; Cotton; Castor|||Table 9; predatory
+J04|Euseius sp.|Walnut|||Table 9; predatory
+J04|Euseius sp.|Bael; Date palm|||Table 9; predatory
+J04|Euseius sp.|Grapes|||Table 9; predatory
+J04|Euseius sp.|Kapur|||Table 9; predatory
+J04|Gynaeseius liturivorus (Ehara)|Castor|||Table 9; predatory
+J04|Kuzinellus sp.|Marigold|||Table 9; predatory
+J04|Neoseiulus barkeri Hughes|Date palm; Cotton; Grapes|||Table 9; predatory; date palm in association with Oligonychus tylus
+J04|Neoseiulus imbricatus (Corpuz & Rimando)|Grapes|||Table 9; predatory
+J04|Neoseiulus longispinosus (Evans)|Brinjal; Date palm; Citrus|||Table 9; predatory
+J04|Neoseiulus paspalivorus (De Leon)|Date palm|||Table 9; predatory; in association with Oligonychus tylus
+J04|Neoseiulus sp.|Mango|||Table 9; predatory
+J04|Neoseiulella pentaporus|Apple; Wild apple|||Table 9; predatory; new to science; Kukumseri, H.P.
+J04|Paraphytoseius orientalis Narayanan, Kaur & Ghai|Guava; Grapevine|||Table 9; predatory
+J04|Phytoseius jujuba (Gupta)|Guava; Litchi; Ber; Pear; Mango|||Table 9; predatory
+J04|Phytoseius kapuri (Gupta)|Ficus; Apple; Fig; Apricot; Jackfruit; Mango; Pecan nut; Ber; Guava; Peach; Loquat|||Table 9; predatory
+J04|Phytoseius mixtus (Chaudhri)|Persimmon|||Table 9; predatory
+J04|Phytoseius sp.|Guava; Ber; Mango; Pecan nut|||Table 9; predatory
+J04|Typhlodromus agilis (Chaudhri)|Apple; Wild apple; Apricot; Pear; Peach; Persimmon|||Table 9; predatory; new record for India
+J04|Typhlodromus ghanii Muma|Date palm; Jamun; Mango; Apple; Citrus; Pear|||Table 9; predatory; date palm in association with Raoiella indica and Oligonychus tylus
+J04|Typhlodromus hadi (Chaudhri)|Wild apple; Apple; Kiwi; Persimmon; Pecan nut; Lemon; Plum; Pear|||Table 9; predatory
+J04|Typhlodromus homalii Gupta|Walnut|||Table 9; predatory
+J04|Typhlodromus malicolus (Wainstein & Arutunjan)|Apple|||Table 9; predatory; printed melicolus in the new records list
+J04|Typhlodromus serrulatus (Ehara)|Pomegranate; Pear; Citrus; Mango; Apple; Persimmon|||Table 9; predatory
+J04|Typhlodromips syzygii (Gupta)|Pomegranate; Guava; Jackfruit; Pear; Pecan nut; Citrus|||Table 9; predatory
+J04|Typhlodromus (Anthoseius) rickeri Chant|Wild pecan nut|||Table 9; predatory
+J04|Typhlodromus (Anthoseius) sp.|Pear; Ornamentals; Pomegranate; Plum; Apple; Apricot; Cherry; Citrus; Peach; Mango; Kiwi; Guava|||Table 9; predatory
+J04|Typhlodromus sp.|Jamun; Mango; Guava; Peach; Olive; Walnut; Loquat; Plum; Apple; Wild cherry|||Table 9; predatory
+J04|Typhlodromips sp.|Sugarcane; Avocado; Jamun; Apple; Lemon grass; Castor; Guava; Mango; Citrus; Loquat|||Table 9; predatory
+J04|Scapulaseius asiaticus (Evans)|Citrus; Guava; Kiwi; Mentha; Apple; Pecan nut; Mango; Jackfruit; Litchi|||Table 9; predatory
+J04|Scapulaseius okinawanus (Ehara)|Apple|||Table 9; predatory; new record for India
+J04|Agistemus fleschneri Summers|Vegetables; Citrus; Ornamentals; Ziziphus|||Table 9; predatory
+J04|Agistemus heterophylla Gupta|Date palm|||Table 9; predatory
+J04|Agistemus lakoocha Gupta|Phalsa; Mahua; Rudraksh; Parijat; Apple; Chrysanthemum; Walnut; Crab apple|||Table 9; predatory
+J04|Agistemus macrommatus Gonzalez-Rodriguez|Date palm|||Table 9; predatory
+J04|Tetranychus kanzawai Kishida|Strawberry|||Table 9; predatory; new host record for Punjab
+# J05 Mashobra 2024-25 Table 11 (printed pp. 17-18): mites in 12 districts of Himachal Pradesh
+J05|Panonychus ulmi (Koch)|Apple; Pear; Plum; Peach; Cherry; Almond; Rose|||Table 11
+J05|Tetranychus urticae Koch|Apple; Cherry; Pear; Apricot; Persimmon; Plum; Peach; Walnut; Almond; Fig; Strawberry; Mulberry; Papaya; Cyclamen; Rose; Primrose; Carnation; Fuchsia; Dahlia; Marigold; Poppy; Calendula; Cherry laurel; Euonymus; Garlic; French bean; Capsicum; Brinjal; Tomato; Cucumber; Mustard|||Table 11
+J05|Tetranychus macfarlanei Baker & Pritchard|Cucumber; Brinjal; Peach; Apricot; Tomato|||Table 11
+J05|Eutetranychus orientalis (Klein)|Pear|||Table 11
+J05|Tetranychus ludeni Zacher|Peach; Apple; Almond; Bean; Tomato; Fig|||Table 11
+J05|Eotetranychus sp.|Peach; Prune; Apple|||Table 11
+J05|Bryobia rubrioculus Scheuten|Apple|||Table 11
+J05|Tetranychus sp.|Raspberry|||Table 11
+J05|Tetranychus sp.|Hill lemon|||Table 11
+J05|Brevipalpus sp.|Apple; Apricot; Plum; Peach; Persimmon; Guava; Loquat; Chikoo; Pomegranate; Strawberry; Mulberry; Lemon; Sweet lemon; Chakotra; Orange; Hill lemon; Malta; Oxalis; Rose; Golden privet; Salvia; Chrysanthemum; Brinjal; Oregano; Basil; Tulsi; Mushki kapoor; Harad; Behra; Arjun; Mint|||Table 11
+J05|Epitrimerus pyri (Nalepa)|Pear|||Table 11
+J05|Aculus schlechtendali (Nalepa)|Apple|||Table 11
+J05|Aculus malus Zaher & Abou Awad|Apple|||Table 11
+J05|Agistemus aramatai Gupta|Apple|||Table 11
+J05|Agistemus simplex Gonzalez-Rodriguez|Apple|||Table 11
+J05|Mediolata pini|Apple|||Table 11
+J05|Euseius amissibilis Meshkov|Apple|||Table 11
+J05|Euseius prasadi Chant & McMurtry|Apple|||Table 11
+J05|Euseius sp.|Apple; Persimmon; Hill lemon|||Table 11
+J05|Euseius sp.|Loquat|||Table 11
+J05|Euseius sp.|Apple; Kinnow|||Table 11
+J05|Euseius sp.|Papaya; Guava|||Table 11
+J05|Neoseiulus longispinosus|French bean; Pole bean; Apple|||Table 11
+J05|Typhlodromus sp.|Apple; Mango|||Table 11
+J05|Amblyseius sp.|Apple|||Table 11
+J05|Paraphytoseius orientalis Narayanan, Kaur & Ghai|Apple|||Table 11
+J05|Tydeus sp.|Apple; Persimmon; Guava; Papaya; Strawberry; Apricot|||Table 11
+# J06 Jorhat 2024-25 Tables 12 and 13 (printed p. 19)
+J06|Tetranychus urticae|Amaranthus; Okra; Gypsophila; Brinjal; Papaya; Maize; Gerbera; French bean|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Oligonychus mangiferus|Mango|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Oligonychus indicus|Jute|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Tetranychus truncatus|Brinjal; Cucumber|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Eutetranychus orientalis|Citrus; Castor; Brinjal|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Schizotetranychus cajani|Arhar|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Tetranychus okinawanus|Amaranthus; Citrus|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Tetranychus piercei|Citrus; Apple|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Brevipalpus californicus|Citrus; Gerbera|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Raoiella indica|Arecanut|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Brevipalpus phoenicis|Tea; Citrus; Guava|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Aceria guerreronis|Coconut|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Aceria jasmini|Jasmine|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Aceria sacchari|Sugarcane|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Aceria cajani|Arhar|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Aceria litchii|Litchi|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Aceria mangiferae|Mango|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Polyphagotarsonemus latus|Chilli; Capsicum; King chilli; Jute|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Neoseiulus longispinosus|Amaranth; French bean; Cucumber; Okra|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Euseius ovalis|Sugarcane|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Amblyseius sp.|Tea; Jasmine; Bean; Cowpea|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Cunaxa sp.|Amaranth; Bean; Brinjal|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Tydeus sp.|Jasmine; Marigold|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Agistemus edulis|Guava; Citrus|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+J06|Rhizoglyphus sp.|Mulberry; Papaya|Jorhat; Golaghat; Sibsagar; Nagaon||Tables 12 and 13; four districts of Assam, the table does not say which host is from which district
+# J07 Thrissur 2024-25 Tables 14 and 15 (printed pp. 20-22)
+J07|Tetranychus truncatus|Cowpea; Okra; Brinjal; Pumpkin; Marigold|||Table 14; Kerala
+J07|Tetranychus gloveri|Cowpea; Marigold; Peppermint; Alocasia; African spiny coriander; Adenium|||Table 14; Kerala
+J07|Tetranychus urticae|Adenium; Rose; Cassava|||Table 14; Kerala
+J07|Tetranychus fijiensis|Arecanut|||Table 14; Kerala
+J07|Tetranychus kanzawai|Tapioca|||Table 14; Kerala
+J07|Tetranychus macfarlanei|Okra|||Table 14; Kerala
+J07|Eutetranychus orientalis|Crape jasmine; Tapioca|||Table 14; Kerala
+J07|Neotetranychus lek|Bauhinia|||Table 14; Kerala
+J07|Tetranychus marianae|Okra|||Table 14; Kerala
+J07|Oligonychus biharensis|Cassava|||Table 14; Kerala
+J07|Oligonychus tylus|Arecanut; Banana|||Table 14; Kerala
+J07|Oligonychus oryzae|Rice|||Table 14; Kerala
+J07|Schizotetranychus mansoni|Rice|||Table 14; Kerala
+J07|Schizotetranychus baltazari|Curry leaf|||Table 14; Kerala
+J07|Schizotetranychus andropogoni|Unknown weed|||Table 14; Kerala
+J07|Schizotetranychus krungthepensis|Wild sugarcane|||Table 14; Kerala
+J07|Raoiella indica|Arecanut|||Table 14; Kerala
+J07|Tenuipalpus pacificus|Orchid (Phalaenopsis sp.)|||Table 14; Kerala
+J07|Dolichotetranychus floridanus|Arecanut|||Table 14; Kerala
+J07|Polyphagotarsonemus latus|Chilli; Brinjal; Cowpea; Tomato; Amaranthus; Gerbera|||Table 14; Kerala
+J07|Aceria jasmini|Jasmine|||Table 14; Kerala
+J07|Aceria litchii|Litchi|||Table 14; Kerala
+J07|Aceria doctersi|Cinnamon|||Table 14; Kerala
+J07|Aceria guerreronis|Coconut|||Table 14; Kerala
+J07|Neoseiulus longispinosus|Amaranthus|||Table 15; predatory, collected with Tetranychus truncatus and Brevipalpus phoenicis
+J07|Amblyseius paraaerialis|Amaranthus|||Table 15; predatory, collected with Tetranychus truncatus and Brevipalpus phoenicis
+J07|Amblyseius largoensis|Amaranthus|||Table 15; predatory, collected with Tetranychus truncatus and Brevipalpus phoenicis
+J07|Pronematus anconai|Amaranthus|||Table 15; predatory, collected with Tetranychus truncatus and Brevipalpus phoenicis
+J07|Neoseiulus longispinosus|Okra|||Table 15; predatory, collected with Tetranychus macfarlanei
+J07|Amblyseius paraaerialis|Okra|||Table 15; predatory, collected with Tetranychus macfarlanei
+J07|Tydeus gossabaensis|Okra|||Table 15; predatory, collected with Tetranychus macfarlanei
+J07|Pronematus anconai|Okra|||Table 15; predatory, collected with Tetranychus macfarlanei
+J07|Agistemus garrulus|Okra|||Table 15; predatory, collected with Tetranychus macfarlanei
+J07|Neoseiulus longispinosus|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Amblyseius paraaerialis|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Amblyseius largoensis|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Paraphytoseius orientalis|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Phytoseius intermedius|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Tydeus gossabaensis|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Pronematus anconai|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Agistemus gamblei|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Agistemus fleschneri|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Agistemus garrulus|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Cunaxa sp.|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Bdella khasyana|Brinjal|||Table 15; predatory, collected with Tetranychus macfarlanei and T. truncatus
+J07|Neoseiulus longispinosus|Chilli|||Table 15; predatory, collected with Polyphagotarsonemus latus
+J07|Amblyseius paraaerialis|Chilli|||Table 15; predatory, collected with Polyphagotarsonemus latus
+J07|Tydeus gossabaensis|Chilli|||Table 15; predatory, collected with Polyphagotarsonemus latus
+J07|Pronematus anconai|Chilli|||Table 15; predatory, collected with Polyphagotarsonemus latus
+J07|Agistemus gamblei|Chilli|||Table 15; predatory, collected with Polyphagotarsonemus latus
+J07|Cunaxa sp.|Chilli|||Table 15; predatory, collected with Polyphagotarsonemus latus
+J07|Neoseiulus longispinosus|Cowpea|||Table 15; predatory, collected with Tetranychus truncatus, T. macfarlanei and Polyphagotarsonemus latus
+J07|Amblyseius paraaerialis|Cowpea|||Table 15; predatory, collected with Tetranychus truncatus, T. macfarlanei and Polyphagotarsonemus latus
+J07|Amblyseius largoensis|Cowpea|||Table 15; predatory, collected with Tetranychus truncatus, T. macfarlanei and Polyphagotarsonemus latus
+J07|Tydeus gossabaensis|Cowpea|||Table 15; predatory, collected with Tetranychus truncatus, T. macfarlanei and Polyphagotarsonemus latus
+J07|Pronematus anconai|Cowpea|||Table 15; predatory, collected with Tetranychus truncatus, T. macfarlanei and Polyphagotarsonemus latus
+J07|Cunaxa sp.|Cowpea|||Table 15; predatory, collected with Tetranychus truncatus, T. macfarlanei and Polyphagotarsonemus latus
