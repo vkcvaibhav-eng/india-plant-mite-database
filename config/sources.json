@@ -1,0 +1,9 @@
+{
+  "checklist_repo": "https://github.com/vkcvaibhav-eng/india-agri-mite-coi",
+  "checklist_commit": "6b889f5af0b3cdc3195b660c309f5ab78367a5f4",
+  "files": {
+    "gm2023": "data/checklist/gupta_mondal2023_all.csv",
+    "species_list": "data/checklist/species_list.csv",
+    "species_list_names": "data/checklist/species_list_names.csv"
+  }
+}

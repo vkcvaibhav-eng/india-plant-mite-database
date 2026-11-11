@@ -1,0 +1,17 @@
+measure,value
+accounts,1249
+accounts_linked_to_checklist,1088
+accounts_not_linked,161
+species_state_records,1966
+states_and_territories,31
+accounts_with_a_state,1188
+species_host_records,1588
+host_records_in_india,1569
+host_records_outside_india,19
+accounts_with_a_parsed_host,800
+distinct_host_names,918
+distinct_host_genera,499
+review_host_unparsed,117
+review_state_unmatched,46
+review_accounts_without_host,404
+review_accounts_without_indian_state,34
