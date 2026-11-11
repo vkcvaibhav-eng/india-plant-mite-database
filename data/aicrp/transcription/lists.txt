@@ -634,3 +634,34 @@ F05|Aceria cajani (Channabasavanna)|Tur|||
 F05|Polyphagotarsonemus latus (Banks)|Cowpea|||
 F05|Pyemotes sp.|Neem|||
 F05|Rhizoglyphus sp.|Neem|||
+# G04 Ludhiana Table 5 (printed pp. 149-150): list of mite species collected in 1990, hosts and localities as separate lists
+G04|Bryobia sp|Brinjal|Ludhiana; Jakhal||
+G04|Eutetranychus orientalis (Klein)|Citrus|Ludhiana||
+G04|Oligonychus mangiferus (R. & S.)|sci:Gordenia florida; Peach; Grapevine; Guava; Mango|Amritsar; Gurdaspur||
+G04|Schizotetranychus sp|Pear|Jammu||
+G04|Tetranychus cinnabarinus (Boisd)|Bhindi; Brinjal; Rubber plant|Bathinda; Ludhiana; Jakhal; Amritsar; Gurdaspur||
+G04|Brevipalpus californicus (Banks)|Euphorbia; Brinjal; Bhindi|Ludhiana||
+G04|Brevipalpus obovatus (Donnadieu)|Malta|Bathinda||
+G04|Brevipalpus phoenicis (Geij.)|Citrus|Ludhiana||
+G04|Tenuipalpus sp|Plum|Bathinda||
+G04|Terminalicus delhiensis Maninder & Ghai|Guava|Bathinda; Jakhal||
+G04|Amblyseius alstoniae Gupta|Mango; Brinjal|Jammu; Ludhiana||
+G04|Amblyseius finlandicus (Oud.)|Citrus; Bhindi; Brinjal|Ludhiana||
+G04|Amblyseius indicus (Narayanan & Kaur)|Mango|Jammu||
+G04|Amblyseius multidentatus (S. & S.)|Brinjal|Hoshiarpur||
+G04|Amblyseius suknaensis Gupta|Kinnow; sci:Malpighia glabra; Sangtra; Soyabean|Amritsar; Jakhal; Hoshiarpur||
+G04|Amblyseius sp I|sci:Asystasia corromandaliana|Amritsar||
+G04|Amblyseius sp II|Ber|Ludhiana||
+G04|Phytoseius (Pennesdius) minutus Narayanan, Kaur & Ghai|Badam; Brinjal; sci:Tuniperus recura|Bathinda; Jakhal; Amritsar||
+G04|Phytoseius (Phytoseius) roseus Gupta|Bhindi; Brinjal|Ludhiana||
+G04|Typhlodromus eharai Gupta|Kinnow|Bathinda||
+G04|Typhlodromus homalii Gupta|Kinnow; China shoe|Hoshiarpur; Ludhiana||
+G04|Typhlodromus gopali Gupta|Brinjal|Ludhiana||
+G04|Pronematus sp|Bhindi; Brinjal; China rose; Peach; Tobacco|Ludhiana; Gurdaspur; Bathinda||
+G04|Tydeius sp|sci:Asystasia corromandaliana; Bitter guard; sci:Serissia foetida; sci:Malpighia glabra|Amritsar; Ludhiana||
+G04|Tyrophagus putrescentiae (Schrank)|Grapevine|Abohar||
+G04|Suidasia sp|Kinnow|Bathinda||
+# G06 Navsari (printed pp. 153-154): families only, from 178 samples collected in Surat, Valsad, Bharuch and Panchmahals; hosts from the text; no locality per host
+G06|Tetranychidae|Okra; Brinjal; Cucurbits; Indian bean; Pointed gourd; Dolichos; Kidney bean; Sorghum; Ber; Mango; Lemon|||family only
+G06|Tenuipalpidae|Coconut; Jamun; Guava|||family only
+G06|Eriophyidae|Mango; Brinjal; Neem; Sugarcane; Wild trees; Weeds|||family only

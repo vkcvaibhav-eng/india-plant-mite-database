@@ -6,7 +6,7 @@ This is the data repository for Paper 2 of the project *Agricultural mites in In
 
 ## Status (11 November 2026)
 
-Six layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
+Seven layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -110,6 +110,18 @@ Mostly technical programmes and experiments. The survey material is Kalyani's ta
 Coimbatore and Bangalore cover two states each without saying which record is from which, so rows without a place keep a "(not split)" state and are left out of the state comparison. Kalyani's hosts and places are printed as separate lists, so multi-place hosts are recorded as `host_only` and `place_only` rows.
 
 Combined AICRP layers: 3,511 observation rows, 339 species × state pairs, 186 of them not in the Gupta & Mondal (2023) layer.
+
+### Layer 7: AICRP First Group Meeting report, December 1990 (survey chapter, printed pp. 139-154)
+
+Survey tables from six centres: Bangalore's species list with host and place (Karnataka), Kalyani's 50-host table for West Bengal, Bihar and Odisha (no place per row) with stigmaeid and tarsonemid tables that have places and months, Ludhiana's Table 5 of 26 species with separate host and locality lists, Coimbatore's district tables for Tamil Nadu and Kerala, and Navsari's family-level text. Pusa is text only; Varanasi and Hisar sent no report. Notes are in `data/aicrp/transcription/NOTES_1990-group-meeting.md`.
+
+| Measure | Value |
+| --- | ---: |
+| Observation rows | 275 |
+| Distinct mite species names | 64 |
+| Distinct host names | 129 |
+
+Combined AICRP layers: 3,786 observation rows, 346 species x state pairs, 190 of them not in the Gupta & Mondal (2023) layer.
 
 ## Files
 

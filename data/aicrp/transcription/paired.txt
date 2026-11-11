@@ -499,3 +499,74 @@ F06|Cotton|Surat|Phytoseiidae||predatory mites more numerous than phytophagous m
 F06|Pigeonpea|Navsari|Aceria cajani Channabasavanna||sterility mosaic vector; staggered sowing, Feb to April
 # F07 Varanasi (printed p. 5): tentative survey in March 1989 of reported outbreaks in Rajasthan
 F07|Wheat; Coriander|=Durgapura (Jaipur); Jobner|Petrobia latens||plants badly infested, March 1989; barley named in the outbreak reports
+# G03 Kalyani stigmaeid and tarsonemid tables (printed pp. 147-148): host, localities, slide number and tentative identification, 1990
+G03|Abelmoschus esculentus (Bhendi)|=Kalyani; Chakdah; Santipur; Baruipur|Agistemus macrommatus; Agistemus sp.||May 1990; slides 43, 20
+G03|Lantana camara (Weed)|=Haringhata; Kalyani; Burdwan|Agistemus fleschneri||April 1990; slide 38
+G03|Murraya exotica (Ornamental plant)|=Mirik; Kalyani|Agistemus sp.||April 1990; slide 26
+G03|Antirrhinum sp. (Winter annual)|=Calcutta; Shibpore; Kalyani|Agistemus macrommatus||April 1990; slide 31
+G03|Saccharum officinerum (Sugar cane)|Kalyani|Agistemus macrommatus||July 1990; slide 14
+G03|Arachis hypogaea (Groundnut)|Kalyani|Agistemus sp.||May 1990; slide 3
+G03|sci:Phoenix sp.|=Madanpur; Kalyani|Agistemus sp.||May 1990; slide 64
+G03|Zarberra sp. (flowering annual)|Kalyani|Agistemus sp.||June 1990; slide 57; male
+G03|Tiger Lily|Kalimpong|Agistemus sp.||May 1990; slide 25
+G03|Bauhinia purpuria (Kanchan)|Kalyani|Agistemus macrommatus||June 1990; slide number not legible
+G03|Citrus reticulata var. musambi|=Mirik; Kalyani|Agistemus sp.||April, May 1990; male; slide number not legible
+G03|Tagetes patula (Marigold)|=Kalyani; Calcutta; Contai|Polyphagotarsonemus latus||May 1990
+G03|sci:Dahlia|Kalyani|Polyphagotarsonemus latus||April 1990
+G03|Licopersicon esculentum (Chilli)|=Canning; Kalyani; Baruipur|Polyphagotarsonemus latus||April, May 1990; host printed as Licopersicon esculentum
+G03|Corchorus olitorius (Jute)|=Hooghly; Kalyani; Tarakeswar|Polyphagotarsonemus latus||June 1990
+# G05 Coimbatore (printed pp. 151-153): 1990 district-wise survey of Tamil Nadu and Kerala; district carried in the remark; where only a family is printed the family is recorded
+G05|Ribbed gourd|Nanjagoundenpudur|Tetranychus sp.||Coimbatore district
+G05|Castor|Coimbatore|Tetranychus sp.||Coimbatore district
+G05|Bhendi|Coimbatore|Tetranychus ludeni Zacher||Coimbatore district
+G05|Gingelly|Coimbatore|Polyphagotarsonemus latus (Banks)||Coimbatore district
+G05|Eichornia|Coimbatore|Eutetranychus orientalis (Klein)||Coimbatore district
+G05|Coconut palm|Coimbatore|Raoiella indica Hirst||Coimbatore district
+G05|Redgram|Coimbatore|Schizotetranychus cajani Gupta||Coimbatore district
+G05|Chillies|Coimbatore|Polyphagotarsonemus latus||Coimbatore district
+G05|Jasmine|Coimbatore|Tetranychus cinnabarinus||Coimbatore district
+G05|Mulberry|Coimbatore|Aceria mori (Keifer)||Coimbatore district
+G05|Mulberry|Madurai|Aceria mori||Madurai district
+G05|Bhendi|Velur|Tetranychus sp.||Salem district
+G05|Coconut|Velur|Raoiella indica||Salem district
+G05|Sugarcane|Bhavani|Schizotetranychus andropogoni (Hirst)||Periyar district
+G05|Coconut|Bhavani|Raoiella indica||Periyar district
+G05|Brinjal|Pugalur|Tetranychus sp.||Tiruchirapalli district
+G05|Bhendi|Pugalur|Tetranychus sp.||Tiruchirapalli district; ditto marks
+G05|Betelvine|Pugalur|Tetranychus sp.||Tiruchirapalli district; ditto marks
+G05|Brinjal|Chidambarum|Tetranychus sp.||South Arcot district
+G05|Pisum sativum|Ootacamund|Rhizoglyphus sp.||Nilgiris district
+G05|Ber|Periyakulam|Eriophyidae||Anna district; family only
+G05|Ber|Periyakulam|Tetranychidae||Anna district; family only
+G05|Mango|Periyakulam|Tetranychidae||Anna district; family only
+G05|Red palm|Calicut University|Tetranychidae||Mallapuram district, Kerala; family only
+G05|Ficus|Calicut University|Tetranychidae||Mallapuram district, Kerala; family only
+G05|Mussandra|Calicut University|Tetranychidae||Mallapuram district, Kerala; family only
+G05|Sapota|Calicut University|Tetranychidae||Mallapuram district, Kerala; family only
+G05|Unidentified weed|Calicut University|Tetranychidae||Mallapuram district, Kerala; family only
+G05|Ficus religiosa|Calicut University|Tetranychidae||Mallapuram district, Kerala; family only
+G05|Coconut|Kadalundi|Raoiella indica||Calicut district, Kerala
+G05|Red palm|Kadalundi|Raoiella indica||Calicut district, Kerala; ditto marks
+G05|Calotropis|Chaliyam|Tetranychidae||Calicut district, Kerala; family only
+G05|Coconut|Palghat|Raoiella indica||Palghat district, Kerala
+# G01 Bangalore (printed pp. 139-140): list of species identified from places visited in Karnataka, with host and locality as printed
+G01|Oxalis sp.|Nandagudi|Tetranychina harti (Ewing)||
+G01|||Eutetranychus orientalis (Klein)||printed host "several hosts", locality "many places"; no host or place recorded
+G01|Redgram|Bangalore|Eotetranychus broodryki Meyer||
+G01|sci:Pergularia sp.|Devarayana Durga|Eotetranychus strychnosi Meyer||
+G01|Bamboo|Anekal|Eotetranychus bambusae Mohanasundaram||
+G01|Bamboo|Anekal|Stylophoronychus lali (Prasad)||
+G01|Lemon|Calcutta|Schizotetranychus baltazari Rimando||
+G01|Areca|Hirehalli|Oligonychus indicus (Hirst)||
+G01|sci:Ichnocarpus sp.|Puttur|Oligonychus thelytokus Guitterez||
+G01|sci:Pannicum sp.|Bangalore|Oligonychus oryzae (Hirst)||
+G01|Silver oak|Bangalore|Oligonychus biharensis||
+G01|Grass|Nandagudi|Oligonychus pratensis (Banks)||
+G01|Mango|Chintamani|Oligonychus mangiferus (R & S)||
+G01|Cotton|Chintamani|Tetranychus ludeni Zacher||
+G01|Mulberry|Bangalore|Tetranychus sayedi Baker and Pritchard||
+G01|Soybean|Bangalore|Tetranychus macfarlanei Baker and Pritchard||
+G01|Chrysanthemum|Kengeri|Tetranychus urticae Koch||
+G01|Areca|Chitradurga|Tetranychus fijiensis Hirst||
+G01|Amaranthus|Calcutta|Tetranychus neocaledonicus Andre||
+G01|Coconut|Kerala|Dolichotetranychus sp. nov.||printed as a new species

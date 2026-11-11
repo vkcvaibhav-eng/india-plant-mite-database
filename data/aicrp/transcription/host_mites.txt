@@ -371,3 +371,52 @@ F01|Oxalis|Kalyani; Haringhata|Petrobia (Tetranychina) hirti|survey July, Aug. 1
 F01|Paragrass|Mondouri|Oligonychus sp.|survey May 1989; healthy
 F01|Cassia sofera|Kalyani|Amblyseius (Euseius) alstoniae|survey May 1989; healthy
 F01|Bamboo|Kalyani|Aponychus corpuzae; Pronematus sp.; Phytoseius meyerae|survey June 1989; 3-4 year old plantation
+# G02 Kalyani Table 1 (printed pp. 142-146): 50 hosts with crop state and mites; no locality per row; the survey covered West Bengal, four districts of Bihar and five of Orissa, so the state is not split
+G02|sci:Oryza sativa||Oligonychus indicus (Hirst)|2-3 months old, healthy
+G02|Triticum aestivum (Wheat)||Oligonychus sp.|mature, healthy
+G02|sci:Hordium vulgre (Barley)||Oligonychus oryzae (Hirst)|mature, healthy; host spelling as printed
+G02|Zea mays (Maize)||Tetranychus sp.|mature, healthy
+G02|Solanum melongena (Brinjal)||Tetranychus cinnabarinus (Boisd.); Polyphagotarsonemus latus (Banks); Amblyseius multidentatus (Swirski and Schechter); Cunaxa setirostris (Hermann); Amblyseius pruni Gupta|mature, healthy
+G02|Abelmoschus esculentus (Bhendi)||Tetranychus cinnabarinus (Boisd.); Amblyseius longispinosus (Evans); Agistemus macrommatus; Amblyseius fallacis (Garman)|mature, healthy
+G02|Capsicum frutescene (Chilli)||Polyphagotarsonemus latus (Banks)|mature, healthy
+G02|Cucurbita pepo (Cucurbit)||Tetranychus neocaledonicus Andre|3 months old
+G02|Phaseolus sp. (French bean)||Tetranychus sp.|mature
+G02|sci:Corchorus olitorius & C. capsularies (Jute)||Oligonychus coffeae (Nietner); Eotetranychus sp.; Amblyseius (Euseius) ovalis (Evans)|mature and healthy
+G02|Saccharum officinerum (Sugarcane)||Schizotetranychus andropogoni (Hirst); Agistemus macrommatus; Amblyseius sp. (male)|mature and healthy
+G02|Mangifera indica (Mango)||Tetranychus neocaledonicus Andre; Amblyseius (Paraphytoseius) multidentatus (Swirski and Shechter); Cunaxa setirostris (Hermann); Amblyseius largoensis (Muma); Cheletogenes ornatus (Canestrini and Fanzago); Agistemus sp.|young to old plants
+G02|Carica papaya (Papaya)||Panonychus citri; Tetranychus sp.; Amblyseius largoensis (Muma)|4 years old plantation
+G02|Litchi chinensis (Litchi)||Aceria litchii (K.); Acaphylla sp.; Agistemus sp.; Amblyseius largoensis (Muma); Amblyseius syzygii Gupta; Amblyseius herbicolus (Chant); Typhlodromus homalii Gupta; Amblyseius finlandicus (Oud.)|10 years old plantation
+G02|sci:Cocoos nucifera (Coconut)||Raoiella indica Hirst; Amblyseius largoensis (Muma); Oligonychus sp. (male)|10-12 years old plantation
+G02|Phoenix sp. (Date palm)||Agistemus sp.|road side, healthy
+G02|Psidium guajava||Amblyseius largoensis (Muma); Pronematus sp.; Brevipalpus phoenicis (Geij.)|4 years old plantation, healthy
+G02|Ananas comosus (Pineapple)||Dolichotetranychus floridanus (Banks); Rhizoglyphus sp.|old plantation
+G02|Citrus sp.||Agistemus sp. (male); Amblyseius neorykei Gupta|3-4 years old plantation
+G02|Ricinus communis (Reri)||Amblyseius (Euseius) pruni Gupta|healthy
+G02|Arachis hypogaea (Groundnut)||Amblyseius (Euseius) pruni Gupta; Amblyseius largoensis (Muma); Agistemus sp.|mature and healthy
+G02|Sesamum indicum (Sesame)||Pronematus cartiipilis (Baker); Eutetranychus orientalis (Klein)|mature and healthy
+G02|Glycine max (Soyabean)||Tetranychus cinnabarinus (Boisd.)|mature and healthy
+G02|sci:Dahlia variabilis||Polyphagotarsonemus latus (Banks); Tetranychus cinnabarinus (Boisd.)|mature
+G02|Eujenia jumbolana (Black berry)||Amblyseius largoensis (Muma); Tenuipalpus crassus Andre|road side plantation
+G02|Rosa indica (Rose)||Tyrophagus putrescentiae (Schrank); Amblyseius largoensis (Male)|3 years old plantation, healthy
+G02|Mussandra philipica (Massende)||Amblyseius largoensis (Muma)|healthy
+G02|Zizyphus jujuba (Ber)||Oligonychus sp.|very old plantation
+G02|Tagetes patula (Marigold)||Tetranychus neocaledonicus Andre|2 months old, moderately healthy
+G02|sci:Zarbera sp.||Agistemus sp. (male)|1 year old plantation
+G02|Tiger Lily||Agistemus sp.|potted plant, healthy
+G02|sci:Antirrhinum sp.||Cunaxa sp.; Amblyseius pruni Gupta|healthy
+G02|Bauhinia purpuria (Kanchan)||Agistemus macrommatus Gonzalez|healthy
+G02|Nerium olienderi (Kerabi)||Eutetranychus orientalis (Klein)|healthy
+G02|Hibiscus rosa chinensia (Chinarose)||Eutetranychus maximae Nassar and Ghai|healthy
+G02|sci:Galardia||Amblyseius sp.|healthy
+G02|sci:Erythrina indica||Eutetranychus orientalis (Klein)|road side, old plant
+G02|Duranta plumeria (Hedge)||Amblyseius coccineae Gupta|partially damaged by jassid
+G02|Lantana camara (Weed)||Agistemus sp. (immature)|plant infested with mealy bug
+G02|sci:Murraya exotica||Agistemus sp.; Schizotetranychus sp.|
+G02|Croton sparsiflorus (Weed)||Amblyseius largoensis (Muma)|
+G02|sci:Ipomoea sp.||Tydeius sp.|healthy
+G02|Argimone mexicana (Weed)||Tetranychus sp.|
+G02|Thuza compacta (Jhau)||Tydeius sp.|healthy
+G02|Orchid (epiphytic) (Dendrobium sp.)||Chelacaropsis moorei Baker; Mesostigmata|basal portion of leaf sheath dry; printed as Mesostigmatid mite
+G02|Dried prawn||Amblyseius sp. (immature form)|
+G02|Unidentified dried fish||Glycyphagus sp.; Tydeius sp.; Cheyletus eruditus (Schrank)|three rows 47-49 printed on dried fish, hosts of rows 48-49 given by ditto marks
+G02|Stored papaya seed||Cheyletus eruditus (Schrank)|

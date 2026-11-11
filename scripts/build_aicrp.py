@@ -130,7 +130,13 @@ PLACE_STATE.update({
     "APAU, Hyderabad": "Telangana", "APAU campus, Hyderabad": "Telangana", "Kalyani Dam, Thirupathi": "Andhra Pradesh",
     "Surat": "Gujarat", "Bharuch": "Gujarat", "Durgapura (Jaipur)": "Rajasthan", "Jobner": "Rajasthan",
 })
-AMBIGUOUS_PLACES = {"Sujanpur": "Sujanpur exists in Himachal Pradesh and in Punjab"}
+PLACE_STATE.update({
+    **{w: "West Bengal" for w in ("Calcutta", "Shibpore", "Kalimpong", "Canning", "Contai", "Tarakeswar", "Hooghly")},
+    **{w: "Tamil Nadu" for w in ("Nanjagoundenpudur", "Velur", "Bhavani", "Pugalur", "Chidambarum", "Ootacamund", "Periyakulam")},
+    "Calicut University": "Kerala", "Kadalundi": "Kerala", "Chaliyam": "Kerala", "Kerala": "Kerala", "Jammu": "Jammu & Kashmir",
+    **{w: "Karnataka" for w in ("Nandagudi", "Kengeri", "Devarayana Durga", "Anekal", "Puttur", "Chintamani", "Hirehalli")},
+})
+AMBIGUOUS_PLACES = {"Sujanpur": "Sujanpur exists in Himachal Pradesh and in Punjab", "Jakhal": "Jakhal is in Haryana (Fatehabad); the report lists it among its Punjab surveys"}
 
 def split_authority(mite):
     m = re.match(r"^([A-Z][a-z]+(?: \([A-Z][a-z]+\))? [a-z]+)\s+(\(.+\)|[A-Z].*)$", mite)
@@ -167,7 +173,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):
