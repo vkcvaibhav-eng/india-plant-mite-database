@@ -298,3 +298,64 @@ C08|Sesamum|Raichur|Amblyseius sp.||
 C09|Corchorus olitorius (Jute)|Kalyani; Itachuna|Polyphagotarsonemus latus (Banks)||Itachuna is in Hooghly; host and place lists printed for one host
 C09|Gossypium sp. (Cotton)|Kalyani|Polyphagotarsonemus latus (Banks)||
 C09|Vigna sinensis (Cowpea)|Kalyani; Bhaluka; Harindanga|Polyphagotarsonemus latus (Banks)||three localities printed for one host
+# ---- AICRP 1988 (First Workshop, 5-7 October 1988) ----
+# D01 Bangalore, identification of mites (printed p. 24)
+D01|Coconut|Rane Bennur, Bangalore|Oligonychus indicus (Hirst)||'Rane Bennur, Bangalore' printed as one locality entry
+D01|Arecanut|Hiriyur|Oligonychus indicus (Hirst)||
+D01|Sorghum|Bangalore|Oligonychus indicus (Hirst)||
+D01|Jasmine|Manchenahalli, Mysore|Tetranychus cinnabarinus (Boisd.)||
+D01|Redgram|Bangalore|Schizotetranychus cajani Gupta||
+D01|Pongamia pinnata|Bangalore|Schizotetranychus cajani Gupta||printed as a new host
+D01|Dahlia|Solan|Tetranychus ludeni Zacher||printed 'Solan (H.P.)'
+D01|Oxalis|Bangalore|Petrobia harti (Ewing)||
+D01|Arecanut|Hiriyur|Raoiella indica Hirst||
+D01|Redgram|Bangalore|Aceria cajani Channabasavanna||
+# D03 Ludhiana Table I (printed p. 52): pairing of each host with its localities is read from the vertical alignment of the table; '*' (new host record) not carried
+D03|Chenopodium abrosiodes|=Amritsar; Patiala|Brevipalpus obovatus Donnadieu||
+D03|Psidium guajava|=Sangrur; Faridkot; Gurdaspur; Ludhiana|Brevipalpus obovatus Donnadieu||
+D03|Pyrus communis|Ropar|Brevipalpus obovatus Donnadieu||
+D03|Psidium guajava|Sangrur|Brevipalpus assamensis||
+D03|Citrus sinensis|=Kapurthala; Sangrur|Brevipalpus kanachiensis||printed 'kanachiensis'
+D03|Psidium guajava|=Ludhiana; Sangrur; Bhatinda|Brevipalpus phoenicis (Geijskes)||
+D03|Citrus paradisi|Bhatinda|Brevipalpus phoenicis (Geijskes)||
+D03|Calotropis procera|Ropar|Brevipalpus phoenicis (Geijskes)||
+D03|Citrus sinensis|Ropar|Brevipalpus phoenicis (Geijskes)||
+D03|Momordica charantia|Patiala|Brevipalpus phoenicis (Geijskes)||host printed 'Memordica charantia'
+D03|Unidentified plant|=Ropar; Amritsar|Brevipalpus rugulosus||
+D03|Psidium guajava|=Ludhiana; Patiala; Bhatinda|Brevipalpus tinsukiaensis||
+D03|Citrus sinensis|Ludhiana|Brevipalpus tinsukiaensis||
+D03|Achras zapota|Amritsar|Tenuipalpus jagatkhanaensis||
+D03|Pyrus communis|Jullundur|Tenuipalpus solanensis||
+D03|Psidium guajava|Sangrur|Tenuipalpus ludhianaensis||
+D03|Pyrus communis|Ludhiana|Tenuipalpus kesari||
+D03|Achras zapota|Amritsar|Tenuipalpus kesari||printed 'Achras japota'
+D03|Mangifera indica|Jullundur|Tenuipalpus kesari||
+D03|Ficus carica|Hoshiarpur|Tenuipalpus sharmai||
+D03|Citrus limon|Jullundur|Priscapalpus sp.||genus printed as new record for India
+D03|Citrus sinensis|Bhatinda|Priscapalpus sp.||
+D03|Citrus medica|Bhatinda|Priscapalpus sp.||
+D03|Morus alba|Ropar|Priscapalpus sp.||
+D03|Psidium guajava|=Gurdaspur; Sangrur|Priscapalpus sp.||
+D03|Bhambola|Kapurthala|Priscapalpus sp.||
+D03|Psidium guajava|=Ludhiana; Gurdaspur|Terminalichus sp.||printed 'Terminalicus sp.'
+D03|Citrus limon|Faridkot|Ultratenuipalpus sp.||
+D03|Psidium guajava|Ludhiana|Ultratenuipalpus sp.||
+# D04 Hisar material identified at Ludhiana, Table II (printed p. 53); collected at HAU Hisar 1985-87, slide numbers not carried
+D04|Anjir|HAU Hisar|Brevipalpus rica||epithet as printed; collected 28.10.86
+D04|Lemon|HAU Hisar|Brevipalpus californicus||collected 8.1.87
+D04|Tecoma|HAU Hisar|Brevipalpus karachiensis||collected 2.1.87
+D04|Ber|HAU Hisar|Brevipalpus phoenicis||collected 15.11.86
+D04|Jowar|HAU Hisar|Tetranychus sp.||two slides, female; date not given
+D04|Chandni|HAU Hisar|Brevipalpus tinsukiaensis||collected 19.7.85
+D04|Anjir|HAU Hisar|Tetranychus sp.||two slides, female; collected 20.4.87 and 29.11.87
+D04|Anjir|HAU Hisar|Brevipalpus californicus||collected 20.4.87
+# D05 Pusa (printed p. 112): brief survey May-June 1988 around the R.A.U. campus; population classes High (more than 10 mites/cm2), Moderate (5-10), Low (1-5)
+D05|Abelmoschus esculentus|Pusa|Tetranychus ludeni Zacher|High|
+D05|Solanum melongena|Pusa|Tetranychus ludeni Zacher|High|
+D05|Citrus sp.|Pusa|Tetranychus ludeni Zacher|Low|
+D05|Cucumis sativus|Pusa|Tetranychus ludeni Zacher|Moderate|
+D05|Phaseolus vulgaris|Pusa|Tetranychus ludeni Zacher|High|
+D05|Abelmoschus esculentus|Pusa|Tetranychus neocaledonicus|Low|
+D05|Carica papaya|Pusa|Tetranychus neocaledonicus|Low|
+D05|Cucurbita sp.|Pusa|Tetranychus neocaledonicus|Moderate|
+D05|Litchi chinensis|Pusa|Aceria litchii Keifer|High|

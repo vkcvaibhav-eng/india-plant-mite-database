@@ -239,3 +239,69 @@ C07|Ber||Typhlodromus homalii Gupta|table row 44
 C07|Ber||Brevipalpus californicus (Banks)|table row 45
 C07|Mousumi citrus||Eutetranychus orientalis (Klein)|table row 46
 C07|Lemon citrus||Brevipalpus californicus (Banks)|table row 47
+# ---- AICRP 1988 ----
+# D02 Coimbatore survey list (printed pp. 29-31): survey in Tamil Nadu and Kerala, 29.4.88 to 31.8.88, locality per row not printed. Eriophyoid authorities 'MMS' as printed.
+D02|sci:Solanum sp.||Polyphagotarsonemus latus (Banks)|row 1
+D02|sci:Passiflora edulis||Brevipalpus sp.|row 2
+D02|sci:Artocarpus integrifolia||Brevipalpus sp.|row 3
+D02|sci:Chrysanthemum sp.||Tarsonemus smithi|row 4
+D02|sci:Chrysanthemum sp.||Tenuipalpus sp.|row 5
+D02|sci:Cymbopogon martini||Aceria cymbapogonis MMS|row 6
+D02|sci:Ipomoea sp.||Aceria gastrotrichus Nalepa|row 7
+D02|sci:Solanum sp.||Phytoseius sp.|row 8
+D02|sci:Artocarpus incisor||Brevipalpus sp.|row 9; host as printed
+D02|sci:Oryza sativa||Chiracus sulcatus Keifer|row 10
+D02|sci:Morus alba||Aceria mori Keifer|row 11
+D02|Flowers of chrysanthemum||Tarsonemus sp.|row 12
+D02|sci:Ipomoea batatas||Brevipalpus deleoni Pritchard & Baker|row 13
+D02|sci:Moringa pterygosperma||Aculus pterygospermae MMS|row 14
+D02|sci:Psidium guajava||Schleoribatus sp.|row 15; printed family Orebatidae
+D02|sci:Nyctanthus sp.||Tenuipalpus sp.|row 16
+D02|sci:Cynodon dactylon||Tarsonemus sp.|row 17
+D02|sci:Euochloa reptans||Tetranychus sp.|row 18; host name cut at the page edge
+D02|sci:Millingtonia hortensis||Calacarus millingtoniae MMS|row 19
+D02|sci:Artocarpus integrifolia||Diptilomiopus artocarpae MMS|row 20
+D02|sci:Sorghum vulgare||Oligonychus indicus|row 21
+D02|sci:Solanum melongena||Polyphagotarsonemus latus (Banks)|row 22
+D02|sci:Manihot utilissima||Tetranychus neocaledonicus|row 23
+D02|sci:Jasminum grandiflorum||Brevipalpus sp.|row 24
+D02|sci:Jasminum sambac||Tetranychus sp.|row 25; host name cut at the page edge
+D02|sci:Murraya koenigii||Eutetranychus sp.|row 26; host name cut at the page edge
+D02|sci:Acacia sp.||Aceria acaciae MMS|row 27
+D02|sci:Murraya koenigii||Tetranychus sp.|row 28; host name cut at the page edge
+D02|sci:Artocarpus integrifolia||Ditrimacus integripliae MMS|row 29; epithet as printed
+D02|sci:Rosa sinensis||Tetranychus sp.|row 30; host name cut at the page edge
+D02|sci:Ailanthus excelsa||Tetranychus sp.|row 31
+D02|sci:Cocos nucifera||Neocypholaelaps stridulens|row 32; family Ameroseiidae
+D02|sci:Mangifera indica||Neocalaconus mangiferae|row 33
+D02|sci:Mangifera indica||Aceria mangiferae|row 34
+D02|Bhendi||Tetranychus cinnabarinus|row 35
+D02|sci:Clitoria sp.||Tetranychus sp.|row 36
+D02|sci:Ipomoea sp.||Tegonotus convolvuli|row 37
+D02|sci:Jasminum auriculatum||Aceria jasmini|row 38
+D02|sci:Saccharum officinarum||Aceria sacchari|row 39
+D02|sci:Leptadenia reticulata||Tetranychus sp.|row 40
+# D08 Varanasi Table 1.3, field, ornamental and other crops (printed pp. 85-86): locality is Varanasi centre only (no distribution column)
+D08|sci:Cajanus cajan||Eotetranychus sp.|pigeon pea
+D08|sci:Cajanus cajan||Tetranychus sp.|pigeon pea
+D08|sci:Cassia fistula||Eutetranychus annecki|Amaltash; printed 'Casia fishela' and 'annecKei'
+D08|sci:Jasminum sambac||Eutetranychus annecki|jasmine
+D08|sci:Bauhinia variegata||Eutetranychus annecki|Kachnar
+D08|sci:Ficus infectoria||Eutetranychus annecki|Pakar
+D08|sci:Saccharum officinarum||Schizotetranychus andropogoni|sugarcane
+D08|sci:Dracaena sp.||Brevipalpus creber|Dresina; printed as a new record for India
+D08|sci:Achras sapota||Tenuipalpus keiensis|sapodilla
+D08|sci:Brassica campestris||Anystis sp.|mustard
+D08|sci:Cineraria sp.||Anystis sp.|
+D08|sci:Chrysanthemum sp.||Paraphytoptus chrysanthemi|
+D08|sci:Cordia myxa||Aceria cordiae|Litora; printed 'Cordia mixa'
+D08|sci:Saccharum officinarum||Aceria sacchari|sugarcane; printed 'sacchari'
+D08|sci:Dalbergia sissoo||Tetranychus sp.|printed as 'Tetra sisso' and host 'Dalbergia sisso'; Seasum
+D08|sci:Petunia sp.||Tetranychus sp.|printed as 'Tetra pitunia'
+D08|sci:Chrysanthemum sp.||Agistemus sp.|
+D08|sci:Plumeria aeculifolia||Tydeus (Pertydeus) schensteri|Champa; host printed 'aeculifolia'
+D08|sci:Cajanus cajan||Amblyseius (Euseius) sp.|pigeon pea
+D08|sci:Stereulia diversifolia||Amblyseius (Euseius) sp.|Mad tree
+D08|sci:Dailemia sp.||Amblyseius (Euseius) alstoniae|host as printed
+D08|sci:Cassia fistula||Amblyseius sp.|Amaltash
+D08|sci:Ricinus communis||Amblyseius (Typhlodromips) siggii|castor; epithet as printed

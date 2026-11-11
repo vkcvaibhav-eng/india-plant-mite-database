@@ -336,3 +336,121 @@ C11|Phytoseius indicus Bhattacharyya|Brinjal|||Table 17 row 7; 1 specimen
 C11|Phytoseius jujuba Gupta|Ber|||Table 17 row 8; 1 specimen
 C11|Phytoseius roseus Gupta|Anjeer; Ber; Mousumi|||Table 17 row 9; 4 specimens
 C11|Typhlodromus homalii Gupta|Arjun tree; Ber; Mango|||Table 17 row 10; 3 specimens
+# ---- AICRP 1988 ----
+# D06 Varanasi Table 1.1, mites associated with fruit plants in Uttar Pradesh (printed pp. 72-78): hosts and districts listed separately per species, never paired; '*' (new host record) not carried. Almora and Nainital were in Uttar Pradesh in 1988 and are in Uttarakhand now.
+D06|Bryobia praetiosa Koch|sci:Pyrus communis|Nainital||
+D06|Tetranychus cinnabarinus (Boisd.)|sci:Malus sylvestris; sci:Citrus grandis; sci:Citrullus vulgaris; sci:Cucumis sativus|Varanasi; Allahabad; Jaunpur|phytophagous|
+D06|Tetranychus neocaledonicus Andre|sci:Ficus carica; sci:Mangifera indica|Varanasi; Azamgarh; Allahabad|phytophagous|
+D06|Tetranychus urticae Koch|sci:Citrullus vulgaris|Allahabad; Varanasi|phytophagous|
+D06|Tetranychus ludeni Zacher|sci:Citrullus vulgaris; sci:Citrullus melo utilissimus; sci:Cucumis sativus|Varanasi; Allahabad; Pratapgarh; Jaunpur|phytophagous|
+D06|Tetranychus macfarlanei Baker & Pritchard|sci:Citrullus melo utilissimus; sci:Cucumis sativus|Allahabad; Varanasi|phytophagous|
+D06|Tetranychus papayae Nassar & Ghai|sci:Carica papaya|Varanasi|phytophagous|
+D06|Eutetranychus orientalis (Klein)|sci:Malus sylvestris; sci:Ziziphus jujuba; sci:Ficus glomerata; sci:Artocarpus heterophyllus; sci:Prunus persica; sci:Pyrus communis; sci:Citrus grandis; sci:Grewia asiatica|Varanasi; Jaunpur; Ghazipur; Lucknow; Allahabad; Azamgarh|phytophagous|printed as of economic importance and widespread damage
+D06|Eutetranychus annecki Meyer|sci:Citrus limon; sci:Ficus glomerata|Lucknow; Varanasi; Allahabad; Azamgarh; Ballia|phytophagous|
+D06|Eutetranychus africanus (Tucker)|sci:Carica papaya|Varanasi|phytophagous|
+D06|Panonychus ulmi Koch|sci:Prunus domestica|Almora; Nainital|phytophagous|
+D06|Panonychus citri (McGregor)|sci:Citrus limon|Almora; Nainital|phytophagous|
+D06|Eotetranychus hirsti Pritchard & Baker|sci:Ficus carica|Varanasi; Azamgarh; Lucknow; Shahjahanpur|phytophagous|printed as causing considerable damage to fig
+D06|Oligonychus mangiferus Rahman & Sapra|sci:Mangifera indica; sci:Syzygium cumini; sci:Eriobotrya japonica|Varanasi; Allahabad; Pratapgarh; Shahjahanpur|phytophagous|
+D06|Brevipalpus phoenicis (Geijskes)|sci:Malus sylvestris; sci:Aegle marmelos; sci:Vitis vinifera; sci:Psidium guajava; sci:Carica papaya; sci:Citrus aurantifolia|Varanasi; Allahabad; Jaunpur; Lucknow; Pratapgarh; Ghazipur|phytophagous|
+D06|Brevipalpus essigi Baker|sci:Malus sylvestris|Almora|phytophagous|
+D06|Brevipalpus creber Chaudhri|sci:Citrus limon|Allahabad|phytophagous|printed as first record for India
+D06|Brevipalpus rugulosus Chaudhri, Akbar & Rasool|sci:Citrus limon|Varanasi|phytophagous|
+D06|Brevipalpus phoenicoides Gonzalez|sci:Psidium guajava|Allahabad|phytophagous|printed 'Gonzliz'
+D06|Brevipalpus malviyai sp. nov.|sci:Citrus grandis; sci:Ficus carica|Varanasi|phytophagous|printed as new species
+D06|Tenuipalpus dimensus Chaudhri|sci:Prunus persica|Shahjahanpur|phytophagous|
+D06|Tenuipalpus granati Sayed|sci:Punica granatum|Varanasi; Allahabad; Lucknow|phytophagous|
+D06|Raoiella indica Hirst|sci:Cocos nucifera|Varanasi|phytophagous|
+D06|Eriophyes cernuus Massee|sci:Ziziphus jujuba|Varanasi; Jaunpur; Ghazipur; Allahabad|phytophagous|printed as 'cernuus'; causes galls
+D06|Aceria ficus (Cotte)|sci:Ficus carica|Varanasi|phytophagous|
+D06|Aceria litchii (Keifer)|sci:Litchi chinensis|Varanasi|phytophagous|printed 'litchi'
+D06|Aceria mangiferae Sayed|sci:Mangifera indica|Varanasi; Jaunpur; Ghazipur; Allahabad; Azamgarh|phytophagous|associated with mango malformation
+D06|Eriophyes erineus (Nalepa)|sci:Juglans regia|Almora|phytophagous|printed as first record for India; galls on walnut leaves
+D06|Aceria granati (Canestrini & Massalongo)|sci:Punica granatum|Varanasi|phytophagous|
+D06|Aceria mori (Keifer)|sci:Morus alba|Varanasi|phytophagous|
+D06|Colomerus vitis (Pagenstecher)|sci:Vitis vinifera|Almora; Nainital|phytophagous|galls on grape leaves
+D06|Acaphylla syzygii Channabasavanna|sci:Syzygium cumini|Varanasi|phytophagous|
+D06|Cisaberoptus kenyae Keifer|sci:Mangifera indica|Varanasi|phytophagous|printed as first record for north India
+D06|Tarsonemus occidentalis Swing|sci:Mangifera indica|Varanasi||printed as first record for India
+D06|Pronematus fleschneri Baker|sci:Syzygium cumini; sci:Psidium guajava; sci:Punica granatum|Varanasi; Allahabad; Pratapgarh||
+D06|Pronematus sextoni Baker|sci:Artocarpus heterophyllus; sci:Ziziphus jujuba; sci:Psidium guajava|Lucknow; Varanasi||printed as first record for India
+D06|Pronematus ubiquitus Baker|sci:Ficus carica; sci:Pyrus communis|Varanasi; Allahabad||
+D06|Pronematus viswanathi sp. nov.|sci:Ziziphus jujuba; sci:Psidium guajava|Varanasi||printed as new species
+D06|Tydeus (Tydeus) nainitalensis sp. nov.|sci:Malus sylvestris; sci:Prunus armeniaca; sci:Prunus domestica|Nainital||printed as new species
+D06|Tydeus (Tydeus) jugalansae sp. nov.|sci:Juglans regia|Almora||printed as new species
+D06|Cunaxa setirostris Hermann|sci:Citrus grandis; sci:Psidium guajava|Varanasi|predator|
+D06|Agistemus macrommatus Summers|sci:Carica papaya|Varanasi|predator|printed as first record for India
+D06|Agistemus kashiensis sp. nov.|sci:Malus sylvestris|Varanasi|predator|printed as new species
+D06|Agistemus sp.|sci:Citrus grandis|Varanasi|predator|
+D06|Cheletogenes ornatus (Canestrini & Fanzago)|sci:Mangifera indica; sci:Malus sylvestris|Shahjahanpur; Varanasi|predator|
+D06|Cheletominus varanasiensis sp. nov.|sci:Malus sylvestris|Varanasi|predator|printed as new species
+D06|Leptus giganticus Khot|sci:Citrus limon|Varanasi||Erythraeidae
+D06|Amblyseius (Euseius) alstoniae Gupta|sci:Malus sylvestris; sci:Aegle marmelos; sci:Psidium guajava; sci:Ficus glomerata; sci:Carica papaya; sci:Punica granatum|Varanasi; Ballia; Lucknow; Azamgarh|predator|
+D06|Amblyseius (Euseius) delhiensis Narayanan & Kaur|sci:Vitis vinifera; sci:Citrullus vulgaris|Varanasi; Allahabad|predator|
+D06|Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter)|sci:Pyrus communis|Varanasi; Allahabad|predator|
+D06|Phytoseius (Phytoseius) corniger Wainstein|sci:Malus sylvestris|Varanasi|predator|
+D06|Phytoseius (Phytoseius) roseus Gupta|sci:Ziziphus jujuba; sci:Ficus carica|Varanasi; Allahabad; Shahjahanpur; Lucknow; Azamgarh|predator|
+D06|Phytoseius (Phytoseius) intermedius Evans & Macfarlane|sci:Ziziphus jujuba|Varanasi|predator|
+D06|Phytoseius (Phytoseius) sp.|sci:Psidium guajava|Varanasi|predator|
+D06|Typhlodromus (Amblydromella) homalii Gupta|sci:Syzygium cumini; sci:Citrus grandis|Varanasi|predator|printed 'homalli'
+D06|Typhlodromus (Amblydromella) himalayensis Gupta|sci:Punica granatum|Varanasi|predator|
+D06|Indodromus meerutensis Ghai & Menon|sci:Mangifera indica|Allahabad|predator|
+D06|Acarus farris (Oudemans)|sci:Malus sylvestris; sci:Prunus persica|Varanasi|stored product|printed as first record for India
+D06|Tyrophagus putrescentiae (Schrank)|sci:Ficus carica; sci:Syzygium cumini; sci:Citrullus melo utilissimus; sci:Cucumis sativus|Varanasi; Allahabad||
+D06|Liacarus sp.|sci:Mangifera indica|Varanasi||Cryptostigmata
+D06|Hydrozetes terrestris Berlese|sci:Trapa natans|Varanasi||Cryptostigmata
+D06|Trimalaconothrus heterotrichus Wallwork|sci:Trapa natans|Varanasi||Cryptostigmata
+D06|Scheloribates sp.|sci:Trapa natans|Varanasi||Cryptostigmata
+# D07 Varanasi Table 1.2, mites associated with vegetable crops in Uttar Pradesh (printed pp. 80-84): hosts and districts listed separately per species
+D07|Eutetranychus annecki Mayer|sci:Abelmoschus esculentus; sci:Lagenaria siceraria; sci:Luffa acutangula|Allahabad; Azamgarh; Ballia; Lucknow; Varanasi|phytophagous|
+D07|Eutetranychus bredini Baker & Pritchard|sci:Solanum melongena|Varanasi|phytophagous|
+D07|Eutetranychus orientalis (Klein)|sci:Abelmoschus esculentus; sci:Dolichos lablab; sci:Luffa acutangula; sci:Luffa cylindrica; sci:Solanum melongena; sci:Trichosanthes dioica|Allahabad; Azamgarh; Ballia; Ghazipur; Jaunpur; Lucknow; Sitapur; Varanasi|phytophagous|printed: sponge gourd, brinjal and pointed gourd are new hosts
+D07|Schizotetranychus andropogoni (Hirst)|sci:Luffa cylindrica; sci:Solanum melongena|Varanasi|phytophagous|printed as first record from Uttar Pradesh and on vegetables
+D07|Tetranychus cinnabarinus (Boisd.)|sci:Abelmoschus esculentus; sci:Brassica oleracea; sci:Citrullus lanatus; sci:Cucumis sativus; sci:Dolichos lablab; sci:Lagenaria siceraria; sci:Luffa cylindrica; sci:Lycopersicon esculentum; sci:Momordica charantia; sci:Solanum melongena|Azamgarh; Jaunpur; Varanasi|phytophagous|
+D07|Tetranychus macfarlanei Baker & Pritchard|sci:Abelmoschus esculentus; sci:Citrullus melo utilissimus; sci:Cucurbita moschata; sci:Cucumis sativus; sci:Lagenaria siceraria; sci:Luffa acutangula; sci:Vigna unguiculata|Varanasi|phytophagous|
+D07|Tetranychus ludeni Zacher|sci:Abelmoschus esculentus; sci:Brassica oleracea; sci:Citrullus lanatus; sci:Citrullus melo utilissimus; sci:Cucurbita moschata; sci:Cucumis sativus; sci:Luffa cylindrica; sci:Lycopersicon esculentum; sci:Phaseolus vulgaris; sci:Solanum melongena; sci:Vicia faba; sci:Vigna unguiculata|Allahabad; Jaunpur; Mirzapur; Pratapgarh; Rae Bareli; Varanasi|phytophagous|
+D07|Tetranychus neocaledonicus Andre|sci:Abelmoschus esculentus; sci:Brassica oleracea; sci:Cucurbita moschata; sci:Lagenaria siceraria; sci:Solanum melongena; sci:Trichosanthes cucumerina; sci:Vigna unguiculata|Allahabad; Azamgarh; Varanasi|phytophagous|
+D07|Tetranychus urticae Koch|sci:Capsicum annuum; sci:Citrullus lanatus|Varanasi|phytophagous|chilli printed as new host
+D07|Brevipalpus californicus (Banks)|sci:Abelmoschus esculentus; sci:Dolichos lablab; sci:Lagenaria siceraria|Varanasi|phytophagous|
+D07|Brevipalpus phoenicis (Geijskes)|sci:Abelmoschus esculentus; sci:Dolichos lablab; sci:Lagenaria siceraria; sci:Luffa acutangula; sci:Luffa cylindrica; sci:Lycopersicon esculentum; sci:Momordica charantia; sci:Solanum melongena|Ghazipur; Pratapgarh; Varanasi|phytophagous|
+D07|Brevipalpus rugulosus Chaudhri, Akbar & Rasool|sci:Dolichos lablab; sci:Luffa acutangula|Varanasi|phytophagous|
+D07|Brevipalpus creber Chaudhri|sci:Momordica charantia|Allahabad|phytophagous|
+D07|Acaphylla sp.|sci:Dolichos lablab|Varanasi|phytophagous|
+D07|Aculops lycopersici (Massee)|sci:Lycopersicon esculentum; sci:Solanum melongena|Allahabad; Varanasi|phytophagous|
+D07|Polyphagotarsonemus latus (Banks)|sci:Capsicum annuum; sci:Luffa cylindrica; sci:Lycopersicon esculentum; sci:Solanum melongena|Allahabad; Azamgarh; Varanasi|phytophagous|
+D07|Agistemus industani Gonzalez-Rodriguez|sci:Cucurbita moschata; sci:Lagenaria siceraria|Azamgarh; Varanasi|predator|a third host line at the page break is overprinted and not read
+D07|Agistemus macrommatus Gonzalez-Rodriguez|sci:Lagenaria siceraria; sci:Momordica charantia; sci:Solanum melongena|Varanasi|predator|
+D07|Pronematus fleschneri Baker|sci:Cucurbita moschata; sci:Momordica charantia; sci:Solanum melongena|Allahabad; Ballia; Pratapgarh; Varanasi||
+D07|Amblyseius (Euseius) delhiensis Narayanan|sci:Citrullus lanatus; sci:Phaseolus vulgaris|Varanasi|predator|two Citrullus lanatus varieties printed (Local and Sugarbaby)
+D07|Amblyseius (Neoseiulus) indicus Narayanan & Kaur|sci:Lagenaria siceraria|Varanasi|predator|
+D07|Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter)|sci:Raphanus sativus; sci:Solanum melongena; sci:Trichosanthes cucumerina; sci:Vigna unguiculata|Allahabad; Varanasi|predator|
+D07|Phytoseius (Pennaseius) sp.|sci:Solanum tuberosum; sci:Solanum melongena|Azamgarh; Varanasi|predator|species name overprinted and not legible
+D07|Typhlodromus (Typhloctonus) malviyai sp. nov.|sci:Solanum melongena|Varanasi|predator|printed as new species
+D07|Tyrophagus putrescentiae (Schrank)|sci:Citrullus melo utilissimus; sci:Cucumis sativus; sci:Raphanus sativus|Allahabad; Ghazipur; Jaunpur; Mirzapur; Varanasi||
+D07|Anystis sp.|sci:Brassica juncea|Varanasi||Anystidae
+# D09 Varanasi Table 1.4, mites on aquatic weeds (printed pp. 88-89): presence on nine weeds with the table's population signs (+ low, ++ moderate, +++ high). Two unidentified mites (rows 10, 11, 20) are not transcribed.
+D09|Eotetranychus sp.|sci:Eichhornia crassipes; sci:Hydrilla verticillata||phytophagous|Eichhornia +; Hydrilla ++
+D09|Eutetranychus orientalis (Klein)|sci:Eichhornia crassipes; sci:Nelumbo nucifera; sci:Ipomoea aquatica||phytophagous|Eichhornia ++; Nelumbo +; Ipomoea +
+D09|Tetranychus sp.|sci:Hydrilla verticillata; sci:Bacopa monnieri||phytophagous|Hydrilla +; Bacopa ++; host printed 'Bacopa monera'
+D09|Tarsonemus sp.|sci:Eichhornia crassipes||phytophagous|Eichhornia ++
+D09|Agistemus sp.|sci:Eichhornia crassipes||predator|Eichhornia +
+D09|Cunaxa sp.|sci:Salvinia natans||predator|Salvinia ++
+D09|Dactyloscirus sp.|sci:Salvinia natans||predator|Salvinia ++
+D09|Pseudocunaxa sp.|sci:Eichhornia crassipes; sci:Hydrilla verticillata; sci:Nelumbo nucifera||predator|Eichhornia ++; Hydrilla +; Nelumbo +
+D09|Scirula sp.|sci:Eichhornia crassipes||predator|Eichhornia +
+D09|Platyseius subglaber|sci:Eichhornia crassipes; sci:Salvinia natans; sci:Nelumbo nucifera; sci:Marsilea minuta; sci:Ipomoea aquatica; sci:Lemna minor||predator|Eichhornia +; Salvinia +++; Nelumbo +; Marsilea +; Ipomoea ++; Lemna ++
+D09|Lasioseius sp.|sci:Eichhornia crassipes; sci:Salvinia natans||predator|Eichhornia ++; Salvinia +++
+D09|Aceoseius sp.|sci:Eichhornia crassipes||predator|Eichhornia +
+D09|Holostaspella sp.|sci:Eichhornia crassipes; sci:Hydrilla verticillata||predator|Eichhornia +; Hydrilla +
+D09|Ololaelaps sellnicki|sci:Eichhornia crassipes||predator|Eichhornia +
+D09|Pseudoparasitus sp.|sci:Eichhornia crassipes||predator|Eichhornia +
+D09|Acarus sp.|sci:Eichhornia crassipes|||Eichhornia +
+D09|Tyrophagus putrescentiae|sci:Eichhornia crassipes|||Eichhornia +
+D09|Trimalaconothrus heterotrichus|sci:Eichhornia crassipes; sci:Salvinia natans|||Eichhornia +++; Salvinia +
+D09|Hydronothrus sp.|sci:Eichhornia crassipes; sci:Salvinia natans; sci:Nelumbo nucifera; sci:Ipomoea aquatica; sci:Lemna minor|||Eichhornia ++; Salvinia +++; Nelumbo ++; Ipomoea +; Lemna +; printed 'Hoidronothrus'
+D09|Hydrozetes terrestris|sci:Eichhornia crassipes; sci:Salvinia natans; sci:Hydrilla verticillata; sci:Nelumbo nucifera|||Eichhornia +++; Salvinia +++; Hydrilla +; Nelumbo +
+D09|Heterozetes sp.|sci:Eichhornia crassipes|||Eichhornia +
+D09|Neoribates sp.|sci:Bacopa monnieri|||Bacopa +
+D09|Scheloribates sp.|sci:Eichhornia crassipes|||Eichhornia ++
+D09|Galumna sp.|sci:Eichhornia crassipes; sci:Salvinia natans; sci:Marsilea minuta; sci:Ipomoea aquatica|||Eichhornia +++; Salvinia +++; Marsilea +; Ipomoea +
+D09|Punctoribates longiporusus|sci:Eichhornia crassipes|||Eichhornia +

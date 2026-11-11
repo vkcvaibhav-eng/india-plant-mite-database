@@ -2,6 +2,7 @@
 
 Source reports (annual reports of the All India Coordinated Research Project on Agricultural Acarology):
   AICRP 1996-98  (survey chapter IV.1, printed pp. 185-212)
+  AICRP 1988     (First Workshop, 5-7 October 1988; survey tables of Bangalore, Coimbatore, Ludhiana, Hisar material, Pusa, Varanasi)
   AICRP 1990-91  (survey chapter I, printed pp. 9-39; Bangalore has localities only, Chapter II taxonomic study not yet transcribed)
 Each transcribed row keeps the text as printed apart from obvious OCR noise (flagged in 'note').
 
@@ -59,10 +60,12 @@ for fam, gens in {
     "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella Stylophoronychus",
     "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus Obuloides",
     "Tarsonemidae": "Polyphagotarsonemus Tarsonemus Stenotarsonemus Fungitarsonemus Lupotarsonemus",
-    "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus",
+    "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus Aculus Aculops Chiracus Diptilomiopus Ditrimacus Tegonotus Neocalaconus",
     "Phytoseiidae": "Amblyseius Phytoseius Typhlodromus Indodromus Platyseiella",
     "Tuckerellidae": "Tuckerella", "Anystidae": "Anystis",
-    "Tydeidae": "Pronematus Tydeus Lorryia", "Stigmaeidae": "Agistemus Mediolata", "Cunaxidae": "Cunaxa",
+    "Cunaxidae": "Cunaxa Dactyloscirus Pseudocunaxa Scirula", "Laelapidae": "Ololaelaps Pseudoparasitus", "Galumnidae": "Galumna",
+    "Ameroseiidae": "Neocypholaelaps",
+    "Tydeidae": "Pronematus Tydeus Lorryia", "Stigmaeidae": "Agistemus Mediolata", 
     "Cheyletidae": "Cheletogenes Cheletominus Hemicheyletia Cheyletus Cheletomorpha Chelacaropsis Cheletacarus Chelonotus Neoacaropsis Acaropsis",
     "Erythraeidae": "Sphaerolophus", "Bdellidae": "Bdella",
     "Acaridae": "Acarus Tyrophagus Rhizoglyphus Suidasia Lardoglyphus", "Ascidae": "Lasioseius",
@@ -98,6 +101,9 @@ for st, places in {
 PLACE_STATE.update({"Fatehgarh Sahib": "Punjab", "Dehra Baba Nanak": "Punjab", "Dera Baba Nanak": "Punjab"})
 for bad in ("Fatehgarh", "Sahib", "Dehra", "Baba", "Nanak"):
     PLACE_STATE.pop(bad, None)
+PLACE_STATE.update({"Almora": "Uttarakhand", "Nainital": "Uttarakhand", "Shahjahanpur": "Uttar Pradesh", "Sitapur": "Uttar Pradesh", "Rae Bareli": "Uttar Pradesh",
+                    "Jullundur": "Punjab", "Bhatinda": "Punjab", "Faridkot": "Punjab", "Kapurthala": "Punjab", "Gurdaspur": "Punjab", "Solan": "Himachal Pradesh",
+                    "Rane Bennur": "Karnataka", "Hiriyur": "Karnataka", "HAU Hisar": "Haryana"})
 PLACE_STATE.update({"Jog falls": "Karnataka", "Ghati Subramanya": "Karnataka", "Makali Durga": "Karnataka",
                     "Pothnal": "Karnataka", "Raichur": "Karnataka", "Sindhanur": "Karnataka", "Chintamani": "Karnataka",
                     "Hessarghatta": "Karnataka", "Jawalgere": "Karnataka", "Jawalgare": "Karnataka", "Mandya": "Karnataka", "Hebbal": "Karnataka"})
@@ -153,12 +159,14 @@ def add(block_id, mite, hosts, places, status, note, pairing, code=""):
     for piece in re.split(r"\s+and\s+(?=[A-Z][a-z]+id\b)", mite) if " and " in mite and mite.lower().endswith(("bdellid", "bdellidae")) else [mite]:
         remark = ""
         if " ~ " in piece: piece, remark = [x.strip() for x in piece.split(" ~ ", 1)]
+        if piece.endswith(" sp. nov."):
+            piece = piece[:-len(" sp. nov.")].strip(); remark = "; ".join(x for x in (remark, "printed as sp. nov. in the report") if x)
         base, auth = split_authority(piece)
         name = expand(base)
         name, rank = classify(name)
         family = name if rank == "family" else GENUS_FAMILY.get(name.split()[0], "")
         combos = []
-        if len(places) > 1 and hosts:
+        if len(places) > 1 and hosts and pairing != "force":
             combos = [(h, "", "host_only") for h in hosts] + [("", pl, "place_only") for pl in places]
         elif places:
             combos = [(h, pl, "host_and_place_paired" if h else "place_only") for h in (hosts or [""]) for pl in places]
@@ -170,7 +178,7 @@ def add(block_id, mite, hosts, places, status, note, pairing, code=""):
             st, basis = (place_state(pl, b["state"]) if pl else (b["state"], "centre_state"))
             if pl and block_id in MULTI_STATE and basis in ("centre_state", "ambiguous_place"):
                 unresolved[(block_id, pl, b["state"], basis)] += 1
-            extra = "host and place lists printed separately for this species" if len(places) > 1 and hosts else ""
+            extra = "host and place lists printed separately for this species" if len(places) > 1 and hosts and pairing != "force" else ""
             obs.append({
                 "obs_id": "", "block_id": block_id, "report": b["report"], "centre": b["centre"], "institute": b["institute"],
                 "survey_period": b["survey_period"], "pdf_pages": b["pdf_pages"], "printed_pages": b["printed_pages"],
@@ -184,8 +192,8 @@ def add(block_id, mite, hosts, places, status, note, pairing, code=""):
 def semis(s): return [x.strip() for x in s.split(";") if x.strip()]
 
 for bid, crop, place, mite, status, note in pipe_rows(TR / "paired.txt", 6):
-    ps = semis(place)
-    pairing = ""
+    pairing = "force" if place.startswith("=") else ""
+    ps = semis(place.lstrip("="))
     mites = semis(mite)
     stats = [x.strip() for x in status.split(";")] if status else [""]
     for m in mites:
