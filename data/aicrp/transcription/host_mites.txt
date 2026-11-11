@@ -1,0 +1,57 @@
+# block|host|places/sites (;)|mites (;)  (prefix * stray, ** moderate; ' ~ ' starts a printed remark)|stage or remark
+B17|Rose||T. neocaledonicus; T. ludeni; E. orientalis|
+B17|Tulsi||Brevipalpus|
+B17|Arjun||Brevipalpus|
+B17|Baken||E. orientalis; E. bredini|
+B17|Debdaru||E. orientalis|
+B17|Mehendi||T. grauss|name as printed; not resolved
+B17|Neem||E. bredini|
+B17|Naner||B. californicus|
+B17|Tecoma||B. californicus; T. ludeni|
+B17|Cowpea||Tetranychus|
+B17|Colocasia||E. africanus|
+B17|Dhatura||T. neocaledonicus|
+B17|Gawar||Tetranychus|
+B17|Groundnut||T. ludeni|
+B17|Leswa||Tenuipalpus|
+B17|Moong||Brevipalpus|
+B17|Sugarcane||Oligonychus indicus|
+B12|Apple (Pyrus malus)|Varanasi|Brevipalpus deleoni; Tetranychus sp.|infestation very high
+B12|Ber (Ziziphus jujuba)|Varanasi; Allahabad; Azamgarh|Eutetranychus annedkei; Eutetranychus orientalis; Brevipalpus sp.; Eriophyes cerenus ~ makes galls on twigs; Phytoseius punjabensis ~ occurrence limited between March and April|
+B12|Bel (Aegle marmelos)|Varanasi; Azamgarh|Amblyseius alstoniae ~ an active predator, distribution not uniform; Amblyseius herbicolus|
+B12|Mulberry (Morus alba)|Varanasi|Tetranychus cinnabarinus; Schizotetranychus sp.; Agistemus industani; Aceria mori; Cunaxa setirostris; Amblyseius delhiensis ~ active feeder on all stages of prey; Amblyseius multidentatus; Phytoseius kapuri; Phytoseius minutus; Amblyseius longispinosus|
+B12|Lemon (Citrus lemon)|Varanasi; Azamgarh|Eutetranychus orientalis; Brevipalpus sp.; Polyphagotarsonemus latus; Typhlodromus homali; Acaridae ~ fungus feeder|
+B12|Papaya (Carica papaya)|Varanasi|Eutetranychus orientalis; Brevipalpus sp.; Tydeidae; Amblyseius alstoniae ~ feeds on all stages of T. macfarlanei; Amblyseius finlandicus|
+B12|Brinjal (Solanum melongena)|Varanasi|Tetranychus macfarlanei; Brevipalpus phoenicis; Stenotarsonemus sp.; Lasioseius sp.|
+B12|Kherini|Varanasi|Polyphagotarsonemus latus ~ incidence not pronounced; Typhlodromus homali ~ potential predator, widely distributed on many host plants|
+B12|Kachnar|Varanasi|Phytoseius kapuri ~ recorded as inactive predator|
+B12|Bauhinia variegata||Agistemus sp. ~ feeds on eggs and larvae of tetranychid mites|
+B12|Bhindi|Varanasi|Tetranychus cinnabarinus ~ recorded in huge numbers; Amblyseius longispinosus; Amblyseius multidentatus; Tyrophagus putrescentiae ~ mostly associated with fungus|
+B12|Sponge gourd|Varanasi|Schizotetranychus sp. ~ highly infested the lower leaf surface; Amblyseius sp.|
+B12|Lasora|Varanasi|Amblyseius finlandicus ~ efficient predator; Aceria cordiae ~ causes leaf gall formation; Cheletogenes sp.|ocr: host printed as Litora; Aceria cordiae suggests Lasora (Cordia myxa)
+B12|Litchi (Litchi chinensis L.)|Varanasi; Lucknow|Aceria litchi Keifer ~ recorded for the first time in UP|
+B12|Mango (Mangifera indica)|Varanasi; Jaunpur; Ghazipur; Allahabad; Azamgarh|Aceria mangiferae Sayed ~ associated with mango malformation, heavy damage|
+B12|Mango (Mangifera indica)|Varanasi|Cisaberoptus kenyae Keifer ~ recorded for the first time in north India, damaging mango leaves; Tarsonemus occidentalis ~ recorded for the first time in India|
+B14|Bhendi||Tetranychus ludeni; T. cinnabarinus; P. latus; B. phoenicis; *Amblyseius ovalis; **A. longispinosus|Fruiting stage
+B14|Chilli||P. latus; **Amblyseius sp.; *Pronematus sp.; *Agistemus sp.|Bearing stage
+B14|Brinjal||**A. multidentatus; **C. setirostris; T. neocaledonicus; *A. fleschneri|Bearing stage
+B14|Cucurbits||T. neocaledonicus; Brevipalpus sp.; **A. fallacis|Matured fruit in vine
+B14|Jute||P. latus; T. cinnabarinus; *A. fallacis; *A. indicus; **A. ovalis; *A. longispinosus|Growing stage; ocr: first mite read as A. latus
+B14|Citrus||**A. coccineae; *Agistemus terminalis; *Bdella maldahensis; B. phoenicis|Uncared plantation; ocr: A. coccinae
+B15|Bhendi||Raoiella indica; T. neocaledonicus; A. longispinosus; A. indica|Fruiting stage
+B15|Cucurbits||T. neocaledonicus; B. phoenicis; A. alstoniae|Flowering
+B15|Mango||T. neocaledonicus; O. mangiferus; A. (E.) coccosocius; A. largoensis|Fruiting stage
+B15|Amaranthus viridis||E. orientalis; T. neocaledonicus|
+B15|Cynodon dactylon||O. indicus; P. latens; Cunaxa sp.|
+B15|Cyperus rotundus||Agistemus sp.|
+B15|Erythrina indica||B. californicus|
+B15|Eleusine indica||P. latens|
+B15|Oxalis corniculata||P. harti|
+B15|China rose||B. phoenicis; A. (A.) largoensis|
+B15|Ixora||Tenuipalpus sp.|Flowering
+B15|Jasmine||B. californicus; T. neocaledonicus|Flowering
+B15|Kochia||E. orientalis|Seedling
+B15|Nerium||E. orientalis; B. obovatus|
+B15|Bitter gourd||T. cinnabarinus; B. californicus|Flowering
+B15|Ridge gourd||T. ludeni; E. orientalis|Fruiting
+B15|Dolichos bean||T. ludeni; P. latens; E. orientalis; A. (A.) longispinosus|

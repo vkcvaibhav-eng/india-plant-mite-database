@@ -1,0 +1,18 @@
+block_id,report,centre,institute,state,survey_period,form,pdf_pages,printed_pages
+B01,AICRP 1996-98,Bangalore,UAS Bangalore,Karnataka,1996-97,paired,192-195,185-188
+B02,AICRP 1996-98,Bangalore,UAS Bangalore,Karnataka,1997-98,paired,196-197,189-190
+B03,AICRP 1996-98,Coimbatore,TNAU Coimbatore,Tamil Nadu,1996-98,list,197-198,190-191
+B04,AICRP 1996-98,Coimbatore,TNAU Coimbatore,Tamil Nadu,1996-98,paired,198-199,191-192
+B05,AICRP 1996-98,Ludhiana,PAU Ludhiana,Punjab,1996-97,list,199-200,192-193
+B06,AICRP 1996-98,Ludhiana,PAU Ludhiana,Punjab,1996-97,list,201,194
+B07,AICRP 1996-98,Ludhiana,PAU Ludhiana,Punjab,1997,list,201-203,194-196
+B08,AICRP 1996-98,Ludhiana,PAU Ludhiana,Punjab,1997,list,203,196
+B09,AICRP 1996-98,Hisar,HAU Hisar,Haryana; Himachal Pradesh (not split),1996-97,list,204-205,197-198
+B10,AICRP 1996-98,Hisar,HAU Hisar,Haryana; Himachal Pradesh (not split),1996-97,list,205,198
+B11,AICRP 1996-98,Hisar,HAU Hisar,Haryana; Himachal Pradesh (not split),1996-97,list,205-206,198-199
+B12,AICRP 1996-98,Varanasi,BHU Varanasi,Uttar Pradesh,1996-97,host_mites,206-209,199-202
+B13,AICRP 1996-98,Varanasi,BHU Varanasi,Uttar Pradesh,1997-98,list,209-214,202-207
+B14,AICRP 1996-98,Kalyani,BCKV Kalyani,West Bengal,1996,host_mites,215-216,208-209
+B15,AICRP 1996-98,Kalyani,BCKV Kalyani,West Bengal,1997-98,host_mites,218-219,211-212
+B16,AICRP 1996-98,Pusa,RAU Pusa,Bihar,1996-97,paired,219-220,212-213
+B17,AICRP 1996-98,Hisar,HAU Hisar,Haryana; Himachal Pradesh (not split),1996-97,host_mites,206,199

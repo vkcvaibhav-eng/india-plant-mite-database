@@ -1,0 +1,166 @@
+# block|crop|place|mite|status|note
+B01|Gerbera|H.R.S. (GKVK)|T. urticae|High|
+B01|Brinjal|Rajankunte|T. macfarlanei|Medium|
+B01|Brinjal|Rajankunte|A. longispinosus|Low|
+B01|Parthenium|Kudanur near Malur|T. urticae|Medium|
+B01|Beans|Kudanur near Malur|T. urticae|High|
+B01|Brinjal|Doddabyalkere near IIHR|T. macfarlanei|High|
+B01|Brinjal|Doddabyalkere near IIHR|A. longispinosus|Low|crop and place carried over a page break
+B01|Beans|Doddabyalkere near IIHR|T. macfarlanei|High|
+B01|Cucurbit|Doddabyalkere near IIHR|T. macfarlanei|High|
+B01|Rose|Doddabalapur|T. urticae|Moderate|
+B01|Gerbera|Hessaraghatta IIHR|T. urticae|Moderate|
+B01|Carnation|Hessaraghatta|T. urticae|Moderate|
+B01|Rose|Nelamangala|T. urticae|High|
+B01|Tomato|Malur|T. urticae|High|
+B01|Groundnut|Baligiganapade ARS|T. urticae|High|
+B01|Bhendi|Nelamangala|T. macfarlanei|High|
+B01|Cucurbit|Muttupalyam|T. ludeni|Moderate|
+B01|Groundnut|GKVK|T. urticae|High|
+B01|Bamboo|Malur|Schizotetranychus|Low|
+B01|Neem|Malur|Eutetranychus orientalis|Moderate|
+B01|Bauhinia|Salibale near Hosakote|Oligonychus biharensis|Moderate|
+B01|Bamboo|Soolibele near Hosakote|Schizotetranychus|Low|
+B01|Neem|Soolibele near Hosakote|Schizotetranychus|Low|
+B01|Mango|Near Devanahalli|T. fijiensis|Low|
+B01|Areca palm|Tumkur|R. indica|High|
+B01|Areca palm|Tumkur|Phytoseiid|Low|
+B01|Citrus|Chitradurga|Eutetranychus orientalis|Low|
+B01|Mulberry|Rajankunte|Erythraeidae|Low|
+B01|Terminalia sp.|GKVK|Oligonychus sp.|Low|
+B01|Bhendi|Calicut|T. macfarlanei|Low|Calicut is in Kerala
+B01|Citrus|Bangalore|Brevipalpus sp.|Low|
+B01|Citrus|Bangalore|Eriophyid|High|
+B01|Drumstick|Bangalore|T. neocaledonicus|Moderate|
+B01|Unidentified plant|Kollegala|Phytoseiid|Low|
+B01|Unidentified plant|Sirsi - Kundapur road|T. neocaledonicus|Moderate|
+B01|Grass (Chrysopogon)|Hessaraghatta|Oligonychus sp.|Moderate|
+B01|Grass (Chrysopogon)|Hessaraghatta|Phytoseiid|Low|
+B01|Strawberry|GKVK|O. thelytokus|Moderate|
+B01|Gerbera|GKVK|Oligonychus sp.|Low|
+B01|Papaya|GKVK|T. neocaledonicus|High|
+B01|Strawberry|GKVK|T. neocaledonicus|Moderate|
+B01|Strawberry|GKVK|Brevipalpus sp.|Low|
+B01|Labiatae, weed|Singanayakanahalli|T. urticae|High|
+B01|Labiatae, weed|Singanayakanahalli|Phytoseiid|Low|
+B01|Weed|Horanadu|Oligonychus sp.|Low|
+B01|Mint|GKVK|Brevipalpus obovatus|Low|
+B01|Mint|GKVK|T. urticae|Low|
+B01|Leucas sp.|GKVK|T. urticae|Moderate|ocr: Lucas sp.
+B01|Pachouli|GKVK|T. urticae|Low|
+B01|Butea monosperma|Horanadu|Eotetranychus sp.|Low|
+B01|Unidentified weed|Horanadu|Phytoseiid|Low|
+B01|Malvaceous weed|Horanadu|Phytoseiid||status not printed
+B01|Coconut|Bangalore|Dolichotetranychus ramaniae|Low|
+B01|Cotton|Hosakote|T. macfarlanei|Low|
+B01|Brinjal|Hosakote|T. neocaledonicus|Moderate|
+B01|Dolichos|Rajankunte|T. macfarlanei|Low|
+B01|Sunflower|Bangalore|T. urticae|Moderate|
+B01|Pepper|Mudigere|Tydeid|Low|
+B01|Zizyphus|Dharwad|Eotetranychus sp.|Low|
+B01|Unidentified weed|Dharwad|T. fijiensis|Low|
+B01|Unidentified weed|Dharwad|Eutetranychus orientalis|Low|
+B01|Unidentified weed|Dharwad|Cunaxidae|Low|
+B01|Neem|Nandi village|Schizotetranychus|High|
+B01|Bhendi|Channagiri near Ron|T. macfarlanei|High|ocr: Ron may be a misreading
+B01|Brinjal|Channagiri near Ron|T. macfarlanei|Low|
+B01|Neem|Channagiri near Ron|Schizotetranychus|High|
+B01|Soapnut tree|Near Dupanahalli|Eutetranychus orientalis|Low|
+B01|Soapnut tree|Near Dupanahalli|Ascidae|Low|
+B01|Soapnut tree|Near Dupanahalli|Brevipalpus sp.|Low|
+B01|Coconut palm|Devanahalli|R. indica|High|
+B01|Amaranthus|Rajankunte|T. urticae|Low|
+B01|Brinjal|Rajankunte|T. urticae|Low|
+B01|Redgram|Mangalore|Oligonychus sp.|Low|
+B01|Avare|Rajankunte|T. urticae|Low|ocr: Avora
+B01|Avare|Rajankunte|A. longispinosus|Low|ocr: Avora
+B01|Brinjal|Rajankunte|T. urticae|Low|second Brinjal-Rajankunte T. urticae row as printed
+B01|Tomato|Malur|T. urticae|Low|
+B01|Amaranthus|Malur|T. urticae|Low|
+B02|Drumstick|Hessaraghatta|Eriophyid|Moderate|on fruits
+B02|Areca palm|Sirsi|R. indica|High|
+B02|Bamboo|Nandi village|Eotetranychus sp.|Moderate|
+B02|Bamboo|Nandi village|Oligonychus sp.|Low|
+B02|Dolichandrone atrovirens|Bandipur|Phytoseiid||status not printed
+B02|Grewia hirsuta|Bandipur|New genus and new species|Moderate|family not stated
+B02|Terminalia chebula|Bandipur|Phytoseiid and Bdellid|Low|
+B02|Lagerstroemia parviflora|Bandipur|Tenuipalpus sp.|High|
+B02|Duranta plumieri|Bandipur|Eotetranychus sp.|Low|
+B02|Hibiscus micrantha|Bandipur|Phytoseiid|Low|
+B02|Horsegram|Gundlupet|T. macfarlanei|Low|
+B02|Butea monosperma|Bandipur|Tetranychid|Low|
+B02|Dodonaea viscosa|Nandi hill|Oligonychus biharensis|Low|
+B02|Kirganelia reticulata|Nandi hill|T. urticae|Moderate|ocr: Kirgenellia
+B02|Hibiscus micrantha|Bandipur|T. neocaledonicus|Moderate|
+B02|Grewia hirsuta|Bandipur|Phytoseiid|Low|
+B02|Grewia hirsuta|Bandipur|Tarsonemid|Low|
+B02|Cassia sp.|Bandipur|Brevipalpus sp.|Low|
+B02|Grewia hirsuta|Bandipur|Eotetranychus sp.|Moderate|
+B02|Bamboo|Bandipur|Oligonychus sp.|Low|
+B02|Dolichos|Bandipur|Tetranychus sp.|Low|
+B02|Paddy|Raichur|Oligonychus oryzae|High|
+B02|Cucurbit|Raichur|T. macfarlanei|Moderate|
+B02|Fig|Raichur|Oligonychus sp.|Low|
+B02|Paddy|Raichur|Phytoseiid|Low|
+B02|Grass|K. gundi|Oligonychus sp.|Low|
+B02|Grass|K. gundi|Stigmaeid|Low|
+B02|Simarouba glauca|GKVK|Eutetranychus sp.|High|
+B02|Tephrosia sp.|Nandi village|Eotetranychus sp.|Moderate|
+B02|Tephrosia sp.|Nandi village|Tetranychid|Low|
+B02|Tuberose|Doddaballapur (Hosahalli)|T. urticae|High|
+B02|Ficus sp.|Botanical garden|Mesostigmata|Low|
+B02|Bridelia retusa|Botanical garden|Tenuipalpid|Low|
+B02|Sterculia urens|Botanical garden|Tetranychid|Moderate|
+B02|Michelia champaca|Botanical garden|Tetranychid|Low|
+B02|Honne|GKVK|Schizotetranychus|Moderate|
+B02|Dalbergia sissoo|GKVK|Tetranychid|Low|
+B02|Unidentified plant|Mudigere|Tetranychid|Low|
+B02|Wild plant|Mudigere|Tetranychid|Low|
+B02|Wild solanaceous plant|Mudigere|Tetranychid|Moderate|
+B02|Canthium sp.|Mudigere|Tenuipalpid|Low|
+B02|Holarrhena antidysenterica|H.R.S.|Tenuipalpid|Low|
+B02|Dioscorea floribunda|H.R.S.|T. urticae|Medium|
+B02|Leptadenia reticulata|H.R.S.|T. macfarlanei|Medium|
+B02|Leptadenia reticulata|H.R.S.|Phytoseiid|Low|
+B02|Swietenia mahagoni|GKVK|Oribatidae|Low|
+B02|Madhuca latifolia|GKVK|Bdellid|Low|
+B02|Anthocephalus kadamba|GKVK|Tenuipalpid||status not printed
+B04|Paddy|Coimbatore|Amblyseius (Neoseiulus) sp.||
+B04|Ornamental plant|Kottayam|Amblyseius sp.||Kottayam is in Kerala
+B04|Lab-lab; Bitter gourd; Pumpkin|Sivagangai, Tamil Nadu|Amblyseius sp.||
+B04|Jasmine|Coimbatore|Amblyseius sp.||
+B04|Vigna mungo|Bhavanisagar|Amblyseius sp.||
+B04|Thespesia sp.|Coimbatore|Amblyseius chitradurgae (Gupta)||
+B04|Cotton|Coimbatore; Trichy|Amblyseius longispinosus||
+B04|Coconut fronds|Coimbatore|Bdella sp.||
+B04|Coconut fronds|Coimbatore|Cheyletus sp.||
+B04|Nerium|Coimbatore; Kottayam|Cunaxa sp.||Kottayam is in Kerala
+B04|Crossandra|Coimbatore; Kottayam|Cunaxa sp.||Kottayam is in Kerala; "do" printed for locality
+B04|Albizia lebbeck|Coimbatore|Mediolata sp.||ocr: Nediolsta sp.
+B16|Mango|Patna|Aceria mangiferae|Major|May 1996
+B16|Brinjal|Patna|Tetranychus ludeni|Major|May 1996
+B16|Brinjal; Bhindi|Patna|Tetranychus ludeni|Major|May 1996
+B16|Brinjal; Bhindi|Munger|T. ludeni|Major|May 1996
+B16|Bhindi; Cucurbits|Munger|T. ludeni; Tetranychus spp.|Major|May 1996
+B16|Sponge gourd; Bhindi|Ara|T. ludeni|Major|May 1996
+B16|Banana; Papaya|Bikramganj|Brevipalpus sp.|Major|May 1996
+B16|Mango|Bikramganj|A. mangiferae|Major|May 1996; the printed crop cell reads 'Mango, litchi' for both mites
+B16|Litchi|Bikramganj|A. litchii|Major|May 1996; the printed crop cell reads 'Mango, litchi' for both mites
+B16|Mango; Litchi|Bikramganj|Brevipalpus sp.|Minor|May 1996; crop cell shared with the row above
+B16|Bhindi|Kochas|Petrobia latens|Major|June 1996
+B16|Lemon; Chilli|Piro|Brevipalpus phoenicis|Major; Minor|June 1996; two statuses printed for two crops
+B16|Banana|Piro|Brevipalpus spp.||June 1996; status not printed
+B16|Banana|Piro|P. latus|Major|June 1996; carried over a page break
+B16|Banana|Piro|Brevipalpus sp.|Minor|June 1996; carried over a page break
+B16|Sugarcane|Kalyanpur|Oligonychus indicus|Major|June 1996
+B16|Lemon|Kalyanpur|Brevipalpus phoenicis|Minor|June 1996
+B16|Bhindi|Kalyanpur|Tetranychus ludeni|Major|June 1996
+B16|Chilli|Jatmalpur|Tetranychus sp.; Tetranychus ludeni|Minor|June 1996
+B16|Papaya|Jatmalpur|Tetranychus ludeni|Minor|June 1996
+B16|Bhindi|Darbhanga|Petrobia latens|Major|June 1996
+B16|Paddy stubbles|Darbhanga|Not identified||June 1996
+B16|Maize|Pandaul|Oligonychus sp.|Major|June 1996
+B16|Chilli|Madhubani|T. cinnabarinus|Minor|June 1996
+B16|Castor|Madhubani|Tetranychus sp.|Minor|June 1996
+B16|Arhar|Pusa|Aceria cajani|Major|June 1996
+B16|Pomegranate|Pusa|Brevipalpus phoenicis|Major|June 1996

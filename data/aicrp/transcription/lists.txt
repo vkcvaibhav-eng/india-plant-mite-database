@@ -1,0 +1,212 @@
+# block|mite|hosts (;)|localities (;)|status|note
+B03|Tetranychus cinnabarinus (Boisd.)|Bhendi; Brinjal; Cucumber; Cotton; Blackgram; Tomato; Sunflower; Groundnut; Castor||phytophagous|
+B03|Tetranychus ludeni (Zacher)|Brinjal; Cowpea; Cucumber; Lablab; Cucurbits; Citrus||phytophagous|
+B03|Tetranychus neocaledonicus (Andre)|Crotons; Rose; Papaya; Tomato; Citrus; Ber; Parthenium||phytophagous|
+B03|Eutetranychus orientalis (Klein)|Neem; Banana; Rose; Papaya; Citrus; Ber; Cassava||phytophagous|
+B03|Oligonychus indicus (Hirst)|Sorghum||phytophagous|
+B03|Oligonychus sacchari (Hirst)|Rice; Grasses||phytophagous|printed twice, once as O. sacchari (Hirst) on rice and grasses and once as O. sacchari (McGregor) on sugarcane
+B03|Oligonychus sacchari (McGregor)|Sugarcane||phytophagous|see previous row
+B03|Schizotetranychus andropogoni (Hirst)|Sugarcane; Grasses||phytophagous|
+B03|Oligonychus coffeae (Nietner)|Tea; Coffee; Cashew||phytophagous|
+B03|Brevipalpus phoenicis (Geijskes)|Guava; Citrus; Tea; Jack; Ficus; Pomegranate||phytophagous|
+B03|Raoiella indica|Coconut; Date; Oilpalm||phytophagous|
+B03|Tenuipalpus granati (Sayed)|Pomegranate||phytophagous|
+B03|Polyphagotarsonemus latus (Banks)|Chillies||phytophagous|
+B03|Aceria cajani (Chan.)|Pigeonpea||phytophagous|
+B03|Aceria sacchari (Chan.)|Sugarcane||phytophagous|
+B03|Aceria jasmini (Chan.)|Jasmine||phytophagous|
+B03|Eriophyes rosae (Moh.)|Rose||phytophagous|ocr: Eriophyes Tosse
+B03|Acalitus gossypii (Ewing)|Wild cotton||phytophagous|
+B03|Aceria nerii (Chan.)|Nerium||phytophagous|
+B03|Aceria mangiferae (Sayed)|Mango||phytophagous|
+B03|Aceria granati (Can. and Mass.)|Pomegranate||phytophagous|
+B03|Aceria mori|Mulberry||phytophagous|ocr: Aceria mari
+B03|Aceria ficus (Cotte)|Ficus sp.||phytophagous|
+B05|Eotetranychus hirsti|Fig|Chandigarh; Sunam; Ludhiana; Palampur; Solan||
+B05|Eotetranychus andropogoni|Ber|Ropar; Balachaur; Hoshiarpur; Ludhiana; Amritsar; Rajpura; Jasur; Abohar; Chandigarh; Fatehgarh Sahib||
+B05|Eutetranychus orientalis|Nimboo; Citrus; Papaya; Peach; Tahli|Ludhiana; Abohar; Patiala; Batala; Gurdaspur; Nalagarh; Amritsar; Hoshiarpur||
+B05|Oligonychus indicus|Sugarcane|Ludhiana; Amritsar; Gurdaspur||
+B05|Oligonychus indicus|Maize|Una; Nalagarh||
+B05|Oligonychus mangiferus|Mango; Guava; Grapevine|Sangrur; Kartarpur; Hoshiarpur; Ludhiana; Kapurthala||
+B05|Oligonychus sp.|Castor|Ladhowal||
+B05|Tetranychus cinnabarinus|Bhindi; Brinjal; Tomato; Bottlegourd; Soybean|Ropar; Patiala; Ludhiana; Chandigarh; Gurdaspur; Abohar; Batala; Pathankot; Kathua; Jassur||
+B05|Tetranychus ludeni|Brinjal; Bhindi; Tomato|Ludhiana; Ropar; Chandigarh; Kalka||
+B05|Tetranychus urticae|Papaya|Gurdaspur; Sangrur; Ropar; Ferozepur||
+B05|Tetranychus sp.|Soybean|Kalka||
+B05|Schizotetranychus andropogoni|Sugarcane; Ber|Ludhiana; Ropar; Balachaur||
+B05|Brevipalpus californicus|Citrus|Chandigarh; Sangrur; Ludhiana; Gurdaspur; Pathankot; Amritsar; Ferozepur; Hamirpur||
+B05|Brevipalpus deleoni|Sweet potato|Ludhiana||
+B05|Brevipalpus phoenicis|Malta; Mausami; Kinnow; Guava; Nimboo; Bohar; Cheeku; Orange; Anar; Loquat|Ropar; Ludhiana; Hoshiarpur; Amritsar; Ajnala; Dehra Baba Nanak; Kathua; Batala; Ganganagar; Ferozepur; Chandigarh; Shimla; Solan; Una; Gurdaspur||
+B05|Brevipalpus obovatus|Peepal; Ak|Bathinda; Ferozepur; Rajpura||
+B05|Brevipalpus karachiensis|Banana|Pathankot||
+B05|Brevipalpus rugulosus|Datura|Pathankot||
+B05|Brevipalpus sp.|Bohar|Ludhiana; Abohar; Sujanpur; Amritsar||
+B05|Tenuipalpus punjabensis|Pear; Peach|Ludhiana; Abohar||
+B05|Tenuipalpus mustus|Moongi|Ludhiana||
+B05|Eriophyes cerunus|Ber|Ludhiana||
+B05|Polyphagotarsonemus latus|Potato; Chillies; Beans; Sugarcane; Maize|Ludhiana; Ropar; Bathinda; Chandigarh; Palampur||
+B06|Amblyseius alstoniae|Ber; Ashoka tree; Pear; Citrus|Ludhiana; Chandigarh||predator
+B06|Amblyseius finlandicus|Pear; Brinjal; Bhindi; Citrus|Ludhiana||predator
+B06|Amblyseius multidentatus|Brinjal; Bhindi|Patiala; Ludhiana||predator
+B06|Phytoseius minutus|Loquat|Sangrur; Hoshiarpur; Palampur||predator
+B06|Phytoseius roseus|Bhindi; Brinjal|Ludhiana||predator
+B06|Phytoseius macropilis|Jamun; Brinjal|Ludhiana; Chandigarh||predator|ocr: P. marcopilis
+B06|Phytoseius neocorniger|Cotton|Ludhiana||predator|
+B06|Typhlodromus homali|Peach; Pear|Ludhiana; Hoshiarpur; Abohar; Jasur||predator
+B06|Typhlodromus sp.|Ber; Brinjal|Ludhiana||predator
+B06|Pronematus sp.|Grape; Kinnow; Bhindi; Chilli; Mango|Ludhiana; Gurdaspur; Kalka||predator|Tydeidae
+B06|Lorryia sp.|Jamun|Ludhiana; Garshankar||predator|Tydeidae; ocr: Lorr,via sp.
+B07|Bryobia sp.|Malta|Ludhiana|Low|
+B07|Eotetranychus hirsti|Fig|Ludhiana; Chandigarh; Solan|Low|
+B07|Eotetranychus andropogoni|Ber|Ropar; Balachaur; Abohar; Ludhiana; Gurdaspur|Medium|
+B07|Eutetranychus orientalis|Baramasi; Nimboo; Kaghzi Nimboo; Citrus; Peach; Rose; Badam|Ludhiana; Batala; Gurdaspur; Patiala; Amritsar; Hoshiarpur; Solan|Medium to severe|
+B07|Oligonychus indicus|Sugarcane; Phalsa|Ludhiana; Jalandhar; Nalagarh|Medium|
+B07|Oligonychus mangiferus|Mango; Citrus|Ludhiana; Hoshiarpur; Sangrur; Gurdaspur|Low|
+B07|Oligonychus sp.|Castor|Ludhiana|Medium|
+B07|Tetranychus cinnabarinus|Bhindi; Brinjal; Muskmelon; Banga; Bottlegourd; Beans; Tomato; Anar|Ludhiana; Patiala; Gurdaspur; Bathinda; Batala; Pathankot; Chandigarh|Severe|
+B07|Tetranychus ludeni|Tomato; Brinjal|Ludhiana; Kalka|Low|
+B07|Tetranychus sp.|Lobia; Beans|Ludhiana; Solan|Low|
+B07|Schizotetranychus sp.|Brinjal; Ber|Ludhiana|Low|
+B07|Brevipalpus californicus|Bhindi; Brinjal; Guava; Citrus|Ludhiana; Chandigarh; Gurdaspur; Pathankot; Amritsar; Nangal|Medium|
+B07|Brevipalpus phoenicis|Orange; Kinnow; Anar; Mausami; Galgal; Guava|Ajnala; Gurdaspur; Amritsar; Batala; Dera Baba Nanak; Ludhiana; Chandigarh; Solan|Severe|
+B07|Brevipalpus obovatus|Malta|Bathinda; Patiala; Ludhiana|Low|
+B07|Brevipalpus sp.|Citrus|Ludhiana; Abohar; Kapurthala|Low|
+B07|Tenuipalpus punjabensis|Pear; Anar; Peach|Ludhiana; Bathinda|Low|
+B07|Polyphagotarsonemus latus|Brinjal; Bhindi; Chillies; Beans; Rajmah|Ludhiana; Ropar; Gurdaspur; Bathinda; Chandigarh|Severe|
+B08|Amblyseius alstoniae|Amaltas; Aloocha; Ber; Brinjal; Bhindi; Citrus; Mango; Castor; Pear; Anar; Badam|Ludhiana; Chandigarh; Bathinda; Gurdaspur; Hoshiarpur; Solan||predator
+B08|Amblyseius finlandicus|Pear; Brinjal; Bhindi; Tomato|Ludhiana; Patiala; Bathinda||predator
+B08|Amblyseius multidentatus|Citrus; Bhindi; Brinjal|Ludhiana; Hoshiarpur||predator
+B08|Amblyseius sp.|Ber|Amritsar; Gurdaspur; Ludhiana||predator
+B08|Phytoseius roseus|Bhindi; Brinjal; Citrus|Ludhiana; Gurdaspur; Nangal||predator
+B08|Typhlodromus sp.|Brinjal|Ludhiana||predator
+B08|Pronematus sp.|Malta; Ber; Pear; Kinnow; Bhindi; Brinjal; Chilli; Mango; Rose; Anar|Ludhiana; Gurdaspur; Bathinda; Hoshiarpur; Kalka||predator|Tydeidae
+B08|Tydeus sp.|Bittergourd; Tomato|Ludhiana; Bathinda; Amritsar; Solan||predator|Tydeidae
+B09|Tetranychidae|Marigold; Bhindi; Brinjal; Chapan kadu; Rose; Sugarcane; Tomato|||
+B09|Tetranychus sp.|Bhindi; Brinjal; Chapan kadu; Ghia lauki (bottle gourd); Rose; Tecoma; Tomato|||
+B09|Tetranychus evansi|Cowpea|||
+B09|Tetranychus ludeni|Ber (jujuba); Bhindi; Brinjal; Chapan kadu; Tori|||
+B09|Tetranychus cinnabarinus|Bhindi; Brinjal|||
+B09|Tetranychus neocaledonicus|Brinjal|||printed 'Brinjal and other vegetables'
+B09|Oligonychus sp.|Arhar; Sugarcane|||
+B09|Eutetranychus sp.|Lemon|||
+B09|Eutetranychus africanus|Mulberry|||
+B09|Tenuipalpidae|Anar (pomegranate); Mousumi (citrus)|||ocr: Mousumi cibu
+B09|Tenuipalpus sp.|Anar; Sem|||
+B09|Brevipalpus sp.|Mosami citrus; Sem; Brinjal; Rose; Tulsi; Tecoma; Tomato|||
+B09|Brevipalpus californicus|Mango|||
+B09|Tarsonemus confusus|Green chillies|||ocr: Tarsanemus canfusus
+B09|Cryptostigmata|Bitter gourd (karela); Brinjal|||
+B09|Tyrophagus putrescentiae|Mango|||
+B10|Bdellidae|Brinjal; Chillies; Mulberry; Rose; Sem; Siras tree|||predator or other natural enemy
+B10|Cunaxa sp.|Falsa|||predator or other natural enemy
+B10|Agistemus fleschneri|Brinjal; Cotton; Jamun; Sem|||predator or other natural enemy
+B10|Phytoseiidae|Anar; Ber; Brinjal; Bhindi; Chillies; Arjun tree; Guava; Gowar; Till; Cotton; Bittergourd; Mulberry; Lemon; Mousumi; Citrus; Falsa; Siras tree; Yellow kaner|||predator or other natural enemy; printed 'Gowar "Till"' and 'Saras tree'; also on unidentified flowering plants
+B10|Phytoseius roseus|Ber|||predator or other natural enemy
+B10|Amblyseius (Paraphytoseius) multidentatus|Brinjal; Ber; Lady's finger; Falsa|||predator or other natural enemy
+B10|Amblyseius (Euseius) delhiensis|Ber; Chillies; Gowar; Falsa|||predator or other natural enemy
+B10|Amblyseius (Neoseiulus) fallacis|Brinjal|||predator or other natural enemy
+B10|Amblyseius (Euseius) alstoniae|Ber; Cotton; Fig|||predator or other natural enemy
+B10|Amblyseius (Neoseiulus) indicus|Brinjal|||predator or other natural enemy
+B10|Amblyseius (Euseius) finlandicus|Ber; Tori; Lady's finger; Falsa; Saras tree|||predator or other natural enemy
+B10|Typhlodromus homali|Mango|||predator or other natural enemy
+B10|Phytoseius (Pennaseius) minutus|Brinjal|||predator or other natural enemy; subgenus as read from a poor scan
+B10|Phytoseius (Pennaseius) mixtus|Ber; Fig|||predator or other natural enemy; subgenus as read from a poor scan
+B11|Astigmata|Moong dal (sabut); Wheat atta (flour)|||stored product
+B11|Acaridae|Wheat flour (atta); Coconut powder; Bajra; Rice; Wheat; Stored bhindi seeds; Rotten wheat; Debris of shops (Nahan, H.P.); Stored wheat (Nahan, H.P.)|||stored product
+B11|Acarus sp.|Wheat flour|||stored product
+B11|Suidasia sp.|Wheat flour of grinding mill|||stored product|ocr: Sudesia sp.
+B11|Rhizoglyphus sp.|Wheat flour (atta)|||stored product
+B11|Austroglycyphagus sp. (Glycyphagidae)|Bajra chura (powder); Rice; Animal feed capsules (khal batti)|||stored product
+B11|Pyroglyphidae|Wheat; Debris of grinding mills|||stored product
+B11|Cheyletidae|Bajra; Rice; Wheat dalia (Sonepat district); Debris of shop (Paonta Sahib, H.P.)|||stored product
+B11|Cheyletus malaccensis|Debris of shop (Paonta Sahib, H.P.)|||stored product
+B11|Acarophenax sp.|Wheat dalia|||stored product|ocr: Acarophynax sp.
+B11|Pygmephorus sp.|Wheat; Debris of shops (Paonta Sahib, H.P.)|||stored product
+B11|Macrochelidae|Rotten wheat|||stored product
+B11|Lardoglyphus parasiticus|Dry coconut|||stored product|ocr: Leiodynehus parasiticus
+B11|New species (genus as printed: Leiodynehus)|Jeera (Paonta Sahib, H.P.)|||stored product|ocr uncertain
+B13|Tetranychus cinnabarinus|Egg plant (Solanum melongena); Bhindi (Abelmoschus esculentus); Apple (Malus sylvestris); Kheera (Cucumis sativus); Ashwagandha (Withania somnifera); Pipali (Piper longum); Pomelo (Citrus grandis); Papaya (Carica papaya); Coriander (Coriandrum sativum); Tomato (Lycopersicon esculentum)|||auth: (Boisd.); family Tetranychidae
+B13|Tetranychus neocaledonicus|Aam (Mangifera indica); Anjeer (Ficus carica)|||auth: Andre; family Tetranychidae
+B13|Tetranychus urticae|Watermelon (Citrullus vulgaris); Chakavand (Cassia tora)|||auth: Koch; family Tetranychidae
+B13|Tetranychus ludeni|Kakeri (Citrullus melo); Kheera (Cucumis sativus); Pumpkin (Cucurbita moschata); Cucumber (Cucumis sativus); Cowpea (Vigna unguiculata); Egg plant (Solanum melongena); Tarbuz (Citrullus vulgaris); Bean (Phaseolus vulgaris); Green gram (Cicer arietinum)|||auth: Zacher; family Tetranychidae; scientific name printed for green gram is Cicer arietinum
+B13|Tetranychus macfarlanei|Kheera (Cucumis sativus); Kakeri (Citrullus melo); Bottle gourd (Lagenaria cineraria); Egg plant (Abelmoschus esculentus); Pumpkin (Cucurbita moschata)|||auth: Baker & Pritchard; family Tetranychidae; scientific name printed for egg plant is Abelmoschus esculentus
+B13|Eutetranychus orientalis|Citrus (Citrus lemon); Apple (Malus sylvestris); Ber (Zizyphus jujuba); Gullar (Ficus glomerata); Bel (Aegle marmelos); Kachnar (Bauhinia variegata); Sponge gourd (Luffa cylindrica); Peach (Prunus persica); Egg plant (Solanum melongena); Tulsi (Ocimum sanctum); Sarpagandha (Rauvolfia serpentina); Kamrak (Averrhoa carambola); Naspati (Pyrus communis); Neem (Azadirachta indica); Sahtoot (Morus alba); Marigold (Tagetes erecta)|||auth: (Klein); family Tetranychidae
+B13|Panonychus ulmi|Plum (Prunus domestica)|||auth: Koch; family Tetranychidae
+B13|Panonychus citri|Lemon (Citrus lemon)|||auth: (McGregor); family Tetranychidae
+B13|Eotetranychus hirsti|Fig (Ficus carica); Pakar (Ficus rarica); Gullar (Ficus glomerata)|||auth: Pritchard & Baker; family Tetranychidae
+B13|Tetranychus papayae|Papaya (Carica papaya)|||auth: Nassar & Ghai; family Tetranychidae
+B13|Oligonychus mangiferus|Mango (Mangifera indica); Jamun (Syzygium cumini)|||auth: Rahman & Sapra; family Tetranychidae
+B13|Eotetranychus uncatus|Kanchnar (Bauhinia variegata); Sarpagandha (Rauvolfia serpentina)|||auth: Garman; family Tetranychidae
+B13|Brevipalpus phoenicis|Apple (Malus sylvestris); Grape vine (Vitis vinifera); Suryamukhi (Helianthus annuus); Guava (Psidium guajava); Papaya (Carica papaya); Bel (Aegle marmelos); Lime (Citrus aurantifolia); Pipali (Piper longum); Anar (Punica granatum); Tulsi (Ocimum sanctum); Ashwagandha (Withania somnifera); Bharangi (Clerodendron serratum); Sonapatha (Oroxylum indicum); Sponge gourd (Luffa cylindrica)|||auth: (Geijskes); family Tenuipalpidae
+B13|Brevipalpus deleoni|Chakavand (Cassia tora)|||auth: Pritchard & Baker; family Tenuipalpidae
+B13|Brevipalpus californicus|Kevanchh (Mucuna prurita); Jamun (Syzygium cumini); Sponge gourd (Luffa cylindrica)|||auth: (Banks); family Tenuipalpidae
+B13|Brevipalpus obovatus|Gulshakari (Grewia hirsuta); Tulsi (Ocimum sanctum)|||auth: Donnadieu; family Tenuipalpidae; ocr: Onn.
+B13|Tenuipalpus granati|Pomegranate (Punica granatum); Cheeta (Plumbago zeylanica)|||auth: Sayed; family Tenuipalpidae
+B13|Brevipalpus lewisi|Bariyar bhed (Sida acuta); Bariyar (Sida cordifolia); Bala bhed (Sida spinosa)|||auth: (Baker & Tuttle); family Tenuipalpidae
+B13|Brevipalpus rugulosus|Lemon (Citrus lemon)|||auth: Chaudhri, Akhtar & Rasool; family Tenuipalpidae
+B13|Tenuipalpus dimensus|Peach (Punica granatum)|||auth: Chaudhri; family Tenuipalpidae; common name and scientific name printed do not match
+B13|Brevipalpus malviyai|Pamela (Citrus grandis); Fig (Ficus carica)|||sp. nov. as printed; family Tenuipalpidae
+B13|Larvacarus transitans|Ber (Zizyphus jujuba)|||family Tenuipalpidae
+B13|Eriophyes cernuus|Ber (Zizyphus jujuba)|||auth: Massee; family Eriophyidae; ocr: cernnus
+B13|Aceria ficus|Fig (Ficus carica)|||auth: (Cotte); family Eriophyidae
+B13|Aceria dalbergiae|Sissoo (Dalbergia sissoo)|||family Eriophyidae
+B13|Aceria litchi|Litchi (Litchi chinensis)|||auth: (Keifer); family Eriophyidae
+B13|Aceria mangiferae|Mango (Mangifera indica)|||auth: Sayed; family Eriophyidae
+B13|Aceria mori|Mulberry (Morus alba)|||auth: (Keifer); family Eriophyidae; ocr: Aceria mod
+B13|Aceria granati|Pomegranate (Punica granatum)|||auth: (Canestrini & Massalongo); family Eriophyidae
+B13|Aceria nerii|Kaner bhed (Nerium odorum)|||family Eriophyidae
+B13|Aceria cordiae|Lasora (Cordia myxa)|||auth: Channabasavanna; family Eriophyidae
+B13|Aceria sacchari|Sugarcane (Saccharum officinarum)|||family Eriophyidae
+B13|Aceria lycopersici|Egg plant (Solanum melongena); Tomato (Lycopersicon esculentum)|||auth: (Wolff); family Eriophyidae
+B13|Eriophyes erineus|Walnut (Juglans regia)|||auth: (Nalepa); family Eriophyidae
+B13|Cisaberoptus kenyae|Mango (Mangifera indica)|||auth: Keifer; family Eriophyidae
+B13|Colomerus vitis|Grapevine (Vitis vinifera)|||auth: (Pagenstecher); family Eriophyidae
+B13|Acaphylla syzygii|Jamun (Syzygium cumini)|||auth: Channabasavanna; family Eriophyidae
+B13|Tarsonemus occidentalis|Mango (Mangifera indica)|||auth: Ewing; family Tarsonemidae; ocr: Swing
+B13|Polyphagotarsonemus latus|Wild chauri (Amaranthus polygonoides); Chilli (Capsicum annuum); Green gram (Cicer arietinum); Egg plant (Solanum melongena); Citrus (Citrus lemon)|||auth: (Banks); family Tarsonemidae; scientific name printed for green gram is Cicer arietinum
+B13|Fungitarsonemus sp.|Mango (Mangifera indica)|||family Tarsonemidae
+B13|Stenotarsonemus sp.|Bean, Rajma (Phaseolus vulgaris)|||family Tarsonemidae
+B13|Lupotarsonemus myceliophagus|Mulberry (Morus alba)|||auth: (Hussey); family Tarsonemidae
+B13|Pronematus fleschneri|Ashwagandha (Withania somnifera); Kaner (Nerium indicum); Jamun (Syzygium cumini); Guava (Psidium guajava); Pomegranate (Punica granatum); Son champa (Michelia champaca)|||auth: Baker; family Tydeidae
+B13|Pronematus ubiquitus|Fig (Ficus carica); Pear (Pyrus communis)|||auth: Baker; family Tydeidae
+B13|Pronematus sextoni|Jack fruit (Artocarpus heterophyllus)|||auth: Baker; family Tydeidae
+B13|Pronematus viswanathi|Ber (Zizyphus jujuba); Guava (Psidium guajava)|||sp. nov. as printed; family Tydeidae
+B13|Tydeus nainitalensis|Apple (Malus sylvestris); Plum (Prunus domestica); Khurmani (Prunus armeniaca)|||sp. nov. as printed; family Tydeidae
+B13|Tydeus juglansae|Walnut (Juglans regia)|||sp. nov. as printed; family Tydeidae
+B13|Pronematus sp.|Rose (Rosa indica); Chilli (Capsicum annuum)|||family Tydeidae
+B13|Pronematus elongatus|Gandhraja (Rauvolfia sp.)|||family Tydeidae
+B13|Cunaxa setirostris|Pomelo (Citrus grandis); Guava (Psidium guajava)|||auth: Hermann; family Cunaxidae
+B13|Cunaxa mayabunderensis|Mulberry (Morus alba)|||family Cunaxidae
+B13|Cunaxa sp.|Arahul (Hibiscus rosa-sinensis)|||family Cunaxidae
+B13|Agistemus macromatus|Papaya (Carica papaya)|||auth: Summers; family Stigmaeidae
+B13|Agistemus kashiensis|Apple (Malus sylvestris)|||sp. nov. as printed; family Stigmaeidae
+B13|Agistemus sp.|Pomelo (Citrus grandis)|||family Stigmaeidae
+B13|Agistemus industani|Mulberry (Morus alba); Green gram (Cicer arietinum); Egg plant (Solanum melongena)|||auth: Gonzalez-Rodriguez; family Stigmaeidae; scientific name printed for green gram is Cicer arietinum
+B13|Agistemus macromatus|Bean, Rajma (Phaseolus vulgaris); Cowpea (Vigna unguiculata)|||auth: Gonzalez-Rodriguez; family Stigmaeidae; second entry of this name as printed
+B13|Cheletominus varanasiensis|Apple (Malus sylvestris)|||sp. nov. as printed; family Cheyletidae
+B13|Cheletogenes ornatus|Mango (Mangifera indica); Apple (Malus sylvestris); Guava (Psidium guajava)|||auth: (Canestrini & Fanzago); family Cheyletidae
+B13|Hemicheyletia sp.|Fig (Ficus carica)|||family Cheyletidae
+B13|Hemicheyletia bakeri|Mulberry (Morus alba)|||auth: (Ehara); family Cheyletidae
+B13|Amblyseius alstoniae|Bel (Aegle marmelos); Guava (Psidium guajava); Apple (Malus sylvestris); Gular (Ficus glomerata); Pomegranate (Punica granatum); Papaya (Carica papaya); Peach (Prunus persica); Cowpea (Vigna unguiculata); Chilli (Capsicum annuum)|||auth: Gupta; family Phytoseiidae
+B13|Amblyseius delhiensis|Grapevine (Vitis vinifera); Watermelon (Citrullus vulgaris); Mulberry (Morus alba)|||auth: Narayanan & Kaur; family Phytoseiidae
+B13|Amblyseius multidentatus|Pipali (Piper longum); Kanchnar (Bauhinia variegata); Pear (Pyrus communis); Kerini (Mimusops hexandra); Bean, Rajma (Phaseolus vulgaris); Bhindi (Abelmoschus esculentus); Egg plant (Solanum melongena)|||auth: Swirski & Shechter; family Phytoseiidae
+B13|Amblyseius longispinosus|Tulsi (Ocimum sanctum); Mulberry (Morus alba); Kamrak (Averrhoa carambola); Pomegranate (Punica granatum); Apple (Malus sylvestris); Pear (Pyrus communis); Egg plant (Solanum melongena); Ashwagandha (Withania somnifera)|||auth: (Evans); family Phytoseiidae
+B13|Amblyseius indicus|Mulberry (Morus alba); Kamrak (Averrhoa carambola); Bhindi (Abelmoschus esculentus)|||auth: (Narayanan & Kaur); family Phytoseiidae
+B13|Amblyseius largoensis|Mulberry (Morus alba); Pamelo (Citrus grandis); Kerini (Mimusops hexandra)|||auth: (Muma); family Phytoseiidae
+B13|Phytoseius intermedius|Ber (Zizyphus jujuba)|||auth: Evans & Macfarlane; family Phytoseiidae
+B13|Phytoseius roseus|Ber (Zizyphus jujuba); Papaya (Carica papaya); Fig (Ficus carica)|||auth: Gupta; family Phytoseiidae
+B13|Phytoseius minutus|Guava (Psidium guajava); Bel (Zizyphus jujuba); Bhindi (Abelmoschus esculentus); Egg plant (Solanum melongena)|||auth: Narayanan, Kaur & Ghai; family Phytoseiidae; scientific name printed for bel is Zizyphus jujuba
+B13|Phytoseius punjabensis|Ber (Zizyphus jujuba)|||family Phytoseiidae
+B13|Phytoseius sp.|Guava (Psidium guajava)|||family Phytoseiidae
+B13|Typhlodromus homali|Jamun (Syzygium cumini); Pomelo (Citrus grandis); Mango (Mangifera indica); Mulberry (Morus alba); Citrus (Citrus medica); Mandarin (Citrus reticulata); Kerini (Mimusops hexandra); Bhindi (Abelmoschus esculentus)|||auth: Gupta; family Phytoseiidae
+B13|Typhlodromus himalayensis|Pomegranate (Punica granatum); Citrus (Citrus medica)|||auth: Gupta; family Phytoseiidae
+B13|Typhlodromus communis|Mulberry (Morus alba)|||auth: Gupta; family Phytoseiidae
+B13|Indodromus meerutensis|Mango (Mangifera indica)|||auth: Ghai & Menon; family Phytoseiidae
+B13|Acarus farris|Peach (Prunus persica); Apple (Malus sylvestris)|||auth: (Oudemans); family Acaridae; stored-product or free-living acarid
+B13|Acarus sp.|Kerini (Mimusops hexandra); Mulberry (Morus alba); Guava (Psidium guajava)|||family Acaridae
+B13|Tyrophagus putrescentiae|Jamun (Syzygium cumini); Long melon (Citrus melo utilissimus); Fig (Ficus carica); Cucumber (Cucumis sativus); Mulberry (Morus alba)|||auth: (Schrank); family Acaridae
+B13|Tyrophagus sp.|Monkey jack (Artocarpus lakoocha)|||family Acaridae
+B13|Liacarus sp.|Mango (Mangifera indica)|||family Liacaridae
+B13|Hydrozetes terrestris|Water chestnut (Trapa natans)|||auth: Berlese; family Hydrozetidae
+B13|Trimalaconothrus heterotrichus|Water chestnut (Trapa natans)|||auth: Wallwork; family Malaconothridae
+B13|Scheloribates sp.|Water chestnut (Trapa natans)|||family Oribatulidae
