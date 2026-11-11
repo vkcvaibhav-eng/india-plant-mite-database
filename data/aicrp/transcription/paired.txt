@@ -359,3 +359,86 @@ D05|Abelmoschus esculentus|Pusa|Tetranychus neocaledonicus|Low|
 D05|Carica papaya|Pusa|Tetranychus neocaledonicus|Low|
 D05|Cucurbita sp.|Pusa|Tetranychus neocaledonicus|Moderate|
 D05|Litchi chinensis|Pusa|Aceria litchii Keifer|High|
+# E01 Bangalore (printed pp. 40-41): places visited to collect mites; status as printed (High/Moderate/Low); row 3 predators printed as 'Predators (Mesostigmata)'; Bhindi row read as T. macfarlanei at both places
+E01|Guava|Vijayanagar|Typhlodromus rickeri|Moderate|printed 'T. rickeri (predator)'
+E01|Brinjal|Hoskote|Tetranychus ludeni|High|
+E01|Brinjal|IIHR|Tetranychus macfarlanei|Moderate|
+E01|Brinjal|Honnenahalli|Tetranychus macfarlanei|Moderate|
+E01|Brinjal|Chikkaballapur|Tetranychus macfarlanei|Low|
+E01|Brinjal|Rajankunte|Tetranychus macfarlanei|Low|
+E01|Coconut|Chamarajanagar|Mesostigmata||printed 'Predators (Mesostigmata)'
+E01|Unidentified weed|Kanakapura|Brevipalpus sp.|Low|
+E01|Date palm|Horticultural Research Station, GKVK|Eutetranychus sp.|Low|
+E01|Citrus|Chettahalli|Eutetranychus sp.|Moderate|
+E01|Tuberose|Hoskote|Tetranychus urticae|High|incidence printed as very high
+E01|Bhindi|Hoskote|Tetranychus macfarlanei|Low|
+E01|Bhindi|Rajankunte|Tetranychus macfarlanei|Moderate|
+E01|Rose|Hebbal|Brevipalpus sp.|Low|
+E01|Cotton|Chintamani|Tetranychus urticae|Low|
+E01|Gerkins|Chikkaballapur|Tetranychus macfarlanei|High|
+E01|Sida sp.|Raichur|Tetranychus macfarlanei|Moderate|
+E01|Cucurbit sp.|Raichur|Tetranychus macfarlanei|Moderate|
+E01|Eucalyptus sp.|Lakshmipura Cross|Eriophyid|Moderate|
+E01|Bittergourd|Lakshmipura Cross|Tetranychus macfarlanei|Low|
+E01|Mango|GKVK|Tetranychus fijiensis|Moderate|
+E01|Beans|Thindlu|Tetranychus macfarlanei|Low|
+E01|Tomato|Rajankunte|Tetranychus urticae|Moderate|
+E01|Cowpea|Rajankunte|Tetranychus macfarlanei|Low|
+E01|Redgram|GKVK|Eotetranychus broodryki|High|
+E01|Redgram|GKVK|Tetranychus sp.|Moderate|
+# E02 Coimbatore (printed p. 42): random survey in Dindigul, Periyar, Coimbatore and Madurai districts; table gives mite, family, host, location
+E02|Bhendi|Madurai|Tetranychus ludeni||
+E02|Brinjal|Oddanchetram|Tetranychus cinnabarinus||
+E02|Chilli|Dindigul|Polyphagotarsonemus latus||
+E02|Red gram|Naraseepuram|Aceria cajani||
+E02|Jasmine|Thadagam|Aceria jasmini||
+E02|Moringa|Oddanchetram|Eriophyes moringae||
+E02|Sugarcane|Coimbatore|Aceria sacchari||printed 'Aceria sacchari'
+E02|Ber|Coimbatore|Larvacarus transitans||
+E02|Ber|Arruapukottai|Eriophyes sp.||
+# E06 Pusa Table C (printed pp. 52-53): survey of important mite pests of major crops of Bihar, 1993; month and district carried in the remark; status Major/Minor as printed
+E06|Mango|Pusa|Aceria mangiferae|Major|March 1993; Samastipur district
+E06|Brinjal|Malinagar|Tetranychus ludeni|Major|March 1993; Samastipur district
+E06|Brinjal; Bhindi|Saidpur|Tetranychus ludeni|Major|March 1993; Samastipur district
+E06|Brinjal; Bhindi|Mahamada|Tetranychus ludeni|Major|March 1993; Samastipur district
+E06|Bhindi; Cucurbits|Tara|Tetranychus ludeni|Major|March 1993; Samastipur district
+E06|Bhindi; Brinjal|Harpur|Tetranychus ludeni|Major|March 1993; Samastipur district
+E06|Mango|Dholi|Aceria mangiferae|Major|March 1993; Muzaffarpur district
+E06|Litchi|Dholi|Aceria litchii|Major|March 1993; Muzaffarpur district
+E06|Mango|Bakhari|Aceria mangiferae|Major|March 1993; Muzaffarpur district
+E06|Litchi|Bakhari|Aceria litchii|Major|March 1993; Muzaffarpur district
+E06|Bhindi|Dubaha|Tetranychus ludeni|Major|March 1993; Muzaffarpur district
+E06|Lemon; Chilli|Hazipur|Brevipalpus phoenicis|Major|April 1993; Vaishali district
+E06|Banana|Hazipur|Brevipalpus spp.|Minor|April 1993; Vaishali district
+E06|Bhindi; Brinjal|Lalganj|Tetranychus ludeni|Major|April 1993; Vaishali district
+E06|Sugarcane|Harpur|Oligonychus indicus|Major|May 1993; Samastipur district
+E06|Bhindi|Harpur|Tetranychus ludeni|Major|May 1993; Samastipur district
+E06|Chilli|Harpur|Tetranychus ludeni|Major|May 1993; Samastipur district
+E06|Papaya|Biraul|Tetranychus ludeni|Minor|May 1993; Samastipur district
+E06|Bhindi; Brinjal; Chilli|Pusa Farm|Tetranychus ludeni|Major|June 1993
+E06|Maize|Dholi Farm|Oligonychus spp.|Major|August 1993
+E06|Chilli|Dholi Farm|Tetranychus cinnabarinus|Minor|August 1993
+E06|Castor|Dholi Farm|Tetranychus spp.|Minor|August 1993
+E06|Pigeonpea|Pusa|Aceria cajani|Major|October 1993; Samastipur district
+E06|Pomegranate|Pusa|Brevipalpus phoenicis|Major|October 1993; Samastipur district
+# E07 Pusa Table 29 (printed p. 54): incidence of litchi erineum mite in North Bihar by district; status is the printed leaf-damage index (Heavy over 31 per cent; Moderate 11-30); figures are tree infestation %, leaf infestation %, mites per 2.5 sq cm of leaf, trees observed
+E07|Litchi|Samastipur|Aceria litchii|Heavy|trees observed 4450; tree 76.45%; leaf 85.60%; 50.35 mites/2.5 sq cm
+E07|Litchi|Vaishali|Aceria litchii|Heavy|trees observed 3500; tree 65.50%; leaf 72.95%; 65.24 mites/2.5 sq cm
+E07|Litchi|Muzaffarpur|Aceria litchii|Heavy|trees observed 4570; tree 70.65%; leaf 81.26%; 55.72 mites/2.5 sq cm
+E07|Litchi|East Champaran|Aceria litchii|Heavy|trees observed 3800; tree 65.36%; leaf 75.16%; 36.42 mites/2.5 sq cm
+E07|Litchi|Sitamarhi|Aceria litchii|Heavy|trees observed 2614; tree 80.86%; leaf 84.90%; 42.75 mites/2.5 sq cm
+E07|Litchi|Khagaria|Aceria litchii|Moderate|trees observed 1155; tree 15.56%; leaf 27.15%; 16.76 mites/2.5 sq cm
+E07|Litchi|Bhagalpur|Aceria litchii|Moderate|trees observed 1442; tree 18.00%; leaf 28.62%; 25.48 mites/2.5 sq cm
+# E05 Varanasi Table B mango rows (printed p. 51): localities are printed against each mite
+E05|Mango (Mangifera indica L.)|=Varanasi; Jaunpur; Ghazipur; Allahabad; Azamgarh|Aceria mangiferae Sayed||printed: associated with mango malformation and causing heavy damage
+E05|Mango (Mangifera indica L.)|=Varanasi; Allahabad|Cisaberoptus kenyae Keifer||printed: recorded for the first time in North India; infesting mango leaves
+E05|Mango (Mangifera indica L.)|Varanasi|Tarsonemus occidentalis||printed: recorded for the first time in India
+# E08 Kalyani (printed pp. 54-55): survey sites named in the text; mite-host pairs the text gives
+E08|Sugarcane (mainly ratoon)|Plassey|Schizotetranychus andropogoni||printed: becoming a threat to cane growers in Nadia district (Plassey)
+E08|Redgram||Schizotetranychus cajani||printed: pulse crops mainly had T. cinnabarinus; redgram infested by S. cajani
+# E09 Pigeonpea sterility mosaic survey by PC Cell Bangalore (Table 30, printed pp. 56-62), Nov-Dec 1993: the table column is 'mite vectors' per leaf; taken as Aceria cajani, the sterility mosaic vector named in the text. Districts or sites where fields recorded mites; Gulbarga fields and the Dharwad Hubli and Shirahatti taluks recorded none and are not carried
+E09|Pigeonpea|Chitradurga|Aceria cajani||Holalkere taluk (Chikkajajur, Sunagere-Kelehalu); vector mites 0.11 to 9.33 per leaf in fields; 1st week November 1993
+E09|Pigeonpea|Bidar|Aceria cajani||Bidar taluk fields; vector mites up to 14 per leaf; 4th week November 1993
+E09|Pigeonpea|Belgaum|Aceria cajani||Athani taluk fields; vector mites 0.11 to 14.4 per leaf; 1st week December 1993
+E09|Pigeonpea|Dharwad|Aceria cajani||Dharwad taluk villages; vector mites 0.4 to 4.5 per leaf; 1st week December 1993
+E09|Pigeonpea|GKVK, Bangalore|Aceria cajani||sown May to July; vector mites 0.4 to 0.5 per leaf, 9 to 10 per leaf in crop sown last week of June

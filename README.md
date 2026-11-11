@@ -6,7 +6,7 @@ This is the data repository for Paper 2 of the project *Agricultural mites in In
 
 ## Status (11 November 2026)
 
-Four layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1990–91 and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988 report was typed from the page images as well. None has been checked page by page against the printed source.
+Five layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91 and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -79,7 +79,22 @@ The report covers 1987–88. It gives usable survey tables for six centres: Bang
 
 Varanasi's tables print hosts and districts as separate lists for each mite, so they are recorded as `host_only` and `place_only` rows and never crossed. Almora and Nainital were in Uttar Pradesh in 1988 and are recorded under Uttarakhand, which is why that state appears. Several mite names are species described in the report as new (marked `sp. nov.`); they are kept as printed and are not counted as published species.
 
-Combined AICRP layers: 2,619 observation rows, 303 species × state pairs, 161 of them not in the Gupta & Mondal (2023) layer.
+### Layer 5: AICRP report 1992–94 (survey chapter, printed pp. 40–62)
+
+Most of this report is experiments. Its survey material is tables from Bangalore (20 crop-place-mite rows with status), Coimbatore (9 rows), Navsari (four rice species), Ludhiana (Table A: 33 species with hosts, localities and specimen counts for Punjab and Himachal Pradesh), Varanasi (Table B: 14 hosts), Pusa (Table C by month and village, and Table 29 on litchi erineum mite by district), Kalyani (a species list for West Bengal without hosts) and the pigeonpea sterility mosaic survey (Aceria cajani at district level in Karnataka). Notes on rows left out and uncertain readings are in `data/aicrp/transcription/NOTES_1992-94.md`.
+
+| Measure | Value |
+| --- | ---: |
+| Observation rows | 347 |
+| Distinct mite species names | 79 |
+| Distinct host names | 72 |
+| Species × state pairs joined to the checklist | 116 (59 species) |
+| ...of which not in the Gupta & Mondal (2023) layer | 52 |
+| ...of which also not in the other AICRP layers | 13 |
+
+The 13 pairs new to the other AICRP layers are West Bengal (6), Karnataka (2), Tamil Nadu (2), Himachal Pradesh (2) and Gujarat (1). Ludhiana prints hosts and localities as separate lists for each species, so they are recorded as `host_only` and `place_only` rows and never crossed; Varanasi's multi-locality hosts are handled the same way. Kalyani's species list has no host or place, so its state is the centre's state.
+
+Combined AICRP layers: 2,966 observation rows, 317 species × state pairs, 168 of them not in the Gupta & Mondal (2023) layer.
 
 ## Files
 

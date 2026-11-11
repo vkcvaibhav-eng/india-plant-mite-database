@@ -454,3 +454,92 @@ D09|Neoribates sp.|sci:Bacopa monnieri|||Bacopa +
 D09|Scheloribates sp.|sci:Eichhornia crassipes|||Eichhornia ++
 D09|Galumna sp.|sci:Eichhornia crassipes; sci:Salvinia natans; sci:Marsilea minuta; sci:Ipomoea aquatica|||Eichhornia +++; Salvinia +++; Marsilea +; Ipomoea +
 D09|Punctoribates longiporusus|sci:Eichhornia crassipes|||Eichhornia +
+# E03 Navsari (printed p. 43): mite species identified from rice; Dang and Navsari districts; the family-level plant-feeding table for Valsad, Surat and Bharuch (no species) is not carried
+E03|Steneotarsonemus spinki (Smiley)|Rice|Dang||
+E03|Tyrophagus putrescentiae (Schrank)|Rice|Dang||
+E03|Amblyseius (Neoseiulus) sp.|Rice|Navsari||
+E03|Amblyseius (Euseius) alstoniae (Gupta)|Rice|Navsari||
+# E04 Ludhiana Table A (printed pp. 45-48): list of mite species collected in Punjab and Himachal Pradesh; hosts and localities are printed as separate lists; specimen counts in the remark
+E04|Tetranychus cinnabarinus|Brinjal; Bhindi|Ropar; Patiala; Ludhiana; Chandigarh||20 specimens
+E04|Tetranychus urticae|Papita|Gurdaspur; Sangrur; Ropar; Ferozepur||12 specimens
+E04|Tetranychus ludeni|Brinjal; Bhindi; Tomato|Kalka; Ludhiana; Chandigarh; Ropar||30 specimens
+E04|Tetranychus sp.|Soybean|Kalka||3 specimens
+E04|Eutetranychus orientalis|Nimboo; Citrus; Papaya; Peach|Ludhiana; Abohar; Patiala; Nalagarh||15 specimens
+E04|Oligonychus sp.|Apple; Litchi|Palampur||2 specimens
+E04|Oligonychus indicus|Sugarcane; Maize|Ludhiana; Amritsar; Gurdaspur||22 specimens
+E04|Oligonychus mangiferus|Mango; Guava; Grape|Ludhiana; Sangrur; Kartarpur||32 specimens
+E04|Oligonychus coffeae|Tea|Palampur||2 specimens
+E04|Eotetranychus hirsti|Fig|Chandigarh; Sunam; Palampur; Ludhiana||9 specimens
+E04|Schizotetranychus andropogoni|Sugarcane; Ber|Ludhiana; Balachaur; Ropar||20 specimens
+E04|Aceria litchii|Litchi|Palampur||1 specimen
+E04|Eriophyes cernuus|Ber|Ludhiana||3 specimens
+E04|Brevipalpus californicus|Citrus; Grapevine; Guava; Tea|Chandigarh; Sangrur; Ludhiana; Gurdaspur||25 specimens
+E04|Brevipalpus phoenicis|Malta; Mausami; Kinnow; Guava; Nimboo|Ludhiana; Ropar||15 specimens
+E04|Brevipalpus sp.|Bohar|Abohar; Ludhiana; Sujanpur; Amritsar||10 specimens
+E04|Tenuipalpus punjabensis|Pear; Peach|Ludhiana; Abohar||5 specimens
+E04|Brevipalpus deleoni|Sweet potato|Ludhiana||2 specimens
+E04|Polyphagotarsonemus latus|Sugarcane; Maize; Potato; Chillies; Bean|Palampur; Ludhiana; Chandigarh||6 specimens
+E04|Cheletogenes ornatus|Local|Ludhiana||1 specimen
+E04|Lasioseius sp.|Bohar|Ludhiana||3 specimens
+E04|Tyrophagus sp.|Cotton|Ludhiana||6 specimens
+E04|Pronematus sp.|Grape; Kinnow; Bhindi; Chilli|Ludhiana; Kalka; Gurdaspur||25 specimens
+E04|Lorryia sp.|Jamun|Ludhiana; Garhshankar||5 specimens
+E04|Amblyseius alstoniae|Ber; Ashoka tree; Pear|Ludhiana; Chandigarh||5 specimens
+E04|Amblyseius finlandicus|Pear; Brinjal; Bhindi|Ludhiana||4 specimens
+E04|Amblyseius multidentatus|Brinjal; Bhindi|Ludhiana||6 specimens
+E04|Phytoseius minutus|Local|Sangrur; Palampur; Hoshiarpur||10 specimens
+E04|Phytoseius roseus|Bhindi; Brinjal|Ludhiana||8 specimens
+E04|Phytoseius neocorniger|Cotton|Ludhiana||2 specimens
+E04|Phytoseius macropilis|Jamun; Brinjal|Ludhiana; Chandigarh||15 specimens
+E04|Typhlodromus homalii|Peach; Pear|Ludhiana||2 specimens
+E04|Typhlodromus sp.|Ber; Brinjal|Ludhiana||2 specimens
+# E08 Kalyani species list by family (printed pp. 55-56): species listed for the West Bengal survey (Nadia, Midnapore, Hooghly, North 24 Parganas, Burdwan, Jalpaiguri); no host or locality printed against species
+E08|Tetranychus cinnabarinus||||species list, no host or locality
+E08|Tetranychus neocaledonicus||||species list, no host or locality
+E08|Tetranychus ludeni||||species list, no host or locality
+E08|Schizotetranychus cajani||||species list, no host or locality
+E08|Schizotetranychus andropogoni||||species list, no host or locality
+E08|Eutetranychus orientalis||||species list, no host or locality
+E08|Eutetranychus maximae||||species list, no host or locality
+E08|Oligonychus indicus||||species list, no host or locality
+E08|Oligonychus mangiferae||||species list, no host or locality
+E08|Oligonychus coffeae||||species list, no host or locality
+E08|Oligonychus oryzae||||species list, no host or locality
+E08|Panonychus citri||||species list, no host or locality
+E08|Brevipalpus californicus||||species list, no host or locality
+E08|Brevipalpus phoenicis||||species list, no host or locality
+E08|Dolichotetranychus floridanus||||species list, no host or locality
+E08|Raoiella indica||||species list, no host or locality
+E08|Tenuipalpus crasus||||species list, no host or locality
+E08|Polyphagotarsonemus latus||||species list, no host or locality
+E08|Tarsonemus ananas||||species list, no host or locality
+E08|Acaphylla theae||||species list, no host or locality
+E08|Aceria litchii||||species list, no host or locality
+E08|Aceria mangiferae||||species list, no host or locality
+E08|Cisaberoptus kenyae||||species list, no host or locality
+E08|Amblyseius alstoniae||||species list, no host or locality
+E08|Amblyseius coccineae||||species list, no host or locality
+E08|Amblyseius indicus||||species list, no host or locality
+E08|Amblyseius fallacis||||species list, no host or locality
+E08|Amblyseius finlandicus||||species list, no host or locality
+E08|Amblyseius herbicolus||||species list, no host or locality
+E08|Amblyseius largoensis||||species list, no host or locality
+E08|Amblyseius pruni||||species list, no host or locality
+E08|Amblyseius multidentatus||||species list, no host or locality
+E08|Amblyseius syzygii||||species list, no host or locality
+E08|Amblyseius homalii||||species list, no host or locality
+E08|Phytoseius meyerae||||species list, no host or locality
+E08|Hypoaspis miles||||species list, no host or locality
+E08|Neocypholaelaps stridulans||||species list, no host or locality
+E08|Anystis sp.||||species list, no host or locality
+E08|Cunaxa setirostris||||species list, no host or locality
+E08|Neocunaxoides pradhani||||species list, no host or locality
+E08|Agistemus fleschneri||||species list, no host or locality
+E08|Agistemus macromatus||||species list, no host or locality
+E08|Acaropsis docta||||species list, no host or locality
+E08|Chelacaropsis moorai||||species list, no host or locality
+E08|Cheletogenes ornatus||||species list, no host or locality
+E08|Cheyletus eruditus||||species list, no host or locality
+E08|Rhizoglyphus echinopus||||species list, no host or locality
+E08|Tyrophagus putrescentiae||||species list, no host or locality
+E08|Glycyphagus sp.||||species list, no host or locality

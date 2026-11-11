@@ -2,6 +2,7 @@
 
 Source reports (annual reports of the All India Coordinated Research Project on Agricultural Acarology):
   AICRP 1996-98  (survey chapter IV.1, printed pp. 185-212)
+  AICRP 1992-94  (survey chapter III.1, printed pp. 40-62: Bangalore, Coimbatore, Navsari, Ludhiana, Varanasi, Pusa, Kalyani, pigeonpea sterility mosaic survey)
   AICRP 1988     (First Workshop, 5-7 October 1988; survey tables of Bangalore, Coimbatore, Ludhiana, Hisar material, Pusa, Varanasi)
   AICRP 1990-91  (survey chapter I, printed pp. 9-39; Bangalore has localities only, Chapter II taxonomic study not yet transcribed)
 Each transcribed row keeps the text as printed apart from obvious OCR noise (flagged in 'note').
@@ -53,17 +54,17 @@ ABBREV = {
     "Amblyseius ovalis": "Amblyseius ovalis", "Amblyseius sp.": "Amblyseius sp.",
 }
 FAMILY_WORDS = {"phytoseiid": "Phytoseiidae", "tydeid": "Tydeidae", "tarsonemid": "Tarsonemidae", "tenuipalpid": "Tenuipalpidae",
-                "tetranychid": "Tetranychidae", "stigmaeid": "Stigmaeidae", "bdellid": "Bdellidae", "eriophyid": "Eriophyidae"}
+                "tetranychid": "Tetranychidae", "stigmaeid": "Stigmaeidae", "bdellid": "Bdellidae", "eriophyid": "Eriophyidae", "acarid": "Acaridae"}
 HIGHER = {"mesostigmata", "cryptostigmata", "astigmata"}
 GENUS_FAMILY = {}
 for fam, gens in {
     "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella Stylophoronychus",
     "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus Obuloides",
-    "Tarsonemidae": "Polyphagotarsonemus Tarsonemus Stenotarsonemus Fungitarsonemus Lupotarsonemus",
+    "Tarsonemidae": "Polyphagotarsonemus Tarsonemus Stenotarsonemus Steneotarsonemus Fungitarsonemus Lupotarsonemus",
     "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus Aculus Aculops Chiracus Diptilomiopus Ditrimacus Tegonotus Neocalaconus",
     "Phytoseiidae": "Amblyseius Phytoseius Typhlodromus Indodromus Platyseiella",
     "Tuckerellidae": "Tuckerella", "Anystidae": "Anystis",
-    "Cunaxidae": "Cunaxa Dactyloscirus Pseudocunaxa Scirula", "Laelapidae": "Ololaelaps Pseudoparasitus", "Galumnidae": "Galumna",
+    "Cunaxidae": "Cunaxa Neocunaxoides Dactyloscirus Pseudocunaxa Scirula", "Laelapidae": "Ololaelaps Pseudoparasitus Hypoaspis", "Galumnidae": "Galumna",
     "Ameroseiidae": "Neocypholaelaps",
     "Tydeidae": "Pronematus Tydeus Lorryia", "Stigmaeidae": "Agistemus Mediolata", 
     "Cheyletidae": "Cheletogenes Cheletominus Hemicheyletia Cheyletus Cheletomorpha Chelacaropsis Cheletacarus Chelonotus Neoacaropsis Acaropsis",
@@ -107,6 +108,15 @@ PLACE_STATE.update({"Almora": "Uttarakhand", "Nainital": "Uttarakhand", "Shahjah
 PLACE_STATE.update({"Jog falls": "Karnataka", "Ghati Subramanya": "Karnataka", "Makali Durga": "Karnataka",
                     "Pothnal": "Karnataka", "Raichur": "Karnataka", "Sindhanur": "Karnataka", "Chintamani": "Karnataka",
                     "Hessarghatta": "Karnataka", "Jawalgere": "Karnataka", "Jawalgare": "Karnataka", "Mandya": "Karnataka", "Hebbal": "Karnataka"})
+PLACE_STATE.update({
+    "Madurai": "Tamil Nadu", "Dindigul": "Tamil Nadu", "Oddanchetram": "Tamil Nadu", "Naraseepuram": "Tamil Nadu", "Thadagam": "Tamil Nadu", "Arruapukottai": "Tamil Nadu",
+    "Hoskote": "Karnataka", "Kanakapura": "Karnataka", "Rajankunte": "Karnataka", "Chikkaballapur": "Karnataka", "Honnenahalli": "Karnataka", "Chamarajanagar": "Karnataka",
+    "Thindlu": "Karnataka", "Lakshmipura Cross": "Karnataka", "IIHR": "Karnataka", "Chettahalli": "Karnataka", "Horticultural Research Station, GKVK": "Karnataka", "GKVK": "Karnataka", "GKVK, Bangalore": "Karnataka",
+    "Chitradurga": "Karnataka", "Bidar": "Karnataka", "Belgaum": "Karnataka",
+    "Bakhari": "Bihar", "Dubaha": "Bihar", "Hazipur": "Bihar", "Lalganj": "Bihar", "Harpur": "Bihar", "Biraul": "Bihar", "Saidpur": "Bihar", "Tara": "Bihar", "Mahamada": "Bihar", "Malinagar": "Bihar",
+    "Sitamarhi": "Bihar", "Bhagalpur": "Bihar", "East Champaran": "Bihar", "Pusa Farm": "Bihar", "Dholi Farm": "Bihar",
+    "Dang": "Gujarat", "Navsari": "Gujarat", "Plassey": "West Bengal", "Garhshankar": "Punjab",
+})
 AMBIGUOUS_PLACES = {"Sujanpur": "Sujanpur exists in Himachal Pradesh and in Punjab"}
 
 def split_authority(mite):
@@ -144,7 +154,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):

@@ -305,3 +305,17 @@ D08|sci:Stereulia diversifolia||Amblyseius (Euseius) sp.|Mad tree
 D08|sci:Dailemia sp.||Amblyseius (Euseius) alstoniae|host as printed
 D08|sci:Cassia fistula||Amblyseius sp.|Amaltash
 D08|sci:Ricinus communis||Amblyseius (Typhlodromips) siggii|castor; epithet as printed
+# E05 Varanasi Table B (printed pp. 49-51): mites collected on different host plants in Uttar Pradesh; localities printed per host
+E05|Apple (Pyrus malus)|Varanasi|Brevipalpus deleoni ~ printed: infestation was very high|
+E05|Ber (Ziziphus jujuba)|Varanasi; Allahabad; Azamgarh|Tetranychus sp.; Eutetranychus annecki; Eutetranychus orientalis; Brevipalpus sp.; Eriophyes cerenuus ~ printed: makes galls on twigs; Phytoseius punjabensis ~ printed: occurrence of this predator was limited between March to April|
+E05|Bel (Aegle marmelos)|Varanasi; Azamgarh|Amblyseius alstoniae; Amblyseius herbicolus|printed: an active predator, but distribution was not uniform
+E05|Mulberry (Morus alba)|Varanasi|Tetranychus cinnabarinus; Schizotetranychus sp.; Agistemus industani; Aceria mori; Cunaxa setirostris; Amblyseius delhiensis; Amblyseius multidentatus; Phytoseius kapuri; Phytoseius minutus; Amblyseius longispinosus|printed against the predators: active feeding on all stages of prey
+E05|Lemon (Citrus lemon)|Varanasi; Azamgarh|Eutetranychus orientalis; Brevipalpus sp.; Polyphagotarsonemus latus; Typhlodromus homalii; Acarid ~ printed: it is a fungus feeder|
+E05|Papaya (Carica papaya)|Varanasi|Eutetranychus orientalis; Brevipalpus sp.; Tydeid; Amblyseius alstoniae; Amblyseius finlandicus|
+E05|Brinjal (Solanum melongena)|Varanasi|Tetranychus macfarlanei; Brevipalpus phoenicis; Steneotarsonemus sp.; Lasioseius sp.|printed: the predator was found feeding on all stages of T. macfarlanei
+E05|Kherini|Varanasi|Polyphagotarsonemus sp. ~ printed: incidence not pronounced; Typhlodromus homalii ~ printed: potential predator, widely distributed on many host plants|
+E05|Kachanar (Bahunia variegata)|Varanasi|Phytoseius kapuri ~ printed: recorded as inactive predator; Agistemus sp. ~ printed: feeds on eggs and larvae of tetranychid mites|
+E05|Bhindi (Abelmoschus esculentus)|Varanasi|Tetranychus cinnabarinus ~ printed: recorded in huge numbers; Amblyseius longispinosus; Amblyseius multidentatus; Tyrophagus putrescentiae ~ printed: mostly associated with fungus|
+E05|Sponge gourd|Varanasi|Schizotetranychus sp. ~ printed: highly infested the lower surface of the leaf; Amblyseius sp.|
+E05|Lasora|Varanasi|Amblyseius finlandicus ~ printed: recorded as an efficient predator; Aceria cordiae ~ printed: causes leaf gall; Cheletogenes sp.|host name partly illegible in the scan, read as Lasora (Cordia) from Aceria cordiae
+E05|Litchi (Litchi chinensis L.)|Varanasi; Lucknow|Aceria litchii Keifer ~ printed: recorded for the first time in U.P.|
