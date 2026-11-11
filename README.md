@@ -6,7 +6,7 @@ This is the data repository for Paper 2 of the project *Agricultural mites in In
 
 ## Status (11 November 2026)
 
-Two layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology annual report for 1996–98. The book layer is machine-parsed from an OCR transcription. The AICRP layer is typed by hand from the scan's text layer. Neither has been checked page by page against the printed source.
+Three layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98 and 1990–91. The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. None has been checked page by page against the printed source.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -36,9 +36,9 @@ Survey tables from seven centres: Bangalore, Coimbatore, Ludhiana, Hisar, Varana
 | Species × state pairs joined to the checklist | 169 |
 | ...of which not in the Gupta & Mondal (2023) layer | 85 |
 
-The 85 new pairs are mostly Uttar Pradesh (34), Tamil Nadu (10), Punjab (10) and Chandigarh (8). Species names in the six checklist families that do not join to the checklist (8 names, for example *Tetranychus evansi* from Hisar) are in `data/review/aicrp_names_not_in_checklist.csv`.
+The 85 new pairs are mostly Uttar Pradesh (34), Tamil Nadu (10), Punjab (10) and Chandigarh (8). Species names in the six checklist families that do not join to the checklist (for example *Tetranychus evansi* from Hisar, and *Tenuipalpus convolvulae* from Coimbatore) are in `data/review/aicrp_names_not_in_checklist.csv`.
 
-- `data/aicrp/aicrp_observations.csv`: one row per observation. `pairing` says what the table printed: `host_and_place_paired`, or `host_only` / `place_only` where the table gave a species its host list and its locality list separately. Those two lists are never crossed.
+- `data/aicrp/aicrp_observations.csv`: one row per observation, both AICRP reports (`report` column). `obs_id` is regenerated at each build, so do not cite it. `pairing` says what the table printed: `host_and_place_paired`, or `host_only` / `place_only` where the table gave a species its host list and its locality list separately. Those two lists are never crossed.
 - `data/aicrp/aicrp_species_state_vs_gm2023.csv`: each joined species × state pair, and whether the book layer already has it.
 - `data/aicrp/transcription/`: the typed source tables (`paired.txt`, `lists.txt`, `host_mites.txt`) and `blocks.csv` with the PDF and printed page of each table. The `note` column marks OCR noise that was corrected.
 - `config/name_crosswalk.csv`: old-to-current name joins used for the checklist (for example *Amblyseius alstoniae* to *Euseius alstoniae*), each with its basis.
@@ -46,9 +46,23 @@ The 85 new pairs are mostly Uttar Pradesh (34), Tamil Nadu (10), Punjab (10) and
 Limits of layer 2:
 - Hisar does not say which of Haryana and Himachal Pradesh a record comes from, so its state is "Haryana; Himachal Pradesh (not split)" and it is left out of the state comparison.
 - Navsari's 1996–98 survey section gives only sample counts and family names, so it is not in the records.
-- The 1992–94 report is not yet included. Its survey tables are rotated scans that the text layer cannot read and need transcribing from the page images.
 - Names marked "sp. nov." in the report are kept as printed. They are report names and are not counted as published species.
 - Status words (High, Medium, Severe and so on) are the centres' own and are not comparable between centres.
+
+### Layer 3: AICRP annual report 1990–91 (survey chapter, printed pp. 9–39)
+
+Survey tables from seven centres: Kalyani, Coimbatore, Navsari, Varanasi, Ludhiana, Pusa and Hisar. Bangalore's survey section lists localities only, and the taxonomic chapter (printed pp. 40–55) is not yet transcribed. The tables were typed from the page images; the transcription notes, including rows left out and uncertain readings, are in `data/aicrp/transcription/NOTES_1990-91.md`.
+
+| Measure | Value |
+| --- | ---: |
+| Observation rows | 604 |
+| Distinct mite species names | 68 |
+| Distinct host names | 170 |
+| Species × state pairs joined to the checklist | 102 |
+| ...of which not in the Gupta & Mondal (2023) layer | 50 |
+| ...of which also not in the 1996–98 layer | 31 |
+
+The 31 pairs new to both layers are Gujarat (10), Haryana (8), Bihar, West Bengal and Tamil Nadu (3 each), and one each for Himachal Pradesh, Kerala and Punjab. Gujarat comes only from this report. Navsari, Hisar and Kalyani print no locality per row, so their state is the centre's state. Navsari rows are one per slide, so a host and mite can repeat.
 
 ## Files
 

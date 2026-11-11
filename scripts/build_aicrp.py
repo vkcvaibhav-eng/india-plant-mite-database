@@ -2,6 +2,7 @@
 
 Source reports (annual reports of the All India Coordinated Research Project on Agricultural Acarology):
   AICRP 1996-98  (survey chapter IV.1, printed pp. 185-212)
+  AICRP 1990-91  (survey chapter I, printed pp. 9-39; Bangalore has localities only, Chapter II taxonomic study not yet transcribed)
 Each transcribed row keeps the text as printed apart from obvious OCR noise (flagged in 'note').
 
 Outputs
@@ -55,28 +56,30 @@ FAMILY_WORDS = {"phytoseiid": "Phytoseiidae", "tydeid": "Tydeidae", "tarsonemid"
 HIGHER = {"mesostigmata", "cryptostigmata", "astigmata"}
 GENUS_FAMILY = {}
 for fam, gens in {
-    "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia",
-    "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus",
+    "Tetranychidae": "Tetranychus Eutetranychus Eotetranychus Oligonychus Schizotetranychus Panonychus Bryobia Petrobia Aponychus Bryobiella",
+    "Tenuipalpidae": "Brevipalpus Tenuipalpus Raoiella Larvacarus Dolichotetranychus Pentamerismus Terminalichus",
     "Tarsonemidae": "Polyphagotarsonemus Tarsonemus Stenotarsonemus Fungitarsonemus Lupotarsonemus",
-    "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla",
-    "Phytoseiidae": "Amblyseius Phytoseius Typhlodromus Indodromus",
+    "Eriophyidae": "Aceria Eriophyes Acalitus Cisaberoptus Colomerus Acaphylla Calacarus Paraphytoptus",
+    "Phytoseiidae": "Amblyseius Phytoseius Typhlodromus Indodromus Platyseiella",
+    "Tuckerellidae": "Tuckerella", "Anystidae": "Anystis",
     "Tydeidae": "Pronematus Tydeus Lorryia", "Stigmaeidae": "Agistemus Mediolata", "Cunaxidae": "Cunaxa",
-    "Cheyletidae": "Cheletogenes Cheletominus Hemicheyletia Cheyletus", "Bdellidae": "Bdella",
+    "Cheyletidae": "Cheletogenes Cheletominus Hemicheyletia Cheyletus Cheletomorpha Chelacaropsis", "Bdellidae": "Bdella",
     "Acaridae": "Acarus Tyrophagus Rhizoglyphus Suidasia Lardoglyphus", "Ascidae": "Lasioseius",
     "Hydrozetidae": "Hydrozetes", "Malaconothridae": "Trimalaconothrus", "Oribatulidae": "Scheloribates", "Liacaridae": "Liacarus",
-    "Pygmephoridae": "Pygmephorus", "Glycyphagidae": "Austroglycyphagus",
+    "Pygmephoridae": "Pygmephorus", "Glycyphagidae": "Austroglycyphagus Glycyphagus",
 }.items():
     for g in gens.split():
         GENUS_FAMILY[g] = fam
 
 PLACE_STATE = {}
 for st, places in {
-    "Punjab": "Ludhiana Ropar Balachaur Hoshiarpur Amritsar Rajpura Abohar Fatehgarh Sahib|Sunam Patiala Batala Gurdaspur Sangrur Kartarpur Kapurthala Ladhowal Pathankot Ferozepur Ajnala|Dehra Baba Nanak|Bathinda Nangal Jalandhar Garshankar",
+    "Punjab": "Fazilka Mukerian Ludhiana Ropar Balachaur Hoshiarpur Amritsar Rajpura Abohar Fatehgarh Sahib|Sunam Patiala Batala Gurdaspur Sangrur Kartarpur Kapurthala Ladhowal Pathankot Ferozepur Ajnala|Dehra Baba Nanak|Bathinda Nangal Jalandhar Garshankar",
     "Himachal Pradesh": "Palampur Solan Nalagarh Una Shimla Jasur Jassur Hamirpur",
     "Chandigarh": "Chandigarh", "Haryana": "Kalka", "Rajasthan": "Ganganagar", "Jammu & Kashmir": "Kathua",
-    "Kerala": "Kottayam Calicut", "Tamil Nadu": "Coimbatore Sivagangai Trichy Bhavanisagar",
+    "Kerala": "Kottayam Calicut Palghat", "Tamil Nadu": "Coimbatore Sivagangai Trichy Bhavanisagar",
     "Karnataka": "Mangalore Dharwad Bangalore Hosakote",
-    "Uttar Pradesh": "Varanasi Allahabad Azamgarh Jaunpur Ghazipur Lucknow",
+    "Uttar Pradesh": "Varanasi Allahabad Azamgarh Jaunpur Ghazipur Lucknow Kanpur Ballia Pratapgarh Mirzapur",
+    "Bihar": "Madhubani Saharsa Khagaria",
 }.items():
     for p in re.split(r"[ |]", places.replace("|", "|")):
         pass
@@ -115,6 +118,7 @@ def classify(name):
     return n, "unresolved"
 
 def host_parts(h):
+    if h.startswith("sci:"): return "", h[4:].strip()   # host printed as a scientific name
     m = re.match(r"^(.*?)\s*\(([A-Z][a-z]+ .*?)\)\s*$", h)
     if m: return m.group(1).strip(), m.group(2).strip()
     return h.strip(), ""
@@ -126,7 +130,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):
@@ -147,6 +151,7 @@ def add(block_id, mite, hosts, places, status, note, pairing, code=""):
             combos = [(h, "", "host_only" if h else "no_host_no_place") for h in (hosts or [""])]
         for h, pl, how in combos:
             hc, hs = host_parts(h)
+            if h.startswith("sci:"): h = h[4:]
             st, basis = (place_state(pl, b["state"]) if pl else (b["state"], "centre_state"))
             if pl and block_id in MULTI_STATE and basis in ("centre_state", "ambiguous_place"):
                 unresolved[(block_id, pl, b["state"], basis)] += 1
@@ -214,6 +219,15 @@ for r in obs:
         r["species_id"] = valid2id[cross[nm]["checklist_name"]]; r["checklist_name"] = cross[nm]["checklist_name"]; r["join_basis"] = "crosswalk"
         continue
     ids = name2id.get(nm, set())
+    alt = re.sub(r" \([A-Z][a-z]+\)", "", nm)   # subgenus dropped
+    if not ids and alt != nm:
+        if alt in cross and cross[alt]["checklist_name"] in valid2id:
+            r["species_id"] = valid2id[cross[alt]["checklist_name"]]; r["checklist_name"] = cross[alt]["checklist_name"]; r["join_basis"] = "crosswalk"
+            continue
+        ids = name2id.get(alt, set())
+        if len(ids) == 1:
+            sid = next(iter(ids)); r["species_id"] = sid; r["checklist_name"] = species[sid]["species"]; r["join_basis"] = "subgenus_dropped"
+            continue
     if len(ids) == 1:
         sid = next(iter(ids)); r["species_id"] = sid; r["checklist_name"] = species[sid]["species"]
         r["join_basis"] = "exact" if species[sid]["species"] == nm else "listed_synonym"

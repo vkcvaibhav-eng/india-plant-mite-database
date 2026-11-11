@@ -210,3 +210,28 @@ B13|Liacarus sp.|Mango (Mangifera indica)|||family Liacaridae
 B13|Hydrozetes terrestris|Water chestnut (Trapa natans)|||auth: Berlese; family Hydrozetidae
 B13|Trimalaconothrus heterotrichus|Water chestnut (Trapa natans)|||auth: Wallwork; family Malaconothridae
 B13|Scheloribates sp.|Water chestnut (Trapa natans)|||family Oribatulidae
+# ---- AICRP 1990-91 ----
+# C05 Ludhiana Table 5 (printed pp. 28-29): species, hosts and localities listed separately per species; 156 samples, about 91 specimens, 7 families, 23 'species'. Hosts and localities are not paired.
+C05|Bryobia sp.|Malta; Brinjal|Ludhiana||4 specimens
+C05|Bryobiella sp.|Khatti|Ludhiana||1 specimen
+C05|Oligonychus mangiferus (Rahman & Sapra)|Nimbu; Lotus; Citrus|Fazilka; Shimla; Ludhiana||4 specimens
+C05|Schizotetranychus sp.|Mango; Sunflower|Shimla; Ludhiana||2 specimens
+C05|Tetranychus cinnabarinus (Boisd.)|Brinjal; Bhindi|Ferozepur; Gurdaspur; Ludhiana; Kapurthala; Fazilka||specimen count not legible
+C05|Tetranychus neocaledonicus Andre|Khatti|Ferozepur||2 specimens
+C05|Brevipalpus californicus (Banks)|Citrus|Ludhiana; Fazilka||5 specimens
+C05|Brevipalpus phoenicis (Geijskes)|Malta; Guava|Ludhiana; Gurdaspur; Ferozepur; Kapurthala||specimen count not legible
+C05|Brevipalpus obovatus Donnadieu|Citrus|Ferozepur; Ludhiana; Patiala||4 specimens
+C05|Brevipalpus sp.|Citrus|Kapurthala||printed as Brevipalpus sp. I; 3 specimens
+C05|Brevipalpus sp.|Khatti|Ludhiana||printed as Brevipalpus sp. II; 2 specimens
+C05|Tenuipalpus sp.|Plum|Ferozepur||2 specimens
+C05|Terminalichus sp.|Citrus|Ferozepur||1 specimen; family not printed (listed under Tenuipalpidae)
+C05|Polyphagotarsonemus latus (Banks)|Brinjal|Ludhiana||4 specimens
+C05|Pronematus fleschneri Baker|Brinjal|Ferozepur; Ludhiana; Kapurthala||3 specimens
+C05|Pronematus sextoni Baker|Brinjal|Gurdaspur; Ludhiana||4 specimens
+C05|Cheletogenes ornatus (C&F)|Brinjal; Boher; Mango|Patiala; Ludhiana||3 specimens
+C05|Agistemus sp.|Brinjal; Chilli|Ludhiana; Hoshiarpur||12 specimens
+C05|Amblyseius finlandicus (Oud.)|Fern; Pear|Shimla; Mukerian; Ludhiana; Patiala||6 specimens
+C05|Amblyseius multidentatus (S&S)|Citrus|Ludhiana||4 specimens
+C05|Amblyseius (Proprioseius) sp.||Kapurthala||3 specimens; no host printed
+C05|Platyseiella sp.||Patiala||4 specimens; no host printed
+C05|Typhlodromus sp.|Bohar; Citrus; Brinjal|Ferozepur; Ludhiana; Hoshiarpur; Shimla||4 specimens

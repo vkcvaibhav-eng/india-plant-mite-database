@@ -16,3 +16,10 @@ B14,AICRP 1996-98,Kalyani,BCKV Kalyani,West Bengal,1996,host_mites,215-216,208-2
 B15,AICRP 1996-98,Kalyani,BCKV Kalyani,West Bengal,1997-98,host_mites,218-219,211-212
 B16,AICRP 1996-98,Pusa,RAU Pusa,Bihar,1996-97,paired,219-220,212-213
 B17,AICRP 1996-98,Hisar,HAU Hisar,Haryana; Himachal Pradesh (not split),1996-97,host_mites,206,199
+C01,AICRP 1990-91,Kalyani,BCKV Kalyani,West Bengal,1990-91,host_mites,18-23,9-14
+C02,AICRP 1990-91,Coimbatore,TNAU Coimbatore,Tamil Nadu,1990-91,paired,23-25,14-16
+C03,AICRP 1990-91,Navsari,GAU Navsari,Gujarat,1990-91,host_mites,25-29,16-20
+C04,AICRP 1990-91,Varanasi,BHU Varanasi,Uttar Pradesh,1990-91,host_mites,31-36,22-27
+C05,AICRP 1990-91,Ludhiana,PAU Ludhiana,Punjab,1990-91,list,37-38,28-29
+C06,AICRP 1990-91,Pusa,RAU Pusa,Bihar,1990-91,paired,40-43,31-34
+C07,AICRP 1990-91,Hisar,HAU Hisar,Haryana,1990-91,host_mites,46-48,37-39

@@ -164,3 +164,89 @@ B16|Chilli|Madhubani|T. cinnabarinus|Minor|June 1996
 B16|Castor|Madhubani|Tetranychus sp.|Minor|June 1996
 B16|Arhar|Pusa|Aceria cajani|Major|June 1996
 B16|Pomegranate|Pusa|Brevipalpus phoenicis|Major|June 1996
+# ---- AICRP 1990-91 ----
+# C02 Coimbatore Table 2 (printed pp. 14-16); rows 14-15 (Thondamuthur jack, Somathur anona) have no family printed and are not transcribed
+C02|Brinjal|Somaiyanur|Tetranychus ludeni Zacher||table row 1
+C02|Lablab|Somaiyanur|Tetranychus ludeni Zacher||table row 2
+C02|Lablab|Somaiyanur|Polyphagotarsonemus latus (Banks)||table row 3
+C02|Tapioca|Somaiyanur|Tetranychus sp.||table row 4
+C02|Calotropis|Somaiyanur|Tetranychus sp.||table row 5
+C02|Snakegourd|Somaiyanur|Tetranychidae||table row 6
+C02|Chillies|Coimbatore|Polyphagotarsonemus latus (Banks)||table row 7; insectary
+C02|Chillies|Coimbatore|Calacarus citrifolii Keifer||table row 8; insectary
+C02|Chillies|Coimbatore|Phytoseiidae||table row 9; insectary
+C02|Redgram|Coimbatore|Phytoseiidae||table row 10; insectary
+C02|Redgram|Coimbatore|Schizotetranychus cajani Gupta||table row 11; insectary
+C02|Jack|Semmedu|Phytoseiidae||table row 12
+C02|Chillies|Semmedu|Polyphagotarsonemus latus (Banks)||table row 13
+C02|Castor|Somathur|Phytoseiidae||table row 16
+C02|Weed|Somathur|Phytoseiidae||table row 17
+C02|Lablab|Somathur|Phytoseiidae||table row 18
+C02|Coconut|Somathur|Phytoseiidae||table row 19
+C02|Wild corchorus|Somathur|Tetranychidae||table row 20
+C02|Guava|Somathur|Eupodidae||table row 21
+C02|Sweet potato|Somathur|Brevipalpus deleoni P&B||table row 22; printed 'Brevipalpus deleoni P&B.'
+C02|Chillies|Udumalpet|Polyphagotarsonemus latus (Banks)||table row 23
+C02|Lablab|Udumalpet|Tetranychidae||table row 24
+C02|Lablab|Udumalpet|Phytoseiidae||table row 25
+C02|Brinjal|Udumalpet|Amblyseius multidentatus (Swirski & Shechter)||table row 26
+C02|Ailanthus sp.|Mettupalayam|Tetranychidae||table row 27
+C02|Ipomoea sp.|Dhayanur|Tenuipalpus convolvulae||table row 28
+C02|Tomato|Dhayanur|Polyphagotarsonemus latus (Banks)||table row 29
+C02|Coconut|Dhayanur|Phytoseiidae||table row 30
+C02|Brinjal|Dhayanur|Tetranychus ludeni Zacher; Tetranychidae||table row 31
+C02|Jasmine|Dhayanur|Phytoseiidae||table row 32
+C02|Datura|Dhayanur|Phytoseiidae||table row 33
+C02|Ipomoea sp.|Dhayanur|Phytoseiidae||table row 34
+C02|Chillies|Palghat|Polyphagotarsonemus latus (Banks)||table row 35; printed 'Kerala Palghat'
+C02|Curry leaf|Palghat|Tetranychidae||table row 36
+C02|Teak|Palghat|Phytoseiidae||table row 37
+C02|Weed plant|Palghat|Phytoseiidae||table row 38
+C02|Grass|Palghat|Phytoseiidae||table row 39
+C02|Coleus|Palghat|Polyphagotarsonemus latus (Banks)||table row 40
+C02|Coconut|Palghat|Phytoseiidae||unnumbered line between table rows 40 and 41
+C02|Coconut|Palghat|Raoiella indica Hirst||table row 41
+C02|Unidentified plant|Palghat|Tarsonemidae||table row 42
+C02|Coffee|Palghat|Stigmaeidae||table row 43
+C02|Shade crop|Palghat|Phytoseiidae||table row 44
+C02|Rubber|Palghat|Phytoseiidae||table row 45
+C02|Rubber|Palghat|Amblyseius ovalis (Evans)||line below table row 45; assigned to rubber by position
+C02|Tapioca|Palghat|Tetranychus sp.||table row 46
+C02|Pepper|Palghat|Amblyseius largoensis (Muma)||table row 47
+C02|Cashew|Palghat|Amblyseius largoensis (Muma)||table row 48
+C02|Cowpea|Palghat|Tarsonemidae||table row 49
+C02|Teak|Palghat|Phytoseiidae||table row 50
+C02|Cashew|Palghat|Phytoseiidae||table row 51
+C02|Teak|Palghat|Tarsonemidae||table row 52
+C02|Brinjal|Periyar district|Tetranychus ludeni Zacher||table row 53
+C02|Tomato|Dharmapuri district|Polyphagotarsonemus latus (Banks)||table row 54
+# C06 Pusa Table 6 (printed pp. 31-34): district x host plant, mites as tentatively identified. Districts Purnea, Katihar, Bhojpur, Rohtas, Jehanabad, Gaya and Nalanda were surveyed but slides were not yet identified.
+C06|Mango|Madhubani|Oligonychus mangiferus (Rahman & Sapra); Tetranychus sp.; Amblyseius sp.; Agistemus sp.||table row 1
+C06|Lemon|Madhubani|Tetranychus sp.; Eutetranychus orientalis (Klein); Amblyseius sp.||table row 2
+C06|Litchi|Madhubani|Aceria litchii Sayed; Amblyseius largoensis (Muma); Amblyseius finlandicus (Oud.); Amblyseius homalii Gupta||table row 3; 'A. homalii' as printed
+C06|Maize|Madhubani|Tetranychus sp.||table row 4
+C06|Chilli|Madhubani|Polyphagotarsonemus latus (Banks)||table row 5
+C06|Bhindi|Madhubani|Tetranychus sp.; Tetranychus ludeni Zacher; Amblyseius multidentatus (S&S)||table row 6
+C06|Brinjal|Madhubani|Tetranychus neocaledonicus Andre; Phytoseius sp.; Agistemus sp.||table row 7
+C06|Guava|Madhubani|Brevipalpus sp.||table row 8
+C06|Sesamum|Madhubani|Tetranychus sp.||table row 9
+C06|Castor|Madhubani|Tetranychus sp.||table row 10
+C06|Gourd|Madhubani|Tetranychus sp.||table row 11
+C06|Brinjal|Saharsa|Tetranychus sp.; Tetranychus ludeni Zacher||table row 1
+C06|Bhindi|Saharsa|Tetranychus sp.; Phytoseius sp.||table row 2
+C06|Water melon|Saharsa|Tetranychus sp.||table row 3
+C06|Papaya|Saharsa|Tetranychus papayae Nassar & Ghai||table row 4
+C06|Raddish|Saharsa|Tetranychus sp.||table row 5
+C06|Castor|Saharsa|Tetranychidae||table row 6
+C06|Kathal|Saharsa|Phytoseiidae; Brevipalpus sp.; Tetranychidae||table row 7; Phytoseiidae and Tetranychidae printed as 'not identified'
+C06|Jamun|Saharsa|Brevipalpus sp.; Phytoseiidae||table row 8; Phytoseiidae printed as 'not identified'
+C06|Guava|Saharsa|Phytoseiidae||table row 9; printed as 'not identified'
+C06|Banana|Saharsa|Agistemus sp.; Stigmaeidae; Phytoseius sp.; Phytoseiidae||table row 10; second Stigmaeidae and Phytoseiidae lines printed as 'not identified'
+C06|Pomegranate|Saharsa|Brevipalpus sp.; Oligonychus mangiferus (R&S)||table row 11
+C06|Ber|Saharsa|Tetranychus sp.; Brevipalpus sp.||table row 12
+C06|Kharbooza (cucurbit)|Saharsa|Tetranychus ludeni Zacher||table row 13
+C06|Sweet potato|Saharsa|Tetranychus ludeni Zacher; Tetranychus sp.; Tenuipalpidae||table row 14; Tenuipalpidae printed as 'not identified'
+C06|Maize|Khagaria|Oligonychus sp.||table row 1
+C06|Arhar|Khagaria|Tetranychus ludeni Zacher||table row 2
+C06|Chilli|Khagaria|Schizotetranychus sp.; Tetranychus cinnabarinus (Boisd.)||table row 3
+C06|Castor|Khagaria|Tetranychus sp.; Tenuipalpidae||table row 4; Tenuipalpidae printed as 'not identified'

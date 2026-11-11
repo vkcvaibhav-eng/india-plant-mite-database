@@ -55,3 +55,187 @@ B15|Nerium||E. orientalis; B. obovatus|
 B15|Bitter gourd||T. cinnabarinus; B. californicus|Flowering
 B15|Ridge gourd||T. ludeni; E. orientalis|Fruiting
 B15|Dolichos bean||T. ludeni; P. latens; E. orientalis; A. (A.) longispinosus|
+# ---- AICRP 1990-91 ----
+# C01 Kalyani Table 1 (printed pp. 9-14). Hosts are printed as scientific names (prefix sci:); no locality per row (Kalyani, Nadia). 'Amblyseius (Neoseiulus)' etc. as printed.
+C01|sci:Oryza sativa||Oligonychus indicus (Hirst); Amblyseius (Neoseiulus) sp.|IR-36, potted seedlings
+C01|sci:Triticum aestivum||Oligonychus sp.|variety Janak
+C01|sci:Hordeum vulgare||Oligonychus oryzae (Hirst)|
+C01|sci:Abelmoschus esculentus||Tetranychus cinnabarinus (Boisd.); Tetranychus neocaledonicus (Andre); Amblyseius (Neoseiulus) fallacis (Garman); Amblyseius (Neoseiulus) longispinosus (Evans); Agistemus sp.|varieties Pusa Sawani and Pusa Parvanikranti
+C01|sci:Solanum melongena||Tetranychus cinnabarinus (Boisd.); Polyphagotarsonemus latus Banks; Brevipalpus sp.; Cunaxa setirostris Hermann; Amblyseius (Euseius) pruni Gupta|variety Muktakeshi
+C01|sci:Capsicum frutescens||Polyphagotarsonemus latus Banks; Amblyseius (Euseius) ovalis (Evans)|California Wonder; two table rows (6 and 7) merged; ovalis printed on one of them
+C01|sci:Cucurbita pepo||Tetranychus neocaledonicus (Andre); Anystidae|Anystidae undetermined
+C01|sci:Phaseolus mungo||Tetranychus sp.; Amblyseius sp.|
+C01|sci:Corchorus olitorius||Polyphagotarsonemus latus Banks; Amblyseius (Euseius) ovalis (Evans)|
+C01|sci:Corchorus capsularis||Oligonychus coffeae (Nietner); Eotetranychus sp.; Amblyseius sp.|Amblyseius sp. is a nymph
+C01|sci:Saccharum officinarum||Schizotetranychus andropogoni Gupta; Amblyseius sp.; Agistemus sp.; Cunaxa setirostris Hermann; Cheletomorpha sp.|
+C01|sci:Mangifera indica||Aceria mangiferae (Sayed); Amblyseius (Amblyseius) largoensis (Muma); Cunaxa sp.; Cheletogenes ornatus (C&F); Agistemus sp.; Tetranychus neocaledonicus (Andre)|
+C01|sci:Carica papaya||Tetranychus sp.; Panonychus citri (McGregor); Amblyseius (Amblyseius) largoensis (Muma)|variety Honeydew
+C01|sci:Litchi chinensis||Aceria litchii K.; Tetranychus sp.; Acaphylla sp.; Amblyseius (Typhlodromips) sp. ~ specific name partly illegible, probably sylvatici Gupta; Amblyseius (Euseius) finlandicus (Oud.)|variety Bombai Shahi
+C01|sci:Cocos nucifera||Tetranychus fijiensis Hirst; Raoiella indica Hirst; Amblyseius (Amblyseius) largoensis (Muma)|
+C01|sci:Psidium guajava||Pronematus sp.; Brevipalpus californicus (Banks); Amblyseius (Euseius) finlandicus (Oud.)|
+C01|sci:Ananas comosus||Dolichotetranychus floridanus (Banks); Rhizoglyphus sp.; Tarsonemus ananas|Giant Kew
+C01|sci:Citrus lemon||Brevipalpus sp. ~ specific name illegible; Amblyseius (Euseius) pruni Gupta; Agistemus sp.; Amblyseius (Amblyseius) sp. ~ specific name illegible, authority Gupta|
+C01|sci:Arachis hypogaea||Tetranychus sp.; Amblyseius (Euseius) pruni Gupta; Agistemus sp.|
+C01|sci:Dahlia variabilis||Tetranychus cinnabarinus (Boisd.); Amblyseius sp.|
+C01|sci:Rosa indica||Tetranychus sp.; Amblyseius (Euseius) finlandicus (Oud.)|
+C01|sci:Tagetes patula||Tetranychus neocaledonicus (Andre); Amblyseius sp.|
+C01|sci:Nerium oleander||Eutetranychus orientalis (Klein); Amblyseius (Euseius) alstoniae Gupta; Cheyletus eruditus; Amblyseius (Euseius) finlandicus (Oud.)|
+C01|sci:Begonia sp.||Amblyseius (Euseius) sp.|
+C01|sci:Coleus sp.||Amblyseius (Euseius) alstoniae Gupta; Brevipalpus sp.|
+C01|Sandalwood (red)||Amblyseius (Euseius) pruni Gupta; Cunaxa setirostris Hermann|
+C01|Chalta||Bdellidae|undetermined Bdellidae
+C01|sci:Duranta plumieri||Typhlodromus (Amblydromella) homalii Gupta|
+C01|sci:Ficus carica||Amblyseius (Euseius) ovalis (Evans)|
+C01|sci:Murraya exotica||Schizotetranychus sp.|
+C01|sci:Ipomoea sp.||Polyphagotarsonemus latus Banks|
+C01|sci:Argemone mexicana||Tetranychus sp.|
+C01|sci:Ziziphus zuzuba||Eutetranychus sp. ~ printed as E. maximae? Nassar & Ghai (reading uncertain)|host spelling as printed
+C01|sci:Medicago sativa||Tetranychus sp.|
+C01|sci:Bambusa tulda||Aponychus corpuzae Rimando|
+C01|sci:Cynodon dactylon||Amblyseius (Neoseiulus) fallacis (Garman)|
+C01|sci:Dalbergia sissoo||Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter)|roadside plantation, old trees
+C01|Arum (stored)||Cunaxa capreolus|stored product, not a plant host
+C01|Honey (stored)||Cheyletus eruditus|stored product, not a plant host
+C01|Gladiolus bulb (stored)||Rhizoglyphus sp.; Chelacaropsis moorei Baker|stored product
+C01|Dried fish||Tydeus sp.; Glycyphagus sp.; Lardoglyphus sp.|stored product, not a plant host
+# C03 Navsari Table 3 (printed pp. 16-20): surveys Nov 1990-Oct 1991 in Valsad, Surat, Bharuch, Surendranagar and Jamnagar districts; one row per slide, locality per slide not printed, slide numbers not transcribed
+C03|Neem||Amblyseius alstoniae Gupta|
+C03|Cotton||Amblyseius alstoniae Gupta|
+C03|Sorghum||Amblyseius delhiensis Narayanan & Kaur|
+C03|Grass||Amblyseius multidentatus (Swirski & Shechter)|
+C03|Sapota||Amblyseius largoensis (Muma)|
+C03|Dashrath grass||Amblyseius alstoniae Gupta|
+C03|Indian bean||Tetranychus macfarlanei|
+C03|Brinjal||Tetranychus ludeni Zacher|
+C03|Ekdandi (weed)||Brevipalpus phoenicis (Geijskes)|
+C03|Johnson grass||Oligonychus indicus (Hirst)|
+C03|Little gourd||Amblyseius alstoniae Gupta|
+C03|Unknown weed||Amblyseius alstoniae Gupta|
+C03|Tirdex sp.||Amblyseius tetranychivorus (Gupta)|host as printed
+C03|Celsia sp.||Amblyseius suknaensis (Gupta)|
+C03|Zizyphus sp.||Amblyseius suknaensis (Gupta)|
+C03|Weed||Amblyseius delhiensis Narayanan & Kaur|
+C03|Euphorbia sp.||Typhlodromus homalii Gupta|
+C03|Lantana||Amblyseius chitradurgae Gupta|
+C03|Mango||Amblyseius delhiensis Narayanan & Kaur|
+C03|Papaya||Amblyseius alstoniae Gupta|
+C03|Cactus||Brevipalpus phoenicis (Geijskes)|
+C03|Lantana||Agistemus fleschneri Summers|
+C03|Helianthus||Amblyseius delhiensis Narayanan & Kaur|
+C03|Weed||Amblyseius multidentatus (Swirski & Shechter)|
+C03|Coconut||Raoiella indica (Hirst)|
+C03|Sugarcane||Oligonychus indicus (Hirst)|
+C03|Chillies||Polyphagotarsonemus latus|
+C03|Bittergourd||Tetranychus ludeni Zacher|
+C03|Mango||Tyrophagus putrescentiae (Schrank)|nymph
+C03|Bittergourd||Tetranychidae|nymph
+C03|Sugarcane||Oligonychus sp.|
+C03|Okra||Tetranychus sp.|
+C03|Sweet potato||Tetranychus sp.|
+C03|Zizyphus||Tetranychus sp.|
+C03|Mucuna||Tetranychus sp.|
+C03|Green gram||Tetranychus sp.|
+C03|Cluster bean||Tetranychus sp.|
+C03|Helianthus||Tetranychus sp.|
+C03|Brinjal||Tetranychus sp.|
+C03|Groundnut||Tetranychus sp.|
+C03|Indian bean||Tetranychus sp.|
+C03|Cowpea||Tetranychus sp.|
+C03|Neem||Tetranychus sp.|
+C03|Ekalifa||Tetranychus sp.|printed host 'Ekalifa'
+C03|Okra||Eutetranychus sp.|
+C03|Sapota||Tuckerella sp.|
+C03|Insect||Erythraeidae|mite taken from an insect, not a plant
+C03|Sesamum||Agistemus sp.|
+C03|Sevri||Agistemus sp.|
+C03|Tomato||Oligonychus sp.; Pronematus sp.|
+C03|Cowpea||Amblyseius sp.|
+C03|Nerium sp.||Pentamerismus sp.|
+C03|Coconut||Raoiella indica (Hirst)|
+C03|Brinjal||Brevipalpus phoenicis (Geijskes); Phytoseius (Pennaseius) kapuri Gupta|
+C03|Neem||Schizotetranychus sp.|
+C03|Cotton||Amblyseius alstoniae Gupta|
+# C04 Varanasi Table 4 (printed pp. 22-27): host, sampling sites, tentative identification. Hosts with no mite found (Datura metel, Commiphora wightii, Eriobotrya japonica, Cucumis melo, Pisum sativum, Phoenix rupicola, wheat) and 'Barhar' (family not legible) are not transcribed.
+C04|sci:Acalypha wilkesiana|Varanasi|Amblyseius (Euseius) delhiensis|
+C04|sci:Terminalia arjuna|Varanasi; Lucknow|Eutetranychus orientalis|
+C04|sci:Cajanus cajan|Varanasi; Jaunpur; Kanpur|Tetranychidae; Eriophyidae; Phytoseiidae|
+C04|sci:Cassia fistula|Mirzapur; Varanasi|Tetranychidae|
+C04|sci:Ziziphus mauritiana|Varanasi; Ballia|Eutetranychus orientalis; Eriophyes cernuus Massee; Pronematus sp.|
+C04|sci:Abelmoschus esculentus|Varanasi; Pratapgarh; Ballia|Tetranychus cinnabarinus; Tetranychus neocaledonicus; Polyphagotarsonemus latus; Pronematus fleschneri Baker; Amblyseius (Paraphytoseius) sp.; Brevipalpus californicus|
+C04|sci:Solanum melongena|Varanasi; Pratapgarh|Tetranychus neocaledonicus; Polyphagotarsonemus latus; Agistemus sp.; Amblyseius sp.; Phytoseius sp.; Stigmaeidae; Tydeidae; Phytoseiidae; Oribatulidae|
+C04|sci:Lagenaria vulgaris||Tetranychus neocaledonicus; Agistemus industani Gonzalez|sampling sites not transcribed
+C04|sci:Bauhinia variegata||Eotetranychus uncatus Garman|sampling sites not transcribed
+C04|Bahera|Lucknow; Varanasi|Tyrophagus putrescentiae|
+C04|sci:Vigna unguiculata|Varanasi; Jaunpur; Ballia|Tetranychus ludeni Zacher; Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter); Agistemus sp.|
+C04|sci:Ricinus communis|Varanasi; Mirzapur|Eutetranychus orientalis; Amblyseius (Typhlodromips) sp. ~ printed as sizygii? Gupta (reading uncertain)|
+C04|sci:Hibiscus rosa-sinensis|Varanasi; Lucknow|Tetranychidae|
+C04|sci:Chrysanthemum sp.|Varanasi; Pratapgarh|Paraphytoptus chrysanthemi Keifer; Agistemus sp.|
+C04|sci:Citrus maxima|Varanasi; Allahabad|Tetranychus sp.; Brevipalpus sp.; Agistemus sp.|
+C04|sci:Plumeria acutifolia|Varanasi; Lucknow|Tydeus sp.|
+C04|sci:Dracaena sp.|Lucknow|Brevipalpus sp.|
+C04|Date palm|Lucknow|Tetranychidae|
+C04|sci:Ficus carica|Varanasi; Ballia; Jaunpur|Eotetranychus hirsti Pritchard & Baker; Agistemus sp.; Tyrophagus putrescentiae; Phytoseius (Phytoseius) sp.|
+C04|sci:Psidium guajava|Varanasi; Pratapgarh; Allahabad|Brevipalpus phoenicis (Geijskes); Amblyseius (Euseius) alstoniae Gupta; Tyrophagus putrescentiae|
+C04|sci:Tinospora cordifolia||Tenuipalpidae|sampling sites not transcribed
+C04|sci:Syzygium cumini|Varanasi; Ballia; Lucknow; Ghazipur|Tenuipalpidae; Phytoseiidae|
+C04|Lime (Citrus aurantifolia)||Oligonychus sp.|sampling sites not transcribed
+C04|sci:Morus alba|Varanasi|Aceria mori (Keifer); Agistemus sp.; Cunaxa sp.; Tetranychidae; Tenuipalpidae; Tarsonemidae; Phytoseiidae; Cryptostigmata|families printed in the family column
+C04|sci:Mangifera indica|Varanasi; Jaunpur; Ghazipur|Aceria mangiferae Sayed; Oligonychus sp.; Cheletogenes ornatus|
+C04|sci:Solanum nigrum|Varanasi|Tenuipalpidae|
+C04|sci:Mentha cardinalis|Varanasi; Ghazipur; Jaunpur|Brevipalpus phoenicis (Geijskes); Tetranychus sp.; Pronematus sp.|
+C04|sci:Carica papaya||Eutetranychus orientalis (Klein)|sampling sites not transcribed
+C04|sci:Grewia asiatica||Tetranychidae|sampling sites not transcribed
+C04|sci:Solanum tuberosum||Polyphagotarsonemus latus (Banks)|sampling sites not transcribed
+C04|sci:Rauvolfia serpentina||Eutetranychus orientalis|sampling sites not transcribed
+C04|Sishum|Varanasi; Ghazipur|Tetranychus sp. ~ printed as 'Tetra. sisso' (reading uncertain); Schizotetranychus sp.; Brevipalpus sp.; Agistemus sp.|
+C04|sci:Carthamus tinctorius||Schizotetranychus sp.; Anystis sp.|sampling sites not transcribed
+C04|sci:Trapa natans|Varanasi; Ballia|Scheloribates sp.; Trimalaconothrus sp.|oribatid mites
+C04|Wood apple (Feronia elephantum)||Brevipalpus phoenicis (Geijskes)|sampling sites not transcribed
+# C07 Hisar Table 8 (printed pp. 37-39): list of species identified from the surveyed collection, Haryana 1990-91 (mainly Hisar; some samples from Bhiwani); locality per row not printed
+C07|Ladies finger||Tetranychus cinnabarinus (Boisd.)|table row 1
+C07|Ladies finger||Amblyseius alstoniae|table row 2
+C07|Ladies finger||Phytoseius (Pennaseius) sp.|table row 3
+C07|Anar||Tenuipalpus sp. ~ printed as sp. nr. punjabensis (Maninder & Ghai)|table row 4
+C07|Ber||Phytoseius (Phytoseius) jujuba Gupta|table row 5
+C07|Brinjal||Brevipalpus euphorbiae Mohansundaram|table row 6
+C07|Brinjal||Agistemus sp.|table row 7
+C07|Ladies finger||Phytoseiidae|table row 8; no species printed
+C07|||Amblyseius alstoniae (Gupta)|table row 9; no host printed
+C07|Lemon||Eutetranychus africanus (Tucker)|table row 10
+C07|Debdaru||Eutetranychus orientalis (Klein)|table row 11
+C07|Brinjal||Amblyseius alstoniae (Gupta)|table row 12
+C07|Ladies finger||Amblyseius sp.|table row 13
+C07|Brinjal||Amblyseius sp.|table row 14
+C07|Lemon||Eutetranychus orientalis (Klein)|table row 15
+C07|Ber||Amblyseius sp.; Eutetranychus orientalis (Klein)|table row 16
+C07|Brinjal||Brevipalpus euphorbiae Mohansundaram|table row 17
+C07|Rose||Eutetranychus orientalis (Klein)|table row 18
+C07|Karela||Brevipalpus californicus (Banks)|table row 19
+C07|Lemon citrus||Eutetranychus sp.|table row 20
+C07|Brinjal||Brevipalpus californicus (Banks)|table row 21
+C07|Brinjal||Amblyseius alstoniae Gupta|table row 22
+C07|Arjun tree||Typhlodromus homalii Gupta|table row 23
+C07|Ber||Amblyseius finlandicus (Oud.)|table row 24
+C07|Brinjal||Amblyseius multidentatus (S&S)|table row 25
+C07|Mirch||Amblyseius multidentatus (S&S)|table row 26
+C07|Sem||Agistemus fleschneri Summers|table row 27
+C07|Anar||Tenuipalpus punjabensis Maninder & Ghai|table row 28
+C07|Grapes||Oligonychus sp.|table row 29
+C07|Brinjal||Eotetranychus sp.|table row 30
+C07|Sem||Tetranychus ludeni Zacher|table row 31
+C07|Ber||Tetranychus sp.|table row 32
+C07|Lemon citrus||Brevipalpus deleoni Pritchard & Baker|table row 33
+C07|Mousumi citrus||Eutetranychus orientalis (Klein)|table row 34
+C07|Anar||Tenuipalpus punjabensis Maninder & Ghai|table row 35
+C07|Grapes||Brevipalpus deleoni Pritchard & Baker|table row 36
+C07|Ber||Eotetranychus sp.|table row 37
+C07|Brinjal||Amblyseius multidentatus (S&S)|table row 38
+C07|Mirch||Amblyseius multidentatus (S&S)|table row 39
+C07|Brinjal||Eutetranychus africanus (Tucker)|table row 40
+C07|Marigold||Agistemus|table row 41; genus only
+C07|Mirch||Amblyseius alstoniae Gupta|table row 42
+C07|Mango||Typhlodromus homalii Gupta|table row 43
+C07|Ber||Typhlodromus homalii Gupta|table row 44
+C07|Ber||Brevipalpus californicus (Banks)|table row 45
+C07|Mousumi citrus||Eutetranychus orientalis (Klein)|table row 46
+C07|Lemon citrus||Brevipalpus californicus (Banks)|table row 47
