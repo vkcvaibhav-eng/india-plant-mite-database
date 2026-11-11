@@ -132,7 +132,7 @@ PLACE_STATE.update({
 })
 PLACE_STATE.update({
     **{w: "West Bengal" for w in ("Kalyani", "Madanpur", "Sonarpur", "Mondouri", "Bankura", "Halisahar", "Santipur", "Chakdah", "Bagnan", "Guptipara", "Burdwan", "Mohitnagar",
-                                  "Chinsura", "Chinsurah", "Barasat", "Barrackpur", "Coochbehar", "Baruipur", "Malda", "Murshidabad", "Debali", "Jhargram", "Krishnagar", "Mirik",
+                                  "Saptagram", "Andul", "Munkar", "Chachol", "Chinsura", "Chinsurah", "Barasat", "Barrackpur", "Coochbehar", "Baruipur", "Malda", "Murshidabad", "Debali", "Jhargram", "Krishnagar", "Mirik",
                                   "Pedong", "Haringhata", "Midnapore", "Howrah", "Sonamukhi")},
     "Puri": "Odisha", "Udala": "Odisha", "Chandikhal": "Odisha", "Mahimada": "Bihar",
     "Dholakuan": "Himachal Pradesh", "Kulu": "Himachal Pradesh", "Malerkotla": "Punjab",

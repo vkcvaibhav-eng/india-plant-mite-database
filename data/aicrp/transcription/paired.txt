@@ -789,3 +789,15 @@ I04|Curry leaf|Edappalam|Schizotetranychus baltazari Rimando||Thrissur district
 I04|Neem|Kanjikkode|Schizotetranychus sp.||Palakkad district
 I04|Sugarcane|Kannothuchal|Schizotetranychus krungthepensis||Kannur district
 I04|Neem|Kanjikkode|Eutetranychus sp.||Palakkad district
+# G07-G12: AICRP 1990 Group Meeting, disease chapters I-III (litchi erineum, mango malformation, pigeonpea sterility mosaic); survey and natural-incidence records only
+G07|Litchi||Aceria litchii (K.); Acaphylla sp.; Oligonychus mangiferus (Rahman & Sapra); Agistemus sp.; Amblyseius (Amblyseius) largoensis (Muma); Amblyseius (Typhlodromips) syzygii Gupta; Typhlodromus (Amblydromella) sonprayagensis Gupta; Typhlodromus (Amblydromella) homalii Gupta; Tydeus sp.; Haploripoda sp.; Malaconothrus sp.; Oripoda sp.||I.1.1 mites found on litchi, January-August 1990; place not stated; printed Acaphylle, Tydeius
+G07|Litchi|Krishnagar|Aceria litchii||I.1.2 survey Table A; Nadia district; 17.8-28.9% leaves infested
+G07|Litchi|Baruipur|Aceria litchii||I.1.2 survey Table A; 24 Parganas; 10.75% leaves infested
+G07|Litchi|Muzaffarpur|Aceria litchii||I.1.2 survey Table A; Bihar; 21.55% leaves infested (var. Bedana)
+G07|Litchi|Mondouri|Aceria litchii||I.1.4 seasonal incidence, BCKV orchard, Nadia
+G08|Litchi|Pusa|Aceria litchii; Amblyseius largoensis (Muma); Amblyseius coccineae Gupta; Amblyseius finlandicus (Oudemans); Amblyseius pruni Gupta; Amblyseius paraaerialis Muma; Phytoseius intermedius Evans & Macfarlane; Typhlodromus homalii Gupta; Typhlodromus fleschneri Chant||I.2.1-I.2.2 RAU Farm orchards, October 1989-September 1990; predators on litchi leaves with A. litchii; printed 'purni' for pruni
+G09|Mango|=Madanpur; Baruipur; Saptagram; Andul; Munkar; Chachol; Plassey|Aceria mangiferae||II.1.1 survey Table J; mites per bud 2-19; districts Nadia, 24 Parganas, Hooghly, Howrah, Burdwan, Malda, Murshidabad
+G09|Mango||Aceria mangiferae Sayed; Eutetranychus sp.; Tetranychus neocaledonicus Andre; Oligonychus mangiferus (Rahman & Sapra); Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter); Amblyseius (Amblyseius) largoensis (Muma); Cunaxa setirostris (Hermann); Bdella sp.; Agistemus sp.; Typhlodromus homalii Gupta; Cheletogenes ornatus (C & F)||II.1.2 mites in normal and malformed mango buds; place not stated
+G10|Pigeonpea|=Bangalore; Chitradurga|Aceria cajani||III.1.1 survey December 1989; 0.2-5 mites per leaf at Bangalore (UAS campus), 1-50 at Chitradurga; no mites in off-season survey February 1990
+G11|Pigeonpea|Coimbatore|Aceria cajani||III.3.1 seasonal incidence, TNAU insectary, var. CO 5, sowings June-September 1990
+G12|Pigeonpea|Navsari|Aceria cajani||III.4 staggered sowings; mite appeared in each plot from the second month; perennial pigeonpea year round; none on weeds around the crop

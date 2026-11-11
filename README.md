@@ -111,17 +111,17 @@ Coimbatore and Bangalore cover two states each without saying which record is fr
 
 Combined AICRP layers: 3,511 observation rows, 339 species × state pairs, 186 of them not in the Gupta & Mondal (2023) layer.
 
-### Layer 7: AICRP First Group Meeting report, December 1990 (survey chapter, printed pp. 139-154)
+### Layer 7: AICRP First Group Meeting report, December 1990 (survey chapter, printed pp. 139-154, and disease chapters I-III)
 
-Survey tables from six centres: Bangalore's species list with host and place (Karnataka), Kalyani's 50-host table for West Bengal, Bihar and Odisha (no place per row) with stigmaeid and tarsonemid tables that have places and months, Ludhiana's Table 5 of 26 species with separate host and locality lists, Coimbatore's district tables for Tamil Nadu and Kerala, and Navsari's family-level text. Pusa is text only; Varanasi and Hisar sent no report. Notes are in `data/aicrp/transcription/NOTES_1990-group-meeting.md`.
+Survey tables from six centres: Bangalore's species list with host and place (Karnataka), Kalyani's 50-host table for West Bengal, Bihar and Odisha (no place per row) with stigmaeid and tarsonemid tables that have places and months, Ludhiana's Table 5 of 26 species with separate host and locality lists, Coimbatore's district tables for Tamil Nadu and Kerala, and Navsari's family-level text. Pusa is text only; Varanasi and Hisar sent no report. The disease chapters add survey and natural-incidence records: mites on litchi (Kalyani, Pusa), Aceria mangiferae at seven mango-growing places in West Bengal with the mite complex of mango buds, and Aceria cajani on pigeonpea at Bangalore, Chitradurga, Coimbatore and Navsari. Spray and resurgence experiments (chapter IV) are not records and are left out. Notes are in `data/aicrp/transcription/NOTES_1990-group-meeting.md`.
 
 | Measure | Value |
 | --- | ---: |
-| Observation rows | 275 |
-| Distinct mite species names | 64 |
-| Distinct host names | 129 |
+| Observation rows | 322 |
+| Distinct mite species names | 73 |
+| Distinct host names | 130 |
 
-Combined AICRP layers: 3,786 observation rows, 346 species x state pairs, 190 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 3,833 observation rows, 347 species x state pairs, 191 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 8: AICRP Progress Report 2020-21 (XVII Group Meeting, survey chapter III.1)
 
@@ -133,7 +133,7 @@ The first of the modern reports. Kalyani's tables for West Bengal and Bihar make
 | Distinct mite species names | 88 |
 | Distinct host names | 383 |
 
-Combined AICRP layers: 5,653 observation rows, 440 species x state pairs, 250 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 5,700 observation rows, 441 species x state pairs, 251 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 9: AICRP Progress Report 2021-22 (XVIII Group Meeting, survey chapter III.1)
 
@@ -145,7 +145,7 @@ Smaller than the previous year: Coimbatore's place, host and mite table, Ludhian
 | Distinct mite species names | 30 |
 | Distinct host names | 84 |
 
-Combined AICRP layers: 5,834 observation rows, 453 species x state pairs, 261 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 5,881 observation rows, 454 species x state pairs, 262 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 10: AICRP Progress Report 2024-25 (XXI Group Meeting, chapter on diversity of plant-associated mites)
 
@@ -157,7 +157,7 @@ The most recent report in the set. Seven centres give species and host tables: B
 | Distinct mite species names | 122 |
 | Distinct host names | 197 |
 
-Combined AICRP layers: 6,591 observation rows, 496 species x state pairs, 292 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,638 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer.
 
 
 

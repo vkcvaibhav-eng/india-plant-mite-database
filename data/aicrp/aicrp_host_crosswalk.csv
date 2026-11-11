@@ -1,15 +1,15 @@
 host_common_as_printed,host_scientific_as_printed,host_taxon_std,host_rank_std,host_family,host_std_common,host_basis,host_confidence,host_crop_type,host_check,rows,centres
 Brinjal,,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,vegetable,,206,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa;Thrissur
+Mango,,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,fruit,,119,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
 Chilli,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,vegetable,,116,Coimbatore;Jorhat;Kalyani;Ludhiana;Navsari;Pusa;Thrissur
-Mango,,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,fruit,,101,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
 Rose,,Rosa sp.,genus,Rosaceae,Rose,dictionary,high,ornamental,,92,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Thrissur
 Citrus,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,fruit,,77,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Navsari
 Ber,,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,fruit,,76,Bangalore;Coimbatore;Hisar;Kalyani;Ludhiana;Navsari;Pusa
+Litchi,,Litchi chinensis,species,Sapindaceae,Litchi,dictionary,high,fruit,,74,Jorhat;Kalyani;Ludhiana;Pusa;Thrissur
 Bhindi,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,vegetable,,69,Bangalore;Hisar;Kalyani;Ludhiana;Pusa;Varanasi
 Sugarcane,,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,field_crop,,68,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Navsari;Pusa;Thrissur
 Guava,,Psidium guajava,species,Myrtaceae,Guava,dictionary,high,fruit,,67,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
 Mulberry,,Morus alba,species,Moraceae,Mulberry,dictionary,high,plantation_spice,,57,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Thrissur
-Litchi,,Litchi chinensis,species,Sapindaceae,Litchi,dictionary,high,fruit,,49,Jorhat;Kalyani;Ludhiana;Pusa;Thrissur
 Papaya,,Carica papaya,species,Caricaceae,Papaya,dictionary,high,fruit,,48,Bangalore;Coimbatore;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa;Thrissur
 Apple,,Malus domestica,species,Rosaceae,Apple,dictionary,high,fruit,,47,Jorhat;Kalyani;Ludhiana;Mashobra;Thrissur
 Tomato,,Solanum lycopersicum,species,Solanaceae,Tomato,dictionary,high,vegetable,,45,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Thrissur
@@ -44,6 +44,7 @@ Pointed gourd,,Trichosanthes dioica,species,Cucurbitaceae,Pointed gourd,dictiona
 Amaranthus,,Amaranthus sp.,genus,Amaranthaceae,Amaranthus,dictionary,high,vegetable,,19,Bangalore;Coimbatore;Jorhat;Kalyani;Thrissur
 Chillies,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,vegetable,,19,Bangalore;Coimbatore;Hisar;Ludhiana;Navsari
 Papaya,Carica papaya,Carica papaya,species,Caricaceae,Papaya,dictionary,high,fruit,agree,19,Kalyani;Varanasi
+Pigeonpea,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,field_crop,,19,Bangalore;Coimbatore;Navsari;Pusa
 ,Psidium guajava,Psidium guajava,species,Myrtaceae,Guava,printed_scientific_name_via_dictionary,high,fruit,,18,Coimbatore;Kalyani;Ludhiana;Varanasi
 Jute,,Corchorus sp.,genus,Malvaceae,Jute,dictionary,high,field_crop,,18,Jorhat;Kalyani
 Mango,Mangifera indica,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,fruit,agree,18,Kalyani;Varanasi
@@ -56,7 +57,6 @@ Maize,,Zea mays,species,Poaceae,Maize,dictionary,high,field_crop,,16,Bangalore;J
 Bamboo,,Bambusa sp.,genus,Poaceae,Bamboo,dictionary,high,tree_forest,,15,Bangalore;Kalyani
 Cucurbits,,cucurbits,group,Cucurbitaceae,Cucurbits (unspecified),dictionary,high,vegetable,,15,Coimbatore;Hisar;Kalyani;Navsari;Pusa
 Gerbera,,Gerbera sp.,genus,Asteraceae,Gerbera,dictionary,high,ornamental,,15,Bangalore;Coimbatore;Jorhat;Kalyani;Navsari;Thrissur
-Pigeonpea,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,field_crop,,15,Bangalore;Coimbatore;Navsari;Pusa
 Tulsi,,Ocimum tenuiflorum,species,Lamiaceae,Tulsi,dictionary,high,medicinal_aromatic,,15,Hisar;Kalyani;Mashobra;Navsari
 Arecanut,,Areca catechu,species,Arecaceae,Arecanut,dictionary,high,plantation_spice,,14,Bangalore;Coimbatore;Jorhat;Kalyani;Navsari;Thrissur
 Brinjal,Solanum melongena,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,vegetable,agree,14,Kalyani;Varanasi
