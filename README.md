@@ -137,15 +137,15 @@ Combined AICRP layers: 5,700 observation rows, 441 species x state pairs, 251 of
 
 ### Layer 9: AICRP Progress Report 2021-22 (XVIII Group Meeting, survey chapter III.1)
 
-Smaller than the previous year: Coimbatore's place, host and mite table, Ludhiana's surveillance table for Punjab and nearby states, Jorhat's new rows and Thrissur's table of 16 spider mite species on 35 hosts in Kerala. Navsari's table repeats 2020-21, and Kalyani and Mashobra give narrative or counts. Notes are in `data/aicrp/transcription/NOTES_2021-22.md`.
+Smaller than the previous year: Coimbatore's place, host and mite table, Ludhiana's surveillance table for Punjab and nearby states, Jorhat's new rows and Thrissur's table of 16 spider mite species on 35 hosts in Kerala. Navsari's table repeats 2020-21 and Kalyani gives narrative only. Mashobra's status tables for Himachal Pradesh (fruits, vegetables, ornamentals, medicinal plants by locality and month) add European red mite and two-spotted mite by host and place, with flat mites at family level. Notes are in `data/aicrp/transcription/NOTES_2021-22.md`.
 
 | Measure | Value |
 | --- | ---: |
-| Observation rows | 181 |
-| Distinct mite species names | 30 |
-| Distinct host names | 84 |
+| Observation rows | 317 |
+| Distinct mite species names | 31 |
+| Distinct host names | 114 |
 
-Combined AICRP layers: 5,881 observation rows, 454 species x state pairs, 262 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,017 observation rows, 454 species x state pairs, 262 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 10: AICRP Progress Report 2024-25 (XXI Group Meeting, chapter on diversity of plant-associated mites)
 
@@ -157,7 +157,7 @@ The most recent report in the set. Seven centres give species and host tables: B
 | Distinct mite species names | 122 |
 | Distinct host names | 197 |
 
-Combined AICRP layers: 6,638 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,774 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer.
 
 
 

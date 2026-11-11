@@ -244,7 +244,7 @@ mentha piperita; peppermint => Mentha x piperita | Lamiaceae | Peppermint
 leucas aspera; leucas sp => Leucas sp. | Lamiaceae | Leucas
 coleus; coleus sp => Coleus sp. | Lamiaceae | Coleus
 salvia => Salvia sp. | Lamiaceae | Salvia
-oregano => Origanum vulgare | Lamiaceae | Oregano
+oregano; oregan => Origanum vulgare | Lamiaceae | Oregano
 vitex negundo => Vitex negundo | Lamiaceae | Chaste tree
 tectona grandis; teak; segun => Tectona grandis | Lamiaceae | Teak
 clerodendron serratum; bharangi => Clerodendrum serratum | Lamiaceae | Clerodendrum
@@ -464,7 +464,7 @@ exacum bicolor (country kreat) => Exacum bicolor | Gentianaceae | Exacum
 irisine => Iresine sp. | Amaranthaceae | Iresine | m
 camera => Lantana camara | Verbenaceae | Lantana | m
 suros flower; macho fruit; mecho fruit; pitali; koromcha; batabilabu; kabari; kabari flower; fulfoot; kata nate => ? | | Local name not resolved
-local; baru; atlas; banga; gundar; nari; kanski; naffatia; karen; kena; gheea; bhambola; kapur; mushki kapoor; naner; chalta; ekdandi; ekalifa; sevri; remphal; woodrose; victoria corn plant; ornamental okra; wild cotton; tagod wild plant; pata bahar; pepper => ? | | Local name not resolved
+local; baru; atlas; banga; gundar; nari; kanski; naffatia; karen; kena; gheea; bhambola; kapur; mushki kapoor; naner; chalta; ekdandi; ekalifa; sevri; remphal; woodrose; victoria corn plant; ornamental okra; wild cotton; tagod wild plant; pata bahar; pepper; ramtori => ? | | Local name not resolved
 s white flower carambola; crambola bougainvillea => ? | | Merged cells (carambola; bougainvillea)
 # ---------------------------------------------------------------- genus table and spelling fixes (used for printed scientific names)
 aspen; poplar => Populus sp. | Salicaceae | Poplar
