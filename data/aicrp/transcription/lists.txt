@@ -995,3 +995,23 @@ H05|Schizotetranychus krungthepensis Auger & Naing|Sugarcane|Ludhiana; Fazilka; 
 H05|Tetranychus ludeni Zacher|Beans|Ludhiana|Low|
 H05|Tetranychus macfarlanei Baker & Pritchard|Okra|Ludhiana; Abohar; Jalandhar; Ballowal Saunkhri|Major; low to very high|Yellowish-white specklings, webbing on leaves, fruits and flowers
 H05|Tetranychus urticae Koch|Vegetables; Fruits; Melia; Medicinal plants; Ornamentals; Weeds; Rose; Sweet potato; Carnation; Mentha|Punjab; Himachal Pradesh|Major; low to very high|Frequently found all over Punjab and H.P.; includes glasshouse and polyhouse crops
+# I02 Ludhiana 2021-22 Table 130 (printed pp. 152-154): surveillance of phytophagous mites in Punjab and adjoining states; GPS coordinates omitted
+I02|Aceria granati (Canestrini & Massalongo)|Pomegranate|Ludhiana; Bikaner; Jaisalmer|Sporadic; low|Leaves tightly rolled along margins
+I02|Aceria sp.|sci:Melia azedarach|Durgapura|Low to moderate|
+I02|Cisaberoptus kenyae Keifer|Mango|Ludhiana; Hoshiarpur|Minor; low to moderate|
+I02|Eriophyes cernuus Massee|Ber|Ludhiana; Hoshiarpur; Bikaner|Low to moderate|Woody galls on stem and bases of branches
+I02|Polyphagotarsonemus latus (Banks)|Chillies; Capsicum; Brinjal; Cowpea; Sesamum; Citrus; Papaya; Marigold; Dahlia|Punjab|Major; low to high|Commonly found all over Punjab
+I02|Brevipalpus phoenicis (Geijskes)|Kinnow; Guava; Brinjal; Lemon; Pummelo; Chrysanthemum; Peach; Pear|Punjab|Low to high|Associated with rind disorder of kinnow and guava fruits
+I02|Larvacarus transitans (Ewing)|Ber|Hoshiarpur; Anandpur Sahib|Moderate to high|
+I02|Tenuipalpus punicae Pritchard & Baker|Pomegranate|Ludhiana; Bikaner|Low to moderate|
+I02|Bryobia praetiosa Koch|Pear|Ludhiana|Low to moderate|
+I02|Eotetranychus sp.|sci:Bauhinia sp.|Ludhiana|Minor; low to high|
+I02|Eutetranychus orientalis (Klein)|Citrus; Kinnow; Pear; Castor; Dhrek; Melia; Crepe jasmine|Ludhiana; Amritsar; Hoshiarpur; Durgapura|Major; low to high|
+I02|Oligonychus indicus (Hirst)|Sugarcane|Bhai Rupa; Bathinda; Kabulshah Khuban; Fazilka|Low to moderate|Leaves giving burnt appearance
+I02|Oligonychus sp.|Date palm|Bhojka; Sagra; Jaisalmer|Low|Slight webbing between the false young fruits
+I02|Petrobia harti (Ewing)|Oxalis|Ludhiana|Low to moderate|
+I02|Petrobia latens (Muller)|Wheat; Barley; Gram; Mustard; Fodder oats; Weeds|Durgapura; Jaipur; Dudu; Tonk|Minor; medium to severe on rain-fed wheat|
+I02|Schizotetranychus krungthepensis Auger & Naing|Sugarcane|Ludhiana; Sangrur; Kapurthala; Gurdaspur; Bhai Rupa; Bathinda; Sri Muktsar Sahib; Sirsa|Moderate to high|
+I02|Tetranychus ludeni Zacher|Beans|Ludhiana|Low|
+I02|Tetranychus macfarlanei Baker & Pritchard|Okra|Ludhiana; Abohar; Jalandhar; Ballowal Saunkhri|Major; low to very high|
+I02|Tetranychus urticae Koch|Vegetables; Fruits; Melia; Medicinal plants; Ornamentals; Weeds; Rose; Sweet potato; Carnation; Mentha|Punjab; Himachal Pradesh|Major; low to very high|Frequently found all over Punjab and H.P.

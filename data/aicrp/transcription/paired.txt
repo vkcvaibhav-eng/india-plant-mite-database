@@ -708,3 +708,84 @@ H07|Adenium|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
 H07|Banana|Mundathikkode|Tetranychus truncatus||Thrissur district
 H07|Banana|Pazhayannur|Tetranychus truncatus; Oligonychus tylus||Thrissur district
 H07|Banana|Vellanikkara|Tetranychus truncatus; Tetranychus okinawanus||Thrissur district
+# I01 Coimbatore 2021-22 Table 127 (printed p. 149): place, host and mite recorded; status counts per 2 cm2 in the note
+I01|Tomato|Kannampalayam|Tetranychus urticae||8 per 2 cm2
+I01|Capsicum|Kannampalayam|Polyphagotarsonemus latus||2 per 2 cm2
+I01|Cucumber|Kannampalayam|Tetranychus urticae||12 per 2 cm2
+I01|Brinjal|TNAU, Coimbatore|Tetranychus urticae||11 per 2 cm2
+I01|Red amaranthus|TNAU, Coimbatore|Tetranychus truncatus||6 per 2 cm2
+I01|Pumpkin|TNAU, Coimbatore|Eutetranychus orientalis||5 per 2 cm2
+I01|Moringa|TNAU, Coimbatore|Tetranychus udaipurensis||10 per 2 cm2
+I01|Tomato|TNAU, Coimbatore|Tetranychus macfarlanei||24 per 2 cm2
+I01|Lab lab|TNAU, Coimbatore|Tetranychus macfarlanei||6 per 2 cm2
+I01|Chillies|Thirumalayampalayam|Polyphagotarsonemus latus||7 per 2 cm2
+I01|Bhendi|Nachipalayam|Tetranychus urticae||5 per 2 cm2
+I01|Field bean|Karamadai|Tetranychus sp.||2 per 2 cm2
+I01|Tube rose|Aathipalayam|Tetranychus sp.||5 per 2 cm2
+I01|Blackgram|Bhavanisagar|Tetranychus urticae||45 per 2 cm2; Erode
+I01|Cow pea|Vellakovil|Tetranychus sp.||3 per 2 cm2
+I01|Tapioca|Aandipalayam|Tetranychus urticae||4 per 2 cm2
+I01|Carnation|Kothagiri|Tetranychus urticae||49 per 2 cm2
+I01|Arecanut|Gudaloor|Raoiella indica||8 per 2 cm2
+I01|Rose|Ooty|Tetranychus urticae||3 per 2 cm2
+I01|Brinjal; Lab lab; Tapioca|Tamil Nadu|Tetranychus macfarlanei||identified by ITS2
+I01|Bhendi; Cucumber|Tamil Nadu|Tetranychus urticae||identified by ITS2
+I01|Blackgram|Tamil Nadu|Tetranychus truncatus||identified by ITS2
+# I03 Jorhat 2021-22 Tables 136 and 137 (printed pp. 169-170): rows new in 2021-22; the other rows repeat the 2020-21 tables and are not entered again
+I03|Dillenia sp.|Kaziranga National Park|Tetranychus sp.||intensity low
+I03|Orchid|Jorhat|Brevipalpus pulchur||intensity low; printed as pulchur
+I03|Rose; Marigold|Jorhat|Brevipalpus chilensis||intensity low
+I03|Tea; Citrus|Jorhat|Amblyseius alstoniae||Table 137
+I03|Mulberry; Papaya|Sibsagar; Jorhat|Rhizoglyphus sp.||Table 137
+# I04 Thrissur 2021-22 Table 138 (printed pp. 171-172): species, host and place of collection; coordinates omitted
+I04|Dendrobium sp.|Ambalavayal|Tetranychus okinawanus Ehara||Wayanad district
+I04|Jack|Ambalavayal|Tetranychus okinawanus Ehara||Wayanad district
+I04|Sunflower|Ambalavayal|Tetranychus okinawanus Ehara||Wayanad district
+I04|Dahlia|Ambalavayal|Tetranychus okinawanus Ehara||Wayanad district
+I04|Cowpea|Ambalavayal|Tetranychus okinawanus Ehara||Wayanad district
+I04|Rose|Cheroor|Tetranychus okinawanus Ehara||Thrissur district
+I04|Okra|Mattampuram|Tetranychus okinawanus Ehara||Thrissur district
+I04|Calotropis|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+I04|Castor|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+I04|Bhadraksha|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+I04|Mulberry|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+I04|Pickerel weed|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+I04|Victoria corn plant|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+I04|Cucumber|Mundathikkode|Tetranychus truncatus Ehara||Thrissur district
+I04|Colocasia|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+I04|Papaya|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+I04|Chrysanthemum|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+I04|Cucumber|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+I04|Water melon|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+I04|Amaranthus|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+I04|Okra|Ambalavayal|Tetranychus macfarlanei Baker & Pritchard||Wayanad district
+I04|Okra|Vellanikkara|Tetranychus macfarlanei Baker & Pritchard||Thrissur district
+I04|Okra|Kanjikkode|Tetranychus macfarlanei Baker & Pritchard||Palakkad district
+I04|Cowpea|Kanjikkode|Tetranychus macfarlanei Baker & Pritchard||Palakkad district
+I04|Ornamental okra|Vellanikkara|Tetranychus macfarlanei Baker & Pritchard||Thrissur district
+I04|Cucumber|Vellanikkara|Tetranychus urticae Koch||Thrissur district
+I04|Adenium|Manalur|Tetranychus urticae Koch||Thrissur district
+I04|Clitoria|Vandanmedu|Tetranychus urticae Koch||Idukki district
+I04|Pear|Vellanikkara|Tetranychus fijiensis Hirst||Thrissur district
+I04|Apple|Vellanikkara|Tetranychus fijiensis Hirst||Thrissur district
+I04|Ornamental palm|Palode|Tetranychus fijiensis Hirst||Thiruvananthapuram district
+I04|Drumstick|Cherpu|Tetranychus neocaledonicus||Thrissur district
+I04|Alocasia|Kochi|Tetranychus udaipurensis||Ernakulam district
+I04|Adathoda sp.|Vellanikkara|Tetranychus ludeni Zacher||Thrissur district
+I04|Rose|Ambalavayal|Tetranychus puschelii||Wayanad district
+I04|Amaranthus|Ambalavayal|Tetranychus puschelii||Wayanad district
+I04|Rose|Ambalavayal|Oligonychus biharensis Ehara||Wayanad district
+I04|Rose|Thottapadi|Oligonychus biharensis Ehara||Thrissur district
+I04|Jack|Sreekaryam|Oligonychus biharensis Ehara||Thiruvananthapuram district
+I04|Rice|Elavenchery|Oligonychus oryzae||Palakkad district
+I04|Rice|Alathur|Oligonychus oryzae||Palakkad district
+I04|Rice|Mannuthy|Oligonychus oryzae||Thrissur district
+I04|Rice|Anakkara|Oligonychus oryzae||Palakkad district
+I04|Coconut|Kanjikkode|Oligonychus tylus||Palakkad district
+I04|sci:Clausena anisata|Palode|Schizotetranychus baltazari Rimando||Thiruvananthapuram district
+I04|Neem|Kanjikkode|Schizotetranychus baltazari Rimando||Palakkad district
+I04|Curry leaf|Kanjikkode|Schizotetranychus baltazari Rimando||Palakkad district
+I04|Curry leaf|Edappalam|Schizotetranychus baltazari Rimando||Thrissur district
+I04|Neem|Kanjikkode|Schizotetranychus sp.||Palakkad district
+I04|Sugarcane|Kannothuchal|Schizotetranychus krungthepensis||Kannur district
+I04|Neem|Kanjikkode|Eutetranychus sp.||Palakkad district

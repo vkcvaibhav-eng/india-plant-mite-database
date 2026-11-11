@@ -102,8 +102,12 @@ for st, places in {
                 PLACE_STATE[w] = st
     # multi-word names listed without pipes above
 PLACE_STATE.update({
-    **{w: "Punjab" for w in ("Kabulshah Khuban", "Fazilka", "Faridkot", "Batala", "Sangrur", "Abohar", "Jalandhar", "Ballowal Saunkhri", "Anandpur Sahib", "Punjab")},
-    **{w: "Rajasthan" for w in ("Durgapura", "Neemrana", "Bikaner", "Dudu", "Dausa", "Tonk")},
+    "Sirsa": "Haryana",
+    **{w: "Tamil Nadu" for w in ("Kannampalayam", "TNAU, Coimbatore", "Thirumalayampalayam", "Nachipalayam", "Karamadai", "Aathipalayam", "Bhavanisagar", "Aandipalayam", "Kothagiri", "Gudaloor", "Ooty", "Vellakovil", "Tamil Nadu")},
+    **{w: "Kerala" for w in ("Ambalavayal", "Mattampuram", "Kanjikkode", "Cherpu", "Palode", "Kochi", "Vandanmedu", "Thottapadi", "Sreekaryam", "Elavenchery", "Alathur", "Anakkara", "Edappalam", "Kannothuchal")},
+    "Kaziranga National Park": "Assam",
+    **{w: "Punjab" for w in ("Kabulshah Khuban", "Fazilka", "Faridkot", "Batala", "Sangrur", "Abohar", "Jalandhar", "Ballowal Saunkhri", "Anandpur Sahib", "Punjab", "Bhai Rupa", "Bathinda", "Kapurthala", "Gurdaspur", "Sri Muktsar Sahib", "Hoshiarpur")},
+    **{w: "Rajasthan" for w in ("Durgapura", "Neemrana", "Bikaner", "Jaisalmer", "Bhojka", "Sagra", "Jaipur", "Dudu", "Dausa", "Tonk")},
     **{w: "Himachal Pradesh" for w in ("Mashobra", "Naggar", "Himachal Pradesh")},
     **{w: "Assam" for w in ("Jorhat", "Sibsagar", "Nagaon", "Karbi-Anglong", "Tinsukia", "Golaghat", "Guwahati", "Kahikuchi")},
     **{w: "Kerala" for w in ("Vellanikkara", "Madakkathara", "Elanadu", "Aryampadam", "Parappur", "Pattancherry", "Nenmara", "Villadam", "Mannuthy", "Puthukaad", "Odakkali", "Cheroor", "Malapuzha", "Muvattupuzha", "Chirakkakkode", "Vellayani", "Chelakkara", "Vyttila", "Wadakkanchery", "Manalur", "Mundathikkode", "Pazhayannur")},
@@ -180,7 +184,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04", "H05"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04", "H05", "I02"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):

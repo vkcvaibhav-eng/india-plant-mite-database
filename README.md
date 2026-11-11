@@ -6,7 +6,7 @@ This is the data repository for Paper 2 of the project *Agricultural mites in In
 
 ## Status (11 November 2026)
 
-Eight layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
+Nine layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -134,6 +134,19 @@ The first of the modern reports. Kalyani's tables for West Bengal and Bihar make
 | Distinct host names | 460 |
 
 Combined AICRP layers: 5,691 observation rows, 440 species x state pairs, 250 of them not in the Gupta & Mondal (2023) layer.
+
+### Layer 9: AICRP Progress Report 2021-22 (XVIII Group Meeting, survey chapter III.1)
+
+Smaller than the previous year: Coimbatore's place, host and mite table, Ludhiana's surveillance table for Punjab and nearby states, Jorhat's new rows and Thrissur's table of 16 spider mite species on 35 hosts in Kerala. Navsari's table repeats 2020-21, and Kalyani and Mashobra give narrative or counts. Notes are in `data/aicrp/transcription/NOTES_2021-22.md`.
+
+| Measure | Value |
+| --- | ---: |
+| Observation rows | 181 |
+| Distinct mite species names | 30 |
+| Distinct host names | 84 |
+
+Combined AICRP layers: 5,872 observation rows, 453 species x state pairs, 261 of them not in the Gupta & Mondal (2023) layer.
+
 
 
 ## Files
