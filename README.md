@@ -6,7 +6,7 @@ This is the data repository for Paper 2 of the project *Agricultural mites in In
 
 ## Status (11 November 2026)
 
-Seven layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
+Eight layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -122,6 +122,19 @@ Survey tables from six centres: Bangalore's species list with host and place (Ka
 | Distinct host names | 129 |
 
 Combined AICRP layers: 3,786 observation rows, 346 species x state pairs, 190 of them not in the Gupta & Mondal (2023) layer.
+
+### Layer 8: AICRP Progress Report 2020-21 (XVII Group Meeting, survey chapter III.1)
+
+The first of the modern reports. Kalyani's tables for West Bengal and Bihar make up most of the rows (species, host habitat and districts), with Navsari's table for South Gujarat, Ludhiana's surveillance table, Jorhat's list for Assam and Thrissur's table of spider mites in Kerala. Bangalore, Coimbatore and Mashobra give counts or experiments only. Notes are in `data/aicrp/transcription/NOTES_2020-21.md`. The big tables were read from the text layer with `scripts/tools/layout_table.py` and checked by eye.
+
+| Measure | Value |
+| --- | ---: |
+| Observation rows | 1,905 |
+| Distinct mite species names | 90 |
+| Distinct host names | 460 |
+
+Combined AICRP layers: 5,691 observation rows, 440 species x state pairs, 250 of them not in the Gupta & Mondal (2023) layer.
+
 
 ## Files
 

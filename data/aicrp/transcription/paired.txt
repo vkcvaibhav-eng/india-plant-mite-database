@@ -570,3 +570,141 @@ G01|Chrysanthemum|Kengeri|Tetranychus urticae Koch||
 G01|Areca|Chitradurga|Tetranychus fijiensis Hirst||
 G01|Amaranthus|Calcutta|Tetranychus neocaledonicus Andre||
 G01|Coconut|Kerala|Dolichotetranychus sp. nov.||printed as a new species
+# H03 Kalyani 2020-21 host x location x mite tables (Tables 120, 121 and 134)
+H03|Chilli|=AB Block farm; Chandamari|Euseius ovalis; Amblyseius largoensis; Schizotetranychus celarius; Polyphagotarsonemus latus; Eutetranychus orientalis; Bdellodes sp.; Cunaxa sp.||Table 120
+H03|Chilli|Akna|Polyphagotarsonemus latus||Table 120
+H03|Chilli|Kalyani|Typhlodromus (Anthoseius) sp.; Amblyseius largoensis||Table 120
+H03|Chilli|Mondouri|Amblyseius largoensis||Table 120
+H03|Chilli|Murshidabad|Paraphytoseius multidentatus||Table 120
+H03|Chilli|Burdwan|Amblyseius largoensis; Typhlodromips syzygii; Tetranychus urticae||Table 120
+H03|Chilli|AB Block farm|Euseius ovalis; Typhlodromips syzygii; Scapulaseius moraesi||Table 120
+H03|Chilli|Chandamari|Typhlodromips syzygii||Table 120
+H03|Chilli|Kuntighat|Amblyseius largoensis; Tetranychus urticae; Neoseiulus pranadae; Typhlodromips syzygii||Table 120
+H03|Chilli|Sarati|Tetranychus urticae||Table 120
+H03|Chilli|Birpara|Neoseiulus pranadae||Table 120
+H03|Chilli|Madanpur|Typhlodromips syzygii||Table 120
+H03|Chilli|Gayeshpur|Polyphagotarsonemus latus; Tetranychus urticae||Table 120
+H03|Garlic|Jirat|Aceria tulipae||Table 121
+H03|Garlic|Kalyani|Typhlodromus (Anthoseius) sp.; Euseius finlandicus; Aceria tulipae; Phytoseius orientalis; Amblyseius largoensis; Euseius ovalis; Polyphagotarsonemus latus; Indoseiulus ricini||Table 121
+H03|Garlic|Behula|Aceria tulipae; Amblyseius largoensis||Table 121
+H03|Garlic|Bolaghar|Euseius ovalis; Amblyseius largoensis||Table 121
+H03|Garlic|Nakashipara|Amblyseius largoensis; Aceria tulipae; Euseius ovalis||Table 121
+H03|Garlic|Bethuadahari|Aceria tulipae; Amblyseius largoensis||Table 121
+H03|Garlic|Baharampur|Aceria tulipae; Euseius ovalis; Amblyseius largoensis; Indoseiulus ricini||Table 121
+H03|Garlic|Murshidabad|Typhlodromus (Anthoseius) sp.||Table 121
+H03|Mulberry|Hooghly|Euseius ovalis; Typhlodromus (Anthoseius) sp.; Euseius alstoniae; Eutetranychus orientalis; Tetranychus urticae||Table 134; 10 April 2020
+H03|Mulberry|Murshidabad|Typhlodromips syzygii; Tetranychus urticae; Neoseiulus pranadae; Panonychus sp.; Euseius ovalis; Amblyseius largoensis; Bdellodes sp.; Typhlodromus (Anthoseius) sp.||Table 134; 10 April 2020 and March 2021
+H03|Mulberry|Malda|Amblyseius largoensis; Typhlodromips syzygii||Table 134; 10 March 2021
+# H04 Navsari 2020-21 Table 115 (printed pp. 131-132): mites on plants in South Gujarat
+H04|Pomegranate||Aceria granati|occasional|leaves tightly rolled along margins
+H04|Garlic||Aceria tulipae|low|leaf tips dried up and curled
+H04|Mango||Aceria mangiferae|low|whitish layer on dorsal leaf surface; mango malformation
+H04|Coconut||Aceria guerreronis|severe|nuts damaged
+H04|sci:Cajanus cajan (Red gram)||Aceria cajani|medium to severe|little leaf, stunted growth, vector of PPSMV
+H04|Jasmine||Aceria jasmini|high|leaf margin rolled and twisted
+H04|Castor; Citrus||Eutetranychus orientalis|medium to high|printed as Eotetranychus orientalis
+H04|Sugarcane; Sorghum; Baru; Maize||Oligonychus indicus|medium to high|web formation on leaves
+H04|Sugarcane||Schizotetranychus andropogoni|low to medium|printed with a query mark
+H04|Paddy||Oligonychus oryzae|low|first record
+H04|Brinjal; Okra; Beans; Cucurbits; Tomato; Summer mung; Berseem; Papaya; Mulberry; Ornamental sunflower; Weeds||Tetranychus urticae|moderate to high|
+H04|Ashwagandha; Cucumber; Cowpea; Hyacinth bean; Tulsi; Sponge gourd; Gliricidia||Tetranychus urticae|low to medium|
+H04|Cowpea||Tetranychus ludeni|low to medium|patches in field
+H04|Mango||Tetranychus fijiensis|low|red patches on leaves
+H04|Mango||Oligonychus mangiferae|low|
+H04|Date palm; Cowpea||Oligonychus sp.|| webbing on leaves and fruits
+H04|Cotton; Groundnut||Tetranychus sp.|low to medium|
+H04|Kinnow||Eutetranychus sp.|low|
+H04|Citrus; Grape; Brinjal; Guava||Brevipalpus californicus|low|
+H04|Pointed gourd; Citrus; Guava||Brevipalpus phoenicis|medium|
+H04|Ber||Larvacarus transitans|low|collected at Dandi beach
+H04|Arecanut; Banana; Oil palm||Raoiella indica|low to medium|
+H04|Betelvine||Brevipalpus sp.|medium|
+H04|Brinjal; Chilli; Potato; Cotton; Sesame; Mung; Gerbera; Jatropha; Dahlia||Polyphagotarsonemus latus|medium|
+H04|Paddy||Steneotarsonemus spinki|high|grain discoloration
+H04|Sapota||Tuckerella kumaonensis|medium to high|bronzing of fruits
+# H06 Jorhat 2020-21 Tables 158 and 159 (printed pp. 181-182)
+H06|Amaranthus; Bean; Brinjal; Gram|Jorhat|Neoseiulus longispinosus||Table 158
+H06|Amaranthus; Bean; sci:Amaranthus sp. (wild amaranth)|Jorhat|Amblyseius tetranychivorus||Table 158
+H06|Bitter gourd|Sibsagar|Euseius macrospatulatus||Table 158
+H06|Brinjal|Jorhat|Phytoseius sp.||Table 158
+H06|Jasmine; Guava|Jorhat|Agistemus sp.||Table 158
+H06|Guava|Jorhat|Agistemus edulis Gupta||Table 158
+H06|Atlas; Mango|Jorhat|Cunaxa sp.||Table 158
+H06|Jasmine; Marigold|Kahikuchi|Tydeus sp.||Table 158
+H06|Citrus|Jorhat|Eutetranychus orientalis||intensity medium
+H06|Jute|Nagaon|Oligonychus indicus||intensity medium
+H06|Mango|Jorhat|Oligonychus mangiferae||intensity low
+H06|Amaranth; Cowpea; Beans; Gram|Jorhat|Tetranychus urticae||intensity high
+H06|Brinjal|Jorhat|Tetranychus urticae||intensity low
+H06|Rose|Jorhat|Tetranychus urticae||intensity high
+H06|Papaya; Maize; Banana; Gerbera|Karbi-Anglong|Tetranychus urticae||intensity high
+H06|Tomato|Jorhat|Tetranychus urticae||intensity high
+H06|Castor; Citrus|Tinsukia|Eutetranychus orientalis||intensity medium
+H06|Cucumber; Cowpea|Sibsagar|Tetranychus truncatus||intensity high
+H06|Okra|Jorhat|Tetranychus urticae||intensity low
+H06|Tea|Jorhat|Oligonychus coffeae||intensity high
+H06|Arecanut|Jorhat|Raoiella indica||intensity low
+H06|Citrus; Gerbera|Sibsagar|Brevipalpus californicus||intensity medium
+H06|Tea; Citrus; Guava|Golaghat|Brevipalpus phoenicis||intensity low
+H06|Coconut|Guwahati|Aceria guerreronis||intensity high
+H06|Jasmine|Jorhat|Aceria jasmini||intensity medium
+H06|Sugarcane|Golaghat|Aceria sacchari||intensity medium
+H06|Arhar|Nagaon|Aceria cajani||intensity medium
+H06|Litchi|Jorhat|Aceria litchii||intensity high
+H06|Mango|Jorhat|Aceria mangiferae||intensity medium
+H06|Chilli|Jorhat|Polyphagotarsonemus latus||intensity high
+H06|Rice|Jorhat|Steneotarsonemus spinki||intensity medium
+# H07 Thrissur 2020-21 Table 160 (printed pp. 183-185): spider mites in Kerala, crop, location, species
+H07|Rose|Vellanikkara|Tetranychus okinawanus Ehara; Tetranychus urticae Koch; Tetranychus marianae McGregor||Thrissur district
+H07|Rose|Madakkathara|Tetranychus urticae Koch||Thrissur district
+H07|Rose|Elanadu|Tetranychus truncatus Ehara||Thrissur district
+H07|Rose|Aryampadam|Oligonychus biharensis Hirst||Thrissur district
+H07|Amaranthus|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+H07|Elder berry|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+H07|sci:Leucas aspera|Vellanikkara|Tetranychus urticae Koch||Thrissur district
+H07|sci:Leucas aspera|Parappur|Tetranychus urticae Koch||Thrissur district
+H07|sci:Alangium salviifolium|Vellanikkara|Tetranychus sp.||Thrissur district
+H07|Rice|Vellanikkara|Oligonychus oryzae Hirst||Thrissur district
+H07|Rice|Elanadu|Oligonychus tylus Baker & Pritchard||Palakkad district
+H07|Rice|Pattancherry|Oligonychus indicus Hirst||Palakkad district
+H07|Rice|Nenmara|Oligonychus sp.||Palakkad district
+H07|Brinjal|Villadam|Tetranychus macfarlanei Baker & Pritchard||Thrissur district
+H07|Brinjal|Mannuthy|Tetranychus urticae Koch||Thrissur district
+H07|Moringa|Puthukaad|Tetranychus sp.||Thrissur district
+H07|sci:Oxalis corniculata|Odakkali|Tetranychus okinawanus Ehara||Ernakulam district
+H07|Cassava|Vellanikkara|Tetranychus urticae Koch||Thrissur district
+H07|Cassava|Parappur|Tetranychus ludeni Zacher||Thrissur district
+H07|Cassava|Cheroor|Eutetranychus sp.||Thrissur district
+H07|Okra|Vellanikkara|Tetranychus sp.; Tetranychus okinawanus Ehara||Thrissur district
+H07|Okra|Villadam|Tetranychus macfarlanei Baker & Pritchard||Thrissur district
+H07|Okra|Malapuzha|Tetranychus urticae Koch||Palakkad district
+H07|Marigold|Vellanikkara|Tetranychus okinawanus Ehara; Tetranychus truncatus Ehara||Thrissur district
+H07|Marigold|Odakkali|Tetranychus okinawanus Ehara||Ernakulam district
+H07|sci:Exacum bicolor (Country kreat)|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+H07|Turmeric|Muvattupuzha|Tetranychus sp.||Ernakulam district
+H07|Papaya|Muvattupuzha|Tetranychus sp.||Ernakulam district
+H07|Pumpkin|Chirakkakkode|Tetranychus okinawanus Ehara||Thrissur district
+H07|Curry leaf|Vellanikkara|Schizotetranychus baltazari Rimando; Eutetranychus sp.||Thrissur district
+H07|Curry leaf|Vellayani|Schizotetranychus baltazari Rimando||Thiruvananthapuram district
+H07|Cucumber|Vellanikkara|Tetranychus sp.||Thrissur district
+H07|Cowpea|Vellanikkara|Tetranychus okinawanus Ehara; Tetranychus urticae Koch||Thrissur district
+H07|Cowpea|Chelakkara|Tetranychus truncatus Ehara||Thrissur district
+H07|Zinnia|Vellanikkara|Tetranychus neocaledonicus Andre||Thrissur district
+H07|Cairo morning glory|Vyttila|Tetranychus okinawanus Ehara||Ernakulam district
+H07|Chrysanthemum|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+H07|Chrysanthemum|Madakkathara|Tetranychus urticae Koch||Thrissur district
+H07|Cock's comb|Vellanikkara|Tetranychus truncatus Ehara||Thrissur district
+H07|sci:Arachis pintoi (Peanut)|Vellanikkara|Oligonychus biharensis Hirst||Thrissur district
+H07|sci:Arachis pintoi (Peanut)|Odakkali|Oligonychus biharensis Hirst||Ernakulam district
+H07|Balsam|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+H07|Balsam|Wadakkanchery|Tetranychus okinawanus Ehara||Thrissur district
+H07|Orchid|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+H07|Bauhinia|Vellanikkara|Oligonychus biharensis Hirst||Thrissur district
+H07|Cassia|Vellanikkara|Tetranychus fijiensis Hirst||Thrissur district
+H07|Crape jasmine|Vellanikkara|Eutetranychus orientalis Klein||Thrissur district
+H07|Jasmine|Vellanikkara|Tetranychus lombardinii Baker & Pritchard||Thrissur district
+H07|Adenium|Manalur|Tetranychus okinawanus Ehara||Thrissur district
+H07|Adenium|Vellanikkara|Tetranychus okinawanus Ehara||Thrissur district
+H07|Banana|Mundathikkode|Tetranychus truncatus||Thrissur district
+H07|Banana|Pazhayannur|Tetranychus truncatus; Oligonychus tylus||Thrissur district
+H07|Banana|Vellanikkara|Tetranychus truncatus; Tetranychus okinawanus||Thrissur district

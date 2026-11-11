@@ -4,11 +4,13 @@ ERI0064,Vimola artocarpae,Diptilomiopidae,Tamil Nadu,1,1,1,Coimbatore,1988,Dipti
 ERI0083,Acalitus gossypii,Eriophyidae,Tamil Nadu,0,1,1,Coimbatore,1996-98,Acalitus gossypii (Ewing)
 ERI0092,Acaphylla syzygii,Eriophyidae,Uttar Pradesh,0,1,2,Varanasi,1987-88;1997-98,Acaphylla syzygii | Acaphylla syzygii Channabasavanna
 ERI0093,Acaphylla theae,Eriophyidae,West Bengal,0,0,1,Kalyani,1992-94,Acaphylla theae
+ERI0129,Aceria cajani,Eriophyidae,Assam,0,1,1,Jorhat,2020-21,Aceria cajani
 ERI0129,Aceria cajani,Eriophyidae,Bihar,0,1,2,Pusa,1993;1996-97,Aceria cajani
-ERI0129,Aceria cajani,Eriophyidae,Gujarat,0,1,2,Navsari,1988-89,Aceria cajani (Channabasavanna) | Aceria cajani Channabasavanna
+ERI0129,Aceria cajani,Eriophyidae,Gujarat,0,1,3,Navsari,1988-89;2020-21,Aceria cajani | Aceria cajani (Channabasavanna) | Aceria cajani Channabasavanna
 ERI0129,Aceria cajani,Eriophyidae,Karnataka,1,1,6,Bangalore,1988;1993,Aceria cajani | Aceria cajani Channabasavanna
 ERI0129,Aceria cajani,Eriophyidae,Tamil Nadu,0,1,2,Coimbatore,1992-94;1996-98,Aceria cajani | Aceria cajani (Chan.)
-ERI0130,Aceria cernuus,Eriophyidae,Punjab,0,1,2,Ludhiana,1992-94;1996-97,Eriophyes cernuus | Eriophyes cerunus
+ERI0130,Aceria cernuus,Eriophyidae,Punjab,0,1,5,Ludhiana,1992-94;1996-97;2020-21,Eriophyes cernuus | Eriophyes cernuus Massee | Eriophyes cerunus
+ERI0130,Aceria cernuus,Eriophyidae,Rajasthan,0,1,2,Ludhiana,2020-21,Eriophyes cernuus Massee
 ERI0130,Aceria cernuus,Eriophyidae,Uttar Pradesh,0,1,17,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Eriophyes cerenus | Eriophyes cerenuus | Eriophyes cernuus | Eriophyes cernuus Massee
 ERI0138,Aceria cordiae,Eriophyidae,Uttar Pradesh,0,1,4,Varanasi,1987-88;1992-94;1996-97;1997-98,Aceria cordiae
 ERI0140,Aceria cymbopogonis,Eriophyidae,Tamil Nadu,1,1,1,Coimbatore,1988,Aceria cymbapogonis MMS
@@ -16,18 +18,28 @@ ERI0142,Aceria dalbergiae,Eriophyidae,Uttar Pradesh,0,1,1,Varanasi,1997-98,Aceri
 ERI0157,Aceria ficus,Eriophyidae,Tamil Nadu,0,0,1,Coimbatore,1996-98,Aceria ficus (Cotte)
 ERI0157,Aceria ficus,Eriophyidae,Uttar Pradesh,0,0,2,Varanasi,1987-88;1997-98,Aceria ficus | Aceria ficus (Cotte)
 ERI0159,Aceria gastrotrichus,Eriophyidae,Tamil Nadu,0,1,1,Coimbatore,1988,Aceria gastrotrichus Nalepa
+ERI0160,Aceria granati,Eriophyidae,Gujarat,0,1,1,Navsari,2020-21,Aceria granati
+ERI0160,Aceria granati,Eriophyidae,Punjab,0,1,1,Ludhiana,2020-21,Aceria granati (Canestrini & Massalongo)
 ERI0160,Aceria granati,Eriophyidae,Tamil Nadu,1,1,1,Coimbatore,1996-98,Aceria granati (Can. and Mass.)
 ERI0160,Aceria granati,Eriophyidae,Uttar Pradesh,0,1,2,Varanasi,1987-88;1997-98,Aceria granati | Aceria granati (Canestrini & Massalongo)
+ERI0161,Aceria guerreronis,Eriophyidae,Assam,0,1,1,Jorhat,2020-21,Aceria guerreronis
+ERI0161,Aceria guerreronis,Eriophyidae,Gujarat,0,1,1,Navsari,2020-21,Aceria guerreronis
+ERI0166,Aceria jasmini,Eriophyidae,Assam,0,1,1,Jorhat,2020-21,Aceria jasmini
+ERI0166,Aceria jasmini,Eriophyidae,Gujarat,0,1,1,Navsari,2020-21,Aceria jasmini
 ERI0166,Aceria jasmini,Eriophyidae,Tamil Nadu,1,1,3,Coimbatore,1988;1992-94;1996-98,Aceria jasmini | Aceria jasmini (Chan.)
 ERI0169,Aceria kenyae,Eriophyidae,Gujarat,0,1,1,Navsari,1988-89,Cisaberoptus kenyae (Keifer)
+ERI0169,Aceria kenyae,Eriophyidae,Punjab,0,1,3,Ludhiana,2020-21,Cisaberoptus kenyae Keifer
 ERI0169,Aceria kenyae,Eriophyidae,Uttar Pradesh,0,1,5,Varanasi,1987-88;1992-94;1996-97;1997-98,Cisaberoptus kenyae | Cisaberoptus kenyae Keifer
 ERI0169,Aceria kenyae,Eriophyidae,West Bengal,1,1,1,Kalyani,1992-94,Cisaberoptus kenyae
+ERI0175,Aceria litchii,Eriophyidae,Assam,0,1,1,Jorhat,2020-21,Aceria litchii
 ERI0175,Aceria litchii,Eriophyidae,Bihar,0,1,12,Pusa,1988;1990-91;1993;1996-97,A. litchii | Aceria litchii | Aceria litchii Keifer | Aceria litchii Sayed
 ERI0175,Aceria litchii,Eriophyidae,Himachal Pradesh,0,1,1,Ludhiana,1992-94,Aceria litchii
 ERI0175,Aceria litchii,Eriophyidae,Uttar Pradesh,0,1,8,Varanasi,1987-88;1992-94;1996-97;1997-98,Aceria litchi | Aceria litchi Keifer | Aceria litchii (Keifer) | Aceria litchii Keifer
 ERI0175,Aceria litchii,Eriophyidae,West Bengal,0,1,6,Kalyani,1988-89;1990-91;1992-94,Aceria litchi | Aceria litchii | Aceria litchii K.
 ERI0178,Aceria lycopersici,Eriophyidae,Uttar Pradesh,0,1,2,Varanasi,1997-98,Aceria lycopersici
+ERI0182,Aceria mangiferae,Eriophyidae,Assam,0,1,1,Jorhat,2020-21,Aceria mangiferae
 ERI0182,Aceria mangiferae,Eriophyidae,Bihar,0,1,5,Pusa,1993;1996-97,A. mangiferae | Aceria mangiferae
+ERI0182,Aceria mangiferae,Eriophyidae,Gujarat,0,1,1,Navsari,2020-21,Aceria mangiferae
 ERI0182,Aceria mangiferae,Eriophyidae,Tamil Nadu,1,1,2,Coimbatore,1988;1996-98,Aceria mangiferae | Aceria mangiferae (Sayed)
 ERI0182,Aceria mangiferae,Eriophyidae,Uttar Pradesh,0,1,22,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Aceria mangiferae | Aceria mangiferae Sayed
 ERI0182,Aceria mangiferae,Eriophyidae,West Bengal,0,1,8,Kalyani,1988-89;1990-91;1992-94,Aceria mangiferae | Aceria mangiferae (Sayed) | Eriophyes mangiferae
@@ -35,9 +47,12 @@ ERI0188,Aceria mori,Eriophyidae,Tamil Nadu,1,1,4,Coimbatore,1988;1990;1996-98,Ac
 ERI0188,Aceria mori,Eriophyidae,Uttar Pradesh,0,1,5,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Aceria mori | Aceria mori (Keifer)
 ERI0191,Aceria nerii,Eriophyidae,Tamil Nadu,1,1,1,Coimbatore,1996-98,Aceria nerii (Chan.)
 ERI0191,Aceria nerii,Eriophyidae,Uttar Pradesh,0,1,1,Varanasi,1997-98,Aceria nerii
+ERI0201,Aceria saccharini,Eriophyidae,Assam,0,1,1,Jorhat,2020-21,Aceria sacchari
 ERI0201,Aceria saccharini,Eriophyidae,Karnataka,1,1,2,Bangalore,1990-91,Aceria sacchari Channabasavanna
 ERI0201,Aceria saccharini,Eriophyidae,Tamil Nadu,1,1,3,Coimbatore,1988;1992-94;1996-98,Aceria sacchari | Aceria sacchari (Chan.)
 ERI0201,Aceria saccharini,Eriophyidae,Uttar Pradesh,0,1,2,Varanasi,1987-88;1997-98,Aceria sacchari
+ERI0214,Aceria tulipae,Eriophyidae,Gujarat,0,1,1,Navsari,2020-21,Aceria tulipae
+ERI0214,Aceria tulipae,Eriophyidae,West Bengal,0,1,14,Kalyani,2020-21,Aceria tulipae | Aceria tulipae Beetle Mite
 ERI0232,Aculops lycopersici,Eriophyidae,Uttar Pradesh,0,0,4,Varanasi,1987-88,Aculops lycopersici (Massee)
 ERI0259,Aculus moringeae,Eriophyidae,Tamil Nadu,0,1,1,Coimbatore,1992-94,Eriophyes moringae
 ERI0264,Aculus pterygospermae,Eriophyidae,Tamil Nadu,1,1,1,Coimbatore,1988,Aculus pterygospermae MMS
@@ -52,14 +67,20 @@ ERI0392,Eriophyes rosae,Eriophyidae,Tamil Nadu,1,1,1,Coimbatore,1996-98,Eriophye
 ERI0431,Neocalacarus mangiferae,Eriophyidae,Tamil Nadu,0,1,1,Coimbatore,1988,Neocalaconus mangiferae
 ERI0465,Paraphytoptus chrysanthemi,Eriophyidae,Uttar Pradesh,0,0,4,Varanasi,1987-88;1990-91,Paraphytoptus chrysanthemi | Paraphytoptus chrysanthemi Keifer
 ERI0540,Tegonotus convolvuli,Eriophyidae,Tamil Nadu,0,1,1,Coimbatore,1988,Tegonotus convolvuli
+PHY0024,Amblyseius brachycalyx,Phytoseiidae,Bihar,0,0,3,Kalyani,2020-21,"Amblyseius brachycalyx (Karmakar , Bhowmik & Sherpa, 2017) | Amblyseius brachycalyx (Karmakar et al. 2017)"
+PHY0024,Amblyseius brachycalyx,Phytoseiidae,West Bengal,0,0,4,Kalyani,2020-21,"Amblyseius brachycalyx | Amblyseius brachycalyx (Karmakar Bhowmik & Sherpa 2017) | Amblyseius brachycalyx (Karmakar, Bhowmik & Sherpa, 2017)"
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Bihar,1,1,3,Kalyani,2020-21,"Amblyseius crotalariae (Gupta, 1977)"
+PHY0031,Amblyseius dahlia,Phytoseiidae,West Bengal,1,1,1,Kalyani,2020-21,Amblyseius dahliae
+PHY0035,Amblyseius fraterculus,Phytoseiidae,West Bengal,0,1,3,Kalyani,2020-21,Amblyseius fraterculus | Amblyseius fraterculus (Berlese)
 PHY0039,Amblyseius herbicolus,Phytoseiidae,Uttar Pradesh,0,1,6,Varanasi,1992-94;1996-97,Amblyseius herbicolus
-PHY0039,Amblyseius herbicolus,Phytoseiidae,West Bengal,1,1,5,Kalyani,1988-89;1992-94,Amblyseius herbicolus | Amblyseius herbiculous
-PHY0048,Amblyseius largoensis,Phytoseiidae,Bihar,1,1,9,Pusa,1990-91,Amblyseius largoensis (Muma)
+PHY0039,Amblyseius herbicolus,Phytoseiidae,West Bengal,1,1,16,Kalyani,1988-89;1992-94;2020-21,Amblyseius herbicolus | Amblyseius herbicolus (Chant) | Amblyseius herbicolus (Muma) | Amblyseius herbiculous
+PHY0048,Amblyseius largoensis,Phytoseiidae,Bihar,1,1,48,Kalyani;Pusa,1990-91;2020-21,Amblyseius largoensis (Muma)
 PHY0048,Amblyseius largoensis,Phytoseiidae,Gujarat,1,1,1,Navsari,1990-91,Amblyseius largoensis (Muma)
 PHY0048,Amblyseius largoensis,Phytoseiidae,Kerala,1,1,2,Coimbatore,1990-91,Amblyseius largoensis (Muma)
 PHY0048,Amblyseius largoensis,Phytoseiidae,Uttar Pradesh,1,1,3,Varanasi,1997-98,Amblyseius largoensis
-PHY0048,Amblyseius largoensis,Phytoseiidae,West Bengal,1,1,19,Kalyani,1988-89;1990-91;1992-94;1997-98,A. (A.) largoensis | A. largoensis | Amblyseius (Amblyseius) largoensis (Muma) | Amblyseius largoensis
+PHY0048,Amblyseius largoensis,Phytoseiidae,West Bengal,1,1,225,Kalyani,1988-89;1990-91;1992-94;1997-98;2020-21,A. (A.) largoensis | A. largoensis | Amblyseius (Amblyseius) largoensis (Muma) | Amblyseius largoensis | Amblyseius largoensis (Muma)
 PHY0060,Amblyseius paraaerialis,Phytoseiidae,Bihar,0,1,8,Pusa,1990-91,Amblyseius paraaerialis (Muma)
+PHY0076,Euseius alstoniae,Phytoseiidae,Bihar,1,1,1,Kalyani,2020-21,"Euseius alstoniae (Gupta, 1975)"
 PHY0076,Euseius alstoniae,Phytoseiidae,Chandigarh,0,1,3,Ludhiana,1992-94;1996-97;1997,Amblyseius alstoniae
 PHY0076,Euseius alstoniae,Phytoseiidae,Gujarat,1,1,8,Navsari,1990-91;1993,Amblyseius (Euseius) alstoniae (Gupta) | Amblyseius alstoniae Gupta
 PHY0076,Euseius alstoniae,Phytoseiidae,Haryana,1,1,7,Hisar,1990-91,Amblyseius alstoniae | Amblyseius alstoniae (Gupta) | Amblyseius alstoniae Gupta
@@ -67,7 +88,8 @@ PHY0076,Euseius alstoniae,Phytoseiidae,Himachal Pradesh,1,1,1,Ludhiana,1997,Ambl
 PHY0076,Euseius alstoniae,Phytoseiidae,Jammu & Kashmir,0,1,1,Ludhiana,1990,Amblyseius alstoniae Gupta
 PHY0076,Euseius alstoniae,Phytoseiidae,Punjab,1,1,27,Ludhiana,1990;1992-94;1996-97;1997,Amblyseius alstoniae | Amblyseius alstoniae Gupta
 PHY0076,Euseius alstoniae,Phytoseiidae,Uttar Pradesh,1,1,32,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Amblyseius (Euseius) alstoniae | Amblyseius (Euseius) alstoniae Gupta | Amblyseius alstoniae
-PHY0076,Euseius alstoniae,Phytoseiidae,West Bengal,1,1,5,Kalyani,1988-89;1990-91;1992-94;1997-98,A. alstoniae | Amblyseius (Euseius) alstoniae | Amblyseius (Euseius) alstoniae Gupta | Amblyseius alstoniae
+PHY0076,Euseius alstoniae,Phytoseiidae,West Bengal,1,1,55,Kalyani,1988-89;1990-91;1992-94;1997-98;2020-21,"A. alstoniae | Amblyseius (Euseius) alstoniae | Amblyseius (Euseius) alstoniae Gupta | Amblyseius alstoniae | Euseius alstoniae | Euseius alstoniae (Gupta, 1975)"
+PHY0078,Euseius arunachalensis,Phytoseiidae,West Bengal,0,1,2,Kalyani,2020-21,"Euseius arunachalensis (Pramanik & Karmakar, 2016)"
 PHY0085,Euseius chitradurgae,Phytoseiidae,Gujarat,0,1,1,Navsari,1990-91,Amblyseius chitradurgae Gupta
 PHY0085,Euseius chitradurgae,Phytoseiidae,Tamil Nadu,0,1,1,Coimbatore,1996-98,Amblyseius chitradurgae (Gupta)
 PHY0087,Euseius coccineae,Phytoseiidae,Bihar,1,1,8,Pusa,1990-91,Amblyseius coccineae Gupta
@@ -76,25 +98,38 @@ PHY0088,Euseius coccosocius,Phytoseiidae,West Bengal,1,1,1,Kalyani,1997-98,A. (E
 PHY0091,Euseius delhiensis,Phytoseiidae,Gujarat,0,1,4,Navsari,1990-91,Amblyseius delhiensis Narayanan & Kaur
 PHY0091,Euseius delhiensis,Phytoseiidae,Haryana,1,1,3,Hisar,1990-91,Amblyseius delhiensis (Narayanan & Kaur)
 PHY0091,Euseius delhiensis,Phytoseiidae,Uttar Pradesh,1,1,12,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Amblyseius (Euseius) delhiensis | Amblyseius (Euseius) delhiensis Narayanan | Amblyseius (Euseius) delhiensis Narayanan & Kaur | Amblyseius delhiensis
-PHY0095,Euseius finlandicus,Phytoseiidae,Bihar,1,1,9,Pusa,1990-91,Amblyseius finlandicus (Oud.)
+PHY0095,Euseius finlandicus,Phytoseiidae,Bihar,1,1,13,Kalyani;Pusa,1990-91;2020-21,Amblyseius finlandicus (Oud.) | Euseius finlandicus
 PHY0095,Euseius finlandicus,Phytoseiidae,Haryana,0,1,1,Hisar,1990-91,Amblyseius finlandicus (Oud.)
 PHY0095,Euseius finlandicus,Phytoseiidae,Himachal Pradesh,0,1,1,Ludhiana,1990-91,Amblyseius finlandicus (Oud.)
 PHY0095,Euseius finlandicus,Phytoseiidae,Punjab,1,1,22,Ludhiana,1990;1990-91;1992-94;1996-97;1997,Amblyseius finlandicus | Amblyseius finlandicus (Oud.)
 PHY0095,Euseius finlandicus,Phytoseiidae,Uttar Pradesh,0,1,4,Varanasi,1992-94;1996-97,Amblyseius finlandicus
-PHY0095,Euseius finlandicus,Phytoseiidae,West Bengal,1,1,5,Kalyani,1990-91;1992-94,Amblyseius (Euseius) finlandicus (Oud.) | Amblyseius finlandicus
+PHY0095,Euseius finlandicus,Phytoseiidae,West Bengal,1,1,17,Kalyani,1990-91;1992-94;2020-21,Amblyseius (Euseius) finlandicus (Oud.) | Amblyseius finlandicus | Euseius finlandicus | Euseius finlandicus (Oudemans)
+PHY0105,Euseius macrospatulatus,Phytoseiidae,Assam,0,1,1,Jorhat,2020-21,Euseius macrospatulatus
 PHY0109,Euseius neococcineae,Phytoseiidae,Haryana,0,1,1,Hisar,1990-91,Amblyseius neococcineae Gupta
+PHY0110,Euseius ovalis,Phytoseiidae,Bihar,1,1,3,Kalyani,2020-21,"Euseius ovalis (Evans, 1953)"
 PHY0110,Euseius ovalis,Phytoseiidae,Kerala,1,1,1,Coimbatore,1990-91,Amblyseius ovalis (Evans)
-PHY0110,Euseius ovalis,Phytoseiidae,West Bengal,1,1,14,Kalyani,1988-89;1990-91;1996,A. ovalis | Amblyseius (Euseius) ovalis | Amblyseius (Euseius) ovalis (Evans) | Amblyseius ovalis | Amblyseius ovallis
+PHY0110,Euseius ovalis,Phytoseiidae,West Bengal,1,1,121,Kalyani,1988-89;1990-91;1996;2020-21,"A. ovalis | Amblyseius (Euseius) ovalis | Amblyseius (Euseius) ovalis (Evans) | Amblyseius ovalis | Amblyseius ovallis | Euseius ovalis | Euseius ovalis (Evans, 1953)"
 PHY0113,Euseius prasadi,Phytoseiidae,Bihar,0,1,8,Pusa,1990-91,Amblyseius pruni Gupta
 PHY0113,Euseius prasadi,Phytoseiidae,West Bengal,1,1,10,Kalyani,1988-89;1990-91;1992-94,Amblyseius (Euseius) pruni | Amblyseius (Euseius) pruni Gupta | Amblyseius pruni
+PHY0116,Euseius sajnekhalicus,Phytoseiidae,Bihar,0,1,5,Kalyani,2020-21,"Euseius sajnekhalicus (Kar & Karmakar, 2021) | Euseius sajnekhalicus (Kar and Karmakar)"
+PHY0116,Euseius sajnekhalicus,Phytoseiidae,West Bengal,1,1,28,Kalyani,2020-21,"Euseius sajnekhalicus (Kar & Karmakar 2021) | Euseius sajnekhalicus (Karmakar & Kar, 2021)"
+PHY0120,Euseius sundarbanensis,Phytoseiidae,Bihar,0,1,7,Kalyani,2020-21,Euseius sundarbanensis (Karmakar and Bhowmik)
+PHY0120,Euseius sundarbanensis,Phytoseiidae,West Bengal,1,1,8,Kalyani,2020-21,"Euseius sundarbanensis (Karmakar & Bhowmik, 2018) | Euseius sundarbanensis (Karmakar & Bhowmik; 2018)"
+PHY0132,Gynaeseius ricini,Phytoseiidae,West Bengal,1,1,5,Kalyani,2020-21,"Indoseiulus ricini | Indoseiulus ricini (Ghai & Menon, 1969) | Indoseiulus ricini Total Shannon’s diversity (H1 )"
 PHY0149,Neoseiulus fallacis,Phytoseiidae,West Bengal,1,1,10,Kalyani,1988-89;1990-91;1992-94;1996,A. fallacis | Amblyseius (Neoseiulus) fallacis (Garman) | Amblyseius fallacis
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,Bihar,1,1,3,Kalyani,2020-21,"Neoseiulus imbricatus (Corpuz-Raros & Rimando, 1966)"
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,West Bengal,1,1,12,Kalyani,2020-21,"Neoseiulus imbricatus | Neoseiulus imbricatus (Corpuz & Rimando, 1966) | Neoseiulus imbricatus (Corpuz- Raros & Rimando, 1966)"
 PHY0152,Neoseiulus indicus,Phytoseiidae,Jammu & Kashmir,0,1,1,Ludhiana,1990,Amblyseius indicus (Narayanan & Kaur)
 PHY0152,Neoseiulus indicus,Phytoseiidae,Uttar Pradesh,1,1,4,Varanasi,1987-88;1997-98,Amblyseius (Neoseiulus) indicus Narayanan & Kaur | Amblyseius indicus
 PHY0152,Neoseiulus indicus,Phytoseiidae,West Bengal,1,1,3,Kalyani,1992-94;1996;1997-98,A. indica | A. indicus | Amblyseius indicus
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Assam,0,1,4,Jorhat,2020-21,Neoseiulus longispinosus
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Bihar,1,1,1,Kalyani,2020-21,"Neoseiulus longispinosus (Evans, 1952)"
 PHY0155,Neoseiulus longispinosus,Phytoseiidae,Karnataka,1,1,5,Bangalore,1990-91;1996-97,A. longispinosus | Amblyseius longispinosus (Evans)
 PHY0155,Neoseiulus longispinosus,Phytoseiidae,Tamil Nadu,1,1,3,Coimbatore,1996-98,Amblyseius longispinosus
 PHY0155,Neoseiulus longispinosus,Phytoseiidae,Uttar Pradesh,1,1,12,Varanasi,1992-94;1996-97;1997-98,Amblyseius longispinosus
-PHY0155,Neoseiulus longispinosus,Phytoseiidae,West Bengal,1,1,8,Kalyani,1988-89;1990-91;1996;1997-98,A. (A.) longispinosus | A. longispinosus | Amblyseius (Neoseiulus) longispinosus | Amblyseius (Neoseiulus) longispinosus (Evans)
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,West Bengal,1,1,35,Kalyani,1988-89;1990-91;1996;1997-98;2020-21,A. (A.) longispinosus | A. longispinosus | Amblyseius (Neoseiulus) longispinosus | Amblyseius (Neoseiulus) longispinosus (Evans) | Neoseiulus longispinosus | Neoseiulus longispinosus (Evan) | Neoseiulus longispinosus (Evans)
+PHY0160,Neoseiulus paspalivorus,Phytoseiidae,West Bengal,1,1,9,Kalyani,2020-21,"Neoseiulus paspalivorus | Neoseiulus paspalivorus (De Leon, 1957) | Neoseiulus paspalivorus (DeLeon)"
+PHY0161,Neoseiulus pranadae,Phytoseiidae,West Bengal,1,1,41,Kalyani,2020-21,"Neoseiulus pranadae | Neoseiulus pranadae (Karmakar & Gupta, 2014)"
 PHY0183,Paraphytoseius orientalis,Phytoseiidae,Bihar,0,1,3,Pusa,1990-91,Amblyseius multidentatus (S&S) | Amblyseius multidentatus (Swirski & Shechter)
 PHY0183,Paraphytoseius orientalis,Phytoseiidae,Gujarat,0,1,2,Navsari,1990-91,Amblyseius multidentatus (Swirski & Shechter)
 PHY0183,Paraphytoseius orientalis,Phytoseiidae,Haryana,0,1,5,Hisar,1990-91,Amblyseius multidentatus (S&S) | Amblyseius multidentatus (Swirski & Shechter)
@@ -102,14 +137,17 @@ PHY0183,Paraphytoseius orientalis,Phytoseiidae,Odisha,0,1,1,Kalyani,1988-89,Ambl
 PHY0183,Paraphytoseius orientalis,Phytoseiidae,Punjab,0,1,13,Ludhiana,1990;1990-91;1992-94;1996-97;1997,Amblyseius multidentatus | Amblyseius multidentatus (S&S) | Amblyseius multidentatus (S. & S.)
 PHY0183,Paraphytoseius orientalis,Phytoseiidae,Tamil Nadu,0,1,1,Coimbatore,1990-91,Amblyseius multidentatus (Swirski & Shechter)
 PHY0183,Paraphytoseius orientalis,Phytoseiidae,Uttar Pradesh,0,1,24,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter) | Amblyseius multidentatus
-PHY0183,Paraphytoseius orientalis,Phytoseiidae,West Bengal,1,1,14,Kalyani,1988-89;1990-91;1992-94;1996,A. multidentatus | Amblyseius (Paraphytoseius) multidentatus | Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter) | Amblyseius multidentatus
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,West Bengal,1,1,61,Kalyani,1988-89;1990-91;1992-94;1996;2020-21,A. multidentatus | Amblyseius (Paraphytoseius) multidentatus | Amblyseius (Paraphytoseius) multidentatus (Swirski & Shechter) | Amblyseius multidentatus | Paraphytoseius multidentatus | Paraphytoseius multidentatus (Swirski & Shechter)
 PHY0200,Phytoseius corniger,Phytoseiidae,Uttar Pradesh,1,1,1,Varanasi,1987-88,Phytoseius (Phytoseius) corniger Wainstein
 PHY0207,Phytoseius indicus,Phytoseiidae,Haryana,0,1,1,Hisar,1990-91,Phytoseius indicus Bhattacharyya
 PHY0208,Phytoseius intermedius,Phytoseiidae,Bihar,1,1,8,Pusa,1990-91,Phytoseius intermedius Evans & Macfarlane
 PHY0208,Phytoseius intermedius,Phytoseiidae,Uttar Pradesh,1,1,2,Varanasi,1987-88;1997-98,Phytoseius (Phytoseius) intermedius Evans & Macfarlane | Phytoseius intermedius
+PHY0210,Phytoseius jujuba,Phytoseiidae,Bihar,0,1,5,Kalyani,2020-21,"Phytoseius jujuba (Gupta 1977) | Phytoseius jujuba (Gupta, 1977)"
 PHY0210,Phytoseius jujuba,Phytoseiidae,Haryana,0,1,2,Hisar,1990-91,Phytoseius (Phytoseius) jujuba Gupta | Phytoseius jujuba Gupta
+PHY0210,Phytoseius jujuba,Phytoseiidae,West Bengal,0,1,23,Kalyani,2020-21,Phytoseius jujuba | Phytoseius jujuba (Gupta 1977) | Phytoseius jujuba (Gupta1977)
 PHY0211,Phytoseius kapuri,Phytoseiidae,Gujarat,1,1,1,Navsari,1990-91,Phytoseius (Pennaseius) kapuri Gupta
 PHY0211,Phytoseius kapuri,Phytoseiidae,Uttar Pradesh,1,1,4,Varanasi,1992-94;1996-97,Phytoseius kapuri
+PHY0211,Phytoseius kapuri,Phytoseiidae,West Bengal,1,1,10,Kalyani,2020-21,"Phytoseius kapuri | Phytoseius kapuri (Gupta, 1969)"
 PHY0214,Phytoseius macropilis,Phytoseiidae,Chandigarh,0,1,2,Ludhiana,1992-94;1996-97,Phytoseius macropilis
 PHY0214,Phytoseius macropilis,Phytoseiidae,Punjab,0,1,6,Ludhiana,1992-94;1996-97,Phytoseius macropilis
 PHY0218,Phytoseius meyerae,Phytoseiidae,West Bengal,1,1,2,Kalyani,1988-89;1992-94,Phytoseius meyerae
@@ -121,15 +159,22 @@ PHY0229,Phytoseius punjabensis,Phytoseiidae,Uttar Pradesh,0,1,9,Varanasi,1992-94
 PHY0231,Phytoseius roseus,Phytoseiidae,Haryana,0,1,3,Hisar,1990-91,Phytoseius roseus Gupta
 PHY0231,Phytoseius roseus,Phytoseiidae,Punjab,1,1,12,Ludhiana,1990;1992-94;1996-97;1997,Phytoseius (Phytoseius) roseus Gupta | Phytoseius roseus
 PHY0231,Phytoseius roseus,Phytoseiidae,Uttar Pradesh,1,1,10,Varanasi,1987-88;1997-98,Phytoseius (Phytoseius) roseus Gupta | Phytoseius roseus
+PHY0231,Phytoseius roseus,Phytoseiidae,West Bengal,1,1,5,Kalyani,2020-21,"Phytoseius roseus (Gupta, 1969)"
+PHY0250,Scapulaseius asiaticus,Phytoseiidae,West Bengal,1,1,33,Kalyani,2020-21,Scapulaseius asiaticus | Scapulaseius asiaticus (Evans)
+PHY0257,Scapulaseius moraesi,Phytoseiidae,Bihar,0,1,1,Kalyani,2020-21,"Scapulaseius moraesi (Karmakar & Bhowmik, 2018)"
+PHY0257,Scapulaseius moraesi,Phytoseiidae,West Bengal,1,1,6,Kalyani,2020-21,"Scapulaseius moraesi | Scapulaseius moraesi (Karmakar & Bhowmik, 2018) | Scapulaseius morasei"
 PHY0262,Scapulaseius suknaensis,Phytoseiidae,Gujarat,0,1,2,Navsari,1990-91,Amblyseius suknaensis (Gupta)
 PHY0262,Scapulaseius suknaensis,Phytoseiidae,Punjab,0,1,6,Ludhiana,1990,Amblyseius suknaensis Gupta
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Assam,0,1,3,Jorhat,2020-21,Amblyseius tetranychivorus
 PHY0264,Transeius tetranychivorus,Phytoseiidae,Bihar,1,1,2,Pusa,1990-91,Amblyseius tetranychivorus (Gupta)
 PHY0264,Transeius tetranychivorus,Phytoseiidae,Gujarat,0,1,1,Navsari,1990-91,Amblyseius tetranychivorus (Gupta)
-PHY0269,Typhlodromips syzygii,Phytoseiidae,West Bengal,1,1,5,Kalyani,1988-89;1992-94,Amblyseius syzygii
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Bihar,1,1,14,Kalyani,2020-21,"Typhlodromips syzygii (Gupta, 1975)"
+PHY0269,Typhlodromips syzygii,Phytoseiidae,West Bengal,1,1,97,Kalyani,1988-89;1992-94;2020-21,"Amblyseius syzygii | Typhlodromips syzygii | Typhlodromips syzygii (Gupta, 1975)"
 PHY0283,Typhlodromus (Anthoseius) communis,Phytoseiidae,Uttar Pradesh,0,1,1,Varanasi,1997-98,Typhlodromus communis
 PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Punjab,1,1,1,Ludhiana,1990,Typhlodromus eharai Gupta
 PHY0290,Typhlodromus (Anthoseius) fleschneri,Phytoseiidae,Bihar,1,1,8,Pusa,1990-91,Typhlodromus fleschneri Chant
 PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,Punjab,1,1,1,Ludhiana,1990,Typhlodromus gopali Gupta
+PHY0297,Typhlodromus (Anthoseius) heliotropium,Phytoseiidae,West Bengal,1,1,5,Kalyani,2020-21,"Typhlodromus (Anthoseius) heliotropium (Karmakar & Bhowmik, 2018)"
 PHY0298,Typhlodromus (Anthoseius) himalayensis,Phytoseiidae,Uttar Pradesh,1,1,3,Varanasi,1987-88;1997-98,Typhlodromus (Amblydromella) himalayensis Gupta | Typhlodromus himalayensis
 PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Bihar,1,1,9,Pusa,1990-91,Amblyseius homalii Gupta | Typhlodromus homalii Gupta
 PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Gujarat,0,1,1,Navsari,1990-91,Typhlodromus homalii Gupta
@@ -141,20 +186,25 @@ PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,West Bengal,1,1,12,Kalyan
 PHY0307,Typhlodromus (Anthoseius) meerutensis,Phytoseiidae,Uttar Pradesh,1,1,2,Varanasi,1987-88;1997-98,Indodromus meerutensis | Indodromus meerutensis Ghai & Menon
 PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Karnataka,1,1,1,Bangalore,1992-94,Typhlodromus rickeri
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Polyphagotarsonemus latus (Banks)
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Assam,0,1,1,Jorhat,2020-21,Polyphagotarsonemus latus
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Bihar,1,1,2,Pusa,1990-91;1996-97,P. latus | Polyphagotarsonemus latus (Banks)
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Chandigarh,0,1,3,Ludhiana,1992-94;1996-97;1997,Polyphagotarsonemus latus
-TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Gujarat,0,1,2,Navsari,1988-89;1990-91,Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks)
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Gujarat,0,1,11,Navsari,1988-89;1990-91;2020-21,Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks)
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Himachal Pradesh,0,1,2,Ludhiana,1992-94;1996-97,Polyphagotarsonemus latus
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Karnataka,1,1,1,Bangalore,1990-91,Polyphagotarsonemus latus (Banks)
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Kerala,0,1,2,Coimbatore,1990-91,Polyphagotarsonemus latus (Banks)
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Odisha,0,1,2,Kalyani,1988-89,Polyphagotarsonemus latus
-TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Punjab,1,1,24,Ludhiana,1990-91;1992-94;1996-97;1997,Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks)
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Punjab,1,1,33,Ludhiana,1990-91;1992-94;1996-97;1997;2020-21,Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks)
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Tamil Nadu,0,1,12,Coimbatore,1988;1990;1990-91;1992-94;1996-98,Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks)
 TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Uttar Pradesh,1,1,27,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks)
-TAR0021,Polyphagotarsonemus latus,Tarsonemidae,West Bengal,1,1,54,Kalyani,1988-89;1990;1990-91;1992-94;1996,P. latus | Polyphagotarsonemus latus | Polyphagotarsonemus latus (Banks) | Polyphagotarsonemus latus Banks
-TAR0027,Steneotarsonemus spinki,Tarsonemidae,Gujarat,0,0,1,Navsari,1993,Steneotarsonemus spinki (Smiley)
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,West Bengal,1,1,86,Kalyani,1988-89;1990;1990-91;1992-94;1996;2020-21,P. latus | Polyphagotarsonemus latus | Polyphagotarsonemus latus (Bank) | Polyphagotarsonemus latus (Banks) | Polyphagotarsonemus latus Banks
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,Assam,0,0,1,Jorhat,2020-21,Steneotarsonemus spinki
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,Gujarat,0,0,2,Navsari,1993;2020-21,Steneotarsonemus spinki | Steneotarsonemus spinki (Smiley)
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,West Bengal,0,0,19,Kalyani,2020-21,Steneotarsonemus spinki | Stenotarsonemus spinki | Stenotarsonemus spinki Polyphagotarsonemus latus
 TEN0008,Brevipalpus assamensis,Tenuipalpidae,Punjab,0,1,1,Ludhiana,1987-88,Brevipalpus assamensis
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Assam,0,1,2,Jorhat,2020-21,Brevipalpus californicus
 TEN0009,Brevipalpus californicus,Tenuipalpidae,Chandigarh,0,1,3,Ludhiana,1992-94;1996-97;1997,Brevipalpus californicus
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Gujarat,0,1,4,Navsari,2020-21,Brevipalpus californicus
 TEN0009,Brevipalpus californicus,Tenuipalpidae,Haryana,1,1,10,Hisar,1985-87;1990-91,Brevipalpus californicus | Brevipalpus californicus (Banks)
 TEN0009,Brevipalpus californicus,Tenuipalpidae,Himachal Pradesh,1,1,1,Ludhiana,1996-97,Brevipalpus californicus
 TEN0009,Brevipalpus californicus,Tenuipalpidae,Odisha,0,1,1,Kalyani,1988-89,Brevipalpus californicus
@@ -177,17 +227,18 @@ TEN0027,Brevipalpus obovatus,Tenuipalpidae,Karnataka,0,1,1,Bangalore,1996-97,Bre
 TEN0027,Brevipalpus obovatus,Tenuipalpidae,Punjab,0,1,22,Ludhiana,1987-88;1989;1990;1990-91;1996-97;1997,Brevipalpus obovatus | Brevipalpus obovatus (Donnadieu) | Brevipalpus obovatus Donnadieu
 TEN0027,Brevipalpus obovatus,Tenuipalpidae,Uttar Pradesh,0,1,2,Varanasi,1997-98,Brevipalpus obovatus
 TEN0027,Brevipalpus obovatus,Tenuipalpidae,West Bengal,1,1,2,Kalyani,1988-89;1997-98,B. obovatus | Brevipalpus obovatus
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Assam,0,0,3,Jorhat,2020-21,Brevipalpus phoenicis
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Bihar,0,0,7,Pusa,1993;1996-97,Brevipalpus phoenicis
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Chandigarh,0,0,2,Ludhiana,1996-97;1997,Brevipalpus phoenicis
-TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Gujarat,0,0,5,Navsari,1988-89;1990-91,Brevipalpus phoenicis (Geij) | Brevipalpus phoenicis (Geijskes)
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Gujarat,0,0,8,Navsari,1988-89;1990-91;2020-21,Brevipalpus phoenicis | Brevipalpus phoenicis (Geij) | Brevipalpus phoenicis (Geijskes)
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Haryana,0,0,2,Hisar,1985-87;1990-91,Brevipalpus phoenicis | Brevipalpus phoenicis (Geijskes)
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Himachal Pradesh,0,0,4,Ludhiana,1996-97;1997,Brevipalpus phoenicis
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Jammu & Kashmir,0,0,1,Ludhiana,1996-97,Brevipalpus phoenicis
-TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Punjab,0,0,53,Ludhiana,1987-88;1989;1990;1990-91;1992-94;1996-97;1997,Brevipalpus phoenicis | Brevipalpus phoenicis (Geij.) | Brevipalpus phoenicis (Geijskes)
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Punjab,0,0,61,Ludhiana,1987-88;1989;1990;1990-91;1992-94;1996-97;1997;2020-21,Brevipalpus phoenicis | Brevipalpus phoenicis (Geij.) | Brevipalpus phoenicis (Geijskes)
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Rajasthan,0,0,1,Ludhiana,1996-97,Brevipalpus phoenicis
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Tamil Nadu,0,0,6,Coimbatore,1996-98,Brevipalpus phoenicis (Geijskes)
 TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Uttar Pradesh,0,0,48,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Brevipalpus phoenicis | Brevipalpus phoenicis (Geijskes)
-TEN0028,Brevipalpus phoenicis,Tenuipalpidae,West Bengal,0,0,18,Kalyani,1988-89;1990-91;1992-94;1996;1997-98,B. phoenicis | Brevipalpus phoenicis | Brevipalpus phoenicis (Geijskes)
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,West Bengal,0,0,46,Kalyani,1988-89;1990-91;1992-94;1996;1997-98;2020-21,B. phoenicis | Brevipalpus phoenicis | Brevipalpus phoenicis (Geijskes) | Brevipalpus phoenicis (Geisk) | Brevipalpus phoenicis (Geisk.)
 TEN0029,Brevipalpus phoenicoides,Tenuipalpidae,Uttar Pradesh,0,1,1,Varanasi,1987-88,Brevipalpus phoenicoides Gonzalez
 TEN0030,Brevipalpus rica,Tenuipalpidae,Haryana,0,1,1,Hisar,1985-87,Brevipalpus rica
 TEN0031,Brevipalpus rugulosus,Tenuipalpidae,Punjab,1,1,3,Ludhiana,1987-88;1996-97,Brevipalpus rugulosus
@@ -197,9 +248,12 @@ TEN0032,Brevipalpus tinsukiaensis,Tenuipalpidae,Punjab,0,1,4,Ludhiana,1987-88,Br
 TEN0038,Dolichotetranychus floridanus,Tenuipalpidae,West Bengal,1,1,7,Kalyani,1988-89;1990-91;1992-94,Dolichotetranychus floridanus | Dolichotetranychus floridanus (Banks)
 TEN0039,Dolichotetranychus ramaniae,Tenuipalpidae,Karnataka,1,1,1,Bangalore,1996-97,Dolichotetranychus ramaniae
 TEN0043,Krugeria ramosa,Tenuipalpidae,Andhra Pradesh,0,1,1,Bangalore,1988-89,Krugeria ramosa Meyer
+TEN0044,Larvacarus transitans,Tenuipalpidae,Gujarat,0,1,1,Navsari,2020-21,Larvacarus transitans
+TEN0044,Larvacarus transitans,Tenuipalpidae,Punjab,0,1,3,Ludhiana,2020-21,Larvacarus transitans (Ewing)
 TEN0044,Larvacarus transitans,Tenuipalpidae,Tamil Nadu,0,1,1,Coimbatore,1992-94,Larvacarus transitans
 TEN0044,Larvacarus transitans,Tenuipalpidae,Uttar Pradesh,0,1,1,Varanasi,1997-98,Larvacarus transitans
-TEN0052,Raoiella indica,Tenuipalpidae,Gujarat,0,1,8,Navsari,1988-89;1990-91,Raoiella indica (Hirst)
+TEN0052,Raoiella indica,Tenuipalpidae,Assam,0,1,1,Jorhat,2020-21,Raoiella indica
+TEN0052,Raoiella indica,Tenuipalpidae,Gujarat,0,1,11,Navsari,1988-89;1990-91;2020-21,Raoiella indica | Raoiella indica (Hirst)
 TEN0052,Raoiella indica,Tenuipalpidae,Karnataka,1,1,6,Bangalore,1988;1988-89;1996-97;1997-98,R. indica | Raoiella indica Hirst
 TEN0052,Raoiella indica,Tenuipalpidae,Kerala,1,1,4,Coimbatore,1990;1990-91,Raoiella indica | Raoiella indica Hirst
 TEN0052,Raoiella indica,Tenuipalpidae,Tamil Nadu,1,1,6,Coimbatore,1990;1996-98,Raoiella indica | Raoiella indica Hirst
@@ -215,13 +269,15 @@ TEN0080,Tenuipalpus kesari,Tenuipalpidae,Punjab,1,1,3,Ludhiana,1987-88,Tenuipalp
 TEN0081,Tenuipalpus lalbaghensis,Tenuipalpidae,Karnataka,1,1,1,Bangalore,1990-91,Tenuipalpus lalbaghensis Channabasavanna & Lakkundi
 TEN0086,Tenuipalpus ludhianaensis,Tenuipalpidae,Punjab,1,1,1,Ludhiana,1987-88,Tenuipalpus ludhianaensis
 TEN0090,Tenuipalpus mustus,Tenuipalpidae,Punjab,1,1,1,Ludhiana,1996-97,Tenuipalpus mustus
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,Punjab,1,1,1,Ludhiana,2020-21,Tenuipalpus punicae Pritchard & Baker
 TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,Haryana,0,1,3,Hisar,1990-91,Tenuipalpus punjabensis (Maninder & Ghai) | Tenuipalpus punjabensis Maninder & Ghai
 TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,Punjab,1,1,13,Ludhiana,1992-94;1996-97;1997,Tenuipalpus punjabensis
 TEN0097,Tenuipalpus sharmai,Tenuipalpidae,Punjab,1,1,1,Ludhiana,1987-88,Tenuipalpus sharmai
 TEN0098,Tenuipalpus solanensis,Tenuipalpidae,Punjab,1,1,1,Ludhiana,1987-88,Tenuipalpus solanensis
 TEN0109,Terminalichus panajiensis,Tenuipalpidae,Karnataka,0,1,1,Bangalore,1990-91,Terminalichus panajiensis Maninder & Ghai
 TEN0111,Terminalichus serratus,Tenuipalpidae,Haryana,0,1,2,Hisar,1990-91,Terminalichus serratus Nassar & Ghai
-TET0003,Aponychus corpuzae,Tetranychidae,West Bengal,1,1,3,Kalyani,1988-89;1990-91,Aponychus corpuzae | Aponychus corpuzae Rimando
+TET0003,Aponychus corpuzae,Tetranychidae,West Bengal,1,1,7,Kalyani,1988-89;1990-91;2020-21,Aponychus corpuzae | Aponychus corpuzae Rimando
+TET0009,Bryobia praetiosa,Tetranychidae,Punjab,1,1,1,Ludhiana,2020-21,Bryobia praetiosa Koch
 TET0009,Bryobia praetiosa,Tetranychidae,Uttarakhand,0,1,1,Varanasi,1987-88,Bryobia praetiosa Koch
 TET0013,Eotetranychus broodryki,Tetranychidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Eotetranychus broodryi Meyer
 TET0013,Eotetranychus broodryki,Tetranychidae,Gujarat,0,1,3,Navsari,1988-89,Eotetranychus broodryki (Meyer) | Eotetranychus broodryki Meyer
@@ -241,64 +297,85 @@ TET0046,Eutetranychus bredini,Tetranychidae,Haryana,0,0,1,Hisar,1990-91,Eutetran
 TET0046,Eutetranychus bredini,Tetranychidae,Uttar Pradesh,0,0,1,Varanasi,1987-88,Eutetranychus bredini Baker & Pritchard
 TET0049,Eutetranychus maximae,Tetranychidae,West Bengal,0,1,5,Kalyani,1988-89;1990-91;1992-94,Eutetranychus maximae | Eutetranychus maximae Nassar & Ghai
 TET0051,Eutetranychus orientalis,Tetranychidae,Andhra Pradesh,1,1,5,Bangalore,1990-91,Eutetranychus orientalis (Klein)
-TET0051,Eutetranychus orientalis,Tetranychidae,Bihar,1,1,1,Pusa,1990-91,Eutetranychus orientalis (Klein)
-TET0051,Eutetranychus orientalis,Tetranychidae,Gujarat,1,1,2,Navsari,1988-89,Eutetranychus orientalis (Klein)
+TET0051,Eutetranychus orientalis,Tetranychidae,Assam,1,1,3,Jorhat,2020-21,Eutetranychus orientalis
+TET0051,Eutetranychus orientalis,Tetranychidae,Bihar,1,1,7,Kalyani;Pusa,1990-91;2020-21,Eutetranychus orientalis | Eutetranychus orientalis (Klein)
+TET0051,Eutetranychus orientalis,Tetranychidae,Gujarat,1,1,4,Navsari,1988-89;2020-21,Eutetranychus orientalis | Eutetranychus orientalis (Klein)
 TET0051,Eutetranychus orientalis,Tetranychidae,Haryana,1,1,12,Hisar,1990-91,Eutetranychus orientalis (Klein)
 TET0051,Eutetranychus orientalis,Tetranychidae,Himachal Pradesh,1,1,3,Ludhiana,1992-94;1996-97;1997,Eutetranychus orientalis
 TET0051,Eutetranychus orientalis,Tetranychidae,Karnataka,1,1,10,Bangalore,1988-89;1990;1990-91;1996-97,Eutetranychus orientalis | Eutetranychus orientalis (Klein)
-TET0051,Eutetranychus orientalis,Tetranychidae,Punjab,1,1,33,Ludhiana,1990;1992-94;1996-97;1997,Eutetranychus orientalis | Eutetranychus orientalis (Klein)
+TET0051,Eutetranychus orientalis,Tetranychidae,Kerala,0,1,1,Thrissur,2020-21,Eutetranychus orientalis Klein
+TET0051,Eutetranychus orientalis,Tetranychidae,Punjab,1,1,42,Ludhiana,1990;1992-94;1996-97;1997;2020-21,Eutetranychus orientalis | Eutetranychus orientalis (Klein)
+TET0051,Eutetranychus orientalis,Tetranychidae,Rajasthan,1,1,1,Ludhiana,2020-21,Eutetranychus orientalis (Klein)
 TET0051,Eutetranychus orientalis,Tetranychidae,Tamil Nadu,1,1,8,Coimbatore,1990;1996-98,Eutetranychus orientalis (Klein)
 TET0051,Eutetranychus orientalis,Tetranychidae,Uttar Pradesh,1,1,101,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Eutetranychus annecki | Eutetranychus annecki Mayer | Eutetranychus annecki Meyer | Eutetranychus annedkei | Eutetranychus orientalis | Eutetranychus orientalis (Klein)
-TET0051,Eutetranychus orientalis,Tetranychidae,West Bengal,1,1,10,Kalyani,1988-89;1990-91;1992-94;1997-98,E. orientalis | Eutetranychus orientalis | Eutetranychus orientalis (Klein)
+TET0051,Eutetranychus orientalis,Tetranychidae,West Bengal,1,1,69,Kalyani,1988-89;1990-91;1992-94;1997-98;2020-21,E. orientalis | Eutetranychus orientalis | Eutetranychus orientalis (Klein) | Eutetranychus orientalis (Klein.)
 TET0062,Oligonychus bambusae,Tetranychidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Oligonychus bambusae Mohansundaram
 TET0064,Oligonychus biharensis,Tetranychidae,Andhra Pradesh,0,1,2,Bangalore,1990-91,Oligonychus biharensis (Hirst)
 TET0064,Oligonychus biharensis,Tetranychidae,Gujarat,1,1,1,Navsari,1988-89,Oligonychus biharensis (Hirst)
 TET0064,Oligonychus biharensis,Tetranychidae,Karnataka,1,1,6,Bangalore,1988-89;1990;1990-91;1996-97;1997-98,Oligonychus biharensis | Oligonychus biharensis (Hirst)
+TET0064,Oligonychus biharensis,Tetranychidae,Kerala,1,1,4,Thrissur,2020-21,Oligonychus biharensis Hirst
+TET0064,Oligonychus biharensis,Tetranychidae,West Bengal,1,1,15,Kalyani,2020-21,Oligonychus biharensis
+TET0065,Oligonychus coffeae,Tetranychidae,Assam,1,1,1,Jorhat,2020-21,Oligonychus coffeae
 TET0065,Oligonychus coffeae,Tetranychidae,Himachal Pradesh,1,1,1,Ludhiana,1992-94,Oligonychus coffeae
 TET0065,Oligonychus coffeae,Tetranychidae,Tamil Nadu,1,1,3,Coimbatore,1996-98,Oligonychus coffeae (Nietner)
-TET0065,Oligonychus coffeae,Tetranychidae,West Bengal,1,1,9,Kalyani,1988-89;1990-91;1992-94,Oligonychus coffeae | Oligonychus coffeae (Nietner)
+TET0065,Oligonychus coffeae,Tetranychidae,West Bengal,1,1,15,Kalyani,1988-89;1990-91;1992-94;2020-21,Oligonychus coffeae | Oligonychus coffeae (Nietner)
 TET0070,Oligonychus indicus,Tetranychidae,Andhra Pradesh,1,1,2,Bangalore,1990-91,Oligonychus indicus (Hirst)
+TET0070,Oligonychus indicus,Tetranychidae,Assam,1,1,1,Jorhat,2020-21,Oligonychus indicus
 TET0070,Oligonychus indicus,Tetranychidae,Bihar,1,1,2,Pusa,1993;1996-97,Oligonychus indicus
-TET0070,Oligonychus indicus,Tetranychidae,Gujarat,0,1,5,Navsari,1988-89;1990-91,Oligonychus indicus | Oligonychus indicus (Hirst)
+TET0070,Oligonychus indicus,Tetranychidae,Gujarat,0,1,9,Navsari,1988-89;1990-91;2020-21,Oligonychus indicus | Oligonychus indicus (Hirst)
 TET0070,Oligonychus indicus,Tetranychidae,Himachal Pradesh,0,1,3,Ludhiana,1996-97;1997,Oligonychus indicus
 TET0070,Oligonychus indicus,Tetranychidae,Karnataka,1,1,4,Bangalore,1988;1990,Oligonychus indicus (Hirst)
-TET0070,Oligonychus indicus,Tetranychidae,Punjab,1,1,14,Ludhiana,1992-94;1996-97;1997,Oligonychus indicus
+TET0070,Oligonychus indicus,Tetranychidae,Kerala,0,1,1,Thrissur,2020-21,Oligonychus indicus Hirst
+TET0070,Oligonychus indicus,Tetranychidae,Punjab,1,1,18,Ludhiana,1992-94;1996-97;1997;2020-21,Oligonychus indicus | Oligonychus indicus (Hirst)
 TET0070,Oligonychus indicus,Tetranychidae,Tamil Nadu,1,1,2,Coimbatore,1988;1996-98,Oligonychus indicus | Oligonychus indicus (Hirst)
-TET0070,Oligonychus indicus,Tetranychidae,West Bengal,1,1,8,Kalyani,1988-89;1990-91;1992-94;1997-98,O. indicus | Oligonychus indicus | Oligonychus indicus (Hirst)
+TET0070,Oligonychus indicus,Tetranychidae,West Bengal,1,1,29,Kalyani,1988-89;1990-91;1992-94;1997-98;2020-21,O. indicus | Oligonychus indicus | Oligonychus indicus (Hirst)
 TET0072,Oligonychus mangiferus,Tetranychidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Oligonychus mangiferus (Rahman & Sapra)
-TET0072,Oligonychus mangiferus,Tetranychidae,Bihar,1,1,2,Pusa,1990-91,Oligonychus mangiferus (R&S) | Oligonychus mangiferus (Rahman & Sapra)
+TET0072,Oligonychus mangiferus,Tetranychidae,Assam,0,1,1,Jorhat,2020-21,Oligonychus mangiferae
+TET0072,Oligonychus mangiferus,Tetranychidae,Bihar,1,1,5,Kalyani;Pusa,1990-91;2020-21,Oligonychus mangiferous | Oligonychus mangiferus (R&S) | Oligonychus mangiferus (Rahman & Sapra)
+TET0072,Oligonychus mangiferus,Tetranychidae,Gujarat,1,1,1,Navsari,2020-21,Oligonychus mangiferae
 TET0072,Oligonychus mangiferus,Tetranychidae,Himachal Pradesh,1,1,2,Ludhiana,1989;1990-91,Oligonychus mangiferae | Oligonychus mangiferus (Rahman & Sapra)
 TET0072,Oligonychus mangiferus,Tetranychidae,Karnataka,1,1,2,Bangalore,1988-89;1990,Oligonychus mangiferae (Rahman and Sapra) | Oligonychus mangiferus (R & S)
 TET0072,Oligonychus mangiferus,Tetranychidae,Punjab,1,1,34,Ludhiana,1989;1990;1990-91;1992-94;1996-97;1997,Oligonychus mangiferae | Oligonychus mangiferus | Oligonychus mangiferus (R. & S.) | Oligonychus mangiferus (Rahman & Sapra)
 TET0072,Oligonychus mangiferus,Tetranychidae,Uttar Pradesh,0,1,9,Varanasi,1987-88;1997-98,Oligonychus mangiferus | Oligonychus mangiferus Rahman & Sapra
-TET0072,Oligonychus mangiferus,Tetranychidae,West Bengal,1,1,4,Kalyani,1990-91;1992-94;1997-98,O. mangiferus | Oligonychus mangiferae | Oligonychus mangiferus (Rahman & Sapra)
+TET0072,Oligonychus mangiferus,Tetranychidae,West Bengal,1,1,5,Kalyani,1990-91;1992-94;1997-98;2020-21,O. mangiferus | Oligonychus mangiferae | Oligonychus mangiferous | Oligonychus mangiferus (Rahman & Sapra)
+TET0076,Oligonychus oryzae,Tetranychidae,Gujarat,0,1,1,Navsari,2020-21,Oligonychus oryzae
 TET0076,Oligonychus oryzae,Tetranychidae,Karnataka,0,1,2,Bangalore,1990;1997-98,Oligonychus oryzae | Oligonychus oryzae (Hirst)
+TET0076,Oligonychus oryzae,Tetranychidae,Kerala,0,1,1,Thrissur,2020-21,Oligonychus oryzae Hirst
 TET0076,Oligonychus oryzae,Tetranychidae,Telangana,0,1,1,Bangalore,1988-89,Oligonychus oryzae (Hirst)
-TET0076,Oligonychus oryzae,Tetranychidae,West Bengal,1,1,5,Kalyani,1988-89;1990-91;1992-94,Oligonychus oryzae | Oligonychus oryzae (Hirst)
+TET0076,Oligonychus oryzae,Tetranychidae,West Bengal,1,1,12,Kalyani,1988-89;1990-91;1992-94;2020-21,Oligonychus oryzae | Oligonychus oryzae (Hirst)
 TET0079,Oligonychus pratensis,Tetranychidae,Karnataka,0,1,1,Bangalore,1990,Oligonychus pratensis (Banks)
 TET0081,Oligonychus sacchari,Tetranychidae,Tamil Nadu,0,1,3,Coimbatore,1996-98,Oligonychus sacchari (Hirst) | Oligonychus sacchari (McGregor)
+TET0081,Oligonychus sacchari,Tetranychidae,West Bengal,1,1,3,Kalyani,2020-21,Oligonychus sacchari | Oligonychus sacchari (Hirst)
 TET0084,Oligonychus thelytokus,Tetranychidae,Karnataka,0,0,2,Bangalore,1990;1996-97,O. thelytokus | Oligonychus thelytokus Guitterez
+TET0085,Oligonychus tylus,Tetranychidae,Kerala,0,1,2,Thrissur,2020-21,Oligonychus tylus | Oligonychus tylus Baker & Pritchard
 TET0087,Panonychus citri,Tetranychidae,Karnataka,0,1,1,Bangalore,1988-89,Panonychus citri (McGregor)
 TET0087,Panonychus citri,Tetranychidae,Uttar Pradesh,1,1,2,Varanasi,1987-88;1997-98,Panonychus citri | Panonychus citri (McGregor)
 TET0087,Panonychus citri,Tetranychidae,Uttarakhand,0,1,2,Varanasi,1987-88,Panonychus citri (McGregor)
 TET0087,Panonychus citri,Tetranychidae,West Bengal,1,1,8,Kalyani,1988-89;1990-91;1992-94,Panonychus citri | Panonychus citri (McGregor)
+TET0089,Panonychus ulmi,Tetranychidae,Himachal Pradesh,1,1,2,Ludhiana,2020-21,Panonychus ulmi
+TET0089,Panonychus ulmi,Tetranychidae,Punjab,0,1,1,Ludhiana,2020-21,Panonychus ulmi
 TET0089,Panonychus ulmi,Tetranychidae,Uttar Pradesh,1,1,2,Varanasi,1987-88;1997-98,Panonychus ulmi | Panonychus ulmi Koch
 TET0089,Panonychus ulmi,Tetranychidae,Uttarakhand,0,1,2,Varanasi,1987-88,Panonychus ulmi Koch
 TET0090,Petrobia (Petrobia) latens,Tetranychidae,Bihar,0,1,3,Kalyani;Pusa,1988-89;1996-97,Petrobia latens
-TET0090,Petrobia (Petrobia) latens,Tetranychidae,Rajasthan,0,1,4,Varanasi,1989,Petrobia latens
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Punjab,1,1,6,Ludhiana,2020-21,Petrobia latens (Muller)
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Rajasthan,0,1,8,Ludhiana;Varanasi,1989;2020-21,Petrobia latens | Petrobia latens (Muller)
 TET0090,Petrobia (Petrobia) latens,Tetranychidae,West Bengal,1,1,7,Kalyani,1988-89;1990-91;1997-98,P. latens | Petrobia (Petrobia) latens (Muller) | Petrobia latens
 TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Karnataka,1,1,3,Bangalore,1988;1988-89;1990,Petrobia harti (Ewing) | Petrobia hartii (Ewing) | Tetranychina harti (Ewing)
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Punjab,0,1,3,Ludhiana,2020-21,Petrobia harti (Ewing)
 TET0091,Petrobia (Tetranychina) harti,Tetranychidae,West Bengal,1,1,5,Kalyani,1988-89;1990-91;1997-98,P. harti | Petrobia (Tetranychina) hirti | Petrobia (Tetranychina) hirti (Ewing)
 TET0093,Schizotetranychus andropogoni,Tetranychidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Schizotetranychus andropogoni (Hirst)
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Gujarat,1,1,1,Navsari,2020-21,Schizotetranychus andropogoni
 TET0093,Schizotetranychus andropogoni,Tetranychidae,Punjab,1,1,10,Ludhiana,1992-94;1996-97,Schizotetranychus andropogoni
 TET0093,Schizotetranychus andropogoni,Tetranychidae,Tamil Nadu,1,1,3,Coimbatore,1990;1996-98,Schizotetranychus andropogoni (Hirst)
 TET0093,Schizotetranychus andropogoni,Tetranychidae,Uttar Pradesh,1,1,3,Varanasi,1987-88,Schizotetranychus andropogoni | Schizotetranychus andropogoni (Hirst)
 TET0093,Schizotetranychus andropogoni,Tetranychidae,West Bengal,1,1,4,Kalyani,1990-91;1992-94,Schizotetranychus andropogoni | Schizotetranychus andropogoni (Hirst) | Schizotetranychus andropogoni Gupta
-TET0096,Schizotetranychus baltazari,Tetranychidae,West Bengal,1,1,1,Bangalore,1990,Schizotetranychus baltazari Rimando
+TET0096,Schizotetranychus baltazari,Tetranychidae,Kerala,0,1,2,Thrissur,2020-21,Schizotetranychus baltazari Rimando
+TET0096,Schizotetranychus baltazari,Tetranychidae,West Bengal,1,1,22,Bangalore;Kalyani,1990;2020-21,Schizotetranychus baltazari | Schizotetranychus baltazari (Hirst) | Schizotetranychus baltazari Rimando
 TET0097,Schizotetranychus cajani,Tetranychidae,Karnataka,0,1,2,Bangalore,1988,Schizotetranychus cajani Gupta
 TET0097,Schizotetranychus cajani,Tetranychidae,Tamil Nadu,0,1,2,Coimbatore,1990;1990-91,Schizotetranychus cajani Gupta
-TET0097,Schizotetranychus cajani,Tetranychidae,West Bengal,1,1,3,Kalyani,1990-91;1992-94,Schizotetranychus cajani | Schizotetranychus cajani Gupta
+TET0097,Schizotetranychus cajani,Tetranychidae,West Bengal,1,1,4,Kalyani,1990-91;1992-94;2020-21,Schizotetranychus cajani | Schizotetranychus cajani Gupta
 TET0100,Schizotetranychus hindustanicus,Tetranychidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Schizotetranychus hindustanicus (Hirst)
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Punjab,0,0,5,Ludhiana,2020-21,Schizotetranychus krungthepensis Auger & Naing
 TET0117,Stylophoronychus lalii,Tetranychidae,Karnataka,0,1,1,Bangalore,1990-91,Stylophoronychus lalii Prasad
 TET0126,Tetranychus cinnabarinus,Tetranychidae,Bihar,0,0,3,Pusa,1990-91;1993;1996-97,T. cinnabarinus | Tetranychus cinnabarinus | Tetranychus cinnabarinus (Boisd.)
 TET0126,Tetranychus cinnabarinus,Tetranychidae,Chandigarh,0,0,3,Ludhiana,1992-94;1996-97;1997,Tetranychus cinnabarinus
@@ -313,27 +390,35 @@ TET0126,Tetranychus cinnabarinus,Tetranychidae,Tamil Nadu,0,0,12,Coimbatore,1988
 TET0126,Tetranychus cinnabarinus,Tetranychidae,Uttar Pradesh,0,0,38,Varanasi,1987-88;1990-91;1992-94;1996-97;1997-98,Tetranychus cinnabarinus | Tetranychus cinnabarinus (Boisd.)
 TET0126,Tetranychus cinnabarinus,Tetranychidae,West Bengal,0,0,36,Kalyani,1988-89;1990-91;1992-94;1996;1997-98,T. cinnabarinus | Tetranychus cinnabarinus | Tetranychus cinnabarinus (Boisd.)
 TET0127,Tetranychus fijiensis,Tetranychidae,Andhra Pradesh,0,1,1,Bangalore,1990-91,Tetranychus fijiensis Hirst
+TET0127,Tetranychus fijiensis,Tetranychidae,Gujarat,0,1,1,Navsari,2020-21,Tetranychus fijiensis
 TET0127,Tetranychus fijiensis,Tetranychidae,Karnataka,1,1,6,Bangalore,1988-89;1990;1992-94;1996-97,T. fijiensis | Tetranychus fijiensis | Tetranychus fijiensis Hirst
+TET0127,Tetranychus fijiensis,Tetranychidae,Kerala,1,1,1,Thrissur,2020-21,Tetranychus fijiensis Hirst
 TET0127,Tetranychus fijiensis,Tetranychidae,West Bengal,0,1,7,Kalyani,1988-89;1990-91,Tetranychus fijiensis | Tetranychus fijiensis Hirst
+TET0128,Tetranychus gloveri,Tetranychidae,Kerala,1,1,17,Thrissur,2020-21,Tetranychus okinawanus | Tetranychus okinawanus Ehara
+TET0133,Tetranychus lombardinii,Tetranychidae,Kerala,0,1,1,Thrissur,2020-21,Tetranychus lombardinii Baker & Pritchard
 TET0134,Tetranychus ludeni,Tetranychidae,Bihar,1,1,40,Pusa,1988;1990-91;1993;1996-97,T. ludeni | Tetranychus ludeni | Tetranychus ludeni Zacher
 TET0134,Tetranychus ludeni,Tetranychidae,Chandigarh,0,1,2,Ludhiana,1992-94;1996-97,Tetranychus ludeni
-TET0134,Tetranychus ludeni,Tetranychidae,Gujarat,1,1,2,Navsari,1990-91,Tetranychus ludeni Zacher
+TET0134,Tetranychus ludeni,Tetranychidae,Gujarat,1,1,3,Navsari,1990-91;2020-21,Tetranychus ludeni | Tetranychus ludeni Zacher
 TET0134,Tetranychus ludeni,Tetranychidae,Haryana,1,1,4,Hisar;Ludhiana,1990-91;1992-94;1996-97;1997,Tetranychus ludeni | Tetranychus ludeni Zacher
 TET0134,Tetranychus ludeni,Tetranychidae,Himachal Pradesh,0,1,1,Bangalore,1988,Tetranychus ludeni Zacher
 TET0134,Tetranychus ludeni,Tetranychidae,Karnataka,1,1,3,Bangalore,1990;1992-94;1996-97,T. ludeni | Tetranychus ludeni | Tetranychus ludeni Zacher
-TET0134,Tetranychus ludeni,Tetranychidae,Punjab,1,1,13,Ludhiana,1992-94;1996-97;1997,Tetranychus ludeni
+TET0134,Tetranychus ludeni,Tetranychidae,Kerala,1,1,1,Thrissur,2020-21,Tetranychus ludeni Zacher
+TET0134,Tetranychus ludeni,Tetranychidae,Punjab,1,1,14,Ludhiana,1992-94;1996-97;1997;2020-21,Tetranychus ludeni | Tetranychus ludeni Zacher
 TET0134,Tetranychus ludeni,Tetranychidae,Tamil Nadu,1,1,12,Coimbatore,1990;1990-91;1992-94;1996-98,Tetranychus ludeni | Tetranychus ludeni (Zacher) | Tetranychus ludeni Zacher
 TET0134,Tetranychus ludeni,Tetranychidae,Uttar Pradesh,1,1,38,Varanasi,1987-88;1990-91;1997-98,Tetranychus ludeni | Tetranychus ludeni Zacher
-TET0134,Tetranychus ludeni,Tetranychidae,West Bengal,1,1,6,Kalyani,1990-91;1992-94;1996;1997-98,T. ludeni | Tetranychus ludeni | Tetranychus ludeni Zacher
+TET0134,Tetranychus ludeni,Tetranychidae,West Bengal,1,1,34,Kalyani,1990-91;1992-94;1996;1997-98;2020-21,T. ludeni | Tetranychus ludeni | Tetranychus ludeni (Zacher) | Tetranychus ludeni Zacher
 TET0135,Tetranychus macfarlanei,Tetranychidae,Andhra Pradesh,1,1,5,Bangalore,1990-91,Tetranychus macfarlanei Baker & Pritchard
 TET0135,Tetranychus macfarlanei,Tetranychidae,Gujarat,1,1,6,Navsari,1988-89;1990-91,Tetranychus macfarlanei | Tetranychus macfarlanei (Baker & Pritchard)
 TET0135,Tetranychus macfarlanei,Tetranychidae,Karnataka,1,1,30,Bangalore,1990;1990-91;1992-94;1996-97;1997-98,T. macfarlanei | Tetranychus macfarlanei | Tetranychus macfarlanei Baker & Pritchard | Tetranychus macfarlanei Baker and Pritchard
-TET0135,Tetranychus macfarlanei,Tetranychidae,Kerala,0,1,1,Bangalore,1996-97,T. macfarlanei
+TET0135,Tetranychus macfarlanei,Tetranychidae,Kerala,0,1,3,Bangalore;Thrissur,1996-97;2020-21,T. macfarlanei | Tetranychus macfarlanei Baker & Pritchard
+TET0135,Tetranychus macfarlanei,Tetranychidae,Punjab,0,1,5,Ludhiana,2020-21,Tetranychus macfarlanei Baker & Pritchard
 TET0135,Tetranychus macfarlanei,Tetranychidae,Uttar Pradesh,1,1,18,Varanasi,1987-88;1992-94;1996-97;1997-98,Tetranychus macfarlanei | Tetranychus macfarlanei Baker & Pritchard
+TET0136,Tetranychus marianae,Tetranychidae,Kerala,0,1,1,Thrissur,2020-21,Tetranychus marianae McGregor
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Andhra Pradesh,0,0,1,Bangalore,1990-91,Tetranychus neocaledonicus Andre
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Bihar,0,0,4,Pusa,1988;1990-91,Tetranychus neocaledonicus | Tetranychus neocaledonicus Andre
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Haryana,0,0,2,Hisar,1990-91,Tetranychus neocaledonicus Andre
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Karnataka,0,0,8,Bangalore,1988-89;1990-91;1996-97;1997-98,T. neocaledonicus | Tetranychus neocaledonicus Andre
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Kerala,0,0,1,Thrissur,2020-21,Tetranychus neocaledonicus Andre
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Punjab,0,0,1,Ludhiana,1990-91,Tetranychus neocaledonicus Andre
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Tamil Nadu,0,0,8,Coimbatore,1988;1996-98,Tetranychus neocaledonicus | Tetranychus neocaledonicus (Andre)
 TET0138,Tetranychus neocaledonicus,Tetranychidae,Uttar Pradesh,0,0,25,Varanasi,1987-88;1990-91;1997-98,Tetranychus neocaledonicus | Tetranychus neocaledonicus Andre
@@ -341,7 +426,16 @@ TET0138,Tetranychus neocaledonicus,Tetranychidae,West Bengal,0,0,27,Bangalore;Ka
 TET0139,Tetranychus papayae,Tetranychidae,Bihar,0,0,1,Pusa,1990-91,Tetranychus papayae Nassar & Ghai
 TET0139,Tetranychus papayae,Tetranychidae,Uttar Pradesh,0,0,2,Varanasi,1987-88;1997-98,Tetranychus papayae | Tetranychus papayae Nassar & Ghai
 TET0143,Tetranychus sayedi,Tetranychidae,Karnataka,0,1,2,Bangalore,1988-89;1990,Tetranychus sayedi (Baker and Pritchard) | Tetranychus sayedi Baker and Pritchard
+TET0145,Tetranychus truncatus,Tetranychidae,Assam,0,0,2,Jorhat,2020-21,Tetranychus truncatus
+TET0145,Tetranychus truncatus,Tetranychidae,Kerala,0,0,8,Thrissur,2020-21,Tetranychus truncatus | Tetranychus truncatus Ehara
 TET0148,Tetranychus urticae,Tetranychidae,Andhra Pradesh,0,0,1,Bangalore,1990-91,Tetranychus urticae Koch
+TET0148,Tetranychus urticae,Tetranychidae,Assam,0,0,12,Jorhat,2020-21,Tetranychus urticae
+TET0148,Tetranychus urticae,Tetranychidae,Bihar,0,0,51,Kalyani,2020-21,Tetranychus urticae (Koch)
+TET0148,Tetranychus urticae,Tetranychidae,Gujarat,0,0,18,Navsari,2020-21,Tetranychus urticae
+TET0148,Tetranychus urticae,Tetranychidae,Himachal Pradesh,0,0,1,Ludhiana,2020-21,Tetranychus urticae Koch
 TET0148,Tetranychus urticae,Tetranychidae,Karnataka,0,0,28,Bangalore,1990;1992-94;1996-97;1997-98,T. urticae | Tetranychus urticae | Tetranychus urticae Koch
-TET0148,Tetranychus urticae,Tetranychidae,Punjab,0,0,10,Ludhiana,1992-94;1996-97,Tetranychus urticae
+TET0148,Tetranychus urticae,Tetranychidae,Kerala,0,0,9,Thrissur,2020-21,Tetranychus urticae Koch
+TET0148,Tetranychus urticae,Tetranychidae,Punjab,0,0,21,Ludhiana,1992-94;1996-97;2020-21,Tetranychus urticae | Tetranychus urticae Koch
 TET0148,Tetranychus urticae,Tetranychidae,Uttar Pradesh,0,0,7,Varanasi,1987-88;1997-98,Tetranychus urticae | Tetranychus urticae Koch
+TET0148,Tetranychus urticae,Tetranychidae,West Bengal,0,0,140,Kalyani,2020-21,Tetranychus urticae | Tetranychus urticae (Koch) | Tetranychus urticae (Koch.) | Tetranychus urticae Schizotetranychus celarius
+TUC0004,Tuckerella kumaonensis,Tuckerellidae,Gujarat,0,1,1,Navsari,2020-21,Tuckerella kumaonensis

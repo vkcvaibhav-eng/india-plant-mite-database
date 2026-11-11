@@ -101,7 +101,14 @@ for st, places in {
             for w in words:
                 PLACE_STATE[w] = st
     # multi-word names listed without pipes above
-PLACE_STATE.update({"Fatehgarh Sahib": "Punjab", "Dehra Baba Nanak": "Punjab", "Dera Baba Nanak": "Punjab"})
+PLACE_STATE.update({
+    **{w: "Punjab" for w in ("Kabulshah Khuban", "Fazilka", "Faridkot", "Batala", "Sangrur", "Abohar", "Jalandhar", "Ballowal Saunkhri", "Anandpur Sahib", "Punjab")},
+    **{w: "Rajasthan" for w in ("Durgapura", "Neemrana", "Bikaner", "Dudu", "Dausa", "Tonk")},
+    **{w: "Himachal Pradesh" for w in ("Mashobra", "Naggar", "Himachal Pradesh")},
+    **{w: "Assam" for w in ("Jorhat", "Sibsagar", "Nagaon", "Karbi-Anglong", "Tinsukia", "Golaghat", "Guwahati", "Kahikuchi")},
+    **{w: "Kerala" for w in ("Vellanikkara", "Madakkathara", "Elanadu", "Aryampadam", "Parappur", "Pattancherry", "Nenmara", "Villadam", "Mannuthy", "Puthukaad", "Odakkali", "Cheroor", "Malapuzha", "Muvattupuzha", "Chirakkakkode", "Vellayani", "Chelakkara", "Vyttila", "Wadakkanchery", "Manalur", "Mundathikkode", "Pazhayannur")},
+    **{w: "West Bengal" for w in ("Chandamari", "Madanpur", "Kathaltala", "Gayeshpur", "Kuntighat", "Birpara", "Akna", "Sarati", "Mondouri", "Jirat", "Behula", "Bolaghar", "Nakashipara", "Bethuadahari", "Baharampur", "Murshidabad", "Malda", "Burdwan", "Hooghly", "Nadia", "Bankura", "Simurali", "Ranaghat", "Haringhata", "Santipur", "Chakdha", "Chakdhah", "Natunpally", "Muratipur", "Ghoshpara", "Badkulla", "Iswaripur", "Barohat", "Charsarati", "Tarenipur", "Amdanga", "Habra", "Barasat", "Bira", "Awalsiddhi", "Baruipara", "Birpar", "Jalpaiguri", "Cooch Behar", "New Jalpaiguri", "Siliguri", "Nimpith", "Susnia", "Susunia", "Dhaldanga", "Sunukpahari", "Bisnupur", "Joynagar", "Kalimpong")},
+    **{w: "Bihar" for w in ("Muzaffarpur", "Sitamarhi", "Motihari", "Darbhanga", "Madhuban", "Modhubani", "Misrolipara", "Motihary", "Pipra", "Srikrishna priya")},"Fatehgarh Sahib": "Punjab", "Dehra Baba Nanak": "Punjab", "Dera Baba Nanak": "Punjab"})
 for bad in ("Fatehgarh", "Sahib", "Dehra", "Baba", "Nanak"):
     PLACE_STATE.pop(bad, None)
 PLACE_STATE.update({"Almora": "Uttarakhand", "Nainital": "Uttarakhand", "Shahjahanpur": "Uttar Pradesh", "Sitapur": "Uttar Pradesh", "Rae Bareli": "Uttar Pradesh",
@@ -173,7 +180,7 @@ def place_state(place, default):
     if p in AMBIGUOUS_PLACES: return "", "ambiguous_place"
     return default, "centre_state"
 
-MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04"}
+MULTI_STATE = {"B04", "B05", "B06", "B07", "B08", "C05", "C08", "E04", "F01", "F03", "F04", "G01", "G04", "H05"}
 obs, unresolved = [], collections.Counter()
 
 def add(block_id, mite, hosts, places, status, note, pairing, code=""):
