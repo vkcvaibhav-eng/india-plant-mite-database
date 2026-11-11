@@ -1,0 +1,848 @@
+# Host dictionary for the AICRP layers.
+#
+# Line format:   key; key; key => accepted taxon | plant family | standard common name | m
+#   keys        lower-case host strings as printed (variants, local names, misspellings), ';' separated
+#   key@BLOCK   the same string but only for one report block (for names that mean different plants in different places)
+#   taxon       a binomial, 'Genus sp.' (genus only), a family name (family only), '[group] label', '[substrate] label',
+#               or '?' (cannot be decided from the string; falls back to the printed scientific name if there is one)
+#   m           optional, marks a medium-confidence mapping (local name or context-based); blank means high confidence
+# Rows that print both a common and a scientific name use this dictionary first. If the dictionary taxon is only a genus or a group,
+# the printed scientific name is used to refine it when it falls in the same genus or family.
+# Spelling variants of genus names are handled separately in [genus spellings] at the end.
+#
+# ---------------------------------------------------------------- Solanaceae
+brinjal; egg plant; eggplant; solanum melongena => Solanum melongena | Solanaceae | Brinjal
+chilli; chillies; chilly; chilii; mirch; mirach; green chillies; capsicum annuum; capsicum annum; capsicum frutescene => Capsicum annuum | Solanaceae | Chilli
+capsicum => Capsicum sp. | Solanaceae | Capsicum
+capsicum frutescens => Capsicum frutescens | Solanaceae | Chilli
+king chilli => Capsicum chinense | Solanaceae | King chilli
+tomato; lycopersicon esculentum; lycopersicum esculentum; solanum lycopersicum; licopersicon esculentum => Solanum lycopersicum | Solanaceae | Tomato
+potato; potatp; solanum tuberosum => Solanum tuberosum | Solanaceae | Potato
+tobacco => Nicotiana tabacum | Solanaceae | Tobacco
+solanum nigrum => Solanum nigrum | Solanaceae | Black nightshade
+solanum surattense => Solanum virginianum | Solanaceae | Yellow-berried nightshade
+solanum sp => Solanum sp. | Solanaceae | Solanum
+datura; dhatura; dhutra; datura stramonium => Datura sp. | Solanaceae | Datura
+withania somnifera; ashwagandha => Withania somnifera | Solanaceae | Ashwagandha
+petunia sp => Petunia sp. | Solanaceae | Petunia
+night queen => Cestrum nocturnum | Solanaceae | Night queen | m
+wild solanaceous plant => Solanaceae | Solanaceae | Wild solanaceous plant
+# ---------------------------------------------------------------- Malvaceae
+bhindi; bhendi; okra; ladies finger; lady's finger; ladies fingers; abelmoschus esculentus; vendi; vandi; ladies; finger => Abelmoschus esculentus | Malvaceae | Okra
+wild bhendi => Malvaceae | Malvaceae | Wild bhendi (malvaceous) | m
+cotton; gossypium sp => Gossypium sp. | Malvaceae | Cotton
+gossypium arboreum => Gossypium arboreum | Malvaceae | Tree cotton
+jute; corchorus olitorius; corchorus capsularis; corchorus olitorius & c. capsularies (jute); wild corchorus => Corchorus sp. | Malvaceae | Jute
+hibiscus; hibiscu; hibiscus sp => Hibiscus sp. | Malvaceae | Hibiscus
+china rose; chinarose; china shoe; hibiscus rosa-sinensis; hibiscus rosasinensis; hibiscus rosa chinensia (chinarose); arahul; rosa sinensis; rosa-sinensis => Hibiscus rosa-sinensis | Malvaceae | China rose
+hibiscus micrantha => Hibiscus micranthus | Malvaceae | Hibiscus
+landlotus; lotus (upland) => Hibiscus mutabilis | Malvaceae | Land lotus (sthal padma) | m
+sida sp => Sida sp. | Malvaceae | Sida
+malvaceous weed => Malvaceae | Malvaceae | Malvaceous weed
+thespesia; thespesia sp => Thespesia sp. | Malvaceae | Thespesia
+abroma augusta => Abroma augusta | Malvaceae | Devil's cotton
+cacoa => Theobroma cacao | Malvaceae | Cacao
+sterculia urens => Sterculia urens | Malvaceae | Gum karaya
+stereulia diversifolia => Sterculia diversifolia | Malvaceae | Sterculia
+phalsa; grewia asiatica => Grewia asiatica | Malvaceae | Phalsa
+grewia hirsuta; gulshakari => Grewia hirsuta | Malvaceae | Grewia
+grewia orbiculata => Grewia orbiculata | Malvaceae | Grewia
+althaea rosea; hollyhock => Alcea rosea | Malvaceae | Hollyhock
+# ---------------------------------------------------------------- Rosaceae
+rose; rosa indica; rosa sp; ros => Rosa sp. | Rosaceae | Rose
+apple; malus sylvestris; pyrus malus; malus domestica => Malus domestica | Rosaceae | Apple
+wild apple; crab apple => Malus sp. | Rosaceae | Wild apple
+pear; pyrus communis; naspati => Pyrus communis | Rosaceae | Pear
+peach; prunus persica; nectarine; aru@C11 => Prunus persica | Rosaceae | Peach
+wild peach => Prunus sp. | Rosaceae | Wild peach
+plum; prunus domestica; aloocha; prune => Prunus domestica | Rosaceae | Plum
+apricot; khurmani; prunus armeniaca => Prunus armeniaca | Rosaceae | Apricot
+cherry; wild cherry => Prunus sp. | Rosaceae | Cherry
+cherry laurel => Prunus laurocerasus | Rosaceae | Cherry laurel
+almond; badam; prunus dulcis => Prunus dulcis | Rosaceae | Almond | m
+strawberry => Fragaria x ananassa | Rosaceae | Strawberry
+loquat; eriobotrya japonica => Eriobotrya japonica | Rosaceae | Loquat
+raspberry; black berry => Rubus sp. | Rosaceae | Raspberry/blackberry
+# ---------------------------------------------------------------- Rutaceae
+citrus; citrus sp; citrus spp; citrus spp.; nimboo; nimbu; lombu; khatti; mousumi citrus; mosami citrus; mosami; mosambi; mausami; mousumi => Citrus sp. | Rutaceae | Citrus
+lemon; citrus lemon; citrus limon; lemon citrus; baramasi; barmasi => Citrus limon | Rutaceae | Lemon
+gandharaj lemon => Citrus limon | Rutaceae | Gandharaj lemon | m
+lime; citrus aurantifolia; citrus aurantiifolia; kaghzi nimboo => Citrus aurantiifolia | Rutaceae | Lime
+sweet lemon => Citrus limetta | Rutaceae | Sweet lime | m
+galgal; hill lemon => Citrus pseudolimon | Rutaceae | Hill lemon | m
+orange; santra; sangtra => Citrus sp. | Rutaceae | Orange | m
+malta; citrus sinensis => Citrus sinensis | Rutaceae | Sweet orange
+kinnow; mandarin; citrus reticulata; citrus reticulata var. musambi => Citrus reticulata | Rutaceae | Mandarin
+pomelo; pummelo; pummelo; pamela; pamelo; chakotra; citrus grandis; citrus maxima => Citrus maxima | Rutaceae | Pomelo
+citrus jumberi => Citrus jambhiri | Rutaceae | Rough lemon
+citrus paradisi => Citrus paradisi | Rutaceae | Grapefruit
+citrus medica => Citrus medica | Rutaceae | Citron
+murraya exotica => Murraya paniculata | Rutaceae | Orange jasmine
+kamini => Murraya paniculata | Rutaceae | Orange jasmine | m
+curry leaf; karipata; murraya koenigi; murraya koenigii; bergera koenigii; karipata (murraya koenigi); kadhi limbdi => Murraya koenigii | Rutaceae | Curry leaf
+bael; aegle marmelos => Aegle marmelos | Rutaceae | Bael
+bel => Aegle marmelos | Rutaceae | Bael | m
+bel@H01 => ? | | Bel (Aegle marmelos or Jasminum sambac)
+beli flower; bel flower; belful => Jasminum sambac | Oleaceae | Arabian jasmine (beli) | m
+wood apple; feronia elephantum => Limonia acidissima | Rutaceae | Wood apple
+clausena anisata => Clausena anisata | Rutaceae | Clausena
+# ---------------------------------------------------------------- Anacardiaceae
+mango; aam; mangifera indica; mangifera indica l; mango shoot => Mangifera indica | Anacardiaceae | Mango
+cashew; cashewnut; anacardium occidentale => Anacardium occidentale | Anacardiaceae | Cashew
+# ---------------------------------------------------------------- Myrtaceae
+guava; psidium guajava => Psidium guajava | Myrtaceae | Guava
+jamun; syzygium cumini; syzigium cumini; syzygium cumunii; eujenia jumbolana; eugenia jambolana => Syzygium cumini | Myrtaceae | Jamun
+safed jamun; jamrul => Syzygium sp. | Myrtaceae | Rose apple / water apple | m
+eucalyptus; eucalyptus sp; eucaliptus => Eucalyptus sp. | Myrtaceae | Eucalyptus
+eucalyptus tereticornis => Eucalyptus tereticornis | Myrtaceae | Eucalyptus
+eugenia sp => Eugenia sp. | Myrtaceae | Eugenia
+clove => Syzygium aromaticum | Myrtaceae | Clove
+# ---------------------------------------------------------------- Moraceae
+mulberry; mulberry plant; sahtoot; morus alba => Morus alba | Moraceae | Mulberry
+fig; anjir; anjeer; fig plant; ficus carica => Ficus carica | Moraceae | Fig
+jackfruit; jack fruit; jack; kathal; artocarpus heterophyllus; artocarpus integrifolia => Artocarpus heterophyllus | Moraceae | Jackfruit
+monkey jack; artocarpus lakoocha => Artocarpus lacucha | Moraceae | Monkey jack
+artocarpus incisor => Artocarpus sp. | Moraceae | Breadfruit
+ficus; ficus sp; pakar; joge dumur => Ficus sp. | Moraceae | Ficus
+ficus benghalensis; ficus bengalensis; banyan tree; baniyan tree; bohar; boher => Ficus benghalensis | Moraceae | Banyan
+ficus religiosa; peepal => Ficus religiosa | Moraceae | Peepal
+ficus glomerata; gullar; gular; gullar => Ficus racemosa | Moraceae | Cluster fig
+ficus infectoria => Ficus virens | Moraceae | Pilkhan
+# ---------------------------------------------------------------- Cucurbitaceae
+pumpkin; cucurbita sp => Cucurbita sp. | Cucurbitaceae | Pumpkin
+cucurbita moschata => Cucurbita moschata | Cucurbitaceae | Pumpkin
+cucurbita pepo => Cucurbita pepo | Cucurbitaceae | Squash
+squash => Cucurbita sp. | Cucurbitaceae | Squash
+cucumber; kheera; cucumis sativus => Cucumis sativus | Cucurbitaceae | Cucumber
+cucumis anguria => Cucumis anguria | Cucurbitaceae | West Indian gherkin
+gerkins => Cucumis sp. | Cucurbitaceae | Gherkin
+cucurbits; cucurbit; cucurbit sp => [group] cucurbits | Cucurbitaceae | Cucurbits (unspecified)
+bitter gourd; bittergourd; bitter guard; karela; momordica charantia; bitter => Momordica charantia | Cucurbitaceae | Bitter gourd
+pointed gourd; pointed; parwal; trichosanthes dioica => Trichosanthes dioica | Cucurbitaceae | Pointed gourd
+little gourd => Coccinia grandis | Cucurbitaceae | Ivy gourd | m
+sponge gourd; luffa cylindrica; luffa aegyptiaca => Luffa aegyptiaca | Cucurbitaceae | Sponge gourd
+ridge gourd; ridgegourd; ridge; luffa acutangula; ribbed gourd => Luffa acutangula | Cucurbitaceae | Ridge gourd
+tori@B09; tori@B10; tori@C11 => Luffa acutangula | Cucurbitaceae | Ridge gourd | m
+snake gourd; snakegourd; trichosanthes cucumerina => Trichosanthes cucumerina | Cucurbitaceae | Snake gourd
+bottle gourd; bottlegourd; ghia lauki; lauki; lagenaria siceraria; lagenaria vulgaris; lagenaria cineraria; bottle => Lagenaria siceraria | Cucurbitaceae | Bottle gourd
+ash gourd; ash => Benincasa hispida | Cucurbitaceae | Ash gourd
+chapan kadu; chappal kadu => Cucurbitaceae | Cucurbitaceae | Chapan kaddu (gourd) | m
+gourd => Cucurbitaceae | Cucurbitaceae | Gourd (unspecified)
+water melon; watermelon; tarbuz; citrullus vulgaris; citrullus lanatus => Citrullus lanatus | Cucurbitaceae | Watermelon
+muskmelon; kharbooza; cucumis melo; kakeri; long melon; citrullus melo utilissimus; citrus melo utilissimus => Cucumis melo | Cucurbitaceae | Melon
+sechium edule => Sechium edule | Cucurbitaceae | Chayote
+# ---------------------------------------------------------------- Fabaceae
+cowpea; cow pea; lobia; vigna sinensis; vigna unguiculata => Vigna unguiculata | Fabaceae | Cowpea
+green gram; mung; mung bean; moong; moongi; summer mung; phaseolus aureus; moong dal; vigna radiata => Vigna radiata | Fabaceae | Green gram
+black gram; blackgram; urd; vigna mungo; phaseolus mungo => Vigna mungo | Fabaceae | Black gram
+redgram; red gram; arhar; tur; pigeonpea; pigeon pea; cajanus cajan; cajanus cajan (red gram) => Cajanus cajan | Fabaceae | Pigeonpea
+gram => Cicer arietinum | Fabaceae | Chickpea
+bean; beans => Fabaceae | Fabaceae | Beans (unspecified)
+french bean; frenchbean; rajmah; rajma; bean, rajma; phaseolus vulgaris; kidney bean; green bean; pole bean => Phaseolus vulgaris | Fabaceae | French bean
+phaseolus lunatus => Phaseolus lunatus | Fabaceae | Lima bean
+broad bean; vicia faba => Vicia faba | Fabaceae | Broad bean
+dolichos bean; dolichos lablab; dolichos; lablab; lab lab; lab-lab; lablab purpureus; hyacinth bean; avare; sem; indian bean; field bean => Lablab purpureus | Fabaceae | Lablab bean
+soybean; soyabean; glycine max => Glycine max | Fabaceae | Soybean
+groundnut; groundunt; arachis hypogaea; stored groundnut => Arachis hypogaea | Fabaceae | Groundnut
+arachis pintoi (peanut) => Arachis pintoi | Fabaceae | Pinto peanut
+horsegram => Macrotyloma uniflorum | Fabaceae | Horse gram
+pea; pisum sativum => Pisum sativum | Fabaceae | Pea
+cluster bean; gowar; gawar; cyamopsis tetragonoloba => Cyamopsis tetragonoloba | Fabaceae | Cluster bean
+berseem => Trifolium alexandrinum | Fabaceae | Berseem
+medicago sativa => Medicago sativa | Fabaceae | Lucerne
+sunhemp => Crotalaria juncea | Fabaceae | Sunhemp
+sesbania => Sesbania sp. | Fabaceae | Sesbania
+tephrosia sp => Tephrosia sp. | Fabaceae | Tephrosia
+clitoria; clitoria sp => Clitoria sp. | Fabaceae | Clitoria
+calopogonium => Calopogonium sp. | Fabaceae | Calopogonium
+mucuna; kevanchh => Mucuna sp. | Fabaceae | Velvet bean
+pongamia pinnata; pongammia pinnata; pungam => Pongamia pinnata | Fabaceae | Karanj
+dalbergia sissoo; sissoo; sishum; sisu; tahli => Dalbergia sissoo | Fabaceae | Shisham
+butea monosperma => Butea monosperma | Fabaceae | Flame of the forest
+erythrina indica => Erythrina indica | Fabaceae | Coral tree
+cassia fistula; amaltas => Cassia fistula | Fabaceae | Golden shower
+cassia; cassia sp; casia => Cassia sp. | Fabaceae | Cassia
+cassia tora; chakavand => Cassia tora | Fabaceae | Sickle senna
+cassia sofera => Cassia sophera | Fabaceae | Cassia
+bauhinia; bauhinia sp; kanchan => Bauhinia sp. | Fabaceae | Bauhinia
+bauhinia variegata; bahunia variegata; kachnar; kanchnar; kachanar => Bauhinia variegata | Fabaceae | Kachnar
+bauhinia purpuria; bouhenia purpuria => Bauhinia purpurea | Fabaceae | Bauhinia
+albizia lebbeck; sirish; siras; saras tree; siras tree; siris tree; saras => Albizia lebbeck | Fabaceae | Siris
+acacia; acacia sp => Acacia sp. | Fabaceae | Acacia
+acacia auriculiformis => Acacia auriculiformis | Fabaceae | Acacia
+pithacolobium dulse => Pithecellobium dulce | Fabaceae | Manila tamarind
+gliricidia; glyricidia orientalis => Gliricidia sp. | Fabaceae | Gliricidia
+krishnachura => Delonix regia | Fabaceae | Gulmohar
+radhachura => Peltophorum pterocarpum | Fabaceae | Copper pod
+ashok; ashoke tree; ashoka tree; saraca asoca => Saraca asoca | Fabaceae | Ashoka | m
+honne => Pterocarpus marsupium | Fabaceae | Indian kino | m
+# ---------------------------------------------------------------- Poaceae
+rice; paddy; oryza sativa; paddy stubbles; stored rice => Oryza sativa | Poaceae | Rice
+sugarcane; sugercane; sugar cane; saccharum officinarum; saccharum officinerum => Saccharum officinarum | Poaceae | Sugarcane
+wild sugarcane => Saccharum sp. | Poaceae | Wild sugarcane
+maize; zea mays => Zea mays | Poaceae | Maize
+sorghum; sorghum vulgare; jowar => Sorghum bicolor | Poaceae | Sorghum
+bajra; bajara; bajra chura => Pennisetum glaucum | Poaceae | Pearl millet
+wheat; triticum aestivum; stored wheat; stored wheat (nahan, h.p.); wheat atta; wheat flour; wheat dalia; rotten wheat; wheat flour of grinding mill => Triticum aestivum | Poaceae | Wheat
+barley; hordeum vulgare; hordium vulgre; hordium vulgre (barley) => Hordeum vulgare | Poaceae | Barley
+small millet => Poaceae | Poaceae | Small millets
+fodder oats => Avena sativa | Poaceae | Oats
+bamboo; bambusa sp => Bambusa sp. | Poaceae | Bamboo
+bambusa tulda => Bambusa tulda | Poaceae | Bamboo
+cynodon dactylon => Cynodon dactylon | Poaceae | Bermuda grass
+grass; grasses; lal ghas; dashrath grass => [group] grasses | Poaceae | Grasses (unspecified)
+grass (chrysopogon) => Chrysopogon sp. | Poaceae | Grass
+pannicum sp => Panicum sp. | Poaceae | Panicum
+setaria sp => Setaria sp. | Poaceae | Setaria
+eleusine indica => Eleusine indica | Poaceae | Goose grass
+euochloa reptans => Urochloa reptans | Poaceae | Creeping signal grass
+paragrass => Urochloa mutica | Poaceae | Para grass
+johnson grass; johnsongrass; jhonsongrass => Sorghum halepense | Poaceae | Johnson grass
+pionir grass => [group] grasses | Poaceae | Grass
+lemon grass => Cymbopogon citratus | Poaceae | Lemon grass
+cymbopogon martini => Cymbopogon martinii | Poaceae | Palmarosa
+# ---------------------------------------------------------------- Arecaceae, Musaceae and other monocots
+coconut; cocos nucifera; cocoos nucifera (coconut); coconut palm; coconut fronds; dry coconut; coconut powder => Cocos nucifera | Arecaceae | Coconut
+date palm; datepalm; date; phoenix dactylifera; date palm fruits; phoenix sp => Phoenix dactylifera | Arecaceae | Date palm
+arecanut; areca; areca catechu; areca palm => Areca catechu | Arecaceae | Arecanut
+oil palm; oilpalm => Elaeis guineensis | Arecaceae | Oil palm
+palm; red palm; ornamental palm; fanpalm; fan palm => Arecaceae | Arecaceae | Palm (unspecified)
+banana; musa sp; musa sapientum => Musa sp. | Musaceae | Banana
+pineapple; pine apple; ananas comosus => Ananas comosus | Bromeliaceae | Pineapple
+garlic => Allium sativum | Amaryllidaceae | Garlic
+ginger => Zingiber officinale | Zingiberaceae | Ginger
+turmeric; termeric => Curcuma longa | Zingiberaceae | Turmeric
+colocasia => Colocasia sp. | Araceae | Colocasia
+alocasia => Alocasia sp. | Araceae | Alocasia
+dieffenbachia sp => Dieffenbachia sp. | Araceae | Dieffenbachia
+arum; stored arum => Araceae | Araceae | Arum / colocasia (unspecified) | m
+gladiolus; gradiolus; gladiolus bulb => Gladiolus sp. | Iridaceae | Gladiolus
+tuberose; tube rose => Agave amica | Asparagaceae | Tuberose
+tiger lily => Lilium sp. | Liliaceae | Tiger lily
+orchid; arid orchid; orchid (epiphytic) => Orchidaceae | Orchidaceae | Orchid
+dendrobium sp => Dendrobium sp. | Orchidaceae | Dendrobium
+phalaenopsis sp => Phalaenopsis sp. | Orchidaceae | Phalaenopsis
+dracaena sp => Dracaena sp. | Asparagaceae | Dracaena
+# ---------------------------------------------------------------- Euphorbiaceae and Phyllanthaceae
+castor; ricinus communis; reri => Ricinus communis | Euphorbiaceae | Castor
+cassava; tapioca; manihot esculenta; manihot utilissima => Manihot esculenta | Euphorbiaceae | Cassava
+jatropha; jetropha; jatropha sp => Jatropha sp. | Euphorbiaceae | Jatropha
+croton; crotons; croton sparsiflorus => Euphorbiaceae | Euphorbiaceae | Croton (unspecified) | m
+euphorbia; euphorbia sp => Euphorbia sp. | Euphorbiaceae | Euphorbia
+euphorbiaceae plant => Euphorbiaceae | Euphorbiaceae | Euphorbiaceae (unspecified)
+acalypha; acalypha wilkesiana => Acalypha sp. | Euphorbiaceae | Acalypha
+mallotus philippinensis => Mallotus philippinensis | Euphorbiaceae | Kamala tree
+amla; emblica officinalis; phyllanthus emblica => Phyllanthus emblica | Phyllanthaceae | Amla
+phyllanthus sp => Phyllanthus sp. | Phyllanthaceae | Phyllanthus
+kirganelia reticulata => Phyllanthus reticulatus | Phyllanthaceae | Phyllanthus
+bridelia retusa => Bridelia retusa | Phyllanthaceae | Bridelia
+# ---------------------------------------------------------------- Lamiaceae, Verbenaceae, Oleaceae, Apocynaceae and other ornamentals
+tulsi; ocimum sanctum; ocimum tenuiflorum; tulsi (ocimumtenuiflorum) => Ocimum tenuiflorum | Lamiaceae | Tulsi
+basil; ocimum basilicum => Ocimum basilicum | Lamiaceae | Basil
+mint; mentha; mentha cardinalis => Mentha sp. | Lamiaceae | Mint
+mentha piperita; peppermint => Mentha x piperita | Lamiaceae | Peppermint
+leucas aspera; leucas sp => Leucas sp. | Lamiaceae | Leucas
+coleus; coleus sp => Coleus sp. | Lamiaceae | Coleus
+salvia => Salvia sp. | Lamiaceae | Salvia
+oregano => Origanum vulgare | Lamiaceae | Oregano
+vitex negundo => Vitex negundo | Lamiaceae | Chaste tree
+tectona grandis; teak; segun => Tectona grandis | Lamiaceae | Teak
+clerodendron serratum; bharangi => Clerodendrum serratum | Lamiaceae | Clerodendrum
+lantana; lantana camara; lantana camera => Lantana camara | Verbenaceae | Lantana
+duranta plumieri; duranta plumeria; hedge => Duranta plumieri | Verbenaceae | Duranta | m
+golden privet => Ligustrum sp. | Oleaceae | Golden privet
+jasmine; jasmine flower; creeper jasmine; jasminum sp => Jasminum sp. | Oleaceae | Jasmine
+jasminum sambac => Jasminum sambac | Oleaceae | Arabian jasmine
+jasminum auriculatum => Jasminum auriculatum | Oleaceae | Jasmine
+jasminum grandiflorum => Jasminum grandiflorum | Oleaceae | Spanish jasmine
+jasminum pubescens => Jasminum pubescens | Oleaceae | Jasmine
+jasminum multiflorum => Jasminum multiflorum | Oleaceae | Star jasmine
+shiuli; shuili; sefali; shefali; seuli; shiuli flower; shuili flower; shefali flower; nyctanthes; nyctanthus sp; nyctanthes arbortristis; nyctanthes arbor-tristis; parijath; parijat; seuliflower; seuliflower => Nyctanthes arbor-tristis | Oleaceae | Night jasmine (shiuli)
+olea dioica => Olea dioica | Oleaceae | Olea
+olive => Olea europaea | Oleaceae | Olive
+nerium; nerium sp; nerium oleander; nerium odorum; nerium indicum; kaner; kaner bhed; karabi; karabi flower; kerabi => Nerium oleander | Apocynaceae | Oleander
+yellow kaner => Cascabela thevetia | Apocynaceae | Yellow oleander | m
+adenium; adenium sp => Adenium sp. | Apocynaceae | Adenium
+catharanthus roseus; catharanthes roseus; nayantara; sadafull => Catharanthus roseus | Apocynaceae | Periwinkle (nayantara)
+tagor; tagar flower; tragor; tagro; tagro full; chandni; crepe jasmine; crape jasmine; tabernaemontana; tabernaemontana coronaria => Tabernaemontana divaricata | Apocynaceae | Crape jasmine (tagar) | m
+plumeria; plumeria acutifolia; plumeria aeculifolia => Plumeria sp. | Apocynaceae | Plumeria
+holarrhena antidysenterica => Holarrhena antidysenterica | Apocynaceae | Kurchi
+calotropis; calotropis sp; ak; calotropis gigantea; calotropis gigantia => Calotropis sp. | Apocynaceae | Calotropis
+calotropis procera => Calotropis procera | Apocynaceae | Calotropis
+pergularia daemia; pergularia sp => Pergularia daemia | Apocynaceae | Pergularia
+leptadenia reticulata => Leptadenia reticulata | Apocynaceae | Jivanti
+ichnocarpus sp => Ichnocarpus sp. | Apocynaceae | Ichnocarpus
+rauvolfia sp; gandhraja => Rauvolfia sp. | Apocynaceae | Rauvolfia
+rauvolfia serpentina; sarpagandha => Rauvolfia serpentina | Apocynaceae | Sarpagandha
+kolkiful => Allamanda cathartica | Apocynaceae | Allamanda | m
+mussandra; mussande; massende => Mussaenda philippica | Rubiaceae | Mussaenda
+ixora; ixora sp => Ixora sp. | Rubiaceae | Ixora
+coffee => Coffea sp. | Rubiaceae | Coffee
+canthium sp => Canthium sp. | Rubiaceae | Canthium
+morinda tinctoria => Morinda tinctoria | Rubiaceae | Indian mulberry
+gordenia florida => Gardenia sp. | Rubiaceae | Gardenia
+anthocephalus kadamba; kadam; kadamful; kadam. => Anthocephalus cadamba | Rubiaceae | Kadam
+bougainvillea; bugainvillea; bougainillea; bouganvelliea; bogainvillea; bugainvillea flower; bugainvillea (white); bougainvillea sp; bugainvillea (white flower) => Bougainvillea sp. | Nyctaginaceae | Bougainvillea
+bougainvillea spectabilis => Bougainvillea spectabilis | Nyctaginaceae | Bougainvillea
+bougainvillea glabra => Bougainvillea glabra | Nyctaginaceae | Bougainvillea
+# ---------------------------------------------------------------- Asteraceae and other flowers
+marigold; mariagold; tagetes sp; tagetes patula; tagetes erecta => Tagetes sp. | Asteraceae | Marigold
+chrysanthemum; chrysanthemum sp; chandramallika; dendranthema grandiflora; flowers of chrysanthemum => Chrysanthemum sp. | Asteraceae | Chrysanthemum
+gerbera; zarberra sp; zarbera sp => Gerbera sp. | Asteraceae | Gerbera
+dahlia; dhalia; dahlia variabilis => Dahlia sp. | Asteraceae | Dahlia
+zinnia; zinnia sp => Zinnia sp. | Asteraceae | Zinnia
+sunflower; suryamukhi; helianthus annuus; helianthus; ornamental sunflower => Helianthus annuus | Asteraceae | Sunflower
+parthenium; parthenium hysterophorus => Parthenium hysterophorus | Asteraceae | Parthenium
+xanthium strumarium => Xanthium strumarium | Asteraceae | Cocklebur
+mikania micrantha => Mikania micrantha | Asteraceae | Mile-a-minute
+carthamus tinctorius => Carthamus tinctorius | Asteraceae | Safflower
+aster; aster flower => Asteraceae | Asteraceae | Aster | m
+calendula => Calendula sp. | Asteraceae | Calendula
+galardia => Gaillardia sp. | Asteraceae | Gaillardia
+cineraria sp => Cineraria sp. | Asteraceae | Cineraria
+tirdex sp => Tridax sp. | Asteraceae | Tridax
+celsia sp => Celsia sp. | Scrophulariaceae | Celsia
+carnation => Dianthus caryophyllus | Caryophyllaceae | Carnation
+gypsophila => Gypsophila sp. | Caryophyllaceae | Gypsophila
+antirrhinum sp => Antirrhinum sp. | Plantaginaceae | Snapdragon
+balsam => Impatiens balsamina | Balsaminaceae | Balsam
+begonia sp => Begonia sp. | Begoniaceae | Begonia
+cyclamen => Cyclamen sp. | Primulaceae | Cyclamen
+primrose => Primula sp. | Primulaceae | Primrose
+fuchsia => Fuchsia sp. | Onagraceae | Fuchsia
+poppy => Papaver sp. | Papaveraceae | Poppy
+phlox => Phlox sp. | Polemoniaceae | Phlox
+cock's comb => Celosia sp. | Amaranthaceae | Cockscomb
+amaranthus; amaranthus sp; amaranth; red amaranthus => Amaranthus sp. | Amaranthaceae | Amaranthus
+amaranthus viridis => Amaranthus viridis | Amaranthaceae | Slender amaranth
+wild chauri => Amaranthus polygonoides | Amaranthaceae | Amaranthus
+digera arvensis => Digera arvensis | Amaranthaceae | Digera
+chenopodium abrosiodes => Chenopodium ambrosioides | Amaranthaceae | Mexican tea
+kochia => Kochia sp. | Amaranthaceae | Kochia
+# ---------------------------------------------------------------- Brassicaceae, Apiaceae and other vegetables and spices
+radish; raddish; raphanus sativus => Raphanus sativus | Brassicaceae | Radish
+mustard; brassica juncea => Brassica juncea | Brassicaceae | Mustard
+brassica campestris => Brassica campestris | Brassicaceae | Brassica
+cauliflower; brassica oleracea; cabbage => Brassica oleracea | Brassicaceae | Cole crops
+coriander; coriandrum sativum => Coriandrum sativum | Apiaceae | Coriander
+jeera; cumin => Cuminum cyminum | Apiaceae | Cumin
+fennel => Foeniculum vulgare | Apiaceae | Fennel
+african spiny coriander => Eryngium foetidum | Apiaceae | Culantro
+sesame; sesamum; sesamum indicum; gingelly; till => Sesamum indicum | Pedaliaceae | Sesame
+pipali; piper longum => Piper longum | Piperaceae | Long pepper
+betelvine; betelevine; betel vine => Piper betle | Piperaceae | Betel vine
+moringa; moringa oleifera; moringa pterygosperma; drumstick; drum stick => Moringa oleifera | Moringaceae | Drumstick
+cannabis sativa => Cannabis sativa | Cannabaceae | Hemp
+ipomoea; ipomoea sp => Ipomoea sp. | Convolvulaceae | Ipomoea
+ipomoea aquatica => Ipomoea aquatica | Convolvulaceae | Water spinach
+ipomoea batatas; sweet potato => Ipomoea batatas | Convolvulaceae | Sweet potato
+ipomoea palmata => Ipomoea cairica | Convolvulaceae | Cairo morning glory
+cairo morning glory => Ipomoea cairica | Convolvulaceae | Cairo morning glory
+ipomoea staphylina => Ipomoea staphylina | Convolvulaceae | Ipomoea
+oxalis; oxalis sp; oxalis corniculata => Oxalis sp. | Oxalidaceae | Oxalis
+kamrak; carambola; crambola; averrhoa carambola => Averrhoa carambola | Oxalidaceae | Carambola
+# ---------------------------------------------------------------- Other fruit and tree crops
+pomegranate; pomegramate; pomagranate; anar; punica granatum => Punica granatum | Lythraceae | Pomegranate
+litchi; litchi chinensis => Litchi chinensis | Sapindaceae | Litchi
+dodonaea viscosa; dodonea viscosa => Dodonaea viscosa | Sapindaceae | Hop bush
+sapota; achras zapota; chikoo; cheeku; chikoo => Manilkara zapota | Sapotaceae | Sapota
+kerini; kherini; mimusops hexandra => Manilkara hexandra | Sapotaceae | Khirni
+mahua; madhuca latifolia => Madhuca latifolia | Sapotaceae | Mahua
+custard apple; custard; sitaphal; annona squamosa => Annona squamosa | Annonaceae | Custard apple
+polyalthia longifolia; debdaru; debraru => Polyalthia longifolia | Annonaceae | Debdaru
+polyalthea => Polyalthia sp. | Annonaceae | Polyalthia
+papaya; carica papaya; papita => Carica papaya | Caricaceae | Papaya
+grapes; grape; grapevine; grape vine; vitis vinifera => Vitis vinifera | Vitaceae | Grape
+avocado => Persea americana | Lauraceae | Avocado
+cinnamon => Cinnamomum sp. | Lauraceae | Cinnamon
+persimmon => Diospyros kaki | Ebenaceae | Persimmon
+kiwi; actinidia chinensis => Actinidia chinensis | Actinidiaceae | Kiwifruit
+walnut; juglans regia => Juglans regia | Juglandaceae | Walnut
+pecan nut => Carya illinoinensis | Juglandaceae | Pecan
+wild pecan nut => Carya sp. | Juglandaceae | Wild pecan
+dragonfruit => Hylocereus sp. | Cactaceae | Dragon fruit
+cactus => Cactaceae | Cactaceae | Cactus
+passion fruit; krishnafal; passiflora edulis => Passiflora edulis | Passifloraceae | Passion fruit
+malpighia glabra; west indian cherry => Malpighia glabra | Malpighiaceae | Barbados cherry
+euonymus => Euonymus sp. | Celastraceae | Euonymus
+lasora; lasoda; leswa => Cordia sp. | Boraginaceae | Lasora | m
+cordia myxa => Cordia myxa | Boraginaceae | Lasora
+cordia obliqua => Cordia obliqua | Boraginaceae | Lasora
+# ---------------------------------------------------------------- Forest and avenue trees, shrubs
+neem; azadirachta indica => Azadirachta indica | Meliaceae | Neem
+melia; melia azedarach; dhrek; baken => Melia azedarach | Meliaceae | Bakain | m
+swietenia mahagoni; mahogany; mahogani => Swietenia mahagoni | Meliaceae | Mahogany
+ailanthes excelsa; ailanthus excelsa; ailanthus sp => Ailanthus sp. | Simaroubaceae | Ailanthus
+simarouba glauca => Simarouba glauca | Simaroubaceae | Simarouba
+sandle tree; sandalwood; santalum album => Santalum album | Santalaceae | Sandalwood
+shorea robusta; sal tree; sal => Shorea robusta | Dipterocarpaceae | Sal
+terminalia arjuna; arjun; arjun tree => Terminalia arjuna | Combretaceae | Arjun
+terminalia chebula; harad => Terminalia chebula | Combretaceae | Harad
+terminalia sp => Terminalia sp. | Combretaceae | Terminalia
+terminalia tomentosa => Terminalia tomentosa | Combretaceae | Terminalia
+baheda; bahera; behra => Terminalia bellirica | Combretaceae | Baheda | m
+kathbadam; kathbadam (almond) => Terminalia catappa | Combretaceae | Indian almond (kathbadam) | m
+jhau; jhau tree => Tamarix dioica | Tamaricaceae | Jhau | m
+dillenia sp => Dillenia sp. | Dilleniaceae | Dillenia
+alangium salviifolium; alangium salvifolium => Alangium salviifolium | Cornaceae | Alangium
+grevillea robusta; silver oak => Grevillea robusta | Proteaceae | Silver oak
+hydrocarpus laurifolia => Hydnocarpus laurifolius | Achariaceae | Hydnocarpus
+michelia champaca; champak; champaka; son champa => Michelia champaca | Magnoliaceae | Champak
+tinospora cordifolia => Tinospora cordifolia | Menispermaceae | Giloy
+cocculus pendulus => Cocculus pendulus | Menispermaceae | Cocculus
+dioscorea floribunda => Dioscorea floribunda | Dioscoreaceae | Yam
+justicia adhatoda; adhatoda vasica; adathoda; adathoda sp; basak => Justicia adhatoda | Acanthaceae | Adulsa
+asystasia corromandaliana => Asystasia sp. | Acanthaceae | Asystasia
+barleria sp => Barleria sp. | Acanthaceae | Barleria
+crossandra => Crossandra sp. | Acanthaceae | Crossandra
+plumbago zeylanica; cheeta => Plumbago zeylanica | Plumbaginaceae | Chitrak
+oroxylum indicum; sonapatha => Oroxylum indicum | Bignoniaceae | Oroxylum
+tecoma => Tecoma sp. | Bignoniaceae | Tecoma
+dolichandrone atrovirens => Dolichandrone atrovirens | Bignoniaceae | Dolichandrone
+lagerstroemia indica => Lagerstroemia indica | Lythraceae | Crape myrtle
+lagerstroemia parviflora => Lagerstroemia parviflora | Lythraceae | Lagerstroemia
+sida acuta; bariyar bhed => Sida acuta | Malvaceae | Sida
+sida cordifolia; bariyar => Sida cordifolia | Malvaceae | Sida
+sida spinosa; bala bhed => Sida spinosa | Malvaceae | Sida
+bhadraksha; rudraksh => Elaeocarpus sp. | Elaeocarpaceae | Rudraksha
+canadata commiphora; commiphora canadata => Commiphora sp. | Burseraceae | Commiphora
+tuniperus recura => Juniperus recurva | Cupressaceae | Juniper
+thuza compacta => Thuja sp. | Cupressaceae | Thuja
+rubber; rubber plant => Hevea brasiliensis | Euphorbiaceae | Rubber | m
+tea; thea sinensis => Camellia sinensis | Theaceae | Tea
+# ---------------------------------------------------------------- Aquatic plants
+eichhornia crassipes; eichornia; eichorinia sp; water hyacinth => Eichhornia crassipes | Pontederiaceae | Water hyacinth
+pickerel weed => Pontederia cordata | Pontederiaceae | Pickerel weed
+salvinia natans => Salvinia natans | Salviniaceae | Floating fern
+trapa natans; water chestnut => Trapa natans | Lythraceae | Water chestnut
+hydrilla verticillata => Hydrilla verticillata | Hydrocharitaceae | Hydrilla
+nelumbo nucifera; lotus; louts => Nelumbo nucifera | Nelumbonaceae | Lotus
+marsilea minuta => Marsilea minuta | Marsileaceae | Water clover
+lemna minor => Lemna minor | Araceae | Duckweed
+bacopa monnieri => Bacopa monnieri | Plantaginaceae | Brahmi
+fern => [group] ferns | | Ferns
+# ---------------------------------------------------------------- Groups, unidentified material and non-plant substrates
+weed; weeds; unidentified weed; unidentified weed 1; unidentified weed 2; unknown weed; weed plant; wild plant; wild plants; wild flower; wild => [group] weeds and wild plants | | Weeds / wild plants (unspecified)
+labiatae, weed => Lamiaceae | Lamiaceae | Labiate weed
+unidentified plant; unidentified host; unidentified tree; unknown plant; unknown plants; unknown forest plant; plant; unidentified flower => [group] unidentified plant | | Unidentified plant
+forest plants; forest plant; forest plants; wild trees; wild trees => [group] forest plants | | Forest plants (unspecified)
+ornamental plant; ornamental plants; ornamentals; flower; white flower; flowers => [group] ornamentals | | Ornamentals (unspecified)
+medicinal plants => [group] medicinal plants | | Medicinal plants (unspecified)
+vegetables => [group] vegetables | | Vegetables (unspecified)
+fruits => [group] fruits | | Fruits (unspecified)
+fodder crop => [group] fodder crops | | Fodder crops (unspecified)
+shade crop => [group] shade crop | | Shade crop
+monocot => [group] monocots | | Monocot (unspecified)
+euseius sp; t. (anthoseius) heliotropium; t. (anthoseius) sp => [group] not a host (mite names in host field) | | Not a host
+stored products => [substrate] stored products | | Stored products
+dried fish; unidentified dried fish; dried prawn; prawn => [substrate] dried fish / prawn | | Dried fish
+debris of shop; debris of shops; debris of shops (nahan, h.p.); debris of grinding mills; animal feed capsules; honey; insect => [substrate] other stored or debris substrate | | Stored-product substrate
+stored bhindi seeds => Abelmoschus esculentus | Malvaceae | Okra (stored seed)
+stored papaya seed => Carica papaya | Caricaceae | Papaya (stored seed)
+# ---------------------------------------------------------------- Rhamnaceae (ber) and remaining entries
+ber; bera; bera tree; kul; ziziphus mauritiana => Ziziphus mauritiana | Rhamnaceae | Ber
+ziziphus jujuba; zizyphus jujuba; zizyphus zuzuba; ziziphus zuzuba; jujube => Ziziphus jujuba | Rhamnaceae | Jujube / ber
+zizyphus; ziziphus; ziziphus sp; zizyphus sp => Ziziphus sp. | Rhamnaceae | Ber
+zyziphus oenoplia => Ziziphus oenopolia | Rhamnaceae | Jackal jujube
+falsa => Grewia asiatica | Malvaceae | Phalsa | m
+soapnut tree => Sapindus sp. | Sapindaceae | Soapnut
+ghatu => Sapindus sp. | Sapindaceae | Soapnut | m
+mehendi => Lawsonia inermis | Lythraceae | Henna
+abrus precatorius => Abrus precatorius | Fabaceae | Rosary pea
+cyperus rotundus => Cyperus rotundus | Cyperaceae | Nut grass
+tristis; arbortristis => Nyctanthes arbor-tristis | Oleaceae | Night jasmine (shiuli) | m
+millingtonia hortensis => Millingtonia hortensis | Bignoniaceae | Indian cork tree
+achras sapota => Manilkara zapota | Sapotaceae | Sapota
+argemone mexicana => Argemone mexicana | Papaveraceae | Mexican poppy
+pachouli => Pogostemon cablin | Lamiaceae | Patchouli | m
+elder berry => Sambucus sp. | Adoxaceae | Elderberry | m
+aralia sp => Aralia sp. | Araliaceae | Aralia
+serissia foetida => Serissa japonica | Rubiaceae | Serissa
+dailemia sp => Daemia sp. | Apocynaceae | Daemia | m
+crallia bracteata => Crallia bracteata | | Crallia (as printed)
+exacum bicolor (country kreat) => Exacum bicolor | Gentianaceae | Exacum
+irisine => Iresine sp. | Amaranthaceae | Iresine | m
+camera => Lantana camara | Verbenaceae | Lantana | m
+suros flower; macho fruit; mecho fruit; pitali; koromcha; batabilabu; kabari; kabari flower; fulfoot; kata nate => ? | | Local name not resolved
+local; baru; atlas; banga; gundar; nari; kanski; naffatia; karen; kena; gheea; bhambola; kapur; mushki kapoor; naner; chalta; ekdandi; ekalifa; sevri; remphal; woodrose; victoria corn plant; ornamental okra; wild cotton; tagod wild plant; pata bahar; pepper => ? | | Local name not resolved
+s white flower carambola; crambola bougainvillea => ? | | Merged cells (carambola; bougainvillea)
+# ---------------------------------------------------------------- genus table and spelling fixes (used for printed scientific names)
+aspen; poplar => Populus sp. | Salicaceae | Poplar
+azalea => Rhododendron sp. | Ericaceae | Azalea
+blackberry => Rubus sp. | Rosaceae | Blackberry
+camphor => Cinnamomum camphora | Lauraceae | Camphor
+cardamom => Elettaria cardamomum | Zingiberaceae | Cardamom
+casuarina => Casuarina sp. | Casuarinaceae | Casuarina
+chestnut => Castanea sp. | Fagaceae | Chestnut
+citronella => Cymbopogon nardus | Poaceae | Citronella
+corn => Zea mays | Poaceae | Maize
+dalhia => Dahlia sp. | Asteraceae | Dahlia
+frangipani => Plumeria sp. | Apocynaceae | Frangipani
+hicory => Carya sp. | Juglandaceae | Hickory
+peacan => Carya illinoinensis | Juglandaceae | Pecan
+longan => Dimocarpus longan | Sapindaceae | Longan
+maple => Acer sp. | Sapindaceae | Maple
+oak => Quercus sp. | Fagaceae | Oak
+sarkanda => Saccharum sp. | Poaceae | Sarkanda
+tagete s sp => Tagetes sp. | Asteraceae | Marigold
+willow => Salix sp. | Salicaceae | Willow
+zinia => Zinnia sp. | Asteraceae | Zinnia
+fraxinus => Fraxinus sp. | Oleaceae | Ash
+mangrove; fruit trees; miscellaneous plants; undertermined plants; moss => [group] other groups | | Plant group (unspecified)
+bassia latifolia => Madhuca latifolia | Sapotaceae | Mahua
+melon => Cucumis melo | Cucurbitaceae | Melon
+napier grass => Pennisetum purpureum | Poaceae | Napier grass
+elm tree => Ulmus sp. | Ulmaceae | Elm
+pine cone => Pinus sp. | Pinaceae | Pine
+convolvulaceous plant => Convolvulaceae | Convolvulaceae | Convolvulaceous plant
+rubiaceous plant => Rubiaceae | Rubiaceae | Rubiaceous plant
+common grass => [group] grasses | Poaceae | Grasses (unspecified)
+hedge plant; xerophyte plant => [group] other groups | | Plant group (unspecified)
+cratoxylum => Cratoxylum sp. | Hypericaceae | Cratoxylum
+camelia sinensis => Camellia sinensis | Theaceae | Tea
+[genus spellings]
+albizzia => Albizia
+allangium => Alangium
+annanas => Ananas
+antedesma => Antidesma
+apodyies => Apodytes
+ardesia => Ardisia
+asystacia => Asystasia
+baringtonia => Barringtonia
+boerhaavia => Boerhavia
+brevnia => Breynia
+buettneria => Byttneria
+calicarpa => Callicarpa
+casearsa => Casearia
+casia => Cassia
+centrosoma => Centrosema
+chikrassia => Chukrasia
+dicanthium => Dichanthium
+elaegnus => Elaeagnus
+elusine => Eleusine
+eragrastris => Eragrostis
+eryobotria => Eriobotrya
+exoecaria => Excoecaria
+hollarhena => Holarrhena
+holoptelia => Holoptelea
+ipomea => Ipomoea
+jchnocarpus => Ichnocarpus
+jectona => Tectona
+lagerostroemia => Lagerstroemia
+lagestroemia => Lagerstroemia
+malvus => Malus
+malavastrum => Malvastrum
+malavaviscus => Malvaviscus
+milletia => Millettia
+murryva => Murraya
+orvza => Oryza
+plalycladus => Platycladus
+polvgala => Polygala
+poplus => Populus
+puerraria => Pueraria
+ruillia => Ruellia
+saccharam => Saccharum
+semicarpus => Semecarpus
+sesbenia => Sesbania
+soghum => Sorghum
+syzveinm => Syzygium
+thea => Camellia
+thunberigia => Thunbergia
+ventiligo => Ventilago
+zamarix => Tamarix
+zinia => Zinnia
+graphtophyllum => Graptophyllum
+pithecolobium => Pithecellobium
+gynocarpus => Gynocardia
+ambroma => Abroma
+jambosa => Syzygium
+odina => Lannea
+cajanas => Cajanus
+zizyphus => Ziziphus
+zyziphus => Ziziphus
+ziziphus => Ziziphus
+licopersicon => Lycopersicon
+lycopersicum => Solanum
+lycopersicon => Solanum
+eujenia => Syzygium
+syzigium => Syzygium
+eugenia => Eugenia
+catharanthes => Catharanthus
+ailanthes => Ailanthus
+pongammia => Pongamia
+cocoos => Cocos
+bugainvillea => Bougainvillea
+glyricidia => Gliricidia
+hordium => Hordeum
+eichornia => Eichhornia
+eichorinia => Eichhornia
+[genus]
+Anisomeles: Lamiaceae
+Arthromeris: Polypodiaceae
+Solanum: Solanaceae
+Lycopersicon: Solanaceae
+Capsicum: Solanaceae
+Nicotiana: Solanaceae
+Abutilon: Malvaceae
+Acer: Sapindaceae
+Achyranthes: Amaranthaceae
+Adina: Rubiaceae
+Aerva: Amaranthaceae
+Agrostis: Poaceae
+Alhagi: Fabaceae
+Alangium: Cornaceae
+Allophylus: Sapindaceae
+Alnus: Betulaceae
+Aloe: Asphodelaceae
+Alstonia: Apocynaceae
+Abroma: Malvaceae
+Ambrosia: Asteraceae
+Amomum: Zingiberaceae
+Amorphophallus: Araceae
+Amygdalus: Rosaceae
+Andropogon: Poaceae
+Antidesma: Phyllanthaceae
+Apluda: Poaceae
+Apodytes: Icacinaceae
+Aporosa: Phyllanthaceae
+Araucaria: Araucariaceae
+Ardisia: Primulaceae
+Argyreia: Convolvulaceae
+Ariocarpus: Cactaceae
+Aristida: Poaceae
+Arundina: Orchidaceae
+Arundo: Poaceae
+Asparagus: Asparagaceae
+Asteracantha: Acanthaceae
+Avicennia: Acanthaceae
+Azima: Salvadoraceae
+Balanites: Zygophyllaceae
+Barringtonia: Lecythidaceae
+Beaucarnea: Asparagaceae
+Beilschmiedia: Lauraceae
+Berberis: Berberidaceae
+Beta: Amaranthaceae
+Betula: Betulaceae
+Biota: Cupressaceae
+Borassus: Arecaceae
+Boerhavia: Nyctaginaceae
+Borreria: Rubiaceae
+Brachiaria: Poaceae
+Breynia: Phyllanthaceae
+Broussonetia: Moraceae
+Buchanania: Anacardiaceae
+Byttneria: Malvaceae
+Callicarpa: Lamiaceae
+Camellia: Theaceae
+Canarium: Burseraceae
+Carissa: Apocynaceae
+Casearia: Salicaceae
+Cassine: Celastraceae
+Casuarina: Casuarinaceae
+Cedrela: Meliaceae
+Celastrus: Celastraceae
+Celtis: Cannabaceae
+Centella: Apiaceae
+Centrosema: Fabaceae
+Cephalanthus: Rubiaceae
+Cephalocroton: Euphorbiaceae
+Chukrasia: Meliaceae
+Chloris: Poaceae
+Cinchona: Rubiaceae
+Cissampelos: Menispermaceae
+Cissus: Vitaceae
+Cleistanthus: Phyllanthaceae
+Combretum: Combretaceae
+Commelina: Commelinaceae
+Convolvulus: Convolvulaceae
+Croton: Euphorbiaceae
+Cryptocarya: Lauraceae
+Cryptolepis: Apocynaceae
+Cryptostegia: Apocynaceae
+Cudrania: Moraceae
+Cupressus: Cupressaceae
+Cyclosorus: Thelypteridaceae
+Cydonia: Rosaceae
+Cyrtosperma: Araceae
+Dactyloctenium: Poaceae
+Daucus: Apiaceae
+Debregeasia: Urticaceae
+Dendrocalamus: Poaceae
+Desmodium: Fabaceae
+Dichanthium: Poaceae
+Dichroa: Hydrangeaceae
+Digitaria: Poaceae
+Dipteracanthus: Acanthaceae
+Duabanga: Lythraceae
+Dypsis: Arecaceae
+Ehretia: Boraginaceae
+Elaeagnus: Elaeagnaceae
+Elettaria: Zingiberaceae
+Eleusine: Poaceae
+Eragrostis: Poaceae
+Eupatorium: Asteraceae
+Excoecaria: Euphorbiaceae
+Fagonia: Zygophyllaceae
+Fissistigma: Annonaceae
+Flacourtia: Salicaceae
+Flueggea: Phyllanthaceae
+Fraxinus: Oleaceae
+Garcinia: Clusiaceae
+Gelonium: Euphorbiaceae
+Gigantochloa: Poaceae
+Gleditsia: Fabaceae
+Glochidion: Phyllanthaceae
+Glycosmis: Rutaceae
+Gmelina: Lamiaceae
+Graptophyllum: Acanthaceae
+Gymnema: Apocynaceae
+Gynocardia: Achariaceae
+Hamamelis: Hamamelidaceae
+Helicteres: Malvaceae
+Heliotropium: Boraginaceae
+Heritiera: Malvaceae
+Heteropyxis: Myrtaceae
+Holarrhena: Apocynaceae
+Holoptelea: Ulmaceae
+Hydrocleys: Alismataceae
+Imperata: Poaceae
+Indigofera: Fabaceae
+Iseilema: Poaceae
+Jacaranda: Bignoniaceae
+Ichnocarpus: Apocynaceae
+Kydia: Malvaceae
+Lagerstroemia: Lythraceae
+Lannea: Anacardiaceae
+Leea: Vitaceae
+Libocedrus: Cupressaceae
+Linociera: Oleaceae
+Lippia: Verbenaceae
+Litsea: Lauraceae
+Lonicera: Caprifoliaceae
+Lyonia: Ericaceae
+Maackia: Fabaceae
+Magnolia: Magnoliaceae
+Malvastrum: Malvaceae
+Malvaviscus: Malvaceae
+Malus: Rosaceae
+Meliosma: Sabiaceae
+Millettia: Fabaceae
+Mimosa: Fabaceae
+Mimusops: Sapotaceae
+Mitragyna: Rubiaceae
+Muhlenbergia: Poaceae
+Mundulea: Fabaceae
+Murraya: Rutaceae
+Neolamarckia: Rubiaceae
+Neolitsea: Lauraceae
+Nephelium: Sapindaceae
+Ochna: Ochnaceae
+Operculina: Convolvulaceae
+Oryza: Poaceae
+Pandanus: Pandanaceae
+Pavetta: Rubiaceae
+Pavonia: Malvaceae
+Pentapetes: Malvaceae
+Phragmites: Poaceae
+Phyllostachys: Poaceae
+Pinus: Pinaceae
+Pithecellobium: Fabaceae
+Pittosporum: Pittosporaceae
+Platycladus: Cupressaceae
+Plectranthus: Lamiaceae
+Plectronia: Rubiaceae
+Polianthes: Asparagaceae
+Polygala: Polygalaceae
+Polygonum: Polygonaceae
+Populus: Salicaceae
+Potentilla: Rosaceae
+Pouzolzia: Urticaceae
+Priva: Verbenaceae
+Prosopis: Fabaceae
+Pterospermum: Malvaceae
+Ptychosperma: Arecaceae
+Pueraria: Fabaceae
+Quercus: Fagaceae
+Quisqualis: Combretaceae
+Randia: Rubiaceae
+Ranunculus: Ranunculaceae
+Rhinacanthus: Acanthaceae
+Rhododendron: Ericaceae
+Rivea: Convolvulaceae
+Robinia: Fabaceae
+Ruellia: Acanthaceae
+Salacia: Celastraceae
+Salix: Salicaceae
+Salvadora: Salvadoraceae
+Sarcococca: Buxaceae
+Sasa: Poaceae
+Scaevola: Goodeniaceae
+Schefflera: Araliaceae
+Schima: Theaceae
+Schizostachyum: Poaceae
+Schleichera: Sapindaceae
+Securinega: Phyllanthaceae
+Semecarpus: Anacardiaceae
+Senna: Fabaceae
+Sesbania: Fabaceae
+Smilax: Smilacaceae
+Sorghum: Poaceae
+Sphaeralcea: Malvaceae
+Spiraea: Rosaceae
+Spondias: Anacardiaceae
+Streblus: Moraceae
+Strobilanthes: Acanthaceae
+Strychnos: Loganiaceae
+Symplocos: Symplocaceae
+Syringa: Oleaceae
+Tamarindus: Fabaceae
+Tarenna: Rubiaceae
+Taxus: Taxaceae
+Teramnus: Fabaceae
+Thunbergia: Acanthaceae
+Thysanolaena: Poaceae
+Tilia: Malvaceae
+Tiliacora: Menispermaceae
+Toona: Meliaceae
+Trema: Cannabaceae
+Trewia: Euphorbiaceae
+Trianthema: Aizoaceae
+Trichodesma: Boraginaceae
+Triumfetta: Malvaceae
+Turnera: Passifloraceae
+Typha: Typhaceae
+Ulmus: Ulmaceae
+Vachellia: Fabaceae
+Ventilago: Rhamnaceae
+Vernonia: Asteraceae
+Viburnum: Adoxaceae
+Viola: Violaceae
+Viscum: Santalaceae
+Waltheria: Malvaceae
+Wendlandia: Rubiaceae
+Wisteria: Fabaceae
+Woodfordia: Lythraceae
+Wrightia: Apocynaceae
+Xeromphis: Rubiaceae
+Xylopia: Annonaceae
+Tamarix: Tamaricaceae
+Zinnia: Asteraceae
+Dolichos: Fabaceae
+Cajanus: Fabaceae
+Ananas: Bromeliaceae
+Tectona: Lamiaceae
+Eriobotrya: Rosaceae
+Asystasia: Acanthaceae
+Cocos: Arecaceae
+Pongamia: Fabaceae
+Gliricidia: Fabaceae
+Hordeum: Poaceae
+Eichhornia: Pontederiaceae
+Syzygium: Myrtaceae
+Eugenia: Myrtaceae
+Catharanthus: Apocynaceae
+Ailanthus: Simaroubaceae
+Bougainvillea: Nyctaginaceae
+Ziziphus: Rhamnaceae
+Lycopersicon: Solanaceae
+

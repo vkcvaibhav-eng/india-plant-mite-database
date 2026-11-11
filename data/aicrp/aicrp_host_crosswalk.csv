@@ -1,0 +1,1130 @@
+host_common_as_printed,host_scientific_as_printed,host_taxon_std,host_rank_std,host_family,host_std_common,host_basis,host_confidence,host_check,rows,centres
+Brinjal,,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,,206,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa;Thrissur
+Chilli,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,116,Coimbatore;Jorhat;Kalyani;Ludhiana;Navsari;Pusa;Thrissur
+Mango,,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,,101,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
+Rose,,Rosa sp.,genus,Rosaceae,Rose,dictionary,high,,92,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Thrissur
+Citrus,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,77,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Navsari
+Ber,,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,,76,Bangalore;Coimbatore;Hisar;Kalyani;Ludhiana;Navsari;Pusa
+Bhindi,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,69,Bangalore;Hisar;Kalyani;Ludhiana;Pusa;Varanasi
+Sugarcane,,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,,68,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Navsari;Pusa;Thrissur
+Guava,,Psidium guajava,species,Myrtaceae,Guava,dictionary,high,,67,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
+Mulberry,,Morus alba,species,Moraceae,Mulberry,dictionary,high,,57,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Thrissur
+Litchi,,Litchi chinensis,species,Sapindaceae,Litchi,dictionary,high,,49,Jorhat;Kalyani;Ludhiana;Pusa;Thrissur
+Papaya,,Carica papaya,species,Caricaceae,Papaya,dictionary,high,,48,Bangalore;Coimbatore;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Pusa;Thrissur
+Apple,,Malus domestica,species,Rosaceae,Apple,dictionary,high,,47,Jorhat;Kalyani;Ludhiana;Mashobra;Thrissur
+Tomato,,Solanum lycopersicum,species,Solanaceae,Tomato,dictionary,high,,45,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Navsari;Thrissur
+Rice,,Oryza sativa,species,Poaceae,Rice,dictionary,high,,43,Coimbatore;Hisar;Jorhat;Kalyani;Navsari;Thrissur
+Pear,,Pyrus communis,species,Rosaceae,Pear,dictionary,high,,42,Kalyani;Ludhiana;Mashobra;Thrissur
+Lemon,,Citrus limon,species,Rutaceae,Lemon,dictionary,high,,40,Bangalore;Hisar;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
+Cotton,,Gossypium sp.,genus,Malvaceae,Cotton,dictionary,high,,39,Bangalore;Coimbatore;Hisar;Kalyani;Ludhiana;Navsari
+Okra,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,39,Coimbatore;Jorhat;Kalyani;Ludhiana;Navsari;Thrissur
+Coconut,,Cocos nucifera,species,Arecaceae,Coconut,dictionary,high,,38,Bangalore;Coimbatore;Jorhat;Kalyani;Navsari;Thrissur
+Banana,,Musa sp.,genus,Musaceae,Banana,dictionary,high,,37,Bangalore;Coimbatore;Jorhat;Kalyani;Ludhiana;Navsari;Pusa;Thrissur
+,Solanum melongena,Solanum melongena,species,Solanaceae,Brinjal,printed_scientific_name_via_dictionary,high,,35,Bangalore;Coimbatore;Kalyani;Ludhiana;Varanasi
+Marigold,,Tagetes sp.,genus,Asteraceae,Marigold,dictionary,high,,33,Hisar;Jorhat;Kalyani;Ludhiana;Mashobra;Thrissur
+Mulberry,Morus alba,Morus alba,species,Moraceae,Mulberry,dictionary,high,agree,33,Varanasi
+Cowpea,,Vigna unguiculata,species,Fabaceae,Cowpea,dictionary,high,,32,Bangalore;Coimbatore;Hisar;Jorhat;Kalyani;Ludhiana;Navsari;Thrissur
+Garlic,,Allium sativum,species,Amaryllidaceae,Garlic,dictionary,high,,32,Kalyani;Mashobra;Navsari
+Jasmine,,Jasminum sp.,genus,Oleaceae,Jasmine,dictionary,high,,28,Bangalore;Coimbatore;Jorhat;Kalyani;Navsari;Thrissur
+Neem,,Azadirachta indica,species,Meliaceae,Neem,dictionary,high,,26,Bangalore;Coimbatore;Hisar;Kalyani;Navsari;Thrissur
+Peach,,Prunus persica,species,Rosaceae,Peach,dictionary,high,,26,Ludhiana;Mashobra
+Pomegranate,,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,,26,Coimbatore;Kalyani;Ludhiana;Mashobra;Navsari;Pusa
+Castor,,Ricinus communis,species,Euphorbiaceae,Castor,dictionary,high,,25,Coimbatore;Hisar;Jorhat;Ludhiana;Navsari;Pusa;Thrissur
+Cucumber,,Cucumis sativus,species,Cucurbitaceae,Cucumber,dictionary,high,,25,Coimbatore;Jorhat;Kalyani;Mashobra;Navsari;Thrissur
+Hibiscus,,Hibiscus sp.,genus,Malvaceae,Hibiscus,dictionary,high,,25,Bangalore;Kalyani
+,Mangifera indica,Mangifera indica,species,Anacardiaceae,Mango,printed_scientific_name_via_dictionary,high,,24,Coimbatore;Kalyani;Ludhiana;Varanasi
+Bhendi,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,24,Bangalore;Coimbatore;Kalyani
+Jamun,,Syzygium cumini,species,Myrtaceae,Jamun,dictionary,high,,24,Coimbatore;Hisar;Kalyani;Ludhiana;Navsari;Pusa
+Psidium guajava,,Psidium guajava,species,Myrtaceae,Guava,dictionary,high,,24,Kalyani;Ludhiana;Pusa
+Fig,,Ficus carica,species,Moraceae,Fig,dictionary,high,,23,Bangalore;Hisar;Kalyani;Ludhiana;Mashobra
+,Eichhornia crassipes,Eichhornia crassipes,species,Pontederiaceae,Water hyacinth,printed_scientific_name_via_dictionary,high,,21,Varanasi
+,Abelmoschus esculentus,Abelmoschus esculentus,species,Malvaceae,Okra,printed_scientific_name_via_dictionary,high,,20,Bangalore;Kalyani;Varanasi
+Ladies finger,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,20,Hisar;Kalyani
+Pointed gourd,,Trichosanthes dioica,species,Cucurbitaceae,Pointed gourd,dictionary,high,,20,Kalyani;Navsari
+Amaranthus,,Amaranthus sp.,genus,Amaranthaceae,Amaranthus,dictionary,high,,19,Bangalore;Coimbatore;Jorhat;Kalyani;Thrissur
+Chillies,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,19,Bangalore;Coimbatore;Hisar;Ludhiana;Navsari
+Papaya,Carica papaya,Carica papaya,species,Caricaceae,Papaya,dictionary,high,agree,19,Kalyani;Varanasi
+,Psidium guajava,Psidium guajava,species,Myrtaceae,Guava,printed_scientific_name_via_dictionary,high,,18,Coimbatore;Kalyani;Ludhiana;Varanasi
+Jute,,Corchorus sp.,genus,Malvaceae,Jute,dictionary,high,,18,Jorhat;Kalyani
+Mango,Mangifera indica,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,agree,18,Kalyani;Varanasi
+Anar,,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,,17,Hisar;Ludhiana
+Date palm,,Phoenix dactylifera,species,Arecaceae,Date palm,dictionary,high,,17,Bangalore;Kalyani;Ludhiana;Navsari;Varanasi
+Bitter gourd,,Momordica charantia,species,Cucurbitaceae,Bitter gourd,dictionary,high,,16,Coimbatore;Hisar;Jorhat;Kalyani
+Kinnow,,Citrus reticulata,species,Rutaceae,Mandarin,dictionary,high,,16,Ludhiana;Mashobra;Navsari
+Maize,,Zea mays,species,Poaceae,Maize,dictionary,high,,16,Bangalore;Jorhat;Kalyani;Ludhiana;Navsari;Pusa
+,Morus alba,Morus alba,species,Moraceae,Mulberry,printed_scientific_name_via_dictionary,high,,15,Bangalore;Coimbatore;Varanasi
+Bamboo,,Bambusa sp.,genus,Poaceae,Bamboo,dictionary,high,,15,Bangalore;Kalyani
+Cucurbits,,cucurbits,group,Cucurbitaceae,Cucurbits (unspecified),dictionary,high,,15,Coimbatore;Hisar;Kalyani;Navsari;Pusa
+Gerbera,,Gerbera sp.,genus,Asteraceae,Gerbera,dictionary,high,,15,Bangalore;Coimbatore;Jorhat;Kalyani;Navsari;Thrissur
+Pigeonpea,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,15,Bangalore;Coimbatore;Navsari;Pusa
+Tulsi,,Ocimum tenuiflorum,species,Lamiaceae,Tulsi,dictionary,high,,15,Hisar;Kalyani;Mashobra;Navsari
+Arecanut,,Areca catechu,species,Arecaceae,Arecanut,dictionary,high,,14,Bangalore;Coimbatore;Jorhat;Kalyani;Navsari;Thrissur
+Brinjal,Solanum melongena,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,agree,14,Kalyani;Varanasi
+Dahlia,,Dahlia sp.,genus,Asteraceae,Dahlia,dictionary,high,,14,Bangalore;Kalyani;Ludhiana;Mashobra;Navsari;Thrissur
+Plum,,Prunus domestica,species,Rosaceae,Plum,dictionary,high,,14,Kalyani;Ludhiana;Mashobra
+Potato,,Solanum tuberosum,species,Solanaceae,Potato,dictionary,high,,14,Kalyani;Ludhiana;Navsari
+Pumpkin,,Cucurbita sp.,genus,Cucurbitaceae,Pumpkin,dictionary,high,,14,Coimbatore;Hisar;Kalyani;Thrissur
+,Cucumis sativus,Cucumis sativus,species,Cucurbitaceae,Cucumber,printed_scientific_name_via_dictionary,high,,13,Bangalore;Varanasi
+Curry leaf,,Murraya koenigii,species,Rutaceae,Curry leaf,dictionary,high,,13,Coimbatore;Kalyani;Ludhiana;Navsari;Thrissur
+jackfruit,,Artocarpus heterophyllus,species,Moraceae,Jackfruit,dictionary,high,,13,Kalyani;Ludhiana
+Sem,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,13,Hisar
+Wheat,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,13,Coimbatore;Hisar;Kalyani;Ludhiana;Varanasi
+,Carica papaya,Carica papaya,species,Caricaceae,Papaya,printed_scientific_name_via_dictionary,high,,12,Bangalore;Kalyani;Varanasi
+,Ficus carica,Ficus carica,species,Moraceae,Fig,printed_scientific_name_via_dictionary,high,,12,Kalyani;Varanasi
+Abelmoschus esculentus,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,12,Kalyani;Pusa
+Beans,,Fabaceae,family,Fabaceae,Beans (unspecified),dictionary,high,,12,Bangalore;Jorhat;Ludhiana;Navsari
+Bhendi,Abelmoschus esculentus,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,agree,12,Kalyani
+Lemon,Citrus lemon,Citrus limon,species,Rutaceae,Lemon,dictionary,high,species_differs,12,Varanasi
+Mousumi,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,12,Hisar
+Persimmon,,Diospyros kaki,species,Ebenaceae,Persimmon,dictionary,high,,12,Ludhiana;Mashobra
+,Malus sylvestris,Malus domestica,species,Rosaceae,Apple,printed_scientific_name_via_dictionary,high,,11,Varanasi
+Ber,Ziziphus jujuba,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,species_differs,11,Varanasi
+Redgram,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,11,Bangalore;Coimbatore;Kalyani;Navsari
+,Cajanus cajan,Cajanus cajan,species,Fabaceae,Pigeonpea,printed_scientific_name_via_dictionary,high,,10,Bangalore;Coimbatore;Varanasi
+,Vigna unguiculata,Vigna unguiculata,species,Fabaceae,Cowpea,printed_scientific_name_via_dictionary,high,,10,Bangalore;Varanasi
+Apple,Malus sylvestris,Malus domestica,species,Rosaceae,Apple,dictionary,high,species_differs,10,Varanasi
+Bittergourd,,Momordica charantia,species,Cucurbitaceae,Bitter gourd,dictionary,high,,10,Bangalore;Hisar;Kalyani;Ludhiana;Navsari
+Chrysanthemum,,Chrysanthemum sp.,genus,Asteraceae,Chrysanthemum,dictionary,high,,10,Bangalore;Kalyani;Ludhiana;Mashobra;Thrissur
+Custard apple,,Annona squamosa,species,Annonaceae,Custard apple,dictionary,high,,10,Kalyani
+Grapes,,Vitis vinifera,species,Vitaceae,Grape,dictionary,high,,10,Hisar;Ludhiana
+Ridge gourd,,Luffa acutangula,species,Cucurbitaceae,Ridge gourd,dictionary,high,,10,Coimbatore;Kalyani
+Solanum melongena,,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,,10,Kalyani;Pusa
+Sorghum,,Sorghum bicolor,species,Poaceae,Sorghum,dictionary,high,,10,Bangalore;Coimbatore;Navsari
+Sponge gourd,,Luffa aegyptiaca,species,Cucurbitaceae,Sponge gourd,dictionary,high,,10,Kalyani;Navsari;Pusa;Varanasi
+Tapioca,,Manihot esculenta,species,Euphorbiaceae,Cassava,dictionary,high,,10,Bangalore;Coimbatore;Thrissur
+Tea,,Camellia sinensis,species,Theaceae,Tea,dictionary,high,,10,Bangalore;Coimbatore;Jorhat;Ludhiana
+,Lagenaria siceraria,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,printed_scientific_name_via_dictionary,high,,9,Varanasi
+,Saccharum officinarum,Saccharum officinarum,species,Poaceae,Sugarcane,printed_scientific_name_via_dictionary,high,,9,Coimbatore;Kalyani;Varanasi
+Apricot,,Prunus armeniaca,species,Rosaceae,Apricot,dictionary,high,,9,Ludhiana;Mashobra
+Arjun,,Terminalia arjuna,species,Combretaceae,Arjun,dictionary,high,,9,Hisar;Kalyani;Mashobra
+Bean,,Fabaceae,family,Fabaceae,Beans (unspecified),dictionary,high,,9,Jorhat;Kalyani;Ludhiana;Mashobra
+Bhindi,Abelmoschus esculentus,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,agree,9,Varanasi
+Broad bean,,Vicia faba,species,Fabaceae,Broad bean,dictionary,high,,9,Kalyani
+Debdaru,,Polyalthia longifolia,species,Annonaceae,Debdaru,dictionary,high,,9,Hisar;Kalyani
+Egg plant,Solanum melongena,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,agree,9,Varanasi
+Groundnut,,Arachis hypogaea,species,Fabaceae,Groundnut,dictionary,high,,9,Bangalore;Coimbatore;Hisar;Kalyani;Navsari
+Guava,Psidium guajava,Psidium guajava,species,Myrtaceae,Guava,dictionary,high,agree,9,Varanasi
+Litchi,Litchi chinensis,Litchi chinensis,species,Sapindaceae,Litchi,dictionary,high,agree,9,Kalyani;Varanasi
+Litchi chinensis,,Litchi chinensis,species,Sapindaceae,Litchi,dictionary,high,,9,Pusa
+Loquat,,Eriobotrya japonica,species,Rosaceae,Loquat,dictionary,high,,9,Ludhiana;Mashobra
+Malta,,Citrus sinensis,species,Rutaceae,Sweet orange,dictionary,high,,9,Ludhiana;Mashobra
+Sweet potato,,Ipomoea batatas,species,Convolvulaceae,Sweet potato,dictionary,high,,9,Coimbatore;Ludhiana;Navsari;Pusa
+Tecoma,,Tecoma sp.,genus,Bignoniaceae,Tecoma,dictionary,high,,9,Hisar
+Tori,,Luffa acutangula,species,Cucurbitaceae,Ridge gourd,dictionary,medium,,9,Hisar
+,Salvinia natans,Salvinia natans,species,Salviniaceae,Floating fern,printed_scientific_name_via_dictionary,high,,8,Varanasi
+,Oryza sativa,Oryza sativa,species,Poaceae,Rice,printed_scientific_name_via_dictionary,high,,8,Bangalore;Coimbatore;Kalyani
+Bel,,,ambiguous,,Bel (Aegle marmelos or Jasminum sambac),context_dependent_name,,,8,Kalyani
+Ber,Zizyphus jujuba,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,species_differs,8,Kalyani;Varanasi
+Drumstick,,Moringa oleifera,species,Moringaceae,Drumstick,dictionary,high,,8,Bangalore;Kalyani;Thrissur
+Falsa,,Grewia asiatica,species,Malvaceae,Phalsa,dictionary,medium,,8,Hisar
+Lantana camara,,Lantana camara,species,Verbenaceae,Lantana,dictionary,high,,8,Kalyani
+Mango,Mangifera indica L.,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,agree,8,Varanasi
+Strawberry,,Fragaria x ananassa,species,Rosaceae,Strawberry,dictionary,high,,8,Bangalore;Coimbatore;Ludhiana;Mashobra
+Tagor,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,8,Kalyani
+Unidentified weed,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,8,Bangalore;Coimbatore
+Weeds,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,8,Ludhiana;Navsari
+,Ipomoea sp.,Ipomoea sp.,genus,Convolvulaceae,Ipomoea,printed_scientific_name_via_dictionary,high,,7,Coimbatore;Kalyani;Ludhiana
+,Punica granatum,Punica granatum,species,Lythraceae,Pomegranate,printed_scientific_name_via_dictionary,high,,7,Bangalore;Coimbatore;Varanasi
+,Syzygium cumini,Syzygium cumini,species,Myrtaceae,Jamun,printed_scientific_name_via_dictionary,high,,7,Varanasi
+,Cocos nucifera,Cocos nucifera,species,Arecaceae,Coconut,printed_scientific_name_via_dictionary,high,,7,Coimbatore;Kalyani;Varanasi
+,Dolichos lablab,Lablab purpureus,species,Fabaceae,Lablab bean,printed_scientific_name_via_dictionary,high,,7,Coimbatore;Varanasi
+Anjir,,Ficus carica,species,Moraceae,Fig,dictionary,high,,7,Hisar
+Arhar,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,7,Hisar;Jorhat;Kalyani;Pusa
+Ash gourd,,Benincasa hispida,species,Cucurbitaceae,Ash gourd,dictionary,high,,7,Kalyani
+Bel,Aegle marmelos,Aegle marmelos,species,Rutaceae,Bael,dictionary,medium,agree,7,Varanasi
+Bottle gourd,,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,dictionary,high,,7,Kalyani;Navsari;Pusa
+Carnation,,Dianthus caryophyllus,species,Caryophyllaceae,Carnation,dictionary,high,,7,Bangalore;Coimbatore;Ludhiana;Mashobra
+Cherry,,Prunus sp.,genus,Rosaceae,Cherry,dictionary,high,,7,Bangalore;Ludhiana;Mashobra
+Dolichos bean,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,7,Kalyani
+Fig,Ficus carica,Ficus carica,species,Moraceae,Fig,dictionary,high,agree,7,Varanasi
+Forest plants,,forest plants,group,,Forest plants (unspecified),dictionary,high,,7,Kalyani
+French bean,,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,,7,Coimbatore;Jorhat;Kalyani;Mashobra
+Lablab,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,7,Coimbatore
+Mirch,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,7,Hisar
+Nayantara,,Catharanthus roseus,species,Apocynaceae,Periwinkle (nayantara),dictionary,high,,7,Kalyani
+Turmeric,,Curcuma longa,species,Zingiberaceae,Turmeric,dictionary,high,,7,Kalyani;Navsari;Thrissur
+Unidentified plant,,unidentified plant,group,,Unidentified plant,dictionary,high,,7,Bangalore;Coimbatore;Ludhiana
+Vendi,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,7,Kalyani
+,Citrus grandis,Citrus maxima,species,Rutaceae,Pomelo,printed_scientific_name_via_dictionary,high,,6,Varanasi
+,Citrullus melo utilissimus,Cucumis melo,species,Cucurbitaceae,Melon,printed_scientific_name_via_dictionary,high,,6,Varanasi
+,Ziziphus jujuba,Ziziphus jujuba,species,Rhamnaceae,Jujube / ber,printed_scientific_name_via_dictionary,high,,6,Varanasi
+,Litchi chinensis,Litchi chinensis,species,Sapindaceae,Litchi,printed_scientific_name_via_dictionary,high,,6,Kalyani;Varanasi
+,Luffa acutangula,Luffa acutangula,species,Cucurbitaceae,Ridge gourd,printed_scientific_name_via_dictionary,high,,6,Bangalore;Varanasi
+,Luffa cylindrica,Luffa aegyptiaca,species,Cucurbitaceae,Sponge gourd,printed_scientific_name_via_dictionary,high,,6,Varanasi
+,Chrysanthemum sp.,Chrysanthemum sp.,genus,Asteraceae,Chrysanthemum,printed_scientific_name_via_dictionary,high,,6,Coimbatore;Varanasi
+Areca,,Areca catechu,species,Arecaceae,Arecanut,dictionary,high,,6,Bangalore
+Bugainvillea,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,6,Kalyani
+Capsicum,,Capsicum sp.,genus,Solanaceae,Capsicum,dictionary,high,,6,Coimbatore;Jorhat;Kalyani;Ludhiana;Mashobra
+Cassava,,Manihot esculenta,species,Euphorbiaceae,Cassava,dictionary,high,,6,Coimbatore;Thrissur
+Chandramallika,,Chrysanthemum sp.,genus,Asteraceae,Chrysanthemum,dictionary,high,,6,Kalyani
+Citrus sp.,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,6,Bangalore;Kalyani;Pusa
+Ficus,,Ficus sp.,genus,Moraceae,Ficus,dictionary,high,,6,Coimbatore;Ludhiana
+Grass,,grasses,group,Poaceae,Grasses (unspecified),dictionary,high,,6,Bangalore;Coimbatore;Kalyani;Navsari
+Jamun,Syzygium cumini,Syzygium cumini,species,Myrtaceae,Jamun,dictionary,high,agree,6,Varanasi
+Lasora,,Cordia sp.,genus,Boraginaceae,Lasora,dictionary,medium,,6,Varanasi
+Paddy,,Oryza sativa,species,Poaceae,Rice,dictionary,high,,6,Bangalore;Coimbatore;Kalyani;Navsari
+Pomegranate,Punica granatum,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,agree,6,Varanasi
+Sapota,,Manilkara zapota,species,Sapotaceae,Sapota,dictionary,high,,6,Coimbatore;Kalyani;Navsari
+snake gourd,,Trichosanthes cucumerina,species,Cucurbitaceae,Snake gourd,dictionary,high,,6,Kalyani
+Soybean,,Glycine max,species,Fabaceae,Soybean,dictionary,high,,6,Bangalore;Ludhiana
+Walnut,,Juglans regia,species,Juglandaceae,Walnut,dictionary,high,,6,Ludhiana;Mashobra
+Weed,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,6,Bangalore;Coimbatore;Navsari
+,Vitis vinifera,Vitis vinifera,species,Vitaceae,Grape,printed_scientific_name_via_dictionary,high,,5,Ludhiana;Varanasi
+,Citrus limon,Citrus limon,species,Rutaceae,Lemon,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Trapa natans,Trapa natans,species,Lythraceae,Water chestnut,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Lycopersicon esculentum,Solanum lycopersicum,species,Solanaceae,Tomato,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Momordica charantia,Momordica charantia,species,Cucurbitaceae,Bitter gourd,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Cucurbita moschata,Cucurbita moschata,species,Cucurbitaceae,Pumpkin,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Capsicum annuum,Capsicum annuum,species,Solanaceae,Chilli,printed_scientific_name_via_dictionary,high,,5,Bangalore;Coimbatore;Varanasi
+,Hydrilla verticillata,Hydrilla verticillata,species,Hydrocharitaceae,Hydrilla,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Nelumbo nucifera,Nelumbo nucifera,species,Nelumbonaceae,Lotus,printed_scientific_name_via_dictionary,high,,5,Varanasi
+,Jasminum sambac,Jasminum sambac,species,Oleaceae,Arabian jasmine,printed_scientific_name_via_dictionary,high,,5,Bangalore;Coimbatore;Varanasi
+,Ricinus communis,Ricinus communis,species,Euphorbiaceae,Castor,printed_scientific_name_via_dictionary,high,,5,Bangalore;Coimbatore;Varanasi
+,Rosa sinensis,Hibiscus rosa-sinensis,species,Malvaceae,China rose,printed_scientific_name_via_dictionary,high,,5,Bangalore;Coimbatore
+Adenium,,Adenium sp.,genus,Apocynaceae,Adenium,dictionary,high,,5,Thrissur
+Betelvine,,Piper betle,species,Piperaceae,Betel vine,dictionary,high,,5,Coimbatore;Kalyani;Navsari
+Bohar,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,,5,Ludhiana
+Citrus sinensis,,Citrus sinensis,species,Rutaceae,Sweet orange,dictionary,high,,5,Ludhiana
+Gram,,Cicer arietinum,species,Fabaceae,Chickpea,dictionary,high,,5,Hisar;Jorhat;Ludhiana
+Grapevine,,Vitis vinifera,species,Vitaceae,Grape,dictionary,high,,5,Ludhiana
+Indian bean,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,5,Navsari
+Jack,,Artocarpus heterophyllus,species,Moraceae,Jackfruit,dictionary,high,,5,Coimbatore;Thrissur
+Mangifera indica,,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,,5,Kalyani;Ludhiana;Pusa
+Nimboo,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,5,Ludhiana
+Orange,,Citrus sp.,genus,Rutaceae,Orange,dictionary,medium,,5,Hisar;Ludhiana;Mashobra
+Ornamentals,,ornamentals,group,,Ornamentals (unspecified),dictionary,high,,5,Ludhiana
+Oxalis,,Oxalis sp.,genus,Oxalidaceae,Oxalis,dictionary,high,,5,Bangalore;Kalyani;Ludhiana;Mashobra
+Pecan nut,,Carya illinoinensis,species,Juglandaceae,Pecan,dictionary,high,,5,Ludhiana
+Sal tree,,Shorea robusta,species,Dipterocarpaceae,Sal,dictionary,high,,5,Kalyani
+Sesamum,,Sesamum indicum,species,Pedaliaceae,Sesame,dictionary,high,,5,Bangalore;Ludhiana;Navsari;Pusa
+Sunflower,,Helianthus annuus,species,Asteraceae,Sunflower,dictionary,high,,5,Bangalore;Coimbatore;Ludhiana;Thrissur
+,Cassia fistula,Cassia fistula,species,Fabaceae,Golden shower,printed_scientific_name_via_dictionary,high,,4,Bangalore;Varanasi
+,Pyrus communis,Pyrus communis,species,Rosaceae,Pear,printed_scientific_name_via_dictionary,high,,4,Varanasi
+,Citrullus vulgaris,Citrullus lanatus,species,Cucurbitaceae,Watermelon,printed_scientific_name_via_dictionary,high,,4,Varanasi
+,Citrullus lanatus,Citrullus lanatus,species,Cucurbitaceae,Watermelon,printed_scientific_name_via_dictionary,high,,4,Varanasi
+,Phaseolus vulgaris,Phaseolus vulgaris,species,Fabaceae,French bean,printed_scientific_name_via_dictionary,high,,4,Bangalore;Varanasi
+,Ipomoea aquatica,Ipomoea aquatica,species,Convolvulaceae,Water spinach,printed_scientific_name_via_dictionary,high,,4,Varanasi
+,Artocarpus integrifolia,Artocarpus heterophyllus,species,Moraceae,Jackfruit,printed_scientific_name_via_dictionary,high,,4,Coimbatore
+,Lablab purpureus,Lablab purpureus,species,Fabaceae,Lablab bean,printed_scientific_name_via_dictionary,high,,4,Bangalore
+,Citrus lemon,Citrus limon,species,Rutaceae,Lemon,printed_scientific_name_via_dictionary,high,,4,Kalyani
+,Dahlia variabilis,Dahlia sp.,genus,Asteraceae,Dahlia,printed_scientific_name_via_dictionary,high,,4,Kalyani
+,Nerium oleander,Nerium oleander,species,Apocynaceae,Oleander,printed_scientific_name_via_dictionary,high,,4,Kalyani
+amla,,Phyllanthus emblica,species,Phyllanthaceae,Amla,dictionary,high,,4,Kalyani
+Ashwagandha,Withania somnifera,Withania somnifera,species,Solanaceae,Ashwagandha,dictionary,high,agree,4,Varanasi
+Basak,,Justicia adhatoda,species,Acanthaceae,Adulsa,dictionary,high,,4,Kalyani
+Bauhinia,,Bauhinia sp.,genus,Fabaceae,Bauhinia,dictionary,high,,4,Bangalore;Ludhiana;Thrissur
+Black gram,,Vigna mungo,species,Fabaceae,Black gram,dictionary,high,,4,Coimbatore;Kalyani
+Butea monosperma,,Butea monosperma,species,Fabaceae,Flame of the forest,dictionary,high,,4,Bangalore;Kalyani
+Carica papaya,,Carica papaya,species,Caricaceae,Papaya,dictionary,high,,4,Kalyani;Pusa
+Cucurbit,,cucurbits,group,Cucurbitaceae,Cucurbits (unspecified),dictionary,high,,4,Bangalore;Kalyani
+Cynodon dactylon,,Cynodon dactylon,species,Poaceae,Bermuda grass,dictionary,high,,4,Kalyani
+Cyperus rotundus,,Cyperus rotundus,species,Cyperaceae,Nut grass,dictionary,high,,4,Kalyani
+Date palm fruits,,Phoenix dactylifera,species,Arecaceae,Date palm,dictionary,high,,4,Ludhiana
+Dolichos,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,4,Bangalore;Navsari
+Ficus benghalensis,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,,4,Kalyani
+Grape,,Vitis vinifera,species,Vitaceae,Grape,dictionary,high,,4,Ludhiana;Navsari
+Green gram,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,4,Coimbatore;Kalyani;Navsari
+Grewia hirsuta,,Grewia hirsuta,species,Malvaceae,Grewia,dictionary,high,,4,Bangalore
+Groundnut,Arachis hypogaea,Arachis hypogaea,species,Fabaceae,Groundnut,dictionary,high,agree,4,Kalyani
+Jetropha,,Jatropha sp.,genus,Euphorbiaceae,Jatropha,dictionary,high,,4,Kalyani
+jhau tree,,Tamarix dioica,species,Tamaricaceae,Jhau,dictionary,medium,,4,Kalyani
+Joge dumur,,Ficus sp.,genus,Moraceae,Ficus,dictionary,high,,4,Kalyani
+jujube,,Ziziphus jujuba,species,Rhamnaceae,Jujube / ber,dictionary,high,,4,Kalyani
+Jute,Corchorus olitorius,Corchorus olitorius,species,Malvaceae,Jute,dictionary_refined_by_printed_scientific_name,high,agree,4,Kalyani
+Kadam,,Anthocephalus cadamba,species,Rubiaceae,Kadam,dictionary,high,,4,Kalyani
+Kerini,Mimusops hexandra,Manilkara hexandra,species,Sapotaceae,Khirni,dictionary,high,agree,4,Varanasi
+Kherini,,Manilkara hexandra,species,Sapotaceae,Khirni,dictionary,high,,4,Varanasi
+Kiwi,,Actinidia chinensis,species,Actinidiaceae,Kiwifruit,dictionary,high,,4,Ludhiana
+Leswa,,Cordia sp.,genus,Boraginaceae,Lasora,dictionary,medium,,4,Hisar
+Marigold,Tagetes patula,Tagetes patula,species,Asteraceae,Marigold,dictionary_refined_by_printed_scientific_name,high,agree,4,Kalyani
+Melia,,Melia azedarach,species,Meliaceae,Bakain,dictionary,medium,,4,Ludhiana
+Nerium,,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,,4,Coimbatore;Kalyani
+Oryza sativa,,Oryza sativa,species,Poaceae,Rice,dictionary,high,,4,Kalyani;Pusa
+Pigeon pea,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,4,Kalyani;Navsari
+Pomelo,Citrus grandis,Citrus maxima,species,Rutaceae,Pomelo,dictionary,high,species_differs,4,Varanasi
+Radish,,Raphanus sativus,species,Brassicaceae,Radish,dictionary,high,,4,Coimbatore;Kalyani
+Seuliflower,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,4,Kalyani
+Sishum,,Dalbergia sissoo,species,Fabaceae,Shisham,dictionary,high,,4,Varanasi
+Soyabean,,Glycine max,species,Fabaceae,Soybean,dictionary,high,,4,Kalyani;Ludhiana;Navsari
+Suros flower,,,ambiguous,,Local name not resolved,context_dependent_name,,,4,Kalyani
+Tulsi,Ocimum sanctum,Ocimum tenuiflorum,species,Lamiaceae,Tulsi,dictionary,high,species_differs,4,Varanasi
+Vegetables,,vegetables,group,,Vegetables (unspecified),dictionary,high,,4,Ludhiana
+Weed,Lantana camara,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,4,Kalyani
+Wild apple,,Malus sp.,genus,Rosaceae,Wild apple,dictionary,high,,4,Ludhiana
+,Cordia obliqua,Cordia obliqua,species,Boraginaceae,Lasora,printed_scientific_name_via_dictionary,high,,3,Ludhiana
+,Amaranthus sp.,Amaranthus sp.,genus,Amaranthaceae,Amaranthus,printed_scientific_name_via_dictionary,high,,3,Bangalore;Jorhat;Ludhiana
+,Ficus glomerata,Ficus racemosa,species,Moraceae,Cluster fig,printed_scientific_name_via_dictionary,high,,3,Varanasi
+,Prunus persica,Prunus persica,species,Rosaceae,Peach,printed_scientific_name_via_dictionary,high,,3,Varanasi
+,Brassica oleracea,Brassica oleracea,species,Brassicaceae,Cole crops,printed_scientific_name_via_dictionary,high,,3,Varanasi
+,Thea sinensis,Camellia sinensis,species,Theaceae,Tea,printed_scientific_name_via_dictionary,high,,3,Coimbatore
+,Cynodon dactylon,Cynodon dactylon,species,Poaceae,Bermuda grass,printed_scientific_name_via_dictionary,high,,3,Coimbatore;Kalyani
+,Tagetes erecta,Tagetes sp.,genus,Asteraceae,Marigold,printed_scientific_name_via_dictionary,high,,3,Bangalore
+,Manihot esculenta,Manihot esculenta,species,Euphorbiaceae,Cassava,printed_scientific_name_via_dictionary,high,,3,Bangalore
+,Lycopersicum esculentum,Solanum lycopersicum,species,Solanaceae,Tomato,printed_scientific_name_via_dictionary,high,,3,Bangalore
+,Corchorus capsularis,Corchorus sp.,genus,Malvaceae,Jute,printed_scientific_name_via_dictionary,high,,3,Kalyani
+,Ananas comosus,Ananas comosus,species,Bromeliaceae,Pineapple,printed_scientific_name_via_dictionary,high,,3,Kalyani
+,Arachis hypogaea,Arachis hypogaea,species,Fabaceae,Groundnut,printed_scientific_name_via_dictionary,high,,3,Kalyani
+,Murraya exotica,Murraya paniculata,species,Rutaceae,Orange jasmine,printed_scientific_name_via_dictionary,high,,3,Kalyani
+,Ziziphus mauritiana,Ziziphus mauritiana,species,Rhamnaceae,Ber,printed_scientific_name_via_dictionary,high,,3,Varanasi
+,Citrus maxima,Citrus maxima,species,Rutaceae,Pomelo,printed_scientific_name_via_dictionary,high,,3,Varanasi
+,Mentha cardinalis,Mentha sp.,genus,Lamiaceae,Mint,printed_scientific_name_via_dictionary,high,,3,Varanasi
+,Corchorus olitorius & C. capsularies (Jute),Corchorus sp.,genus,Malvaceae,Jute,printed_scientific_name_via_dictionary,high,,3,Kalyani
+,Cocoos nucifera (Coconut),Cocos nucifera,species,Arecaceae,Coconut,printed_scientific_name_via_dictionary,high,,3,Kalyani
+Almond,,Prunus dulcis,species,Rosaceae,Almond,dictionary,medium,,3,Mashobra
+Amaranth,,Amaranthus sp.,genus,Amaranthaceae,Amaranthus,dictionary,high,,3,Jorhat
+Anjeer,,Ficus carica,species,Moraceae,Fig,dictionary,high,,3,Hisar
+Antirrhinum sp.,Winter annual,Antirrhinum sp.,genus,Plantaginaceae,Snapdragon,dictionary,high,,3,Kalyani
+Apple,Pyrus malus,Malus domestica,species,Rosaceae,Apple,dictionary,high,species_differs,3,Varanasi
+Areca palm,,Areca catechu,species,Arecaceae,Arecanut,dictionary,high,,3,Bangalore
+Arid Orchid,,Orchidaceae,family,Orchidaceae,Orchid,dictionary,high,,3,Kalyani
+Arjun tree,,Terminalia arjuna,species,Combretaceae,Arjun,dictionary,high,,3,Hisar
+Aru,,Prunus persica,species,Rosaceae,Peach,dictionary,high,,3,Hisar
+aster flower,,Asteraceae,family,Asteraceae,Aster,dictionary,medium,,3,Kalyani
+Badam,,Prunus dulcis,species,Rosaceae,Almond,dictionary,medium,,3,Ludhiana
+Barley,,Hordeum vulgare,species,Poaceae,Barley,dictionary,high,,3,Kalyani;Ludhiana
+"Bean, Rajma",Phaseolus vulgaris,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,agree,3,Varanasi
+Blackgram,,Vigna mungo,species,Fabaceae,Black gram,dictionary,high,,3,Coimbatore
+Bottlegourd,,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,dictionary,high,,3,Kalyani;Ludhiana
+Bougainvillea,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,3,Kalyani
+Calotropis,,Calotropis sp.,genus,Apocynaceae,Calotropis,dictionary,high,,3,Coimbatore;Thrissur
+Cashew,,Anacardium occidentale,species,Anacardiaceae,Cashew,dictionary,high,,3,Coimbatore
+Cauliflower,,Brassica oleracea,species,Brassicaceae,Cole crops,dictionary,high,,3,Hisar;Kalyani
+Chapan kadu,,Cucurbitaceae,family,Cucurbitaceae,Chapan kaddu (gourd),dictionary,medium,,3,Hisar
+Chilli,Licopersicon esculentum,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,genus_differs,3,Kalyani
+Chilli,Capsicum annuum,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,agree,3,Varanasi
+China rose,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,,3,Kalyani;Ludhiana
+Coffee,,Coffea sp.,genus,Rubiaceae,Coffee,dictionary,high,,3,Coimbatore
+Coriander,,Coriandrum sativum,species,Apiaceae,Coriander,dictionary,high,,3,Navsari;Varanasi
+Cowpea,Vigna unguiculata,Vigna unguiculata,species,Fabaceae,Cowpea,dictionary,high,agree,3,Varanasi
+Datura,,Datura sp.,genus,Solanaceae,Datura,dictionary,high,,3,Coimbatore;Ludhiana;Navsari
+Dried fish,,dried fish / prawn,substrate,,Dried fish,dictionary,high,,3,Kalyani
+Fern,,ferns,group,,Ferns,dictionary,high,,3,Kalyani;Ludhiana
+Ficus sp.,,Ficus sp.,genus,Moraceae,Ficus,dictionary,high,,3,Bangalore;Coimbatore
+Ghatu,,Sapindus sp.,genus,Sapindaceae,Soapnut,dictionary,medium,,3,Kalyani
+Green gram,Cicer arietinum,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,genus_differs,3,Varanasi
+Hill lemon,,Citrus pseudolimon,species,Rutaceae,Hill lemon,dictionary,medium,,3,Mashobra
+Ipomoea sp.,,Ipomoea sp.,genus,Convolvulaceae,Ipomoea,dictionary,high,,3,Coimbatore;Kalyani
+Jatropha,,Jatropha sp.,genus,Euphorbiaceae,Jatropha,dictionary,high,,3,Kalyani;Navsari
+kamini,,Murraya paniculata,species,Rutaceae,Orange jasmine,dictionary,medium,,3,Kalyani
+Kamrak,Averrhoa carambola,Averrhoa carambola,species,Oxalidaceae,Carambola,dictionary,high,agree,3,Varanasi
+kanchan,,Bauhinia sp.,genus,Fabaceae,Bauhinia,dictionary,high,,3,Kalyani
+Karela,,Momordica charantia,species,Cucurbitaceae,Bitter gourd,dictionary,high,,3,Hisar
+Kathal,,Artocarpus heterophyllus,species,Moraceae,Jackfruit,dictionary,high,,3,Pusa
+Khatti,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,3,Ludhiana
+Kheera,Cucumis sativus,Cucumis sativus,species,Cucurbitaceae,Cucumber,dictionary,high,agree,3,Varanasi
+Krishnachura,,Delonix regia,species,Fabaceae,Gulmohar,dictionary,high,,3,Kalyani
+Lantana,,Lantana camara,species,Verbenaceae,Lantana,dictionary,high,,3,Kalyani;Navsari
+Lemon citrus,,Citrus limon,species,Rutaceae,Lemon,dictionary,high,,3,Hisar
+Lobia,,Vigna unguiculata,species,Fabaceae,Cowpea,dictionary,high,,3,Hisar;Ludhiana
+Malvaceous weed,,Malvaceae,family,Malvaceae,Malvaceous weed,dictionary,high,,3,Bangalore;Coimbatore
+Mausami,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,3,Ludhiana
+Mentha,,Mentha sp.,genus,Lamiaceae,Mint,dictionary,high,,3,Ludhiana
+Mint,,Mentha sp.,genus,Lamiaceae,Mint,dictionary,high,,3,Bangalore;Mashobra
+Moringa,,Moringa oleifera,species,Moringaceae,Drumstick,dictionary,high,,3,Coimbatore;Thrissur
+Morus alba,,Morus alba,species,Moraceae,Mulberry,dictionary,high,,3,Kalyani;Ludhiana
+Mustard,,Brassica juncea,species,Brassicaceae,Mustard,dictionary,high,,3,Ludhiana;Mashobra
+Ocimum sanctum,,Ocimum tenuiflorum,species,Lamiaceae,Tulsi,dictionary,high,,3,Kalyani
+Peach,Prunus persica,Prunus persica,species,Rosaceae,Peach,dictionary,high,agree,3,Varanasi
+Pear,Pyrus communis,Pyrus communis,species,Rosaceae,Pear,dictionary,high,agree,3,Varanasi
+Phalsa,,Grewia asiatica,species,Malvaceae,Phalsa,dictionary,high,,3,Ludhiana
+Pine apple,,Ananas comosus,species,Bromeliaceae,Pineapple,dictionary,high,,3,Kalyani
+Pineapple,Ananas comosus,Ananas comosus,species,Bromeliaceae,Pineapple,dictionary,high,agree,3,Kalyani
+Pipali,Piper longum,Piper longum,species,Piperaceae,Long pepper,dictionary,high,agree,3,Varanasi
+Pitali,,,ambiguous,,Local name not resolved,context_dependent_name,,,3,Kalyani
+Pyrus communis,,Pyrus communis,species,Rosaceae,Pear,dictionary,high,,3,Ludhiana
+Red gram,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,3,Coimbatore;Navsari
+Ricinus communis,,Ricinus communis,species,Euphorbiaceae,Castor,dictionary,high,,3,Kalyani;Pusa
+Rose,Rosa indica,Rosa indica,species,Rosaceae,Rose,dictionary_refined_by_printed_scientific_name,high,agree,3,Kalyani;Varanasi
+sadafull,,Catharanthus roseus,species,Apocynaceae,Periwinkle (nayantara),dictionary,high,,3,Kalyani
+Sandle tree,,Santalum album,species,Santalaceae,Sandalwood,dictionary,high,,3,Kalyani
+Shiuli,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,3,Kalyani
+Sirish,,Albizia lebbeck,species,Fabaceae,Siris,dictionary,high,,3,Kalyani
+Small millet,,Poaceae,family,Poaceae,Small millets,dictionary,high,,3,Kalyani
+Soapnut tree,,Sapindus sp.,genus,Sapindaceae,Soapnut,dictionary,high,,3,Bangalore
+Sponge gourd,Luffa cylindrica,Luffa aegyptiaca,species,Cucurbitaceae,Sponge gourd,dictionary,high,species_differs,3,Varanasi
+stored products,,stored products,substrate,,Stored products,dictionary,high,,3,Hisar
+Sugarcane,Saccharum officinerum,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,species_differs,3,Kalyani
+Teak,,Tectona grandis,species,Lamiaceae,Teak,dictionary,high,,3,Coimbatore
+Tomato,Lycopersicon esculentum,Solanum lycopersicum,species,Solanaceae,Tomato,dictionary,high,species_differs,3,Kalyani;Varanasi
+Tuberose,,Agave amica,species,Asparagaceae,Tuberose,dictionary,high,,3,Bangalore;Kalyani
+Unidentified dried fish,,dried fish / prawn,substrate,,Dried fish,dictionary,high,,3,Kalyani
+Water chestnut,Trapa natans,Trapa natans,species,Lythraceae,Water chestnut,dictionary,high,agree,3,Varanasi
+Wheat flour,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,3,Hisar
+Zizyphus,,Ziziphus sp.,genus,Rhamnaceae,Ber,dictionary,high,,3,Bangalore;Navsari
+,Terminalia chebula,Terminalia chebula,species,Combretaceae,Harad,printed_scientific_name_via_dictionary,high,,2,Ludhiana
+,Shorea robusta,Shorea robusta,species,Dipterocarpaceae,Sal,printed_scientific_name_via_dictionary,high,,2,Ludhiana
+,Mallotus philippinensis,Mallotus philippinensis,species,Euphorbiaceae,Kamala tree,printed_scientific_name_via_dictionary,high,,2,Ludhiana
+,Solanum nigrum,Solanum nigrum,species,Solanaceae,Black nightshade,printed_scientific_name_via_dictionary,high,,2,Ludhiana;Varanasi
+,Xanthium strumarium,Xanthium strumarium,species,Asteraceae,Cocklebur,printed_scientific_name_via_dictionary,high,,2,Ludhiana
+,Phoenix sp.,Phoenix dactylifera,species,Arecaceae,Date palm,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Leucas aspera,Leucas sp.,genus,Lamiaceae,Leucas,printed_scientific_name_via_dictionary,high,,2,Thrissur
+,Arachis pintoi (Peanut),Arachis pintoi,species,Fabaceae,Pinto peanut,printed_scientific_name_via_dictionary,high,,2,Thrissur
+,Artocarpus heterophyllus,Artocarpus heterophyllus,species,Moraceae,Jackfruit,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Grewia asiatica,Grewia asiatica,species,Malvaceae,Phalsa,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Prunus domestica,Prunus domestica,species,Rosaceae,Plum,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Aegle marmelos,Aegle marmelos,species,Rutaceae,Bael,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Juglans regia,Juglans regia,species,Juglandaceae,Walnut,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Trichosanthes dioica,Trichosanthes dioica,species,Cucurbitaceae,Pointed gourd,printed_scientific_name_via_dictionary,high,,2,Bangalore;Varanasi
+,Vicia faba,Vicia faba,species,Fabaceae,Broad bean,printed_scientific_name_via_dictionary,high,,2,Bangalore;Varanasi
+,Trichosanthes cucumerina,Trichosanthes cucumerina,species,Cucurbitaceae,Snake gourd,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Raphanus sativus,Raphanus sativus,species,Brassicaceae,Radish,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Solanum tuberosum,Solanum tuberosum,species,Solanaceae,Potato,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Bacopa monnieri,Bacopa monnieri,species,Plantaginaceae,Brahmi,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Marsilea minuta,Marsilea minuta,species,Marsileaceae,Water clover,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Lemna minor,Lemna minor,species,Araceae,Duckweed,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Cymbopogon martini,Cymbopogon martinii,species,Poaceae,Palmarosa,printed_scientific_name_via_dictionary,high,,2,Coimbatore
+,Azadirachta indica,Azadirachta indica,species,Meliaceae,Neem,printed_scientific_name_via_dictionary,high,,2,Bangalore;Coimbatore
+,Moringa pterygosperma,Moringa oleifera,species,Moringaceae,Drumstick,printed_scientific_name_via_dictionary,high,,2,Coimbatore
+,Ailanthes excelsa,Ailanthus sp.,genus,Simaroubaceae,Ailanthus,printed_scientific_name_via_dictionary,high,,2,Coimbatore
+,Malpighia glabra,Malpighia glabra,species,Malpighiaceae,Barbados cherry,printed_scientific_name_via_dictionary,high,,2,Ludhiana
+,Asystasia corromandaliana,Asystasia sp.,genus,Acanthaceae,Asystasia,printed_scientific_name_via_dictionary,high,,2,Ludhiana
+,Solanum lycopersicum,Solanum lycopersicum,species,Solanaceae,Tomato,printed_scientific_name_via_dictionary,high,,2,Bangalore
+,Dendranthema grandiflora,Chrysanthemum sp.,genus,Asteraceae,Chrysanthemum,printed_scientific_name_via_dictionary,high,,2,Bangalore
+,Jasminum auriculatum,Jasminum auriculatum,species,Oleaceae,Jasmine,printed_scientific_name_via_dictionary,high,,2,Bangalore;Coimbatore
+,Jasminum grandiflorum,Jasminum grandiflorum,species,Oleaceae,Spanish jasmine,printed_scientific_name_via_dictionary,high,,2,Bangalore;Coimbatore
+,Tinospora cordifolia,Tinospora cordifolia,species,Menispermaceae,Giloy,printed_scientific_name_via_dictionary,high,,2,Coimbatore;Varanasi
+,Capsicum frutescens,Capsicum frutescens,species,Solanaceae,Chilli,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Cucurbita pepo,Cucurbita pepo,species,Cucurbitaceae,Squash,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Phaseolus mungo,Vigna mungo,species,Fabaceae,Black gram,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Corchorus olitorius,Corchorus sp.,genus,Malvaceae,Jute,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Rosa indica,Rosa sp.,genus,Rosaceae,Rose,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Tagetes patula,Tagetes sp.,genus,Asteraceae,Marigold,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Coleus sp.,Coleus sp.,genus,Lamiaceae,Coleus,printed_scientific_name_via_dictionary,high,,2,Kalyani
+,Dalbergia sissoo,Dalbergia sissoo,species,Fabaceae,Shisham,printed_scientific_name_via_dictionary,high,,2,Kalyani;Varanasi
+,Lagenaria vulgaris,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Bauhinia variegata,Bauhinia variegata,species,Fabaceae,Kachnar,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Dracaena sp.,Dracaena sp.,genus,Asparagaceae,Dracaena,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Carthamus tinctorius,Carthamus tinctorius,species,Asteraceae,Safflower,printed_scientific_name_via_dictionary,high,,2,Varanasi
+,Solanum sp.,Solanum sp.,genus,Solanaceae,Solanum,printed_scientific_name_via_dictionary,high,,2,Coimbatore
+,Murraya koenigii,Murraya koenigii,species,Rutaceae,Curry leaf,printed_scientific_name_via_dictionary,high,,2,Coimbatore
+,Antirrhinum sp.,Antirrhinum sp.,genus,Plantaginaceae,Snapdragon,printed_scientific_name_via_dictionary,high,,2,Kalyani
+Abroma augusta,,Abroma augusta,species,Malvaceae,Devil's cotton,dictionary,high,,2,Kalyani
+Abrus precatorius,,Abrus precatorius,species,Fabaceae,Rosary pea,dictionary,high,,2,Kalyani
+Acalypha,,Acalypha sp.,genus,Euphorbiaceae,Acalypha,dictionary,high,,2,Kalyani;Navsari
+Achras zapota,,Manilkara zapota,species,Sapotaceae,Sapota,dictionary,high,,2,Ludhiana
+Alocasia,,Alocasia sp.,genus,Araceae,Alocasia,dictionary,high,,2,Thrissur
+Amaranthus viridis,,Amaranthus viridis,species,Amaranthaceae,Slender amaranth,dictionary,high,,2,Kalyani
+Anacardium occidentale,,Anacardium occidentale,species,Anacardiaceae,Cashew,dictionary,high,,2,Kalyani
+Areca catechu,,Areca catechu,species,Arecaceae,Arecanut,dictionary,high,,2,Kalyani
+Artocarpus heterophyllus,,Artocarpus heterophyllus,species,Moraceae,Jackfruit,dictionary,high,,2,Kalyani;Pusa
+Ashoka tree,,Saraca asoca,species,Fabaceae,Ashoka,dictionary,medium,,2,Ludhiana
+Avare,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,2,Bangalore
+Bael,,Aegle marmelos,species,Rutaceae,Bael,dictionary,high,,2,Ludhiana
+Bajra,,Pennisetum glaucum,species,Poaceae,Pearl millet,dictionary,high,,2,Hisar
+Baken,,Melia azedarach,species,Meliaceae,Bakain,dictionary,medium,,2,Hisar
+Balsam,,Impatiens balsamina,species,Balsaminaceae,Balsam,dictionary,high,,2,Thrissur
+Bambusa tulda,,Bambusa tulda,species,Poaceae,Bamboo,dictionary,high,,2,Kalyani
+Bel,,Aegle marmelos,species,Rutaceae,Bael,dictionary,medium,,2,Kalyani
+Bera tree,,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,,2,Kalyani
+Cajanus cajan,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,2,Kalyani;Pusa
+Cashewnut,,Anacardium occidentale,species,Anacardiaceae,Cashew,dictionary,high,,2,Kalyani;Navsari
+Cassia,,Cassia sp.,genus,Fabaceae,Cassia,dictionary,high,,2,Coimbatore;Thrissur
+Chakavand,Cassia tora,Cassia tora,species,Fabaceae,Sickle senna,dictionary,high,agree,2,Varanasi
+Chenopodium abrosiodes,,Chenopodium ambrosioides,species,Amaranthaceae,Mexican tea,dictionary,high,,2,Ludhiana
+Citrus,Citrus lemon,Citrus lemon,species,Rutaceae,Citrus,dictionary_refined_by_printed_scientific_name,high,agree,2,Varanasi
+Citrus,Citrus medica,Citrus medica,species,Rutaceae,Citrus,dictionary_refined_by_printed_scientific_name,high,agree,2,Varanasi
+Citrus limon,,Citrus limon,species,Rutaceae,Lemon,dictionary,high,,2,Ludhiana
+Citrus reticulata var. musambi,,Citrus reticulata,species,Rutaceae,Mandarin,dictionary,high,,2,Kalyani
+Coconut fronds,,Cocos nucifera,species,Arecaceae,Coconut,dictionary,high,,2,Coimbatore
+Coconut palm,,Cocos nucifera,species,Arecaceae,Coconut,dictionary,high,,2,Bangalore;Coimbatore
+Cocos nucifera,,Cocos nucifera,species,Arecaceae,Coconut,dictionary,high,,2,Kalyani
+Colocasia,,Colocasia sp.,genus,Araceae,Colocasia,dictionary,high,,2,Hisar;Thrissur
+Crape jasmine,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,2,Thrissur
+Cucumber,Cucumis sativus,Cucumis sativus,species,Cucurbitaceae,Cucumber,dictionary,high,agree,2,Varanasi
+Cucumis sativus,,Cucumis sativus,species,Cucurbitaceae,Cucumber,dictionary,high,,2,Kalyani;Pusa
+Custard,,Annona squamosa,species,Annonaceae,Custard apple,dictionary,high,,2,Kalyani
+Dalbergia sissoo,,Dalbergia sissoo,species,Fabaceae,Shisham,dictionary,high,,2,Bangalore;Kalyani
+Datepalm,,Phoenix dactylifera,species,Arecaceae,Date palm,dictionary,high,,2,Navsari
+Datura stramonium,,Datura sp.,genus,Solanaceae,Datura,dictionary,high,,2,Kalyani
+Debris of shop,"Paonta Sahib, H.P.",other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,2,Hisar
+Dhrek,,Melia azedarach,species,Meliaceae,Bakain,dictionary,medium,,2,Ludhiana
+Emblica officinalis,,Phyllanthus emblica,species,Phyllanthaceae,Amla,dictionary,high,,2,Kalyani
+Eujenia jumbolana,Black berry,Syzygium cumini,species,Myrtaceae,Jamun,dictionary,high,,2,Kalyani
+Ficus bengalensis,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,,2,Kalyani
+Ficus religiosa,,Ficus religiosa,species,Moraceae,Peepal,dictionary,high,,2,Coimbatore;Kalyani
+flower,,ornamentals,group,,Ornamentals (unspecified),dictionary,high,,2,Kalyani
+Fodder oats,,Avena sativa,species,Poaceae,Oats,dictionary,high,,2,Ludhiana
+Fruits,,fruits,group,,Fruits (unspecified),dictionary,high,,2,Ludhiana
+Gawar,,Cyamopsis tetragonoloba,species,Fabaceae,Cluster bean,dictionary,high,,2,Hisar
+ginger,,Zingiber officinale,species,Zingiberaceae,Ginger,dictionary,high,,2,Kalyani
+Gladiolus,,Gladiolus sp.,genus,Iridaceae,Gladiolus,dictionary,high,,2,Kalyani
+Gladiolus bulb,,Gladiolus sp.,genus,Iridaceae,Gladiolus,dictionary,high,,2,Kalyani
+Gowar,,Cyamopsis tetragonoloba,species,Fabaceae,Cluster bean,dictionary,high,,2,Hisar
+Grapevine,Vitis vinifera,Vitis vinifera,species,Vitaceae,Grape,dictionary,high,agree,2,Varanasi
+Grass (Chrysopogon),,Chrysopogon sp.,genus,Poaceae,Grass,dictionary,high,,2,Bangalore
+Grasses,,grasses,group,Poaceae,Grasses (unspecified),dictionary,high,,2,Coimbatore
+Gullar,Ficus glomerata,Ficus racemosa,species,Moraceae,Cluster fig,dictionary,high,species_differs,2,Varanasi
+Gypsophila,,Gypsophila sp.,genus,Caryophyllaceae,Gypsophila,dictionary,high,,2,Coimbatore;Jorhat
+Helianthus,,Helianthus annuus,species,Asteraceae,Sunflower,dictionary,high,,2,Navsari
+Hibiscus micrantha,,Hibiscus micranthus,species,Malvaceae,Hibiscus,dictionary,high,,2,Bangalore
+Ixora sp,,Ixora sp.,genus,Rubiaceae,Ixora,dictionary,high,,2,Kalyani
+Jamrul,,Syzygium sp.,genus,Myrtaceae,Rose apple / water apple,dictionary,medium,,2,Kalyani
+Kabari,,,ambiguous,,Local name not resolved,context_dependent_name,,,2,Kalyani
+Kachanar,Bahunia variegata,Bauhinia variegata,species,Fabaceae,Kachnar,dictionary,high,,2,Varanasi
+Kadamful,,Anthocephalus cadamba,species,Rubiaceae,Kadam,dictionary,high,,2,Kalyani
+Kakeri,Citrullus melo,Cucumis melo,species,Cucurbitaceae,Melon,dictionary,high,agree,2,Varanasi
+Kanchan,Bauhinia purpuria,Bauhinia purpuria,species,Fabaceae,Bauhinia,dictionary_refined_by_printed_scientific_name,high,agree,2,Kalyani
+Kanchnar,Bauhinia variegata,Bauhinia variegata,species,Fabaceae,Kachnar,dictionary,high,agree,2,Varanasi
+Karabi flower,,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,,2,Kalyani
+Karipata,Murraya koenigi,Murraya koenigii,species,Rutaceae,Curry leaf,dictionary,high,species_differs,2,Kalyani
+koromcha,,,ambiguous,,Local name not resolved,context_dependent_name,,,2,Kalyani
+Lab lab,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,2,Coimbatore
+"Labiatae, weed",,Lamiaceae,family,Lamiaceae,Labiate weed,dictionary,high,,2,Bangalore
+Lady's finger,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,2,Hisar
+Lantana camera,,Lantana camara,species,Verbenaceae,Lantana,dictionary,high,,2,Kalyani
+Leptadenia reticulata,,Leptadenia reticulata,species,Apocynaceae,Jivanti,dictionary,high,,2,Bangalore
+Lime,Citrus aurantifolia,Citrus aurantiifolia,species,Rutaceae,Lime,dictionary,high,species_differs,2,Varanasi
+Litchi,Litchi chinensis L.,Litchi chinensis,species,Sapindaceae,Litchi,dictionary,high,agree,2,Varanasi
+Little gourd,,Coccinia grandis,species,Cucurbitaceae,Ivy gourd,dictionary,medium,,2,Navsari
+Local,,,ambiguous,,Local name not resolved,context_dependent_name,,,2,Ludhiana
+Lotus,,Nelumbo nucifera,species,Nelumbonaceae,Lotus,dictionary,high,,2,Kalyani;Ludhiana
+Lycopersicon esculentum,,Solanum lycopersicum,species,Solanaceae,Tomato,dictionary,high,,2,Pusa
+Macho fruit,,,ambiguous,,Local name not resolved,context_dependent_name,,,2,Kalyani
+Mahogany,,Swietenia mahagoni,species,Meliaceae,Mahogany,dictionary,high,,2,Kalyani
+Medicinal plants,,medicinal plants,group,,Medicinal plants (unspecified),dictionary,high,,2,Ludhiana
+Mehendi,,Lawsonia inermis,species,Lythraceae,Henna,dictionary,high,,2,Hisar
+Momordica charantia,,Momordica charantia,species,Cucurbitaceae,Bitter gourd,dictionary,high,,2,Kalyani;Ludhiana
+Moong,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,2,Hisar;Kalyani
+Moringa oleifera,,Moringa oleifera,species,Moringaceae,Drumstick,dictionary,high,,2,Kalyani
+Mousumi citrus,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,2,Hisar
+Mulberry plant,Morus alba,Morus alba,species,Moraceae,Mulberry,dictionary,high,agree,2,Kalyani
+Mung,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,2,Navsari
+Murraya exotica,Ornamental plant,Murraya paniculata,species,Rutaceae,Orange jasmine,dictionary,high,,2,Kalyani
+Nyctanthes arbor-tristis,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,2,Kalyani
+Orchid,,Orchidaceae,family,Orchidaceae,Orchid,dictionary,high,,2,Jorhat;Thrissur
+Orchid (epiphytic),Dendrobium sp.,Orchidaceae,family,Orchidaceae,Orchid,dictionary,high,,2,Kalyani
+Ornamental plant,,ornamentals,group,,Ornamentals (unspecified),dictionary,high,,2,Coimbatore;Kalyani
+Oxalis corniculata,,Oxalis sp.,genus,Oxalidaceae,Oxalis,dictionary,high,,2,Kalyani
+Palm,,Arecaceae,family,Arecaceae,Palm (unspecified),dictionary,high,,2,Kalyani
+Parthenium,,Parthenium hysterophorus,species,Asteraceae,Parthenium,dictionary,high,,2,Bangalore;Coimbatore
+Phaseolus aureus,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,2,Kalyani
+Phaseolus vulgaris,,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,,2,Pusa
+Phoenix dactylifera,,Phoenix dactylifera,species,Arecaceae,Date palm,dictionary,high,,2,Kalyani
+Plum,Prunus domestica,Prunus domestica,species,Rosaceae,Plum,dictionary,high,agree,2,Varanasi
+Pomegramate,,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,,2,Kalyani
+Pongammia pinnata,,Pongamia pinnata,species,Fabaceae,Karanj,dictionary,high,,2,Kalyani
+Pummelo,,Citrus maxima,species,Rutaceae,Pomelo,dictionary,high,,2,Ludhiana
+Pumpkin,Cucurbita moschata,Cucurbita moschata,species,Cucurbitaceae,Pumpkin,dictionary_refined_by_printed_scientific_name,high,agree,2,Varanasi
+Punica granatum,,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,,2,Kalyani;Pusa
+Red palm,,Arecaceae,family,Arecaceae,Palm (unspecified),dictionary,high,,2,Coimbatore
+Reri,,Ricinus communis,species,Euphorbiaceae,Castor,dictionary,high,,2,Kalyani
+Ridgegourd,,Luffa acutangula,species,Cucurbitaceae,Ridge gourd,dictionary,high,,2,Kalyani
+Rosa indica,,Rosa sp.,genus,Rosaceae,Rose,dictionary,high,,2,Kalyani
+Rosa sp,,Rosa sp.,genus,Rosaceae,Rose,dictionary,high,,2,Kalyani
+Rotten wheat,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,2,Hisar
+Rubber,,Hevea brasiliensis,species,Euphorbiaceae,Rubber,dictionary,medium,,2,Coimbatore
+Saccharum officinarum,,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,,2,Kalyani
+Salvia,,Salvia sp.,genus,Lamiaceae,Salvia,dictionary,high,,2,Kalyani;Mashobra
+Sandalwood,,Santalum album,species,Santalaceae,Sandalwood,dictionary,high,,2,Kalyani
+Saras tree,,Albizia lebbeck,species,Fabaceae,Siris,dictionary,high,,2,Hisar
+Sarpagandha,Rauvolfia serpentina,Rauvolfia serpentina,species,Apocynaceae,Sarpagandha,dictionary,high,agree,2,Varanasi
+Sesame,Sesamum indicum,Sesamum indicum,species,Pedaliaceae,Sesame,dictionary,high,agree,2,Kalyani
+Seuli,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,2,Kalyani
+Shiuli flower,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,2,Kalyani
+Siras tree,,Albizia lebbeck,species,Fabaceae,Siris,dictionary,high,,2,Hisar
+Stored groundnut,,Arachis hypogaea,species,Fabaceae,Groundnut,dictionary,high,,2,Kalyani
+Tephrosia sp.,,Tephrosia sp.,genus,Fabaceae,Tephrosia,dictionary,high,,2,Bangalore
+Terminalia chebula,,Terminalia chebula,species,Combretaceae,Harad,dictionary,high,,2,Bangalore
+Tiger Lily,,Lilium sp.,genus,Liliaceae,Tiger lily,dictionary,high,,2,Kalyani
+Tulsi (Ocimumtenuiflorum),,Ocimum tenuiflorum,species,Lamiaceae,Tulsi,dictionary,high,,2,Kalyani
+Unknown weed,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,2,Navsari;Thrissur
+Vigna mungo,,Vigna mungo,species,Fabaceae,Black gram,dictionary,high,,2,Coimbatore;Kalyani
+Walnut,Juglans regia,Juglans regia,species,Juglandaceae,Walnut,dictionary,high,agree,2,Varanasi
+Water melon,,Citrullus lanatus,species,Cucurbitaceae,Watermelon,dictionary,high,,2,Pusa;Thrissur
+Watermelon,Citrullus vulgaris,Citrullus lanatus,species,Cucurbitaceae,Watermelon,dictionary,high,species_differs,2,Varanasi
+white flower,,ornamentals,group,,Ornamentals (unspecified),dictionary,high,,2,Kalyani
+Wild plant,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,2,Bangalore;Kalyani
+Zinnia,,Zinnia sp.,genus,Asteraceae,Zinnia,dictionary,high,,2,Kalyani;Thrissur
+Ziziphus,,Ziziphus sp.,genus,Rhamnaceae,Ber,dictionary,high,,2,Ludhiana
+Zizyphus zuzuba,,Ziziphus jujuba,species,Rhamnaceae,Jujube / ber,dictionary,high,,2,Kalyani
+,Actinidia chinensis,Actinidia chinensis,species,Actinidiaceae,Kiwifruit,printed_scientific_name_via_dictionary,high,,1,Ludhiana
+,Oxalis sp.,Oxalis sp.,genus,Oxalidaceae,Oxalis,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Crallia bracteata,Crallia bracteata,species,,Crallia (as printed),printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Pongamia pinnata,Pongamia pinnata,species,Fabaceae,Karanj,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Calotropis gigantea,Calotropis sp.,genus,Apocynaceae,Calotropis,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Holarrhena antidysenterica,Holarrhena antidysenterica,species,Apocynaceae,Kurchi,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Pergularia daemia,Pergularia daemia,species,Apocynaceae,Pergularia,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Zyziphus oenoplia,Ziziphus oenopolia,species,Rhamnaceae,Jackal jujube,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Setaria sp.,Setaria sp.,genus,Poaceae,Setaria,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Grevillea robusta,Grevillea robusta,species,Proteaceae,Silver oak,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Dodonaea viscosa,Dodonaea viscosa,species,Sapindaceae,Hop bush,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Syzigium cumini,Syzygium cumini,species,Myrtaceae,Jamun,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Parthenium hysterophorus,Parthenium hysterophorus,species,Asteraceae,Parthenium,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Cassia tora,Cassia tora,species,Fabaceae,Sickle senna,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Sechium edule,Sechium edule,species,Cucurbitaceae,Chayote,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Grewia orbiculata,Grewia orbiculata,species,Malvaceae,Grewia,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Dahlia,Dahlia sp.,genus,Asteraceae,Dahlia,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Pergularia sp.,Pergularia daemia,species,Apocynaceae,Pergularia,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Ichnocarpus sp.,Ichnocarpus sp.,genus,Apocynaceae,Ichnocarpus,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Pannicum sp.,Panicum sp.,genus,Poaceae,Panicum,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Cajanus cajan (Red gram),Cajanus cajan,species,Fabaceae,Pigeonpea,printed_scientific_name_via_dictionary,high,,1,Navsari
+,Alangium salviifolium,Alangium salviifolium,species,Cornaceae,Alangium,printed_scientific_name_via_dictionary,high,,1,Thrissur
+,Oxalis corniculata,Oxalis sp.,genus,Oxalidaceae,Oxalis,printed_scientific_name_via_dictionary,high,,1,Thrissur
+,Exacum bicolor (Country kreat),Exacum bicolor,species,Gentianaceae,Exacum,printed_scientific_name_via_dictionary,high,,1,Thrissur
+,Clausena anisata,Clausena anisata,species,Rutaceae,Clausena,printed_scientific_name_via_dictionary,high,,1,Thrissur
+,Eriobotrya japonica,Eriobotrya japonica,species,Rosaceae,Loquat,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Citrus aurantifolia,Citrus aurantiifolia,species,Rutaceae,Lime,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Prunus armeniaca,Prunus armeniaca,species,Rosaceae,Apricot,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Brassica juncea,Brassica juncea,species,Brassicaceae,Mustard,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Commiphora canadata,Commiphora sp.,genus,Burseraceae,Commiphora,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Pithacolobium dulse,Pithecellobium dulce,species,Fabaceae,Manila tamarind,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Jasminum pubescens,Jasminum pubescens,species,Oleaceae,Jasmine,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Citrus spp.,Citrus sp.,genus,Rutaceae,Citrus,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Ipomoea palmata,Ipomoea cairica,species,Convolvulaceae,Cairo morning glory,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Alangium salvifolium,Alangium salviifolium,species,Cornaceae,Alangium,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Annona squamosa,Annona squamosa,species,Annonaceae,Custard apple,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Barleria sp.,Barleria sp.,genus,Acanthaceae,Barleria,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Jasminum sp.,Jasminum sp.,genus,Oleaceae,Jasmine,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Citrus jumberi,Citrus jambhiri,species,Rutaceae,Rough lemon,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Ipomoea staphylina,Ipomoea staphylina,species,Convolvulaceae,Ipomoea,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Morinda tinctoria,Morinda tinctoria,species,Rubiaceae,Indian mulberry,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Gossypium arboreum,Gossypium arboreum,species,Malvaceae,Tree cotton,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Musa sapientum,Musa sp.,genus,Musaceae,Banana,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Gossypium sp.,Gossypium sp.,genus,Malvaceae,Cotton,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Bambusa sp.,Bambusa sp.,genus,Poaceae,Bamboo,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Eucalyptus tereticornis,Eucalyptus tereticornis,species,Myrtaceae,Eucalyptus,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Murraya koenigi,Murraya koenigii,species,Rutaceae,Curry leaf,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Calotropis gigantia,Calotropis sp.,genus,Apocynaceae,Calotropis,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Glyricidia orientalis,Gliricidia sp.,genus,Fabaceae,Gliricidia,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Eichorinia sp.,Eichhornia crassipes,species,Pontederiaceae,Water hyacinth,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Santalum album,Santalum album,species,Santalaceae,Sandalwood,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Tectona grandis,Tectona grandis,species,Lamiaceae,Teak,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Gordenia florida,Gardenia sp.,genus,Rubiaceae,Gardenia,printed_scientific_name_via_dictionary,high,,1,Ludhiana
+,Tuniperus recura,Juniperus recurva,species,Cupressaceae,Juniper,printed_scientific_name_via_dictionary,high,,1,Ludhiana
+,Serissia foetida,Serissa japonica,species,Rubiaceae,Serissa,printed_scientific_name_via_dictionary,high,,1,Ludhiana
+,Bauhinia,Bauhinia sp.,genus,Fabaceae,Bauhinia,printed_scientific_name_via_dictionary,high,,1,Ludhiana
+,Melia azedarach,Melia azedarach,species,Meliaceae,Bakain,printed_scientific_name_via_dictionary,medium,,1,Ludhiana
+,Bauhinia sp.,Bauhinia sp.,genus,Fabaceae,Bauhinia,printed_scientific_name_via_dictionary,high,,1,Ludhiana
+,Luffa aegyptiaca,Luffa aegyptiaca,species,Cucurbitaceae,Sponge gourd,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Cannabis sativa,Cannabis sativa,species,Cannabaceae,Hemp,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Cucumis anguria,Cucumis anguria,species,Cucurbitaceae,West Indian gherkin,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Moringa oleifera,Moringa oleifera,species,Moringaceae,Drumstick,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Cyamopsis tetragonoloba,Cyamopsis tetragonoloba,species,Fabaceae,Cluster bean,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Phaseolus lunatus,Phaseolus lunatus,species,Fabaceae,Lima bean,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Malus domestica,Malus domestica,species,Rosaceae,Apple,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Adenium sp.,Adenium sp.,genus,Apocynaceae,Adenium,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Jasminum multiflorum,Jasminum multiflorum,species,Oleaceae,Star jasmine,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Citrus sp.,Citrus sp.,genus,Rutaceae,Citrus,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Bergera koenigii,Murraya koenigii,species,Rutaceae,Curry leaf,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Calotropis sp.,Calotropis sp.,genus,Apocynaceae,Calotropis,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Phyllanthus sp.,Phyllanthus sp.,genus,Phyllanthaceae,Phyllanthus,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Musa sp.,Musa sp.,genus,Musaceae,Banana,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Ziziphus sp.,Ziziphus sp.,genus,Rhamnaceae,Ber,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Areca catechu,Areca catechu,species,Arecaceae,Arecanut,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Cocculus pendulus,Cocculus pendulus,species,Menispermaceae,Cocculus,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Olea dioica,Olea dioica,species,Oleaceae,Olea,printed_scientific_name_via_dictionary,high,,1,Bangalore
+,Leptadenia reticulata (Jeevanti),Leptadenia reticulata,species,Apocynaceae,,printed_scientific_name,high,,1,Navsari
+,Triticum aestivum,Triticum aestivum,species,Poaceae,Wheat,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Hordeum vulgare,Hordeum vulgare,species,Poaceae,Barley,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Begonia sp.,Begonia sp.,genus,Begoniaceae,Begonia,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Duranta plumieri,Duranta plumieri,species,Verbenaceae,Duranta,printed_scientific_name_via_dictionary,medium,,1,Kalyani
+,Argemone mexicana,Argemone mexicana,species,Papaveraceae,Mexican poppy,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Ziziphus zuzuba,Ziziphus jujuba,species,Rhamnaceae,Jujube / ber,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Medicago sativa,Medicago sativa,species,Fabaceae,Lucerne,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Bambusa tulda,Bambusa tulda,species,Poaceae,Bamboo,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Acalypha wilkesiana,Acalypha sp.,genus,Euphorbiaceae,Acalypha,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Terminalia arjuna,Terminalia arjuna,species,Combretaceae,Arjun,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Hibiscus rosa-sinensis,Hibiscus rosa-sinensis,species,Malvaceae,China rose,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Plumeria acutifolia,Plumeria sp.,genus,Apocynaceae,Plumeria,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Rauvolfia serpentina,Rauvolfia serpentina,species,Apocynaceae,Sarpagandha,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Passiflora edulis,Passiflora edulis,species,Passifloraceae,Passion fruit,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Artocarpus incisor,Artocarpus sp.,genus,Moraceae,Breadfruit,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Ipomoea batatas,Ipomoea batatas,species,Convolvulaceae,Sweet potato,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Nyctanthus sp.,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Euochloa reptans,Urochloa reptans,species,Poaceae,Creeping signal grass,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Millingtonia hortensis,Millingtonia hortensis,species,Bignoniaceae,Indian cork tree,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Sorghum vulgare,Sorghum bicolor,species,Poaceae,Sorghum,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Manihot utilissima,Manihot esculenta,species,Euphorbiaceae,Cassava,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Acacia sp.,Acacia sp.,genus,Fabaceae,Acacia,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Ailanthus excelsa,Ailanthus sp.,genus,Simaroubaceae,Ailanthus,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Clitoria sp.,Clitoria sp.,genus,Fabaceae,Clitoria,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Leptadenia reticulata,Leptadenia reticulata,species,Apocynaceae,Jivanti,printed_scientific_name_via_dictionary,high,,1,Coimbatore
+,Ficus infectoria,Ficus virens,species,Moraceae,Pilkhan,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Achras sapota,Manilkara zapota,species,Sapotaceae,Sapota,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Brassica campestris,Brassica campestris,species,Brassicaceae,Brassica,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Cineraria sp.,Cineraria sp.,genus,Asteraceae,Cineraria,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Cordia myxa,Cordia myxa,species,Boraginaceae,Lasora,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Petunia sp.,Petunia sp.,genus,Solanaceae,Petunia,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Plumeria aeculifolia,Plumeria sp.,genus,Apocynaceae,Plumeria,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Stereulia diversifolia,Sterculia diversifolia,species,Malvaceae,Sterculia,printed_scientific_name_via_dictionary,high,,1,Varanasi
+,Dailemia sp.,Daemia sp.,genus,Apocynaceae,Daemia,printed_scientific_name_via_dictionary,medium,,1,Varanasi
+,Hordium vulgre (Barley),Hordeum vulgare,species,Poaceae,Barley,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Zarbera sp.,Gerbera sp.,genus,Asteraceae,Gerbera,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Galardia,Gaillardia sp.,genus,Asteraceae,Gaillardia,printed_scientific_name_via_dictionary,high,,1,Kalyani
+,Erythrina indica,Erythrina indica,species,Fabaceae,Coral tree,printed_scientific_name_via_dictionary,high,,1,Kalyani
+Aam,Mangifera indica,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,agree,1,Varanasi
+Acacia auriculiformis,,Acacia auriculiformis,species,Fabaceae,Acacia,dictionary,high,,1,Bangalore
+Adathoda,,Justicia adhatoda,species,Acanthaceae,Adulsa,dictionary,high,,1,Coimbatore
+Adathoda sp.,,Justicia adhatoda,species,Acanthaceae,Adulsa,dictionary,high,,1,Thrissur
+Adhatoda vasica,,Justicia adhatoda,species,Acanthaceae,Adulsa,dictionary,high,,1,Kalyani
+Aegle marmelos,,Aegle marmelos,species,Rutaceae,Bael,dictionary,high,,1,Kalyani
+African spiny coriander,,Eryngium foetidum,species,Apiaceae,Culantro,dictionary,high,,1,Thrissur
+Ailanthus sp.,,Ailanthus sp.,genus,Simaroubaceae,Ailanthus,dictionary,high,,1,Coimbatore
+Ak,,Calotropis sp.,genus,Apocynaceae,Calotropis,dictionary,high,,1,Ludhiana
+Albizia lebbeck,,Albizia lebbeck,species,Fabaceae,Siris,dictionary,high,,1,Coimbatore
+Aloocha,,Prunus domestica,species,Rosaceae,Plum,dictionary,high,,1,Ludhiana
+Amaltas,,Cassia fistula,species,Fabaceae,Golden shower,dictionary,high,,1,Ludhiana
+Amaranthus sp.,,Amaranthus sp.,genus,Amaranthaceae,Amaranthus,dictionary,high,,1,Kalyani
+Ananas comosus,,Ananas comosus,species,Bromeliaceae,Pineapple,dictionary,high,,1,Kalyani
+Anar,Punica granatum,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,agree,1,Varanasi
+Animal feed capsules,,other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,1,Hisar
+Anjeer,Ficus carica,Ficus carica,species,Moraceae,Fig,dictionary,high,agree,1,Varanasi
+Annona squamosa,,Annona squamosa,species,Annonaceae,Custard apple,dictionary,high,,1,Kalyani
+Anthocephalus kadamba,,Anthocephalus cadamba,species,Rubiaceae,Kadam,dictionary,high,,1,Bangalore
+Arahul,Hibiscus rosa-sinensis,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,agree,1,Varanasi
+Aralia sp.,,Aralia sp.,genus,Araliaceae,Aralia,dictionary,high,,1,Kalyani
+arbortristis,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,medium,,1,Kalyani
+Arum,,Araceae,family,Araceae,Arum / colocasia (unspecified),dictionary,medium,,1,Kalyani
+Ashok,,Saraca asoca,species,Fabaceae,Ashoka,dictionary,medium,,1,Kalyani
+Ashwagandha,,Withania somnifera,species,Solanaceae,Ashwagandha,dictionary,high,,1,Navsari
+Aster,,Asteraceae,family,Asteraceae,Aster,dictionary,medium,,1,Kalyani
+Atlas,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Jorhat
+Avocado,,Persea americana,species,Lauraceae,Avocado,dictionary,high,,1,Ludhiana
+Baheda,,Terminalia bellirica,species,Combretaceae,Baheda,dictionary,medium,,1,Ludhiana
+Bahera,,Terminalia bellirica,species,Combretaceae,Baheda,dictionary,medium,,1,Varanasi
+Bajara,,Pennisetum glaucum,species,Poaceae,Pearl millet,dictionary,high,,1,Navsari
+Bajra chura,,Pennisetum glaucum,species,Poaceae,Pearl millet,dictionary,high,,1,Hisar
+Bala bhed,Sida spinosa,Sida spinosa,species,Malvaceae,Sida,dictionary,high,agree,1,Varanasi
+Banga,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Ludhiana
+Baniyan tree,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,,1,Navsari
+Banyan tree,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,,1,Navsari
+Baramasi,,Citrus limon,species,Rutaceae,Lemon,dictionary,high,,1,Ludhiana
+Bariyar,Sida cordifolia,Sida cordifolia,species,Malvaceae,Sida,dictionary,high,agree,1,Varanasi
+Bariyar bhed,Sida acuta,Sida acuta,species,Malvaceae,Sida,dictionary,high,agree,1,Varanasi
+Barmasi,,Citrus limon,species,Rutaceae,Lemon,dictionary,high,,1,Navsari
+Baru,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Basil,,Ocimum basilicum,species,Lamiaceae,Basil,dictionary,high,,1,Mashobra
+batabilabu,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Batabilabu,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Bauhinia variegata,,Bauhinia variegata,species,Fabaceae,Kachnar,dictionary,high,,1,Varanasi
+Bean,Phaseolus vulgaris,Phaseolus vulgaris,species,Fabaceae,Beans (unspecified),dictionary_refined_by_printed_scientific_name,high,agree,1,Varanasi
+Behra,,Terminalia bellirica,species,Combretaceae,Baheda,dictionary,medium,,1,Mashobra
+Bel,Zizyphus jujuba,Aegle marmelos,species,Rutaceae,Bael,dictionary,medium,genus_differs,1,Varanasi
+Belful,,Jasminum sambac,species,Oleaceae,Arabian jasmine (beli),dictionary,medium,,1,Kalyani
+Beli flower,,Jasminum sambac,species,Oleaceae,Arabian jasmine (beli),dictionary,medium,,1,Kalyani
+Bera,,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,,1,Kalyani
+Berseem,,Trifolium alexandrinum,species,Fabaceae,Berseem,dictionary,high,,1,Navsari
+Betelevine,,Piper betle,species,Piperaceae,Betel vine,dictionary,high,,1,Kalyani
+Bhadraksha,,Elaeocarpus sp.,genus,Elaeocarpaceae,Rudraksha,dictionary,high,,1,Thrissur
+Bhambola,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Ludhiana
+Bharangi,Clerodendron serratum,Clerodendrum serratum,species,Lamiaceae,Clerodendrum,dictionary,high,,1,Varanasi
+Bitter guard,,Momordica charantia,species,Cucurbitaceae,Bitter gourd,dictionary,high,,1,Ludhiana
+Bogainvillea,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Boher,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,,1,Ludhiana
+Bottle gourd,Lagenaria cineraria,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,dictionary,high,species_differs,1,Varanasi
+Bougainillea,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Bougainvillea glabra,,Bougainvillea glabra,species,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Bougainvillea spectabilis,,Bougainvillea spectabilis,species,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Bouganvelliea,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Bouhenia purpuria,,Bauhinia purpurea,species,Fabaceae,Bauhinia,dictionary,high,,1,Kalyani
+Bridelia retusa,,Bridelia retusa,species,Phyllanthaceae,Bridelia,dictionary,high,,1,Bangalore
+Bugainvillea (White),,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Bugainvillea flower,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,,1,Kalyani
+Cabbage,,Brassica oleracea,species,Brassicaceae,Cole crops,dictionary,high,,1,Kalyani
+Cacoa,,Theobroma cacao,species,Malvaceae,Cacao,dictionary,high,,1,Navsari
+Cactus,,Cactaceae,family,Cactaceae,Cactus,dictionary,high,,1,Navsari
+Cairo morning glory,,Ipomoea cairica,species,Convolvulaceae,Cairo morning glory,dictionary,high,,1,Thrissur
+Calendula,,Calendula sp.,genus,Asteraceae,Calendula,dictionary,high,,1,Mashobra
+Calopogonium,,Calopogonium sp.,genus,Fabaceae,Calopogonium,dictionary,high,,1,Bangalore
+Calotropis gigantea,,Calotropis sp.,genus,Apocynaceae,Calotropis,dictionary,high,,1,Kalyani
+Calotropis procera,,Calotropis procera,species,Apocynaceae,Calotropis,dictionary,high,,1,Ludhiana
+camera,,Lantana camara,species,Verbenaceae,Lantana,dictionary,medium,,1,Kalyani
+Canthium sp.,,Canthium sp.,genus,Rubiaceae,Canthium,dictionary,high,,1,Bangalore
+Capsicum annuum,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,1,Kalyani
+Casia,,Cassia sp.,genus,Fabaceae,Cassia,dictionary,high,,1,Navsari
+Cassia sofera,,Cassia sophera,species,Fabaceae,Cassia,dictionary,high,,1,Kalyani
+Cassia sp.,,Cassia sp.,genus,Fabaceae,Cassia,dictionary,high,,1,Bangalore
+Catharanthus roseus,,Catharanthus roseus,species,Apocynaceae,Periwinkle (nayantara),dictionary,high,,1,Kalyani
+Catharanthus roseus Phoenix dactylifera,,Catharanthus roseus,species,Apocynaceae,,printed_name_as_scientific,high,,1,Kalyani
+Celsia sp.,,Celsia sp.,genus,Scrophulariaceae,Celsia,dictionary,high,,1,Navsari
+Chakotra,,Citrus maxima,species,Rutaceae,Pomelo,dictionary,high,,1,Mashobra
+Chalta,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Champak,,Michelia champaca,species,Magnoliaceae,Champak,dictionary,high,,1,Coimbatore
+Chandni,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Hisar
+Chappal kadu,,Cucurbitaceae,family,Cucurbitaceae,Chapan kaddu (gourd),dictionary,medium,,1,Hisar
+Cheeku,,Manilkara zapota,species,Sapotaceae,Sapota,dictionary,high,,1,Ludhiana
+Cheeta,Plumbago zeylanica,Plumbago zeylanica,species,Plumbaginaceae,Chitrak,dictionary,high,agree,1,Varanasi
+Cherry laurel,,Prunus laurocerasus,species,Rosaceae,Cherry laurel,dictionary,high,,1,Mashobra
+Chikoo,,Manilkara zapota,species,Sapotaceae,Sapota,dictionary,high,,1,Mashobra
+chilii,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,1,Kalyani
+Chilli,Capsicum annum,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,species_differs,1,Kalyani
+Chilli,Capsicum frutescene,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,species_differs,1,Kalyani
+China shoe,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,,1,Ludhiana
+Chinarose,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,,1,Hisar
+Chrysanthemum sp.,,Chrysanthemum sp.,genus,Asteraceae,Chrysanthemum,dictionary,high,,1,Kalyani
+Cinnamon,,Cinnamomum sp.,genus,Lauraceae,Cinnamon,dictionary,high,,1,Thrissur
+Citrus medica,,Citrus medica,species,Rutaceae,Citron,dictionary,high,,1,Ludhiana
+Citrus paradisi,,Citrus paradisi,species,Rutaceae,Grapefruit,dictionary,high,,1,Ludhiana
+Clitoria,,Clitoria sp.,genus,Fabaceae,Clitoria,dictionary,high,,1,Thrissur
+Clove,,Syzygium aromaticum,species,Myrtaceae,Clove,dictionary,high,,1,Coimbatore
+Cluster bean,,Cyamopsis tetragonoloba,species,Fabaceae,Cluster bean,dictionary,high,,1,Navsari
+Cock's comb,,Celosia sp.,genus,Amaranthaceae,Cockscomb,dictionary,high,,1,Thrissur
+Coconut powder,,Cocos nucifera,species,Arecaceae,Coconut,dictionary,high,,1,Hisar
+Coleus,,Coleus sp.,genus,Lamiaceae,Coleus,dictionary,high,,1,Coimbatore
+Corchorus capsularis,,Corchorus sp.,genus,Malvaceae,Jute,dictionary,high,,1,Kalyani
+Coriander,Coriandrum sativum,Coriandrum sativum,species,Apiaceae,Coriander,dictionary,high,agree,1,Varanasi
+Cotton,Gossypium sp.,Gossypium sp.,genus,Malvaceae,Cotton,dictionary,high,agree,1,Kalyani
+Cow pea,,Vigna unguiculata,species,Fabaceae,Cowpea,dictionary,high,,1,Coimbatore
+Cowpea,Vigna sinensis,Vigna unguiculata,species,Fabaceae,Cowpea,dictionary,high,species_differs,1,Kalyani
+Crab apple,,Malus sp.,genus,Rosaceae,Wild apple,dictionary,high,,1,Ludhiana
+crambola bougainvillea,,,ambiguous,,Merged cells (carambola; bougainvillea),context_dependent_name,,,1,Kalyani
+Creeper jasmine,,Jasminum sp.,genus,Oleaceae,Jasmine,dictionary,high,,1,Kalyani
+Crepe jasmine,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Ludhiana
+Crossandra,,Crossandra sp.,genus,Acanthaceae,Crossandra,dictionary,high,,1,Coimbatore
+Croton,,Euphorbiaceae,family,Euphorbiaceae,Croton (unspecified),dictionary,medium,,1,Navsari
+Crotons,,Euphorbiaceae,family,Euphorbiaceae,Croton (unspecified),dictionary,medium,,1,Coimbatore
+Cucurbit,Cucurbita pepo,cucurbits,group,Cucurbitaceae,Cucurbits (unspecified),dictionary,high,,1,Kalyani
+Cucurbit sp.,,cucurbits,group,Cucurbitaceae,Cucurbits (unspecified),dictionary,high,,1,Bangalore
+Cucurbita sp.,,Cucurbita sp.,genus,Cucurbitaceae,Pumpkin,dictionary,high,,1,Pusa
+Cumin,,Cuminum cyminum,species,Apiaceae,Cumin,dictionary,high,,1,Navsari
+Cyclamen,,Cyclamen sp.,genus,Primulaceae,Cyclamen,dictionary,high,,1,Mashobra
+Dahlia,Dahlia variabilis,Dahlia variabilis,species,Asteraceae,Dahlia,dictionary_refined_by_printed_scientific_name,high,agree,1,Kalyani
+Dashrath grass,,grasses,group,Poaceae,Grasses (unspecified),dictionary,high,,1,Navsari
+Date,,Phoenix dactylifera,species,Arecaceae,Date palm,dictionary,high,,1,Coimbatore
+Debraru,Polyalthia longifolia,Polyalthia longifolia,species,Annonaceae,Debdaru,dictionary,high,agree,1,Kalyani
+Debraru,,Polyalthia longifolia,species,Annonaceae,Debdaru,dictionary,high,,1,Kalyani
+Debris of grinding mills,,other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,1,Hisar
+Debris of shops,"Paonta Sahib, H.P.",other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,1,Hisar
+"Debris of shops (Nahan, H.P.)",,other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,1,Hisar
+Dendrobium sp.,,Dendrobium sp.,genus,Orchidaceae,Dendrobium,dictionary,high,,1,Thrissur
+Dhalia,,Dahlia sp.,genus,Asteraceae,Dahlia,dictionary,high,,1,Kalyani
+Dhatura,,Datura sp.,genus,Solanaceae,Datura,dictionary,high,,1,Hisar
+Dhutra,,Datura sp.,genus,Solanaceae,Datura,dictionary,high,,1,Kalyani
+Dieffenbachia sp.,,Dieffenbachia sp.,genus,Araceae,Dieffenbachia,dictionary,high,,1,Kalyani
+Digera arvensis,,Digera arvensis,species,Amaranthaceae,Digera,dictionary,high,,1,Kalyani
+Dillenia sp.,,Dillenia sp.,genus,Dilleniaceae,Dillenia,dictionary,high,,1,Jorhat
+Dioscorea floribunda,,Dioscorea floribunda,species,Dioscoreaceae,Yam,dictionary,high,,1,Bangalore
+Dodonaea viscosa,,Dodonaea viscosa,species,Sapindaceae,Hop bush,dictionary,high,,1,Bangalore
+Dodonea viscosa,,Dodonaea viscosa,species,Sapindaceae,Hop bush,dictionary,high,,1,Bangalore
+Dolichandrone atrovirens,,Dolichandrone atrovirens,species,Bignoniaceae,Dolichandrone,dictionary,high,,1,Bangalore
+Dolichos lablab,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,1,Kalyani
+Dragonfruit,,Hylocereus sp.,genus,Cactaceae,Dragon fruit,dictionary,high,,1,Ludhiana
+Dried prawn,,dried fish / prawn,substrate,,Dried fish,dictionary,high,,1,Kalyani
+Drum stick,,Moringa oleifera,species,Moringaceae,Drumstick,dictionary,high,,1,Kalyani
+Dry coconut,,Cocos nucifera,species,Arecaceae,Coconut,dictionary,high,,1,Hisar
+Duranta plumieri,,Duranta plumieri,species,Verbenaceae,Duranta,dictionary,medium,,1,Bangalore
+Egg plant,Abelmoschus esculentus,Solanum melongena,species,Solanaceae,Brinjal,dictionary,high,genus_differs,1,Varanasi
+Eichornia,,Eichhornia crassipes,species,Pontederiaceae,Water hyacinth,dictionary,high,,1,Coimbatore
+Ekalifa,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Ekdandi,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Elder berry,,Sambucus sp.,genus,Adoxaceae,Elderberry,dictionary,medium,,1,Thrissur
+Eleusine indica,,Eleusine indica,species,Poaceae,Goose grass,dictionary,high,,1,Kalyani
+Erythrina indica,,Erythrina indica,species,Fabaceae,Coral tree,dictionary,high,,1,Kalyani
+Eucaliptus,,Eucalyptus sp.,genus,Myrtaceae,Eucalyptus,dictionary,high,,1,Navsari
+Eucalyptus sp.,,Eucalyptus sp.,genus,Myrtaceae,Eucalyptus,dictionary,high,,1,Bangalore
+Eugenia sp.,,Eugenia sp.,genus,Myrtaceae,Eugenia,dictionary,high,,1,Pusa
+Euonymus,,Euonymus sp.,genus,Celastraceae,Euonymus,dictionary,high,,1,Mashobra
+Euphorbia,,Euphorbia sp.,genus,Euphorbiaceae,Euphorbia,dictionary,high,,1,Ludhiana
+Euphorbia sp.,,Euphorbia sp.,genus,Euphorbiaceae,Euphorbia,dictionary,high,,1,Navsari
+Euphorbiaceae plant,,Euphorbiaceae,family,Euphorbiaceae,Euphorbiaceae (unspecified),dictionary,high,,1,Bangalore
+Fanpalm,,Arecaceae,family,Arecaceae,Palm (unspecified),dictionary,high,,1,Kalyani
+Fennel,,Foeniculum vulgare,species,Apiaceae,Fennel,dictionary,high,,1,Navsari
+Ficus carica,,Ficus carica,species,Moraceae,Fig,dictionary,high,,1,Ludhiana
+Field bean,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,1,Coimbatore
+Fig plant,,Ficus carica,species,Moraceae,Fig,dictionary,high,,1,Kalyani
+Fig) Mulberry plant,Morus alba,Morus alba,species,Moraceae,Mulberry,printed_scientific_name_via_dictionary,high,agree,1,Kalyani
+Flowers of chrysanthemum,,Chrysanthemum sp.,genus,Asteraceae,Chrysanthemum,dictionary,high,,1,Coimbatore
+Fodder crop,,fodder crops,group,,Fodder crops (unspecified),dictionary,high,,1,Kalyani
+forest plant,,forest plants,group,,Forest plants (unspecified),dictionary,high,,1,Kalyani
+Fuchsia,,Fuchsia sp.,genus,Onagraceae,Fuchsia,dictionary,high,,1,Mashobra
+Fulfoot,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Galgal,,Citrus pseudolimon,species,Rutaceae,Hill lemon,dictionary,medium,,1,Ludhiana
+Gandharaj lemon,,Citrus limon,species,Rutaceae,Gandharaj lemon,dictionary,medium,,1,Kalyani
+Gandhraja,Rauvolfia sp.,Rauvolfia sp.,genus,Apocynaceae,Rauvolfia,dictionary,high,agree,1,Varanasi
+Gerkins,,Cucumis sp.,genus,Cucurbitaceae,Gherkin,dictionary,high,,1,Bangalore
+Gheea,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Hisar
+Ghia lauki,,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,dictionary,high,,1,Hisar
+Gingelly,,Sesamum indicum,species,Pedaliaceae,Sesame,dictionary,high,,1,Coimbatore
+Gliricidia,,Gliricidia sp.,genus,Fabaceae,Gliricidia,dictionary,high,,1,Navsari
+Glycine max,,Glycine max,species,Fabaceae,Soybean,dictionary,high,,1,Kalyani
+Golden privet,,Ligustrum sp.,genus,Oleaceae,Golden privet,dictionary,high,,1,Mashobra
+Gourd,,Cucurbitaceae,family,Cucurbitaceae,Gourd (unspecified),dictionary,high,,1,Pusa
+Gradiolus,,Gladiolus sp.,genus,Iridaceae,Gladiolus,dictionary,high,,1,Kalyani
+Grape vine,Vitis vinifera,Vitis vinifera,species,Vitaceae,Grape,dictionary,high,agree,1,Varanasi
+green bean,,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,,1,Kalyani
+Green chillies,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,1,Hisar
+groundunt,,Arachis hypogaea,species,Fabaceae,Groundnut,dictionary,high,,1,Kalyani
+Gular,Ficus glomerata,Ficus racemosa,species,Moraceae,Cluster fig,dictionary,high,species_differs,1,Varanasi
+Gulshakari,Grewia hirsuta,Grewia hirsuta,species,Malvaceae,Grewia,dictionary,high,agree,1,Varanasi
+Gundar,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Harad,,Terminalia chebula,species,Combretaceae,Harad,dictionary,high,,1,Mashobra
+Hedge,Duranta plumeria,Duranta plumieri,species,Verbenaceae,Duranta,dictionary,medium,species_differs,1,Kalyani
+hibiscu,,Hibiscus sp.,genus,Malvaceae,Hibiscus,dictionary,high,,1,Kalyani
+Hibiscus rosa chinensia (Chinarose),,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,,1,Kalyani
+Hibiscus rosa-sinensis,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,,1,Kalyani
+Hibiscus rosasinensis,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,,1,Kalyani
+Hibiscus sp.,,Hibiscus sp.,genus,Malvaceae,Hibiscus,dictionary,high,,1,Bangalore
+Holarrhena antidysenterica,,Holarrhena antidysenterica,species,Apocynaceae,Kurchi,dictionary,high,,1,Bangalore
+Hollyhock,Althaea rosea,Alcea rosea,species,Malvaceae,Hollyhock,dictionary,high,,1,Kalyani
+Hollyhock,,Alcea rosea,species,Malvaceae,Hollyhock,dictionary,high,,1,Kalyani
+Honey,,other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,1,Kalyani
+Honne,,Pterocarpus marsupium,species,Fabaceae,Indian kino,dictionary,medium,,1,Bangalore
+Horsegram,,Macrotyloma uniflorum,species,Fabaceae,Horse gram,dictionary,high,,1,Bangalore
+Hyacinth bean,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,1,Navsari
+Hydrocarpus laurifolia,,Hydnocarpus laurifolius,species,Achariaceae,Hydnocarpus,dictionary,high,,1,Bangalore
+Insect,,other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,,1,Navsari
+Ipomoea,,Ipomoea sp.,genus,Convolvulaceae,Ipomoea,dictionary,high,,1,Coimbatore
+Irisine,,Iresine sp.,genus,Amaranthaceae,Iresine,dictionary,medium,,1,Kalyani
+Ixora,,Ixora sp.,genus,Rubiaceae,Ixora,dictionary,high,,1,Kalyani
+Jack fruit,Artocarpus heterophyllus,Artocarpus heterophyllus,species,Moraceae,Jackfruit,dictionary,high,agree,1,Varanasi
+Jasmine flower,,Jasminum sp.,genus,Oleaceae,Jasmine,dictionary,high,,1,Kalyani
+Jasminum sambac,,Jasminum sambac,species,Oleaceae,Arabian jasmine,dictionary,high,,1,Kalyani
+Jeera,"Paonta Sahib, H.P.",Cuminum cyminum,species,Apiaceae,Cumin,dictionary,high,,1,Hisar
+Jhau,,Tamarix dioica,species,Tamaricaceae,Jhau,dictionary,medium,,1,Kalyani
+Jhau,Thuza compacta,Tamarix dioica,species,Tamaricaceae,Jhau,dictionary,medium,,1,Kalyani
+Jhonsongrass,,Sorghum halepense,species,Poaceae,Johnson grass,dictionary,high,,1,Navsari
+Johnson grass,,Sorghum halepense,species,Poaceae,Johnson grass,dictionary,high,,1,Navsari
+Johnsongrass,,Sorghum halepense,species,Poaceae,Johnson grass,dictionary,high,,1,Navsari
+Jowar,,Sorghum bicolor,species,Poaceae,Sorghum,dictionary,high,,1,Hisar
+kabari flower,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Kachnar,Bauhinia variegata,Bauhinia variegata,species,Fabaceae,Kachnar,dictionary,high,agree,1,Varanasi
+Kachnar,,Bauhinia variegata,species,Fabaceae,Kachnar,dictionary,high,,1,Varanasi
+Kadhi limbdi,,Murraya koenigii,species,Rutaceae,Curry leaf,dictionary,high,,1,Navsari
+Kaghzi Nimboo,,Citrus aurantiifolia,species,Rutaceae,Lime,dictionary,high,,1,Ludhiana
+Kaner,Nerium indicum,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,species_differs,1,Varanasi
+Kaner bhed,Nerium odorum,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,species_differs,1,Varanasi
+Kanski,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Kapur,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Ludhiana
+Karabi,,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,,1,Kalyani
+Karen,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Karipata,,Murraya koenigii,species,Rutaceae,Curry leaf,dictionary,high,,1,Kalyani
+Kata Nate,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Kathbadam,,Terminalia catappa,species,Combretaceae,Indian almond (kathbadam),dictionary,medium,,1,Kalyani
+Kathbadam (Almond),,Terminalia catappa,species,Combretaceae,Indian almond (kathbadam),dictionary,medium,,1,Kalyani
+Kena,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Kerabi,Nerium olienderi,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,species_differs,1,Kalyani
+Kevanchh,Mucuna prurita,Mucuna prurita,species,Fabaceae,Velvet bean,dictionary_refined_by_printed_scientific_name,high,agree,1,Varanasi
+Kharbooza,,Cucumis melo,species,Cucurbitaceae,Melon,dictionary,high,,1,Pusa
+Khurmani,Prunus armeniaca,Prunus armeniaca,species,Rosaceae,Apricot,dictionary,high,agree,1,Varanasi
+Kidney bean,,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,,1,Navsari
+King chilli,,Capsicum chinense,species,Solanaceae,King chilli,dictionary,high,,1,Jorhat
+Kirganelia reticulata,,Phyllanthus reticulatus,species,Phyllanthaceae,Phyllanthus,dictionary,high,,1,Bangalore
+Kochia,,Kochia sp.,genus,Amaranthaceae,Kochia,dictionary,high,,1,Kalyani
+Kolkiful,,Allamanda cathartica,species,Apocynaceae,Allamanda,dictionary,medium,,1,Kalyani
+Krishnafal,,Passiflora edulis,species,Passifloraceae,Passion fruit,dictionary,high,,1,Navsari
+Kul,,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,,1,Kalyani
+Lab-lab,,Lablab purpureus,species,Fabaceae,Lablab bean,dictionary,high,,1,Coimbatore
+Lagenaria siceraria,,Lagenaria siceraria,species,Cucurbitaceae,Bottle gourd,dictionary,high,,1,Kalyani
+Lagerstroemia indica,,Lagerstroemia indica,species,Lythraceae,Crape myrtle,dictionary,high,,1,Kalyani
+Lagerstroemia parviflora,,Lagerstroemia parviflora,species,Lythraceae,Lagerstroemia,dictionary,high,,1,Bangalore
+Lal ghas,,grasses,group,Poaceae,Grasses (unspecified),dictionary,high,,1,Hisar
+Landlotus,,Hibiscus mutabilis,species,Malvaceae,Land lotus (sthal padma),dictionary,medium,,1,Kalyani
+Lasoda,,Cordia sp.,genus,Boraginaceae,Lasora,dictionary,medium,,1,Ludhiana
+Lasora,Cordia myxa,Cordia myxa,species,Boraginaceae,Lasora,dictionary_refined_by_printed_scientific_name,medium,agree,1,Varanasi
+Lemon grass,,Cymbopogon citratus,species,Poaceae,Lemon grass,dictionary,high,,1,Ludhiana
+Leucas aspera,,Leucas sp.,genus,Lamiaceae,Leucas,dictionary,high,,1,Bangalore
+Leucas sp.,,Leucas sp.,genus,Lamiaceae,Leucas,dictionary,high,,1,Bangalore
+Lombu,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,1,Kalyani
+Long melon,Citrus melo utilissimus,Cucumis melo,species,Cucurbitaceae,Melon,dictionary,high,genus_differs,1,Varanasi
+Louts,,Nelumbo nucifera,species,Nelumbonaceae,Lotus,dictionary,high,,1,Kalyani
+Luffa acutangula,,Luffa acutangula,species,Cucurbitaceae,Ridge gourd,dictionary,high,,1,Kalyani
+Madhuca latifolia,,Madhuca latifolia,species,Sapotaceae,Mahua,dictionary,high,,1,Bangalore
+Mahogani,,Swietenia mahagoni,species,Meliaceae,Mahogany,dictionary,high,,1,Kalyani
+Mahua,,Madhuca latifolia,species,Sapotaceae,Mahua,dictionary,high,,1,Ludhiana
+Maize,Zea mays,Zea mays,species,Poaceae,Maize,dictionary,high,agree,1,Kalyani
+Mandarin,Citrus reticulata,Citrus reticulata,species,Rutaceae,Mandarin,dictionary,high,agree,1,Varanasi
+Mango shoot,,Mangifera indica,species,Anacardiaceae,Mango,dictionary,high,,1,Coimbatore
+Manihot esculenta,,Manihot esculenta,species,Euphorbiaceae,Cassava,dictionary,high,,1,Kalyani
+Mariagold,,Tagetes sp.,genus,Asteraceae,Marigold,dictionary,high,,1,Kalyani
+Marigold,Tagetes erecta,Tagetes erecta,species,Asteraceae,Marigold,dictionary_refined_by_printed_scientific_name,high,agree,1,Varanasi
+Massende,Mussandra philipica,Mussaenda philippica,species,Rubiaceae,Mussaenda,dictionary,high,,1,Kalyani
+Mecho fruit,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Mentha piperita,,Mentha x piperita,species,Lamiaceae,Peppermint,dictionary,high,,1,Kalyani
+Michelia champaca,,Michelia champaca,species,Magnoliaceae,Champak,dictionary,high,,1,Bangalore
+Mikania micrantha,,Mikania micrantha,species,Asteraceae,Mile-a-minute,dictionary,high,,1,Kalyani
+Mirach,,Capsicum annuum,species,Solanaceae,Chilli,dictionary,high,,1,Hisar
+Monkey jack,Artocarpus lakoocha,Artocarpus lacucha,species,Moraceae,Monkey jack,dictionary,high,species_differs,1,Varanasi
+Monocot,,monocots,group,,Monocot (unspecified),dictionary,high,,1,Bangalore
+Moong dal,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,1,Hisar
+Moongi,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,1,Ludhiana
+Mosami citrus,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,1,Hisar
+Mucuna,,Mucuna sp.,genus,Fabaceae,Velvet bean,dictionary,high,,1,Navsari
+Mung bean,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,1,Kalyani
+Murraya exotica,,Murraya paniculata,species,Rutaceae,Orange jasmine,dictionary,high,,1,Kalyani
+Musa sp.,,Musa sp.,genus,Musaceae,Banana,dictionary,high,,1,Pusa
+Mushki kapoor,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Mashobra
+Muskmelon,,Cucumis melo,species,Cucurbitaceae,Melon,dictionary,high,,1,Ludhiana
+Mussandra,,Mussaenda philippica,species,Rubiaceae,Mussaenda,dictionary,high,,1,Coimbatore
+Naffatia,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Naner,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Hisar
+Nari,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Naspati,Pyrus communis,Pyrus communis,species,Rosaceae,Pear,dictionary,high,agree,1,Varanasi
+Nayantara,Catharanthes roseus,Catharanthus roseus,species,Apocynaceae,Periwinkle (nayantara),dictionary,high,agree,1,Kalyani
+Nectarine,,Prunus persica,species,Rosaceae,Peach,dictionary,high,,1,Ludhiana
+Neem,Azadirachta indica,Azadirachta indica,species,Meliaceae,Neem,dictionary,high,agree,1,Varanasi
+Nerium oleander,,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,,1,Kalyani
+Nerium sp.,,Nerium oleander,species,Apocynaceae,Oleander,dictionary,high,,1,Navsari
+Night Queen,,Cestrum nocturnum,species,Solanaceae,Night queen,dictionary,medium,,1,Kalyani
+Nimbu,,Citrus sp.,genus,Rutaceae,Citrus,dictionary,high,,1,Ludhiana
+Nyctanthes,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Nyctanthes arbor-,,Nyctanthes arbor-,species,Oleaceae,,printed_name_as_scientific,high,,1,Kalyani
+Nyctanthes arbortristis,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Ocimum basilicum,,Ocimum basilicum,species,Lamiaceae,Basil,dictionary,high,,1,Kalyani
+Oil palm,,Elaeis guineensis,species,Arecaceae,Oil palm,dictionary,high,,1,Navsari
+Oilpalm,,Elaeis guineensis,species,Arecaceae,Oil palm,dictionary,high,,1,Coimbatore
+Olive,,Olea europaea,species,Oleaceae,Olive,dictionary,high,,1,Ludhiana
+Orchid,Phalaenopsis sp.,Orchidaceae,family,Orchidaceae,Orchid,dictionary,high,,1,Thrissur
+Oregano,,Origanum vulgare,species,Lamiaceae,Oregano,dictionary,high,,1,Mashobra
+Ornamental okra,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Thrissur
+Ornamental palm,,Arecaceae,family,Arecaceae,Palm (unspecified),dictionary,high,,1,Thrissur
+Ornamental plants,,ornamentals,group,,Ornamentals (unspecified),dictionary,high,,1,Hisar
+Ornamental sunflower,,Helianthus annuus,species,Asteraceae,Sunflower,dictionary,high,,1,Navsari
+Oxalis sp.,,Oxalis sp.,genus,Oxalidaceae,Oxalis,dictionary,high,,1,Bangalore
+Pachouli,,Pogostemon cablin,species,Lamiaceae,Patchouli,dictionary,medium,,1,Bangalore
+Paddy stubbles,,Oryza sativa,species,Poaceae,Rice,dictionary,high,,1,Pusa
+Pakar,Ficus rarica,Ficus rarica,species,Moraceae,Ficus,dictionary_refined_by_printed_scientific_name,high,agree,1,Varanasi
+Pamela,Citrus grandis,Citrus maxima,species,Rutaceae,Pomelo,dictionary,high,species_differs,1,Varanasi
+Pamelo,Citrus grandis,Citrus maxima,species,Rutaceae,Pomelo,dictionary,high,species_differs,1,Varanasi
+Papita,,Carica papaya,species,Caricaceae,Papaya,dictionary,high,,1,Ludhiana
+Paragrass,,Urochloa mutica,species,Poaceae,Para grass,dictionary,high,,1,Kalyani
+Parijat,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Ludhiana
+Parijath,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Bangalore
+Pata bahar,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Kalyani
+Peach,Punica granatum,Prunus persica,species,Rosaceae,Peach,dictionary,high,genus_differs,1,Varanasi
+Peepal,,Ficus religiosa,species,Moraceae,Peepal,dictionary,high,,1,Ludhiana
+Pepper,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Bangalore
+Pepper,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Coimbatore
+Peppermint,,Mentha x piperita,species,Lamiaceae,Peppermint,dictionary,high,,1,Thrissur
+Phaseolus sp.,French bean,Phaseolus vulgaris,species,Fabaceae,French bean,printed_scientific_name_via_dictionary,high,,1,Kalyani
+Phlox,,Phlox sp.,genus,Polemoniaceae,Phlox,dictionary,high,,1,Kalyani
+Phoenix sp.,Date palm,Phoenix dactylifera,species,Arecaceae,Date palm,dictionary,high,,1,Kalyani
+Pickerel weed,,Pontederia cordata,species,Pontederiaceae,Pickerel weed,dictionary,high,,1,Thrissur
+Pionir grass,,grasses,group,Poaceae,Grass,dictionary,high,,1,Navsari
+Pisum sativum,,Pisum sativum,species,Fabaceae,Pea,dictionary,high,,1,Coimbatore
+plant,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Kalyani
+Pole bean,,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,,1,Mashobra
+Polyalthea,,Polyalthia sp.,genus,Annonaceae,Polyalthia,dictionary,high,,1,Bangalore
+Polyalthia longifolia,,Polyalthia longifolia,species,Annonaceae,Debdaru,dictionary,high,,1,Kalyani
+Pomagranate,,Punica granatum,species,Lythraceae,Pomegranate,dictionary,high,,1,Navsari
+Pongamia pinnata,,Pongamia pinnata,species,Fabaceae,Karanj,dictionary,high,,1,Bangalore
+Poppy,,Papaver sp.,genus,Papaveraceae,Poppy,dictionary,high,,1,Mashobra
+Potato,Solanum tuberosum,Solanum tuberosum,species,Solanaceae,Potato,dictionary,high,agree,1,Kalyani
+Potatp,,Solanum tuberosum,species,Solanaceae,Potato,dictionary,high,,1,Kalyani
+Prawn,,dried fish / prawn,substrate,,Dried fish,dictionary,high,,1,Kalyani
+Primrose,,Primula sp.,genus,Primulaceae,Primrose,dictionary,high,,1,Mashobra
+Prune,,Prunus domestica,species,Rosaceae,Plum,dictionary,high,,1,Mashobra
+Pungam,,Pongamia pinnata,species,Fabaceae,Karanj,dictionary,high,,1,Coimbatore
+Raddish,,Raphanus sativus,species,Brassicaceae,Radish,dictionary,high,,1,Pusa
+Radhachura,Peltophorum pterocarpum) Tulsi (Ocimum tenuiflorum,Peltophorum pterocarpum,species,Fabaceae,Copper pod,dictionary,high,agree,1,Kalyani
+Radhachura,,Peltophorum pterocarpum,species,Fabaceae,Copper pod,dictionary,high,,1,Kalyani
+Rajmah,,Phaseolus vulgaris,species,Fabaceae,French bean,dictionary,high,,1,Ludhiana
+Raspberry,,Rubus sp.,genus,Rosaceae,Raspberry/blackberry,dictionary,high,,1,Mashobra
+Red amaranthus,,Amaranthus sp.,genus,Amaranthaceae,Amaranthus,dictionary,high,,1,Coimbatore
+Remphal,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Bangalore
+Reri,Ricinus communis,Ricinus communis,species,Euphorbiaceae,Castor,dictionary,high,agree,1,Kalyani
+Ribbed gourd,,Luffa acutangula,species,Cucurbitaceae,Ridge gourd,dictionary,high,,1,Coimbatore
+Ros,,Rosa sp.,genus,Rosaceae,Rose,dictionary,high,,1,Kalyani
+Rubber plant,,Hevea brasiliensis,species,Euphorbiaceae,Rubber,dictionary,medium,,1,Ludhiana
+Rudraksh,,Elaeocarpus sp.,genus,Elaeocarpaceae,Rudraksha,dictionary,high,,1,Ludhiana
+s white flower carambola,,,ambiguous,,Merged cells (carambola; bougainvillea),context_dependent_name,,,1,Kalyani
+Saccharum officinerum,Sugar cane,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,,1,Kalyani
+Safed jamun,,Syzygium sp.,genus,Myrtaceae,Rose apple / water apple,dictionary,medium,,1,Navsari
+Sahtoot,Morus alba,Morus alba,species,Moraceae,Mulberry,dictionary,high,agree,1,Varanasi
+Sangtra,,Citrus sp.,genus,Rutaceae,Orange,dictionary,medium,,1,Ludhiana
+Saraca asoca,Ashoke tree,Saraca asoca,species,Fabaceae,Ashoka,dictionary,medium,,1,Kalyani
+Sefali,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Segun,Tectona grandis,Tectona grandis,species,Lamiaceae,Teak,dictionary,high,agree,1,Kalyani
+Sesame,,Sesamum indicum,species,Pedaliaceae,Sesame,dictionary,high,,1,Navsari
+Sesamum indicum,,Sesamum indicum,species,Pedaliaceae,Sesame,dictionary,high,,1,Pusa
+Sesbania,,Sesbania sp.,genus,Fabaceae,Sesbania,dictionary,high,,1,Coimbatore
+Sevri,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+Shade crop,,shade crop,group,,Shade crop,dictionary,high,,1,Coimbatore
+Shefali,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Shefali flower,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Shiuli,Nyctanthes sp.,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,agree,1,Kalyani
+Shiuli flower,Nyctanthes sp.) Jhau (Tamaxix dioica,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,agree,1,Kalyani
+Shuili,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Shuili flower,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,high,,1,Kalyani
+Sida sp.,,Sida sp.,genus,Malvaceae,Sida,dictionary,high,,1,Bangalore
+Silver oak,,Grevillea robusta,species,Proteaceae,Silver oak,dictionary,high,,1,Bangalore
+Simarouba glauca,,Simarouba glauca,species,Simaroubaceae,Simarouba,dictionary,high,,1,Bangalore
+Siris tree,,Albizia lebbeck,species,Fabaceae,Siris,dictionary,high,,1,Kalyani
+Sissoo,Dalbergia sissoo,Dalbergia sissoo,species,Fabaceae,Shisham,dictionary,high,agree,1,Varanasi
+Sisu,,Dalbergia sissoo,species,Fabaceae,Shisham,dictionary,high,,1,Kalyani
+Snakegourd,,Trichosanthes cucumerina,species,Cucurbitaceae,Snake gourd,dictionary,high,,1,Coimbatore
+Solanum lycopersicum,,Solanum lycopersicum,species,Solanaceae,Tomato,dictionary,high,,1,Kalyani
+Solanum nigrum,,Solanum nigrum,species,Solanaceae,Black nightshade,dictionary,high,,1,Coimbatore
+Solanum surattense,,Solanum virginianum,species,Solanaceae,Yellow-berried nightshade,dictionary,high,,1,Kalyani
+Solanum tuberosum,,Solanum tuberosum,species,Solanaceae,Potato,dictionary,high,,1,Kalyani
+Son champa,Michelia champaca,Michelia champaca,species,Magnoliaceae,Champak,dictionary,high,agree,1,Varanasi
+Sonapatha,Oroxylum indicum,Oroxylum indicum,species,Bignoniaceae,Oroxylum,dictionary,high,agree,1,Varanasi
+Soyabean,Glycine max,Glycine max,species,Fabaceae,Soybean,dictionary,high,agree,1,Kalyani
+squash,,Cucurbita sp.,genus,Cucurbitaceae,Squash,dictionary,high,,1,Kalyani
+Sterculia urens,,Sterculia urens,species,Malvaceae,Gum karaya,dictionary,high,,1,Bangalore
+Stored Arum,,Araceae,family,Araceae,Arum / colocasia (unspecified),dictionary,medium,,1,Kalyani
+Stored bhindi seeds,,Abelmoschus esculentus,species,Malvaceae,Okra (stored seed),dictionary,high,,1,Hisar
+Stored papaya seed,,Carica papaya,species,Caricaceae,Papaya (stored seed),dictionary,high,,1,Kalyani
+Stored rice,,Oryza sativa,species,Poaceae,Rice,dictionary,high,,1,Kalyani
+stored wheat,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,1,Hisar
+"Stored wheat (Nahan, H.P.)",,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,1,Hisar
+Sugarcane,Saccharum officinarum,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,agree,1,Varanasi
+sugercane,,Saccharum officinarum,species,Poaceae,Sugarcane,dictionary,high,,1,Kalyani
+Summer mung,,Vigna radiata,species,Fabaceae,Green gram,dictionary,high,,1,Navsari
+sunhemp,,Crotalaria juncea,species,Fabaceae,Sunhemp,dictionary,high,,1,Kalyani
+Suryamukhi,Helianthus annuus,Helianthus annuus,species,Asteraceae,Sunflower,dictionary,high,agree,1,Varanasi
+Sweet lemon,,Citrus limetta,species,Rutaceae,Sweet lime,dictionary,medium,,1,Mashobra
+Swietenia mahagoni,,Swietenia mahagoni,species,Meliaceae,Mahogany,dictionary,high,,1,Bangalore
+Syzygium cumini,,Syzygium cumini,species,Myrtaceae,Jamun,dictionary,high,,1,Kalyani
+Syzygium cumunii,,Syzygium cumini,species,Myrtaceae,Jamun,dictionary,high,,1,Kalyani
+Tabernaemontana,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Kalyani
+Tabernaemontana coronaria,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Kalyani
+Tagar flower,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Kalyani
+Tagod wild plant,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Navsari
+tagro,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Kalyani
+tagro full,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Kalyani
+Tahli,,Dalbergia sissoo,species,Fabaceae,Shisham,dictionary,high,,1,Ludhiana
+Tarbuz,Citrullus vulgaris,Citrullus lanatus,species,Cucurbitaceae,Watermelon,dictionary,high,species_differs,1,Varanasi
+Termeric,,Curcuma longa,species,Zingiberaceae,Turmeric,dictionary,high,,1,Kalyani
+Terminalia arjuna,,Terminalia arjuna,species,Combretaceae,Arjun,dictionary,high,,1,Kalyani
+Terminalia sp.,,Terminalia sp.,genus,Combretaceae,Terminalia,dictionary,high,,1,Bangalore
+Terminalia tomentosa,,Terminalia tomentosa,species,Combretaceae,Terminalia,dictionary,high,,1,Bangalore
+Thespesia sp.,,Thespesia sp.,genus,Malvaceae,Thespesia,dictionary,high,,1,Coimbatore
+Till,,Sesamum indicum,species,Pedaliaceae,Sesame,dictionary,high,,1,Hisar
+Tirdex sp.,,Tridax sp.,genus,Asteraceae,Tridax,dictionary,high,,1,Navsari
+Tobacco,,Nicotiana tabacum,species,Solanaceae,Tobacco,dictionary,high,,1,Ludhiana
+Tragor,,Tabernaemontana divaricata,species,Apocynaceae,Crape jasmine (tagar),dictionary,medium,,1,Kalyani
+tristis,,Nyctanthes arbor-tristis,species,Oleaceae,Night jasmine (shiuli),dictionary,medium,,1,Kalyani
+Tube rose,,Agave amica,species,Asparagaceae,Tuberose,dictionary,high,,1,Coimbatore
+Tulsi,Ocimum tenuiflorum,Ocimum tenuiflorum,species,Lamiaceae,Tulsi,dictionary,high,agree,1,Kalyani
+Tur,,Cajanus cajan,species,Fabaceae,Pigeonpea,dictionary,high,,1,Navsari
+Unidentified flower,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Hisar
+Unidentified host,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Bangalore
+Unidentified tree,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Bangalore
+Unidentified weed 1,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Bangalore
+Unidentified weed 2,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Bangalore
+Unknown forest plant,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Kalyani
+Unknown plant,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Kalyani
+unknown plants,,unidentified plant,group,,Unidentified plant,dictionary,high,,1,Kalyani
+Vandi,,Abelmoschus esculentus,species,Malvaceae,Okra,dictionary,high,,1,Kalyani
+Victoria corn plant,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Thrissur
+Vigna unguiculata,,Vigna unguiculata,species,Fabaceae,Cowpea,dictionary,high,,1,Kalyani
+Vitex negundo,,Vitex negundo,species,Lamiaceae,Chaste tree,dictionary,high,,1,Kalyani
+Weed,Croton sparsiflorus,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Kalyani
+Weed,Argimone mexicana,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Kalyani
+Weed plant,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Coimbatore
+West Indian Cherry,,Malpighia glabra,species,Malpighiaceae,Barbados cherry,dictionary,high,,1,Coimbatore
+Wheat,Triticum aestivum,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,agree,1,Kalyani
+Wheat atta,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,1,Hisar
+Wheat dalia,Sonepat district,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,1,Hisar
+Wheat dalia,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,1,Hisar
+Wheat flour of grinding mill,,Triticum aestivum,species,Poaceae,Wheat,dictionary,high,,1,Hisar
+wild,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Kalyani
+Wild bhendi,,Malvaceae,family,Malvaceae,Wild bhendi (malvaceous),dictionary,medium,,1,Kalyani
+Wild chauri,Amaranthus polygonoides,Amaranthus polygonoides,species,Amaranthaceae,Amaranthus,dictionary,high,agree,1,Varanasi
+Wild cherry,,Prunus sp.,genus,Rosaceae,Cherry,dictionary,high,,1,Ludhiana
+Wild corchorus,,Corchorus sp.,genus,Malvaceae,Jute,dictionary,high,,1,Coimbatore
+Wild cotton,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Coimbatore
+Wild flower,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Kalyani
+Wild peach,,Prunus sp.,genus,Rosaceae,Wild peach,dictionary,high,,1,Ludhiana
+Wild pecan nut,,Carya sp.,genus,Juglandaceae,Wild pecan,dictionary,high,,1,Ludhiana
+Wild plants,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dictionary,high,,1,Hisar
+Wild solanaceous plant,,Solanaceae,family,Solanaceae,Wild solanaceous plant,dictionary,high,,1,Bangalore
+Wild sugarcane,,Saccharum sp.,genus,Poaceae,Wild sugarcane,dictionary,high,,1,Thrissur
+Wild trees,,forest plants,group,,Forest plants (unspecified),dictionary,high,,1,Navsari
+Wood apple,Feronia elephantum,Limonia acidissima,species,Rutaceae,Wood apple,dictionary,high,,1,Varanasi
+Woodrose,,,ambiguous,,Local name not resolved,context_dependent_name,,,1,Bangalore
+Yellow kaner,,Cascabela thevetia,species,Apocynaceae,Yellow oleander,dictionary,medium,,1,Hisar
+Zarberra sp.,,Gerbera sp.,genus,Asteraceae,Gerbera,dictionary,high,,1,Kalyani
+Zinnia sp.,,Zinnia sp.,genus,Asteraceae,Zinnia,dictionary,high,,1,Kalyani
+Ziziphus mauritiana,,Ziziphus mauritiana,species,Rhamnaceae,Ber,dictionary,high,,1,Kalyani
+Zizyphus sp.,,Ziziphus sp.,genus,Rhamnaceae,Ber,dictionary,high,,1,Navsari

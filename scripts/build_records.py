@@ -9,7 +9,7 @@ Rules
 - Hosts printed after "outside" / "outside India" are kept but marked in_india=0.
 - Abbreviated genera ("C. morifolium") are expanded only from the genus printed earlier in the same list.
 """
-import csv, re, pathlib, collections
+import csv, re, pathlib, collections, sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 RAW, REC, REV = ROOT / "data/raw", ROOT / "data/records", ROOT / "data/review"
@@ -102,10 +102,27 @@ for a in accounts:
     for l in left:
         host_left.append({**base, "unparsed_text": l, "host_raw": raw})
 
+# standardise host names with the same dictionary used for the AICRP layers
+sys.path.insert(0, str(ROOT / "scripts"))
+import host_names
+HD = host_names.HostDictionary()
+STD = ["host_taxon_std", "host_rank_std", "host_family", "host_std_common", "host_basis", "host_confidence"]
+host_std_left = collections.Counter()
+for r in host_rows:
+    rk, nm = r["host_rank"], r["host_name"]
+    if rk == "undetermined_plant":
+        res = {"host_taxon_std": "Undetermined plant", "host_rank_std": "group", "host_family": "", "host_std_common": "", "host_basis": "parser_rank", "host_confidence": ""}
+    else:
+        res = HD.resolve(nm if rk == "common_name" else "", nm if rk != "common_name" else "", "")
+    r.update(res)
+    if res["host_rank_std"] in ("unresolved", "ambiguous"):
+        host_std_left[(nm, rk)] += 1
+
 base_cols = ["account_number", "species_id", "valid_name", "name_in_source", "family", "section", "level"]
 tail = ["source", "page"]
 write(REC / "species_state.csv", state_rows, base_cols + ["state"] + tail)
-write(REC / "species_host.csv", host_rows, base_cols + ["host_as_printed", "host_name", "host_genus", "host_rank", "in_india"] + tail)
+write(REC / "species_host.csv", host_rows, base_cols + ["host_as_printed", "host_name", "host_genus", "host_rank", "in_india"] + STD + tail)
+write(REV / "host_names_not_standardised.csv", [{"host_name": k[0], "parser_rank": k[1], "rows": v} for k, v in sorted(host_std_left.items(), key=lambda x: (-x[1], x[0]))], ["host_name", "parser_rank", "rows"])
 write(REV / "host_unparsed.csv", host_left, base_cols + ["unparsed_text", "host_raw"] + tail)
 write(REV / "state_unmatched.csv", state_left, base_cols + ["locality_text", "distribution_raw"] + tail)
 write(REV / "accounts_without_host.csv", no_host, base_cols + ["flags"] + tail)

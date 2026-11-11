@@ -681,102 +681,83 @@ H01|Ascidae|Rice|AB Block farm; D Block Farm||
 H01|Polyphagotarsonemus latus|Chilli|AB Block farm; D Block Farm; Gayeshpur; Kuntighat; Birpara; charsarati; Akna||
 H01|Tetranychus urticae|Chilli|AB Block farm; Madanpur; Kathaltala||
 H01|Schizoteranychus baltazari||Chandamari; Burdwan||
-H01|Amblyseius largoensis (Muma)|Chilli|AB Block farm; Chandamari; Mondori; Kuntighat; Burdwan; kalyani; Burdwan||
+H01|Amblyseius largoensis (Muma)|Chilli|AB Block farm; Chandamari; Mondori; Kuntighat; Burdwan; kalyani||
 H01|Euseius ovalis (Evans, 1953)|Chilli|AB Block farm||
-H01|Typhlodromips syzygii|Chilli|AB Block farm; Burdwan; Chandamari; Madanpur.||
+H01|Typhlodromips syzygii|Chilli|AB Block farm; Burdwan; Chandamari; Madanpur||
 H01|Typhlodromus (Anthoseius) sp.|Chilli|AB Block farm; D Block Farm||
 H01|Bdellidae|Chilli|AB Block farm; D Block Farm||
-H01|Amblyseius largoensis (Muma)|Rose|Nadia; Hooghly; Bankura; 24 Parganas (N); Malda; Murshridabad; Burdwan.||
+H01|Amblyseius largoensis (Muma)|Rose|Nadia; Hooghly; Bankura; 24 Parganas (N); Malda; Murshridabad; Burdwan||
 H01|Amblyseius herbicolus (Muma)|Rose|New Jalpaiguri; Cooch behar||
 H01|Euseius alstoniae (Gupta, 1975)|Rose|Nadia; Hooghly; 24 Parganas (N); Bankura||
-H01|Euseius ovalis (Evans, 1953)|Rose|Nadia; Malda; Murshridabad; Hooghly; 24; Parganas (N); Bankura||
+H01|Euseius ovalis (Evans, 1953)|Rose|Nadia; Malda; Murshridabad; Hooghly; 24 Parganas (N); Bankura||
 H01|Euseius finlandicus (Oudemans)|Rose|Malda; Murshridabad||
-H01|Typhlodromips syzygii (Gupta, 1975)|Rose|Nadia; Malda; Murshridabad; Hooghly; 24; Parganas (N).||
+H01|Typhlodromips syzygii (Gupta, 1975)|Rose|Nadia; Malda; Murshridabad; Hooghly; 24 Parganas (N)||
 H01|Scapulaseius asiaticus (Evans)|Rose|Nadia; Hooghly; 24 Parganas (N)||
 H01|Phytoseius roseus (Gupta, 1969)|Rose|Nadia; 24 Parganas (N)||
 H01|Tydeus sp.|Rose|Bankura; Nadia; Murshridabad||
-H01|Bdelloides sp.|Rose|Nadia; Hooghly; Bankura; Hooghly; 24 Parganas (N); Murshridabad||
+H01|Bdelloides sp.|Rose|Nadia; Hooghly; Bankura; 24 Parganas (N); Murshridabad||
 H01|Cunaxa sp.|Rose|Nadia; Bankua; 24 Parganas (South)||
-H01|Tetranychus urticae (Koch.)|Rose|Nadia; 24 Parganas (N); Burdwan; Hooghly; 24 Parganas (South).||
-H01|Eutetranychus orientalis (Klein.)|rose|Bankura; Nadia; 24 Parganas (N); Hooghly; 24 Parganas (South).||
+H01|Tetranychus urticae (Koch.)|Rose|Nadia; 24 Parganas (N); Burdwan; Hooghly; 24 Parganas (South)||
+H01|Eutetranychus orientalis (Klein.)|rose|Bankura; Nadia; 24 Parganas (N); Hooghly; 24 Parganas (South)||
 H01|Schizotetranychus celarius (Hirst.)|Rose|Nadia; Hooghly||
 H01|Oligonychus coffeae|Rose|Nadia; Hooghly; Burdwan; North 24 PGS and Murshidabad||
 H01|Panonychus sp.|Rose|24 Parganas (South)||
 H01|Brevipalpus phoenicis (Geisk.)|Rose|Nadia; 24 Parganas (N)||
-H01|Amblyseius herbicolus (Chant)|Brinjal; Chilli; Bean; New Jalpaiguri; Cooch; Tomato; Potato Behar|||
-H01|Amblyseius fraterculus (Berlese)|Pointed gourd 24 Parganas (N); 24 Parganas (S)|||
-H01|Euseius alstoniae (Gupta, 1975)|Papaya; Okra; Burdwan; Bankura; Hooghly|||
-H01|Euseius ovalis (Evans, 1953)|Chilli; Papaya; Garlic; Nadia; Burdwan; Dolichos bean; pointed Hooghly; New Jalpaiguri gourd; Bean; Brinjal; Broad bean|||
-H01|Typhlodromips syzygii (Gupta, 1975)|Okra; Potato; chilli; Ash Nadia; Burdwan; gourd; Ladies finger; Hooghly; Maldha; Ridge gourd; Bottle Murshidabad gourd; Bitter gourd|||
-H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Pointed gourd; chilli; Nadia; Burdwan; Ladies finger Hooghly; Murshidabad|||
-H01|Phytoseius jujuba (Gupta1977)|Ladies finger; Bean South 24 Parganas|||
-H01|Anthoseius spp.|Chilli; Mung bean; Nadia; Murshidabad; Garlic Malda; Bankura; Hooghly|||
-H01|Amblyseius largoensis|110|19.71||
-H01|Amblyseius herbicolus|22|3.94||
-H01|Amblyseius fraterculus|4|0.71||
-H01|Euseius ovalis|57|10.21||
-H01|Euseius alstoniae|32|5.73||
-H01|Euseius finlandicus|5|0.89||
-H01|Paraphytoseius multidentatus|54|9.67||
-H01|Typhlodromips syzygii|84|15.05||
-H01|Scapulaseius asiaticus|25|4.48||
-H01|Neoseiulus longispinosus|52|9.31||
-H01|Neoseiulus paspalivorus|20|3.58||
-H01|Neoseiulus pranadae|38|6.81||
-H01|Phytoseius jujuba|24|4.30||
-H01|Anthoseius sp.|26|4.65||
-H01|Indoseiulus ricini Total Shannon’s diversity (H1 )|3; 558 =2.35|0.53 -||
-H01|Species evenness (E)|=1.19|||
-H01|Species dominance (D)|=0.91|||
+H01|Amblyseius herbicolus (Chant)|Brinjal; Chilli; Bean; Tomato; Potato|New Jalpaiguri; Cooch Behar||
+H01|Amblyseius fraterculus (Berlese)|Pointed gourd|24 Parganas (N); 24 Parganas (S)||
+H01|Euseius alstoniae (Gupta, 1975)|Papaya; Okra|Burdwan; Bankura; Hooghly||
+H01|Euseius ovalis (Evans, 1953)|Chilli; Papaya; Garlic; Dolichos bean; Pointed gourd; Bean; Brinjal; Broad bean|Nadia; Burdwan; Hooghly; New Jalpaiguri||
+H01|Typhlodromips syzygii (Gupta, 1975)|Okra; Potato; chilli; Ash gourd; Ladies finger; Ridge gourd; Bottle gourd; Bitter gourd|Nadia; Burdwan; Hooghly; Maldha; Murshidabad||
+H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Pointed gourd; chilli; Ladies finger|Nadia; Burdwan; Hooghly; Murshidabad||
+H01|Phytoseius jujuba (Gupta1977)|Ladies finger; Bean|South 24 Parganas||
+H01|Anthoseius spp.|Chilli; Mung bean; Garlic|Nadia; Murshidabad; Malda; Bankura; Hooghly||
 H01|Tydeus sp.|Ash gourd; Cucumber; tomato; chilli|Nadia; Burdwan Hooghly; Malda||
-H01|Bdelloides sp.|Chilli; Ladies finger; potato; chilli; pumpkin|Nadia; Burdwan; Bankura; Malda||
+H01|Bdelloides sp.|Chilli; Ladies finger; potato; pumpkin|Nadia; Burdwan; Bankura; Malda||
 H01|Ascidae|Brinjal; Ladies finger|Nadia||
 H01|Lasioseius parberlesei|Cucumber|Murshidabad||
 H01|Ascidae spp.||Malda||
-H01|Stigmaeidae|Pointed gourd; Ladies|Burdwan||
-H01|Agistemus indudtani|finger; pumpkin|Nadia; 24; Parganas(N); 24 Parganas(S)||
+H01|Stigmaeidae|Pointed gourd; Ladies finger|Burdwan||
+H01|Agistemus indudtani|Ladies finger; pumpkin|Nadia; 24 Parganas (N); 24 Parganas(S)||
 H01|Cunaxidae|Chilli; Ladies finger|Nadia||
 H01|Cunaxa spp.|bitter gourd; pumpkin; snake gourd|Burdwan; Bankura; Hooghly||
-H01|Cheyletidae|Ladies finger; ridge|Burdwan||
-H01|Cheyletogenes sp.|gourd; bitter gourd; snake gourd|Nadia; 24; Parganas(N); Hooghly||
+H01|Cheyletidae|Ladies finger; Ridge gourd|Burdwan||
+H01|Cheyletogenes sp.|bitter gourd; snake gourd|Nadia; 24 Parganas (N); Hooghly||
 H01|Tetranychus urticae (Koch)|Brinjal; Pointed gourd|Nadia; Burdwan; Hooghly; North||
-H01|Tetranychus ludeni (Zacher)|Papaya; Tomato; Okra; Potato; Snake gourd; cucumber; Broad bean; chilli; Ash gourd; Ladies finger; Ridge gourd; Bottle gourd; Bitter gourd; papaya; Chilli; Green gram; pumpkin; Broad bean; Kata Nate; Cowpea; Green gram; squash; Radish; Broad bean|24 Parganas; Murshidabad; Siliguri; South 24 Parganas||
+H01|Tetranychus ludeni (Zacher)|Papaya; Tomato; Okra; Potato; Snake gourd; cucumber; Broad bean; chilli; Ash gourd; Ladies finger; Ridge gourd; Bottle gourd; Bitter gourd; Green gram; pumpkin; Kata Nate; Cowpea; squash; Radish|24 Parganas; Murshidabad; Siliguri; South 24 Parganas||
 H01|Eutetranychus orientalis (Klein)|Chilli; Snake gourd; curry leaf|Nadia; Burdwan||
 H01|Schizotetranychus baltazari (Hirst)|Chilli; curry leaf|Nadia; Burdwan||
 H01|Oligonychus andropogoni|Bottle gourd|Burdwan; Hooghly||
 H01|Polyphagotarsonemus latus (Bank)|Potato; Chilli; Tomato; Garlic; Capsicum; Cabbage; Cauliflower|Nadia; Hooghly; South 24 Parganas||
-H01|Tenuipalpidae|Pointed gourd; Brinjal; Bitter|Nadia; Burdwan||
-H01|Brevipalpus phoenicis (Geisk)|gourd|||
-H01|Amblyseius largoensis (Muma)|Rose; Tagor; Marigold; Bel; Hibiscus; Suros flower; Bugainvillea; Jasmine; Shiuli; Dahlia; Chandramallika; Shiuli; Louts; Kabari; Kadamful; Tagor; Fulfoot|Kalyani; Kathaltala; Ghoshpara; Hooghly; Akna; Susnia; Iswaripur; 24; Parganas(N); Dhaldanga; Sunukpahari; Nadia; Murshidabad; Berhampore; Burdwan; Mondouri||
-H01|Euseius alstoniae (Gupta, 1975)|Krishnachura; Ashok; Creeper jasmine; Hibiscus; Bugainvillea (White); Seuli; Bel; Rose; Night Queen|Susunia; Bankura; kalyani; Nadia; Hooghly; 24; Parganas(N); Siliguri; DR office; BCKV||
-H01|Euseius ovalis (Evans, 1953)|Suros flower; Dahlia; Tagor; Belful; Rose; Jasmine flower; Hibiscus|Hooghly; Kalyani DR building; Nadia; Hooghly; 24; Parganas(N); Bankura; Krishnagar; Ghoshpara; kathatala; Murshidabad; Malda||
+H01|Tenuipalpidae|Pointed gourd; Brinjal; Bitter gourd|Nadia; Burdwan||
+H01|Amblyseius largoensis (Muma)|Rose; Tagor; Marigold; Bel; Hibiscus; Suros flower; Bugainvillea; Jasmine; Shiuli; Dahlia; Chandramallika; Louts; Kabari; Kadamful; Fulfoot|Kalyani; Kathaltala; Ghoshpara; Hooghly; Akna; Susnia; Iswaripur; 24 Parganas (N); Dhaldanga; Sunukpahari; Nadia; Murshidabad; Berhampore; Burdwan; Mondouri||
+H01|Euseius alstoniae (Gupta, 1975)|Krishnachura; Ashok; Creeper jasmine; Hibiscus; Bugainvillea (White); Seuli; Bel; Rose; Night Queen|Susunia; Bankura; kalyani; Nadia; Hooghly; 24 Parganas (N); Siliguri; DR office; BCKV||
+H01|Euseius ovalis (Evans, 1953)|Suros flower; Dahlia; Tagor; Belful; Rose; Jasmine flower; Hibiscus|Hooghly; Kalyani DR building; Nadia; 24 Parganas (N); Bankura; Krishnagar; Ghoshpara; kathatala; Murshidabad; Malda||
 H01|Euseius sundarbanensis (Karmakar & Bhowmik; 2018)|Tagor; Hibiscus|Murshidabad; Malda||
 H01|Euseius sajnekhalicus (Kar & Karmakar 2021)|Hibiscus; Bougainvillea; Kadam; rose|Murshidabad; Malda||
-H01|Paraphytoseius multidentatus (Swirski & Shechter)|Seuli; Krishnachura; Aster|Kalyani; Nadia; Hooghly; 24; Parganas(N); Joynagar||
+H01|Paraphytoseius multidentatus (Swirski & Shechter)|Seuli; Krishnachura; Aster|Kalyani; Nadia; Hooghly; 24 Parganas (N); Joynagar||
 H01|Typhlodromips syzygii|Rose; Sefali; Seuliflower; Kabari; Nayantara|Madanpur; Nadia; Murshidabad; Malda||
-H01|Scapulaseius asiaticus|Rose|AB Block Farm kalyani; Nadia; Hooghly; 24; Parganas(N)||
+H01|Scapulaseius asiaticus|Rose|AB Block Farm kalyani; Nadia; Hooghly; 24 Parganas (N)||
 H01|Phytoseius jujuba (Gupta 1977)|Beli flower|Kalyani; Bankura||
 H01|Phytoseius kapuri (Gupta, 1969)|Hibiscus|Susnia; Dhaldanga; Sunukpahari||
 H01|Phytoseius roseus (Gupta, 1969)|Marigold; Rose|24 Parganas(N)||
-H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Nayantara; Hibiscus|Hooghly; Susunia; Bankura; Dhaldanga; sunukahari; Bisnupur; Dhaldanga||
+H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Nayantara; Hibiscus|Hooghly; Susunia; Bankura; Dhaldanga; sunukahari; Bisnupur||
 H01|Typhlodromus (Anthoseius) heliotropium (Karmakar & Bhowmik, 2018)|Hibiscus|Susunia; Bankura; Burdwan; Hooghly||
 H01|Indoseiulus ricini (Ghai & Menon, 1969)|Bouhenia purpuria|Kalyani||
 H01|Euseius sp.|Rose; Dahlia|Kalyani Farm; Kalimpong||
 H01|Phytoseius sp.|Marigold; Ber; Wild flower; Chandramallika|Kalyani; Nimpith||
-H01|Typhlodromus (Anthoseius) sp.|Bugainvillea flower; Krishnachura; Hibiscus; Kadam.|Hooghly; Susunia; Bankura; Nadia; 24 Parganas(N); Murshidabad; Malda||
+H01|Typhlodromus (Anthoseius) sp.|Bugainvillea flower; Krishnachura; Hibiscus; Kadam|Hooghly; Susunia; Bankura; Nadia; 24 Parganas(N); Murshidabad; Malda||
 H01|Tydeus sp.|Bugainvillea; Kolkiful; Kadamful; Dhalia|Susunia; Bankura; Kalyani||
 H01|Bdelloides sp.|Rose; Hibiscus; Nayantara; Jasmine|Madanpur; Hooghly; Susunia; Bankura; Dhaldanga; sunukahari; 24 Parganas(N)||
 H01|Lasioseius parberlesei|Shuili flower; Hibiscus|Burdwan; Susunia; Bankura||
 H01|Cunaxa sp.||Dhaldanga; sunukahari; Ghoshpara; Murshidabad; Malda; 24 PGS (N)||
 H01|Cheyletus sp.|Jasmine|Susunia; Akna; 24PGS(N); Kuntighat||
-H01|Tetranychus urticae (Koch)|Rose; Chandramallika; Bel; Mariagold; Dahlia; jasmine; Susnia; Dhaldanga; Bankura; Shuili; Hibiscus Tuberose; Landlotus; kanchan; kamini; Jalpaiguri; 24 PGS (S); Tragor; Seuliflower.|Kalyani ghospara; North 24 PGS; Kathaltala; Burdwan; Birnagar; Murshidabad; Malda; Burdwan; Hooghly||
+H01|Tetranychus urticae (Koch)|Rose; Chandramallika; Bel; Mariagold; Dahlia; jasmine; Shuili; Hibiscus; Tuberose; Landlotus; kanchan; kamini; Tragor; Seuliflower|Kalyani ghospara; North 24 PGS; Kathaltala; Burdwan; Birnagar; Murshidabad; Malda; Hooghly; Susnia; Dhaldanga; Bankura; Jalpaiguri; 24 PGS (S)||
 H01|Eutetranychus orientalis (Klein)|Hibiscus; Bugainvillea; Tagor; Kamini; Rose|Susnia; Dhaldanga; sunukpahari; Hooghly; 24 Parganas(N); Nimpith; Bankura; Jalpaiguri||
 H01|Schizotetranychus baltazari (Hirst)|Rose; shiuli|Nadia; Hooghly||
-H01|Oligonychus indicus|Rose; Tagor; Shiuli flower; Kalyani; Nadia; Hooghly; Gladiolus|Murshidabad; Berhampore; Burdwan; North 24 PGS; Bankura and Jalpaiguri||
+H01|Oligonychus indicus|Rose; Tagor; Shiuli flower; Gladiolus|Murshidabad; Berhampore; Burdwan; North 24 PGS; Bankura and Jalpaiguri; Kalyani; Nadia; Hooghly||
 H01|Oligonychus biharensis|Ros; Marigold|Nadia; North 24 PGS; Hooghly||
 H01|Panonychus sp.|Rose; Marigold|Nimpith; Malda||
 H01|Tarsonemidae|Gladiolus; Dahlia|Nadia; North 24 PGS; Burdwan||
-H01|Brevipalpus phoenicis (Geisk)|Euseius sp.; 8%; T. (Anthoseius) heliotropium; 2%; T. (Anthoseius) sp.; 8%|Indoseiulus sp; Phytoseius sp. 2%; 5%; A. largoensis; 24%||
 H01|Amblyseius largoensis (Muma)|Sugarcane|Chandamari Kalyani farm Malda||
 H01|Euseius alstoniae (Gupta, 1975)|Sugarcane|Murshidabad||
 H01|Euseius ovalis (Evans, 1953)|Sugarcane|Murshidabad||
@@ -800,11 +781,11 @@ H01|Typhlodromus (Anthoseius) sp.|Mulberry|Hooghly; Murshidabad||
 H01|Tetranychus urticae (Koch)|Mulberry|Hooghly; Malda; Murshidabad||
 H01|Eutetranychus orientalis (Klein)|Mulberry|Hooghly; Murshidabad; Malda||
 H01|Panonychus spp.|Mulberry|Murshidabad||
-H01|Amblyseius largoensis (Muma)|Jute; Rose; Tagor; Marigold Bel; Lemon; Brinjal; chilli; litchi; Betelvine; Jatropha Mango; Arecanut; Joge dumur; Custard apple; Papaya; Turmeric; Bougainillea; Arjun; Coconut; Basak; Guava; Garlic|Muratipur; Kathaltala; AB block farm Kalyani; KalyaniGhoshpara; Kalyani; DR office; Natunpally||
+H01|Amblyseius largoensis (Muma)|Jute; Rose; Tagor; Marigold; Bel; Lemon; Brinjal; chilli; litchi; Betelvine; Jatropha; Mango; Arecanut; Joge dumur; Custard apple; Papaya; Turmeric; Bougainillea; Arjun; Coconut; Basak; Guava; Garlic|Muratipur; Kathaltala; AB block farm Kalyani; KalyaniGhoshpara; Kalyani; DR office; Natunpally||
 H01|Euseius ovalis (Evans, 1953)|Jute; Rose; Bel; chilli; Dahlia; Bouganvelliea; Custard apple; Broad bean; Papaya|Muratipur; AB block farm; Kalyani; KalyaniGhoshpara; Chandamari; Nadia; DR building; Kataltala; Natunpally||
-H01|Paraphytoseius multidentatus (Swirski & Shechter)|Jute; Brinjal Tomato; Mikania micrantha; Wild Bhendi Forest plants; Green gram|Muratipur; AB block farm; Kalyani; ‘C’ block farm; Kalyani university campus||
+H01|Paraphytoseius multidentatus (Swirski & Shechter)|Jute; Brinjal; Tomato; Mikania micrantha; Wild bhendi; Forest plants; Green gram|Muratipur; AB block farm; Kalyani; ‘C’ block farm; Kalyani university campus||
 H01|Typhlodromips syzygii (Gupta, 1975)|Rose; coconut; Okra; Forest plants; Groundnut; Bitter gourd; Maize|Madanpur; AB block farm; KalyaniGhoshpara; Kalyani university campus||
-H01|Scapulaseius asiaticus (Evans)|Rose; Pointed gourd Coconut; Okra; Forest plants; Joge dumur; Fig|KalyaniGhoshpara; Kalyani university campus; Badkulla; DR office; AB block farm; Madanpur||
+H01|Scapulaseius asiaticus (Evans)|Rose; Pointed gourd; Coconut; Okra; Forest plants; Joge dumur; Fig|KalyaniGhoshpara; Kalyani university campus; Badkulla; DR office; AB block farm; Madanpur||
 H01|Phytoseius jujuba (Gupta 1977)|Forest plants; Joge dumur; unknown plants; Brinjal; bitter gourd; Guava; Fig|Kalyani university; AB block farm; Badkulla; Simurali||
 H01|Neoseiulus longispinosus (Evans)|Jute|Muratipur Nadia; Madanpur; Chakdhah||
 H01|Phytoseius kapuri (Gupta, 1969)|Fig; Marigold|AB block farm; Kalyani||
@@ -816,9 +797,9 @@ H01|Tydeus sp.|Rice; Sirish|AB block farm; Kalyani||
 H01|Bdelloides sp.|Rose; Litchi; Custard apple; Fig|Madanpur; Nadia; Kathaltala; AB block farm||
 H01|Lasioseius parberlesei|Sugarcane; Cucumber|Kalyani; Nadia; Chandamari; AB block farm; Chakdhah||
 H01|Agistemus indudtani||block farm; Ghoshpara||
-H01|Cunaxidae|Hibiscus Lemon; chilli; Custard|Kalyani; Nadia; AB’ block||
+H01|Cunaxidae|Hibiscus; Lemon; chilli; Custard|Kalyani; Nadia; AB’ block||
 H01|Cunaxa sp.|apple; Arecanut; Guava; Coconut|farm; Chandamari; Kalyani||
-H01|Tetranychus urticae (Koch)|Rose; Pointed gourd; Papaya; Chandramallika; Bel; Lemon; Tomato; Potato; Snake gourd; Cucumber Jatropha; Okra; Joge dumur; Sugarcane; Arecanut; Sugarcane; Arjun; Radish; Guava; Kly; Santipur; Broad bean; Black gram; Soyabean; Groundnut; Termeric; sunhemp; Jute; Betelevine|AB block farm; KalyaniGhoshpara; Kalyani; D block farm; Charsarati; Natunpally; Madanpur; Kly university; Ranaghat; Birpara||
+H01|Tetranychus urticae (Koch)|Rose; Pointed gourd; Papaya; Chandramallika; Bel; Lemon; Tomato; Potato; Snake gourd; Cucumber; Jatropha; Okra; Joge dumur; Sugarcane; Arecanut; Arjun; Radish; Guava; Broad bean; Black gram; Soyabean; Groundnut; Termeric; sunhemp; Jute; Betelevine|AB block farm; KalyaniGhoshpara; Kalyani; D block farm; Charsarati; Natunpally; Madanpur; Kly university; Ranaghat; Birpara; Santipur||
 H01|Schizotetranychus celarius (Hirst)|Rose; Rice|AB block farm; Kalyani||
 H01|Schizotetranychus baltazari|Citrus; Bamboo; Curry leaf; Cotton (simul); Pigeon pea; Lemon; chilli|Gayeshpur; Tarenipur; Madanpur; AB block farm; Kalyani; Chandamari||
 H01|Oligonychus oryzae|Rice|AB block farm; kalyani||
@@ -826,14 +807,14 @@ H01|Oligonychus indicus|Sugarcane|Chandamari; AB block farm; Barohat; Kalyani; M
 H01|Oligonychus biharensis|Kul; Forest plants; Betelvine; Tagor|Ghoshpara; Kathaltala; Badkulla||
 H01|Aponychus corpuzae|Bamboo|Gayeshpur; Muratipur; Madanpur||
 H01|Porcupinychus sp.|Papaya|Kataltala; Natunpally; Chandamari||
-H01|Tenuipalpidae|Chandramallika; Rose; Pointed|AB block farm||
-H01|Brevipalpus phoenicis (Geisk)|gourd; Brinjal; Betelvine; Forest plants; Dhutra|KalyaniGhoshpara; Kalyani university; Badkulla; Muratipur||
+H01|Tenuipalpidae|Chandramallika; Rose; Pointed gourd|AB block farm||
+H01|Brevipalpus phoenicis (Geisk)|Brinjal; Betelvine; Forest plants; Dhutra|KalyaniGhoshpara; Kalyani university; Badkulla; Muratipur||
 H01|Stenotarsonemus spinki|Rice|AB block farm; Kalyani||
 H01|Polyphagotarsonemus latus|Gradiolus; Tomato; potato; chilli|AB block farm; Kalyani; D block farm||
 H01|Amblyseius largoensis|Mangifera indica; Anacardium occidentale; Annona squamosa; Catharanthus roseus; Calotropis gigantea; Areca catechu; Phoenix dactylifera; Terminalia arjuna; Emblica officinalis; Manihot esculenta; Pongammia pinnata; Butea monosperma; Vitex negundo; Ocimum sanctum; Abroma augusta; Abelmoschus esculentus; Ficus bengalensis; Ficus religiosa; Psidium guajava; Syzygium cumunii; Bougainvillea glabra|Amdanga; Habra; Barasat; Bira; Baruipara; Awalsiddhi; Bangaon; Helanccha; Bagdha||
-H01|Neoseiulus longispinosus|Cyperus rotundus; Ricinus communis; Vigna unguiculata; Abelmoschus esculentus; Awalsiddhi; Rosa sp.|Habra; Bira||
+H01|Neoseiulus longispinosus|Cyperus rotundus; Ricinus communis; Vigna unguiculata; Abelmoschus esculentus; Rosa sp|Habra; Bira; Awalsiddhi||
 H01|Scapulaseius morasei|Punica granatum; Ziziphus mauritiana|Amdanga; Bira||
-H01|Asperoseius jujuba|Morus alba; Ixora sp.|Amdanga||
+H01|Asperoseius jujuba|Morus alba; Ixora sp|Amdanga||
 H01|Typhlodromips syzygii|Pongammia pinnata; Psidium guajava; Aegle marmelos|Barasat; Bira||
 H01|Neoseiulus pranadae|Cyperus rotundus; Cynodon dactylon; Datura stramonium; Lantana camara|Amdanga; Baruipara; Habra||
 H01|Neoseiulus imbricatus|Oryza sativa; Cyperus rotundus|Bira; ghuma; Barasat||
@@ -843,7 +824,7 @@ H01|Cunaxidae|Ocimum sanctum|Awalsiddhi||
 H01|Cunaxa sp.|Hibiscus rosasinensis; Moringa oleifera|Barasat||
 H01|Stenotarsonemus spinki Polyphagotarsonemus latus|Oryza sativa; Abelmoschus esculentus; Solanum tuberosum; Solanum melongena; Capsicum annuum|Habra; Baruipara; Barasat||
 H01|Tetranychidae|Brinjal; Potatp; Chilli; Broad bean; rose|Barasat; Bangaon||
-H01|Tetranychus urticae Schizotetranychus celarius|Dahlia Chandramallika et.; Solanum surattense; Datura stramonium; Ocimum sanctum; Morus alba|Gadamara; Ashoke Nagar; Habra; Awalsiddhi||
+H01|Tetranychus urticae Schizotetranychus celarius|Dahlia; Chandramallika; Solanum surattense; Datura stramonium; Ocimum sanctum; Morus alba|Gadamara; Ashoke Nagar; Habra; Awalsiddhi||
 H01|Panonychus sp.|Carica papaya; Cucumis sativus|Amdanga||
 H01|Amblyseius largoensis (Muma)|Mango; koromcha; custard apple; batabilabu; litchi; jackfruit; Sugarcane; rose; jamun; lemon; sirish; amla; sapota; ginger; bel; sadafull; hibiscus; white flower; mulberry; jhau tree; Sandle tree|Murshidabad||
 H01|Euseius alstoniae (Gupta, 1975)|Sugarcane; drumstick|Murshidabad||
@@ -851,7 +832,7 @@ H01|Euseius arunachalensis (Pramanik & Karmakar, 2016)|Mango; chilli|Murshidabad
 H01|Euseius ovalis (Evans, 1953)|Siris tree; tagro full; custard apple; ber; jackfruit; Sugarcane; litchi; flower; mulberry; jhau tree|Murshidabad||
 H01|Euseius sajnekhalicus (Karmakar & Kar, 2021)|Rose; sadafull; hibiscu; s white flower carambola; custard apple; debdaru; jhau tree; Sandle tree|Murshidabad||
 H01|Euseius sundarbanensis (Karmakar & Bhowmik, 2018)|Rose; sapota; crambola bougainvillea; jhau tree|Murshidabad||
-H01|Typhlodromips syzygii (Gupta, 1975)|Guava; mango; Sugarcane; papaya mulberry; jamun; lemon; seuliflower sirish; ginger; aster flower; amla; white flower; chilli; mango|Murshidabad||
+H01|Typhlodromips syzygii (Gupta, 1975)|Guava; mango; Sugarcane; Papaya; Mulberry; jamun; lemon; Seuliflower; Sirish; ginger; aster flower; amla; white flower; chilli|Murshidabad||
 H01|Phytoseius jujuba (Gupta 1977)|Brinjal; litchi; forest plant|Murshidabad||
 H01|Neoseiulus longispinosus (Evans)|Custard apple|Murshidabad||
 H01|Cunaxa sp.|Sugarcane; flower; sadafull; Amla|Murshidabad||
@@ -863,8 +844,8 @@ H01|Stenotarsonemus spinki|Rice; chilii; potato|Murshidabad||
 H01|Amblyseius largoensis (Muma)|Litchi; Jackfruit; Sugarcane; Chilli; Tulsi; Banana; Nayantara; Fig; Pomegranate; Mango; Papaya; Arjun; Guava; Drum stick|Malda||
 H01|Amblyseius brachycalyx (Karmakar Bhowmik & Sherpa 2017)|Ghatu|Malda||
 H01|Euseius alstoniae (Gupta, 1975)|Litchi; Arjun; Bittergourd; Maize; Banana; chilli; Hibiscus|Malda||
-H01|Euseius ovalis (Evans, 1953)|Hibiscus; Jackfruit; Arjun; Macho fruit; chilli; Rose; Litchi. Mango|Malda||
-H01|Euseius sajnekhalicus (Karmakar & Kar, 2021)|Guava; Jackfruit; Rose; Litchi; Arjun Tulsi; Banana; Custard apple; Mango Kadam; Bogainvillea; Tomato; pitali Papaya; Jamrul; Chilli; Brinjal|Malda||
+H01|Euseius ovalis (Evans, 1953)|Hibiscus; Jackfruit; Arjun; Macho fruit; chilli; Rose; Litchi; Mango|Malda||
+H01|Euseius sajnekhalicus (Karmakar & Kar, 2021)|Guava; Jackfruit; Rose; Litchi; Arjun; Tulsi; Banana; Custard apple; Mango; Kadam; Bogainvillea; Tomato; Pitali; Papaya; Jamrul; Chilli; Brinjal|Malda||
 H01|Euseius finlandicus|Mango; Tulsi; Pear|Malda||
 H01|Typhlodromips syzygii (Gupta, 1975)|Chilli; jamun; litchi; Banana; Nayantara|Malda||
 H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Drumstick; Bera tree|Malda||
@@ -874,16 +855,16 @@ H01|Tetranychus urticae (Koch)|Fig; Mango; Ghatu; Chilli; Rose; Lombu; Banana; j
 H01|Eutetranychus orientalis (Klein)|Fig; Bera; Banana; pitali; Pear|Malda||
 H01|Oligonychus mangiferous|Mango|Malda||
 H01|Oligonychus sacchari|Pata bahar; sugercane|Malda||
-H01|Amblyseius largoensis (Muma)|Karipata (Murraya koenigi) Fig plant; Papaya; Hibiscus; Gandharaj lemon; Jetropha; Suros flower; Hibiscus; Bugainvillea; Lotus (upland); Jasmine; Shiuli (Nyctanthes sp.) Polyalthia longifolia; Mango; Jhau; Tulsi (Ocimumtenuiflorum); Abrus precatorius (herbaceous flower plant )|Hooghly||
+H01|Amblyseius largoensis (Muma)|Karipata (Murraya koenigi); Fig plant; Papaya; Hibiscus; Gandharaj lemon; Jetropha; Suros flower; Bugainvillea; Lotus (upland); Jasmine; Shiuli (Nyctanthes sp.); Polyalthia longifolia; Mango; Jhau; Tulsi (Ocimumtenuiflorum); Abrus precatorius (herbaceous flower plant )|Hooghly||
 H01|Amblyseius brachycalyx|Ficus benghalensis; Abrus precatorius (herbaceous flower plant )|Hooghly||
 H01|Amblyseius dahliae|Saraca asoca (Ashoke tree )|Hooghly||
 H01|Euseius alstoniae (Gupta, 1975)|Segun (Tectona grandis); Mahogany; Fig; Papaya; Jetropha; Radhachura (Peltophorum pterocarpum) Tulsi (Ocimum tenuiflorum); Lantana camara|Hooghly||
-H01|Euseius ovalis (Evans, 1953)|Banana; Jetropha; Suros flower; Polyalthia Hooghly longifolia (Debraru)|||
+H01|Euseius ovalis (Evans, 1953)|Banana; Jetropha; Suros flower; Polyalthia longifolia (Debraru)|Hooghly||
 H01|Phytoseius jujuba (Gupta 1977)|Tulsi (Ocimumtenuiflorum); Ficus benghalensis; Papaya|||
 H01|Phytoseius kapuri (Gupta, 1969)|Hibiscus|Hooghly||
 H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Hibiscus|Hooghly||
 H01|Typhlodromus (Anthoseius) sp.|Banana; Bugainvillea; Mango; Mulberry plant (Morus alba); Tulsi (Ocimum tenuiflorum); Lantana camara|Hooghly||
-H01|Tydeus sp.|Ficus benghalensis; Mahogany; Banana Tulsi; Unknown forest plant|Hooghly||
+H01|Tydeus sp.|Ficus benghalensis; Mahogany; Banana; Tulsi; Unknown forest plant|Hooghly||
 H01|Bdelloides sp.|Ficus benghalensis; Hibiscus; Jasmine|Hooghly||
 H01|Cunaxidae|Tulsi; Lantana camara|Hooghly||
 H01|Tetranychus urticae (Koch)|Karipata; Debraru; Fig) Mulberry plant (Morus alba)|Hooghly||
@@ -893,21 +874,21 @@ H01|Oligonychus coffeae|Karipata (Murraya koenigi)|Hooghiy||
 H01|Oligonychus biharensis|Shiuli flower (Nyctanthes sp.) Jhau (Tamaxix dioica); Lemon; Banana|Hooghly||
 H01|Polyphagotarsonemus latus|chilli|Hooghly||
 H01|Stenotarsonemus spinki|Rice|Hooghly||
-H01|Amblyseius largoensis (Muma)|Chilli; shiuli; ridge gourd; cucumber vendi; papaya; bittergourd; pumpkin|Burdwan||
+H01|Amblyseius largoensis (Muma)|Chilli; shiuli; ridge gourd; Cucumber; Vendi; papaya; bittergourd; pumpkin|Burdwan||
 H01|Euseius alstoniae (Gupta, 1975)|Papaya|Burdwan||
 H01|Typhlodromips syzygii (Gupta, 1975)|Chilli; potato; ash gourd; vendi; Ridge gourd; bottlegourd; groundunt|Burdwan||
 H01|Scapulaseius asiaticus (Evans)|Ridgegourd|Burdwan||
 H01|Neoseiulus longispinosus|Vandi|Burdwan||
 H01|Phytoseius kapuri|Bitter gourd|Burdwan||
-H01|Tydeus sp.|Cucumber; ash gourd; cucumber|Burdwan||
+H01|Tydeus sp.|Cucumber; ash gourd|Burdwan||
 H01|Bdelloides sp.|Vendi|Burdwan||
 H01|Cunaxidae|Vendi; pumpkin; Bitter gourd|Burdwan||
-H01|Tetranychus urticae (Koch)|Potato; Chilli; papaya; green bean; Burdwan pumpkin; Ridgegourd; cucumber; shiuli flower; vendi Bottle gourd; wild plant; ash gourd; Broad bean|||
+H01|Tetranychus urticae (Koch)|Potato; Chilli; papaya; green bean; pumpkin; Ridgegourd; cucumber; shiuli flower; Vendi; Bottle gourd; wild plant; ash gourd; Broad bean|Burdwan||
 H01|Tenuipalpidae|Bittergourd; Bottle gourd; wild|Burdwan||
 H01|Brevipalpus phoenicis (Geisk)|plant; ash gourd; Broad bean; Papaya|||
 H01|Polyphagotarsonemus latus|chilli|Burdwan||
 H01|Steneotarsonemus spinki|Rice|Burdwan||
-H01|Aceria tulipae Beetle Mite|Garlic; Vendi; Bittergourd|Burdwan; Burdwan||
+H01|Aceria tulipae Beetle Mite|Garlic; Vendi; Bittergourd|Burdwan||
 H01|Neoseiulus pranadae (Karmakar & Gupta, 2014)|Chilli|Birpar; Kuntighat||
 H01|Paraphytoseius multidentatus (Swirski & Shechter)|Chilli|Murshridabad||
 H01|Scapulaseius moraesi (Karmakar & Bhowmik, 2018)|Chilli|AB Block farm||
@@ -919,7 +900,7 @@ H01|Neoseiulus longispinosus (Evans)|Pointed gourd; Amaranthus; Brinjal; Ladies 
 H01|Neoseiulus paspalivorus (De Leon, 1957)|Pointed gourd|Nadia; Murshidabad; 24 Parganas (N)||
 H01|Eutetranychus orientalis (Klein)|Lemon; Chilli; Snake gourd; Ber; Neem; Cotton|DR office; Kalyani; AB block farm; Chandamari; Nadia; Charsarati; Ranaghat||
 H01|Euseius ovalis (Evans, 1953)|Mangifera indica; Anacardium occidentale; Phoenix dactylifera; Emblica officinalis; Butea monosperma; Abroma augusta; Ficus bengalensis; Syzygium cumini; Artocarpus heterophyllus; Moringa oleifera|Amdanga; Habra; Barasat; Bira; Awalsiddhi||
-H01|Paraphytoseius multidentatus (Swirski & Shechter)|Solanum melongena; Ricinus communis; Mentha piperita; Ocimum basilicum; Hibiscus rosa-sinensis; Abelmoschus esculentus; Nyctanthes arbor-tristis; Rosa sp.; Ixora sp.|Barasat; Bira; Baruipara||
+H01|Paraphytoseius multidentatus (Swirski & Shechter)|Solanum melongena; Ricinus communis; Mentha piperita; Ocimum basilicum; Hibiscus rosa-sinensis; Abelmoschus esculentus; Nyctanthes arbor-tristis; Rosa sp; Ixora sp|Barasat; Bira; Baruipara||
 H01|Amblyseius brachycalyx (Karmakar, Bhowmik & Sherpa, 2017)|Pitali|Murshidabad||
 # H02 Kalyani 2020-21 Bihar surveys (printed pp. 163-172): fruit, vegetable, flower and miscellaneous crop tables; rows with GPS-polluted columns removed
 H02|Tetranychus urticae (Koch)|Litchi; jujube; Mango; Banana; Palm; Custard; Apple; Papaya; Bel; Guava; Pomegranate; Jackfruit; Date palm; jamun; Pomegramate|Muzaffarpur; Sitamarhi; Motihary||
@@ -933,7 +914,7 @@ H02|Euseius finlandicus|Jamun; Kathbadam; papaya; Jujube|||
 H02|Euseius sajnekhalicus (Kar & Karmakar, 2021)|Banana|||
 H02|Tetranychus urticae (Koch)|Fig; Broad bean; Brinjal; Bittergourd; drumstick|||
 H02|Eutetranychus orientalis (Klein)|Brinjal; Drumstick|||
-H02|Amblyseius largoensis (Muma)|Brinjal; Sponge gourd; Brinjal; Chilli; Drumstick; Ladies finger|Muzaffarpur; Sitamarhi; Motihari; Darbhanga||
+H02|Amblyseius largoensis (Muma)|Brinjal; Sponge gourd; Chilli; Drumstick; Ladies finger|Muzaffarpur; Sitamarhi; Motihari; Darbhanga||
 H02|Typhlodromips syzygii (Gupta, 1975)|Sponge gourd|Motihari; Darbhanga||
 H02|Euseius alstoniae (Gupta, 1975)|Fig|Darbhanga||
 H02|Neoseiulus longispinosus (Evans, 1952)|Chilli|Darbhanga||
@@ -955,8 +936,8 @@ H02|Cunaxidae|Nyctanthes arbor-|Motihari||
 H02|Cunaxa sp.|tristis; Shefali|Darbhanga||
 H02|Stigmaeidae|Nyctanthes|Motihari pipra||
 H02|Agistemus indudtani|arbortristis|||
-H02|Tetranychus urticae (Koch)|Hibiscus; Karabi flower; Marigold; Marigold; Nayantara (Catharanthes roseus); Shefali flower; Bougainvillea|Sitamarhi; Motihari; Madhuban; Darbhanga; Muzaffarpur||
-H02|Amblyseius largoensis (Muma)|Bamboo; Fern; Small millet; Sal tree; Tulsi; Mahogani Motihari|Muzaffarpur; Sitamarhi; Darbanga||
+H02|Tetranychus urticae (Koch)|Hibiscus; Karabi flower; Marigold; Nayantara (Catharanthes roseus); Shefali flower; Bougainvillea|Sitamarhi; Motihari; Madhuban; Darbhanga; Muzaffarpur||
+H02|Amblyseius largoensis (Muma)|Bamboo; Fern; Small millet; Sal tree; Tulsi; Mahogani|Muzaffarpur; Sitamarhi; Darbanga; Motihari||
 H02|Amblyseius brachycalyx (Karmakar et al. 2017)|Turmeric|Sitamarhi||
 H02|Euseius ovalis (Evans, 1953)|Cotton|Darbhanga||
 H02|Euseius sajnekhalicus (Kar and Karmakar)|Debdaru; Tulsi|Sitamarhi; Darbhanga||
@@ -972,7 +953,7 @@ H02|Agistemus indudtani|camera|||
 H02|Cunaxidae|Sal tree; Basak|Motihari||
 H02|Cunaxa sp.|pigeon pea|Darbhanga||
 H02|Cheyletidae|Tulsi|Darbhanga||
-H02|Tetranychus urticae (Koch)|Turmeric; Grass; pigeon Muzaffarpur; Sitamarhi; Motihari; pea; Small millet; Debdaru; Basak; Cotton; sal tree; Pigeon pea; sugarcane; Tulsi|Madhuban; Darbhanga||
+H02|Tetranychus urticae (Koch)|Turmeric; Grass; Pigeon pea; Small millet; Debdaru; Basak; Cotton; sal tree; sugarcane; Tulsi|Madhuban; Darbhanga; Muzaffarpur; Sitamarhi; Motihari||
 H02|Oligonychus andropogoni||Sugarcane; Bamboo||
 H02|Eutetranychus orientalis||Banyan tree; Neem; Jetropha; Turmeri||
 # H05 Ludhiana 2020-21 (printed pp. 134-136) Table 117: surveillance of phytophagous mites; GPS coordinates omitted; intensity in the note

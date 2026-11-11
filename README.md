@@ -129,11 +129,11 @@ The first of the modern reports. Kalyani's tables for West Bengal and Bihar make
 
 | Measure | Value |
 | --- | ---: |
-| Observation rows | 1,905 |
-| Distinct mite species names | 90 |
-| Distinct host names | 460 |
+| Observation rows | 1,867 |
+| Distinct mite species names | 88 |
+| Distinct host names | 383 |
 
-Combined AICRP layers: 5,691 observation rows, 440 species x state pairs, 250 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 5,653 observation rows, 440 species x state pairs, 250 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 9: AICRP Progress Report 2021-22 (XVIII Group Meeting, survey chapter III.1)
 
@@ -145,7 +145,7 @@ Smaller than the previous year: Coimbatore's place, host and mite table, Ludhian
 | Distinct mite species names | 30 |
 | Distinct host names | 84 |
 
-Combined AICRP layers: 5,872 observation rows, 453 species x state pairs, 261 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 5,834 observation rows, 453 species x state pairs, 261 of them not in the Gupta & Mondal (2023) layer.
 
 ### Layer 10: AICRP Progress Report 2024-25 (XXI Group Meeting, chapter on diversity of plant-associated mites)
 
@@ -157,10 +157,30 @@ The most recent report in the set. Seven centres give species and host tables: B
 | Distinct mite species names | 122 |
 | Distinct host names | 197 |
 
-Combined AICRP layers: 6,629 observation rows, 496 species x state pairs, 292 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,591 observation rows, 496 species x state pairs, 292 of them not in the Gupta & Mondal (2023) layer.
 
 
 
+
+## Host names (standardised)
+
+Host names are printed in many forms: English, Hindi, Bengali and Gujarati local names, misspellings, scientific names with old genus names. `config/host_dictionary.txt` maps each printed string to an accepted taxon, plant family and standard common name, and `scripts/host_names.py` applies it in both builds. The new columns, present in `data/aicrp/aicrp_observations.csv` and `data/records/species_host.csv`, are:
+
+- `host_taxon_std`: binomial, `Genus sp.`, a family, or a group label.
+- `host_rank_std`: `species`, `genus`, `family`, `group` (weeds, ornamentals, forest plants and so on), `substrate` (stored products), `ambiguous` (a local name that could be more than one plant) or `unresolved`.
+- `host_family`, `host_std_common`, `host_basis` (how the name was resolved) and `host_confidence` (`medium` for local names and context-based readings).
+- `host_check` (AICRP only, rows that print both a common and a scientific name): `agree`, `species_differs` or `genus_differs`.
+
+Rules: the printed common name is looked up first; if it is only a genus or group, a printed scientific name in the same genus refines it; names that cannot be decided are left as `ambiguous` and listed in `data/review/aicrp_hosts_to_review.csv` (with the pairs where the printed common and scientific names point to different plants, for example green gram printed with *Cicer arietinum*). Scientific names are kept as printed apart from spelling fixes and a few old genus names; they are not matched against a plant-name database, so a synonym in the printed name stays as printed. `data/aicrp/aicrp_host_crosswalk.csv` lists every printed host string with the name it was given.
+
+| Measure | AICRP layers | Gupta & Mondal (2023) |
+| --- | ---: | ---: |
+| Rows with a host | 4,809 | 1,569 (in India) |
+| Rows resolved to species or genus | 4,553 | 1,473 |
+| Distinct host species | 284 | |
+| Plant families | 92 | 117 |
+
+Repair of the 2020-21 Kalyani tables: abundance counts, diversity-index rows and district names had run into the host lists when the two-column text layer was read, and some host names were split across cells. `scripts/tools/clean_host_lists.py` removed 18 non-host rows, moved district names to the locality field and rejoined split names; every change is in `data/review/aicrp_host_list_repairs.csv`.
 
 ## Files
 
@@ -181,7 +201,7 @@ Python standard library only. Add `python scripts/build_aicrp.py` after `build_r
 
 ## Limits
 
-- Host names are as printed. Plant names have not been checked against a plant-name authority, so spelling variants and synonyms of one plant are still separate rows.
+- `host_as_printed` keeps the source text. The standardised host columns come from a hand-made dictionary, not a plant-name database; local names marked `medium` confidence and the `ambiguous` rows need a check by someone who knows the region.
 - The book prints hosts for phytophagous mites and habitats for most predatory mites. Habitat plants are not in this layer.
 - State names follow the book (for example Orissa, Pondicherry). Records dated before state reorganisations are not reassigned.
 - Records carry the book as their source, not the original paper behind each record.
