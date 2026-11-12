@@ -14,6 +14,7 @@
     "tarswb2023": "data/checklist/tarsonemidae_west_bengal.csv",
     "add2026": "data/checklist/additions_2022_2026.csv",
     "gb2017": "data/checklist/gupta_bose2017_south_bengal.csv",
-    "mitra2018": "data/checklist/mitra2018_tenuipalpidae_west_bengal.csv"
+    "mitra2018": "data/checklist/mitra2018_tenuipalpidae_west_bengal.csv",
+    "coi_coverage": "data/processed/coverage_by_species.csv"
   }
 }

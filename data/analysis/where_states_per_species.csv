@@ -1,0 +1,8 @@
+group,species,no_state,one_state,two_states,three_states,four_or_more,share_one_state
+Tetranychidae,148,1,57,30,16,44,0.385
+Tenuipalpidae,114,0,68,24,7,15,0.596
+Eriophyoidea,580,9,426,98,32,15,0.734
+Tarsonemidae,43,0,39,2,1,1,0.907
+Tuckerellidae,4,0,3,1,0,0,0.75
+Phytoseiidae,332,24,196,50,9,53,0.59
+All,1221,34,789,205,65,128,0.646

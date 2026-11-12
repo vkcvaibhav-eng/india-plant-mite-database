@@ -208,6 +208,20 @@ Rules: the printed common name is looked up first; if it is only a genus or grou
 
 Repair of the 2020-21 Kalyani tables: abundance counts, diversity-index rows and district names had run into the host lists when the two-column text layer was read, and some host names were split across cells. `scripts/tools/clean_host_lists.py` removed 18 non-host rows, moved district names to the locality field and rejoined split names; every change is in `data/review/aicrp_host_list_repairs.csv`.
 
+## Analyses (Paper 2)
+
+`python scripts/analysis/analyse.py` writes the tables in `data/analysis/`; `python scripts/analysis/figures.py` draws `figures/fig1`–`fig5` (300 dpi PNG). Counts use the 1,221 counted species of the Paper 1 checklist, in the Paper 1 groups. Species × state and species × host pairs are sets, so a collection repeated in two reports counts once. `data/analysis/findings_summary.csv` lists every headline number.
+
+**Where** (`where_*.csv`, Fig. 1). Records come from 34 states and union territories, but three states hold most of the fauna: West Bengal 515 species, Tamil Nadu 427 and Karnataka 259, together 917 of the 1,187 species with a state. 789 species (66% of those with a state) are known from one state only. Central India (Madhya Pradesh, Chhattisgarh) has 24 species, Maharashtra 16, Gujarat 59 and the eight north-eastern states 203; in most states outside the top three, more than 60% of the records rest on a single source.
+
+**When** (`when_*.csv`, Fig. 2). 1,171 species have a description year (50 lack one). The 1980s is the peak decade (381 species, 266 of them Eriophyoidea); 643 species date from 1970–1999 and 240 from 2000 onward. The 2020s already have 131, mostly Phytoseiidae (73) and Tarsonemidae (30). The year is the year a species was described, anywhere, not the year of its first Indian record. The AICRP reports list 31–79 checklist species each.
+
+**Who** (`who_*.csv`). The authorities carry 232 author names. Five names appear in the authority of 676 species (55%): Mohanasundaram 278, Chakrabarti 139, Gupta 135, Karmakar 126, Mondal 64. Mohanasundaram is in the authority of 41% of the Indian Eriophyoidea and Chakrabarti of 24%; Karmakar of 67% of the Tarsonemidae. Authors are surnames as printed, so "Gupta" joins more than one person.
+
+**Hosts** (`hosts_*.csv`, Figs 3–4). Hosts combine the book, AICRP and checklist layers; breadth is counted in host genera. Of 811 phytophagous species with a host genus, 589 (73%) are known from one host genus only (Eriophyoidea 90%, Tarsonemidae 81%, Tenuipalpidae 40%, Tetranychidae 31%); 24 species have more than 20. The plants with most phytophagous species are Citrus (40), rose (31), guava (30), fig (26) and brinjal (24). 230 of the 332 Phytoseiidae have no plant in the data, because the book's habitat lines for predators are not yet parsed. Crop types are a broad grouping by genus; 240 phytophagous species are on hosts without an assigned type.
+
+**Link to Paper 1** (`link_*.csv`, Fig. 5). 137 checklist species have a COI barcode. Barcoded species are recorded from more states (median 3 against 1; Mann-Whitney P = 2 × 10⁻³³) and on more host genera (3 against 1). The share with a barcode rises from 4% of species known from one state (32 of 789) to 69% of species known from ten or more (27 of 39). The association does not show cause: the widely recorded species are also the pest species most studied.
+
 ## Files
 
 - `data/records/species_state.csv`: one row per species and Indian state.
@@ -224,7 +238,7 @@ python scripts/fetch_sources.py
 python scripts/build_records.py
 ```
 
-Python standard library only. Then run `python scripts/build_aicrp.py` (AICRP layers) and `python scripts/build_regional.py` (layer 11 and the combined table), in that order.
+Python standard library only. Then run `python scripts/build_aicrp.py` (AICRP layers) and `python scripts/build_regional.py` (layer 11 and the combined table), in that order, and the two analysis scripts. The analyses need `scipy` and the figures `matplotlib`; the builds need the standard library only.
 
 ## Limits
 

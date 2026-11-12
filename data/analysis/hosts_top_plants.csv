@@ -1,0 +1,41 @@
+host,common_name,crop_type,phytophagous_species,Tetranychidae,Tenuipalpidae,Eriophyoidea,Tarsonemidae,Tuckerellidae,phytoseiid_species
+Citrus sp.,Citrus,fruit,40,30,6,3,1,0,13
+Rosa sp.,Rose,ornamental,31,24,6,1,0,0,12
+Psidium guajava,Guava,fruit,30,5,20,3,2,0,17
+Ficus carica,Fig,fruit,26,15,8,2,1,0,9
+Solanum melongena,Brinjal,vegetable,24,15,5,2,2,0,21
+Prunus persica,Peach,fruit,24,15,9,0,0,0,6
+Pyrus communis,Pear,fruit,23,11,11,1,0,0,9
+Malus domestica,Apple,fruit,23,14,9,0,0,0,11
+Bambusa sp.,Bamboo,tree_forest,23,20,0,3,0,0,6
+Citrus limon,Lemon,fruit,23,9,11,2,1,0,6
+Ficus sp.,Ficus,tree_forest,21,9,3,9,0,0,8
+Carica papaya,Papaya,fruit,20,13,5,1,1,0,10
+Musa sp.,Banana,fruit,20,15,3,1,1,0,6
+Morus alba,Mulberry,plantation_spice,20,13,5,1,1,0,16
+Mangifera indica,Mango,fruit,20,8,3,9,0,0,19
+Ziziphus mauritiana,Ber,fruit,18,11,3,2,2,0,15
+Oryza sativa,Rice,field_crop,18,11,1,4,2,0,8
+Artocarpus heterophyllus,Jackfruit,fruit,17,9,4,3,1,0,11
+Punica granatum,Pomegranate,fruit,17,5,11,1,0,0,11
+Manihot esculenta,Cassava,field_crop,16,16,0,0,0,0,1
+Abelmoschus esculentus,Okra,vegetable,16,9,4,1,2,0,18
+Saccharum officinarum,Sugarcane,field_crop,15,10,0,2,3,0,6
+Syzygium cumini,Jamun,fruit,15,6,3,4,2,0,8
+Vitis vinifera,Grape,fruit,15,7,7,1,0,0,5
+Cocos nucifera,Coconut,plantation_spice,15,7,4,3,1,0,5
+Cajanus cajan,Pigeonpea,field_crop,14,13,0,1,0,0,1
+Zea mays,Maize,field_crop,14,13,0,0,1,0,2
+Azadirachta indica,Neem,tree_forest,14,8,3,2,1,0,4
+Lablab purpureus,Lablab bean,weed_wild,14,8,3,2,1,0,6
+Hibiscus rosa-sinensis,China rose,ornamental,13,7,6,0,0,0,4
+Bambusa vulgaris,,tree_forest,13,6,2,4,1,0,0
+Citrus sinensis,Sweet orange,fruit,13,5,7,1,0,0,0
+Gossypium sp.,Cotton,field_crop,13,10,1,1,1,0,9
+Justicia adhatoda,Adulsa,medicinal_aromatic,13,5,5,3,0,0,2
+Eriobotrya japonica,Loquat,fruit,12,8,4,0,0,0,3
+Ricinus communis,Castor,field_crop,12,10,2,0,0,0,5
+Solanum lycopersicum,Tomato,vegetable,12,8,1,2,1,0,4
+Camellia sinensis,Tea,plantation_spice,12,5,3,3,1,0,4
+Tagetes sp.,Marigold,ornamental,12,5,4,2,1,0,6
+Chrysanthemum sp.,Chrysanthemum,ornamental,11,6,3,1,1,0,1

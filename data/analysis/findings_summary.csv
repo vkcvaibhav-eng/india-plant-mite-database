@@ -1,0 +1,42 @@
+section,measure,value
+where,states and territories with a record,34
+where,species with at least one state,1187
+where,species known from one state only,789
+where,species known from one state only (share of species with a state),0.665
+where,three richest states,West Bengal 515; Tamil Nadu 427; Karnataka 259
+where,species recorded from the three richest states (union),917
+where,species in region North-East,203
+where,species in region Central,24
+where,species in region West,65
+where,species in region Islands,63
+when,species with a description year,1171
+when,species without a year,50
+when,median description year,1982
+when,species described 1970-1999,643
+when,species described 2000-2026,240
+when,decade with most descriptions,1980s (381)
+when,"median description year, Tetranychidae",1966
+when,"median description year, Tenuipalpidae",1978
+when,"median description year, Eriophyoidea",1983
+when,"median description year, Tarsonemidae",2021
+when,"median description year, Tuckerellidae",1977
+when,"median description year, Phytoseiidae",1983
+who,distinct author names in authorities,232
+who,five most frequent authors,Mohanasundaram 278; Chakrabarti 139; Gupta 135; Karmakar 126; Mondal 64
+who,species with at least one of the top five authors,676 (0.554)
+who,Mohanasundaram share of Eriophyoidea,0.414
+hosts,phytophagous species (five families),889
+hosts,phytophagous species with a host genus,811
+hosts,"of these, known from one host genus",589 (0.726)
+hosts,phytophagous species with more than 20 host genera,24
+hosts,five plants with most phytophagous mite species,Citrus 40; Rose 31; Guava 30; Fig 26; Brinjal 24
+link,barcoded species (any COI),137
+link,median n_states: barcoded vs not,"3 vs 1.0 (Mann-Whitney U=114121, P=2.2e-33)"
+link,median n_host_genera: barcoded vs not,"3 vs 1.0 (Mann-Whitney U=113287, P=8.7e-28)"
+link,median n_layers: barcoded vs not,"2 vs 2.0 (Mann-Whitney U=101516, P=5.6e-14)"
+link,"share barcoded, species from 0 states",5/34 (0.147)
+link,"share barcoded, species from 1 states",32/789 (0.041)
+link,"share barcoded, species from 2-3 states",39/270 (0.144)
+link,"share barcoded, species from 4-9 states",34/89 (0.382)
+link,"share barcoded, species from 10+ states",27/39 (0.692)
+link,"Spearman rho, states recorded vs barcoded (0/1)",0.345 (P=2.2e-35)
