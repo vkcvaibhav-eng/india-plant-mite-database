@@ -29,7 +29,7 @@ OUT, COMB = ROOT / "data/regional", ROOT / "data/combined"
 for d in (OUT, COMB, REV):
     d.mkdir(parents=True, exist_ok=True)
 sys.path.insert(0, str(ROOT / "scripts"))
-import host_names, states_norm
+import host_names, states_norm, gm_compare
 
 
 def read(p):
@@ -74,6 +74,10 @@ SOURCES = [
     ("add2026", "additions_2022_2026.csv", "species", "india_states", None, "hosts", None, ""),
 ]
 
+# The two national checklists print, for widespread species, hosts recorded anywhere in the world (for example Oligonychus thelytokus,
+# known in India from Karnataka, is listed on Caloncoba welwitschii and Acanthophoenix; Brevipalpus essigi on Aucuba, Fuchsia and Kentia).
+# Their host rows are kept but marked, and the host analyses leave them out.
+WORLD_HOST_LISTS = {"chalil2024", "mitra2025"}
 HD = host_names.HostDictionary()
 CT = host_names.CropTypes()
 AUTH = re.compile(r"\b(?:L|Linn|Roxb|Willd|Wall|Benth|Hook|DC|Lam|Blume|Jacq|Mill|Merr|Gaertn|Burm|Sw|Moench|Spreng|Retz|Kunth|Schott|Nees)\b\.?")
@@ -112,6 +116,9 @@ def split_hosts(raw):
 
 
 state_rows, host_rows, unjoined, host_left = [], [], collections.Counter(), []
+STATE_ADD = collections.defaultdict(list)
+for r in read(ROOT / "config/regional_state_additions.csv"):
+    STATE_ADD[(r["source"], r["species"])].append(r["state"])
 STD = ["host_taxon_std", "host_rank_std", "host_family", "host_std_common", "host_basis", "host_confidence", "host_crop_type"]
 for key, fname, spcol, stcol, fixed, hcol, pcol, syear in SOURCES:
     for r in read(RAW / fname):
@@ -125,6 +132,7 @@ for key, fname, spcol, stcol, fixed, hcol, pcol, syear in SOURCES:
                 "species_id": sid, "valid_name": valid, "family": fam, "join_basis": basis,
                 "place_as_printed": (r.get(pcol) or "").strip() if pcol else ""}
         states = [fixed] if fixed else [s.strip() for s in (r.get(stcol) or "").split(";") if s.strip()]
+        states += [x for x in STATE_ADD.get((key, name), []) if x not in states]     # states printed but not parsed (checked by hand)
         for st in states:
             state_rows.append({**base, "state": st, "state_canon": states_norm.canon(st)})
         if hcol and (r.get(hcol) or "").strip():
@@ -135,26 +143,29 @@ for key, fname, spcol, stcol, fixed, hcol, pcol, syear in SOURCES:
                 sci = h if re.match(r"^[A-Z][a-z]+ ([a-z\-]+|sp\.)$", h) else ""
                 res = HD.resolve("" if sci else h, sci, "")
                 res["host_crop_type"] = CT.of(res["host_taxon_std"], res["host_rank_std"])
-                host_rows.append({**base, "host_as_printed": h, **{k: res[k] for k in STD}})
+                host_rows.append({**base, "host_as_printed": h, **{k: res[k] for k in STD},
+                                  "host_scope": "checklist_list_includes_hosts_outside_india" if key in WORLD_HOST_LISTS else "indian_record"})
 
 base_cols = ["source", "source_year", "name_in_source", "species_id", "valid_name", "family", "join_basis", "place_as_printed"]
 write(OUT / "regional_species_state.csv", state_rows, base_cols + ["state", "state_canon"])
-write(OUT / "regional_species_host.csv", host_rows, base_cols + ["host_as_printed"] + STD)
+write(OUT / "regional_species_host.csv", host_rows, base_cols + ["host_as_printed"] + STD + ["host_scope"])
 write(REV / "regional_names_not_joined.csv",
       [{"source": k[0], "name_in_source": k[1], "reason": k[2], "rows": v} for k, v in sorted(unjoined.items())],
       ["source", "name_in_source", "reason", "rows"])
 write(REV / "regional_hosts_unparsed.csv", host_left, ["source", "name_in_source", "fragment", "host_raw"])
 
 # ------------------------------------------------------------------ combine every layer
+COUNTED = {k for k, v in species.items() if v["counted"] == "1"}     # the five uncounted historical names are left out
+BOOK = gm_compare.Book()
 layers = collections.defaultdict(lambda: collections.defaultdict(set))   # (sid, state) -> layer -> detail
 for r in read(ROOT / "data/records/species_state.csv"):
-    if r["species_id"] and r["state"]:
+    if r["species_id"] in COUNTED and r["state"]:
         layers[(r["species_id"], states_norm.canon(r["state"]))]["gm2023"].add("")
 for r in read(ROOT / "data/aicrp/aicrp_observations.csv"):
-    if r["species_id"] and r["state"] and "(not split)" not in r["state"]:
+    if r["species_id"] in COUNTED and r["state"] and "(not split)" not in r["state"] and r["state_counts"] == "1":
         layers[(r["species_id"], states_norm.canon(r["state"]))]["aicrp"].add(r["survey_period"])
 for r in state_rows:
-    if r["species_id"]:
+    if r["species_id"] in COUNTED:
         layers[(r["species_id"], r["state_canon"])][r["source"]].add("")
 
 by_species = collections.defaultdict(set)
@@ -162,28 +173,32 @@ for sid, st in layers:
     by_species[sid].add(st)
 comb = []
 for (sid, st), v in sorted(layers.items(), key=lambda x: (species[x[0][0]]["family"], species[x[0][0]]["species"], x[0][1])):
-    gm_related = any("gm2023" in layers.get((sid, s), {}) for s in states_norm.related(st))
     comb.append({"species_id": sid, "valid_name": species[sid]["species"], "family": species[sid]["family"], "state": st,
-                 "layers": ";".join(sorted(v)), "n_layers": len(v), "in_gm2023": int("gm2023" in v),
-                 "in_gm2023_same_or_parent_state": int(gm_related), "in_aicrp": int("aicrp" in v),
+                 "layers": ";".join(sorted(v)), "n_layers": len(v), "book_status": BOOK.status(sid, st), "in_gm2023": int("gm2023" in v),
+                 "in_aicrp": int("aicrp" in v), "only_aicrp": int(set(v) == {"aicrp"}),
                  "aicrp_periods": ";".join(sorted(p for p in v.get("aicrp", set()) if p))})
 write(COMB / "species_state_all_sources.csv", comb,
-      ["species_id", "valid_name", "family", "state", "layers", "n_layers", "in_gm2023", "in_gm2023_same_or_parent_state", "in_aicrp", "aicrp_periods"])
+      ["species_id", "valid_name", "family", "state", "layers", "n_layers", "book_status", "in_gm2023", "in_aicrp", "only_aicrp", "aicrp_periods"])
 
 summary = []
 for key, *_ in SOURCES:
     srows = [r for r in state_rows if r["source"] == key]
     hrows = [r for r in host_rows if r["source"] == key]
-    pairs = {(r["species_id"], r["state_canon"]) for r in srows if r["species_id"]}
-    new = sum(1 for p in pairs if "gm2023" not in layers[p])
+    pairs = {(r["species_id"], r["state_canon"]) for r in srows if r["species_id"] in COUNTED}
+    st = collections.Counter(BOOK.status(*p) for p in pairs)
     summary.append({"layer": key, "species_state_rows": len(srows), "species_host_rows": len(hrows),
                     "names_not_joined": sum(v for k, v in unjoined.items() if k[0] == key),
-                    "species_state_pairs": len(pairs), "pairs_not_in_gm2023": new})
+                    "species_state_pairs": len(pairs), **{k: st[k] for k in gm_compare.ORDER}})
+ap = {k for k, v in layers.items() if "aicrp" in v}
+st = collections.Counter(BOOK.status(*p) for p in ap)
+summary.append({"layer": "aicrp (layers 2-10)", "species_state_rows": "", "species_host_rows": "", "names_not_joined": "",
+                "species_state_pairs": len(ap), **{k: st[k] for k in gm_compare.ORDER}})
+st = collections.Counter(c["book_status"] for c in comb)
 summary.append({"layer": "all layers combined", "species_state_rows": "", "species_host_rows": "", "names_not_joined": "",
-                "species_state_pairs": len(comb), "pairs_not_in_gm2023": sum(1 for c in comb if not c["in_gm2023"])})
-write(COMB / "summary.csv", summary, ["layer", "species_state_rows", "species_host_rows", "names_not_joined", "species_state_pairs", "pairs_not_in_gm2023"])
+                "species_state_pairs": len(comb), **{k: st[k] for k in gm_compare.ORDER}})
+write(COMB / "summary.csv", summary, ["layer", "species_state_rows", "species_host_rows", "names_not_joined", "species_state_pairs"] + list(gm_compare.ORDER))
 for s in summary:
-    print(s)
-print("combined pairs:", len(comb), "not in G&M (strict):", sum(1 for c in comb if not c["in_gm2023"]),
-      "not in G&M same or parent state:", sum(1 for c in comb if not c["in_gm2023_same_or_parent_state"]),
-      "species with any state:", len(by_species))
+    print(s["layer"], s["species_state_pairs"], {k: s[k] for k in gm_compare.ORDER})
+print("combined pairs:", len(comb), "species with any state:", len(by_species),
+      "additions to the book:", sum(1 for c in comb if c["book_status"] in gm_compare.NEW),
+      "of which resting on AICRP only:", sum(1 for c in comb if c["book_status"] in gm_compare.NEW and c["only_aicrp"]))

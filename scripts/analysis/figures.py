@@ -3,7 +3,7 @@
 Writes 300 dpi PNG files to figures/. Colours: categorical slots 1-6 of the validated reference palette
 in fixed order, one per mite group; the host-breadth classes use one blue ramp, light to dark.
 """
-import csv, pathlib
+import csv, pathlib, re
 import matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
@@ -96,22 +96,27 @@ ax.tick_params(axis="y", length=0); grid(ax)
 leg = ax.legend(frameon=False, ncol=4, loc="upper center", bbox_to_anchor=(0.45, 1.22), fontsize=8)
 fig.tight_layout(); fig.savefig(F / "fig3_host_breadth.png", dpi=300); plt.close(fig)
 
-# ---------------------------------------------------------------- Fig. 4 plants with most phytophagous species
-rows = read("hosts_top_plants.csv")[:20][::-1]
+# ---------------------------------------------------------------- Fig. 4 host genera with most phytophagous species
+# genus level: the sources name many hosts only to genus ("Citrus sp."), so species-level ranks are not comparable
+rows = read("hosts_top_genera.csv")[:20][::-1]
 PHY = [g for g in GROUPS if g != "Phytoseiidae"]
 fig, ax = plt.subplots(figsize=(6.3, 5.0))
-lab = [f"{r['common_name']} ({r['host']})" if r["common_name"] and r["common_name"] != r["host"] else r["host"] for r in rows]
+lab = []
+for r in rows:
+    # one common name, that of the most-recorded species of the genus
+    name = re.split(r" / | \(", r["common_names"].split("; ")[0])[0].strip().lower()
+    lab.append(f"$\\it{{{r['host_genus']}}}$" + (f" ({name})" if name and name != r["host_genus"].lower() else ""))
 left = [0] * len(rows)
 for g in PHY:
     vals = [int(r[g]) for r in rows]
     ax.barh(lab, vals, left=left, height=0.66, color=COLOR[g], edgecolor="white", linewidth=0.6, label=g)
     left = [a + b for a, b in zip(left, vals)]
 for i, v in enumerate(left):
-    ax.text(v + 0.4, i, str(v), va="center", fontsize=7.5, color=INK2)
-ax.set_xlabel("Phytophagous mite species recorded"); grid(ax)
+    ax.text(v + 0.5, i, str(v), va="center", fontsize=7.5, color=INK2)
+ax.set_xlabel("Phytophagous mite species recorded on the genus"); grid(ax)
 ax.tick_params(axis="y", length=0, labelsize=7.5)
 italic_legend(ax, [g for g in PHY if g != "Tuckerellidae"], loc="lower right", fontsize=8)
-fig.tight_layout(); fig.savefig(F / "fig4_top_host_plants.png", dpi=300); plt.close(fig)
+fig.tight_layout(); fig.savefig(F / "fig4_top_host_genera.png", dpi=300); plt.close(fig)
 
 # ---------------------------------------------------------------- Fig. 5 barcoded share by states recorded
 rows = read("link_barcoded_by_states.csv")

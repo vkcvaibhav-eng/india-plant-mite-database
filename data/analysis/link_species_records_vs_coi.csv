@@ -1,22 +1,22 @@
 species_id,species,group,n_states,n_host_genera,n_layers,n_coi,n_coi_india
 TET0001,Aplonobia sphaeralceae,Tetranychidae,3,4,2,0,0
 TET0002,Aponychus bambusae,Tetranychidae,2,3,2,0,0
-TET0003,Aponychus corpuzae,Tetranychidae,11,14,3,2,0
+TET0003,Aponychus corpuzae,Tetranychidae,11,8,3,2,0
 TET0004,Aponychus kodaikanalensis,Tetranychidae,1,1,2,0,0
-TET0005,Aponychus mallotus,Tetranychidae,2,2,2,0,0
+TET0005,Aponychus mallotus,Tetranychidae,2,1,2,0,0
 TET0006,Aponychus sarjui,Tetranychidae,1,1,2,0,0
 TET0007,Aponychus sulcatus,Tetranychidae,1,3,2,0,0
 TET0008,Bryobia eharai,Tetranychidae,10,2,2,0,0
 TET0009,Bryobia praetiosa,Tetranychidae,10,2,3,6,0
-TET0010,Bryobia rubrioculus,Tetranychidae,2,33,2,11,0
-TET0011,Bryobiella punjabensis,Tetranychidae,1,1,2,0,0
-TET0012,Eotetranychus asiaticus,Tetranychidae,0,1,0,2,0
+TET0010,Bryobia rubrioculus,Tetranychidae,3,2,3,11,0
+TET0011,Bryobiella punjabensis,Tetranychidae,1,0,2,0,0
+TET0012,Eotetranychus asiaticus,Tetranychidae,1,1,1,2,0
 TET0013,Eotetranychus broodryki,Tetranychidae,5,4,3,2,2
 TET0014,Eotetranychus communis,Tetranychidae,2,1,2,0,0
 TET0015,Eotetranychus fremonti,Tetranychidae,4,7,4,0,0
 TET0016,Eotetranychus frosti,Tetranychidae,6,5,2,1,0
 TET0017,Eotetranychus hicoriae,Tetranychidae,2,5,2,0,0
-TET0018,Eotetranychus hirsti,Tetranychidae,11,6,3,0,0
+TET0018,Eotetranychus hirsti,Tetranychidae,11,4,3,0,0
 TET0019,Eotetranychus hypogeae,Tetranychidae,1,1,2,0,0
 TET0020,Eotetranychus indicus,Tetranychidae,3,3,2,0,0
 TET0021,Eotetranychus irregularis,Tetranychidae,1,2,2,0,0
@@ -28,95 +28,95 @@ TET0026,Eotetranychus multidigituli,Tetranychidae,2,2,2,0,0
 TET0027,Eotetranychus nanningensis,Tetranychidae,2,1,2,0,0
 TET0028,Eotetranychus neoperplexus,Tetranychidae,1,1,2,0,0
 TET0029,Eotetranychus pamelae,Tetranychidae,5,1,2,0,0
-TET0030,Eotetranychus populi,Tetranychidae,1,9,2,1,0
+TET0030,Eotetranychus populi,Tetranychidae,1,8,2,1,0
 TET0031,Eotetranychus pruni,Tetranychidae,1,1,1,1,0
 TET0032,Eotetranychus rajouriensis,Tetranychidae,4,1,3,2,0
 TET0033,Eotetranychus ranikhetensis,Tetranychidae,2,0,2,0,0
 TET0034,Eotetranychus rohilae,Tetranychidae,1,1,2,0,0
-TET0035,Eotetranychus sexmaculatus,Tetranychidae,7,7,2,9,0
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,7,5,2,9,0
 TET0036,Eotetranychus strychonsi,Tetranychidae,1,3,1,0,0
-TET0037,Eotetranychus suginamensis,Tetranychidae,3,5,2,1,0
+TET0037,Eotetranychus suginamensis,Tetranychidae,3,4,2,1,0
 TET0038,Eotetranychus syzygii,Tetranychidae,1,1,2,0,0
 TET0039,Eotetranychus thailandicus,Tetranychidae,1,2,2,0,0
 TET0040,Eotetranychus truncates,Tetranychidae,2,3,2,0,0
-TET0041,Eotetranychus uncatus,Tetranychidae,3,18,3,1,0
-TET0042,Eotetranychus weldoni,Tetranychidae,1,4,2,0,0
-TET0043,Eutetranychus africanus,Tetranychidae,8,53,4,0,0
-TET0044,Eutetranychus banksi,Tetranychidae,1,6,1,2,0
+TET0041,Eotetranychus uncatus,Tetranychidae,3,4,3,1,0
+TET0042,Eotetranychus weldoni,Tetranychidae,1,2,2,0,0
+TET0043,Eutetranychus africanus,Tetranychidae,8,18,4,0,0
+TET0044,Eutetranychus banksi,Tetranychidae,1,0,1,2,0
 TET0045,Eutetranychus bilobatus,Tetranychidae,1,1,2,0,0
 TET0046,Eutetranychus bredini,Tetranychidae,3,3,2,0,0
 TET0047,Eutetranychus caricae,Tetranychidae,1,1,2,0,0
-TET0048,Eutetranychus citri,Tetranychidae,1,3,2,0,0
-TET0049,Eutetranychus maximae,Tetranychidae,2,6,4,0,0
+TET0048,Eutetranychus citri,Tetranychidae,1,2,2,0,0
+TET0049,Eutetranychus maximae,Tetranychidae,2,4,4,0,0
 TET0050,Eutetranychus nagai,Tetranychidae,1,1,2,0,0
-TET0051,Eutetranychus orientalis,Tetranychidae,25,77,4,6,0
-TET0052,Eutetranychus pantopus,Tetranychidae,1,5,2,0,0
+TET0051,Eutetranychus orientalis,Tetranychidae,25,57,4,6,0
+TET0052,Eutetranychus pantopus,Tetranychidae,1,0,2,0,0
 TET0053,Eutetranychus phaseoli,Tetranychidae,3,4,3,0,0
 TET0054,Hellenychus umfoloziensis,Tetranychidae,1,2,2,0,0
 TET0055,Mesobryobia jobneri,Tetranychidae,1,1,2,0,0
 TET0056,Mesobryobia terpoghossiani,Tetranychidae,2,0,2,0,0
 TET0057,Mixonychus (Bakerina) aculus,Tetranychidae,2,3,3,0,0
-TET0058,Mixonychus (Bakerina) orissaensis,Tetranychidae,1,2,2,0,0
+TET0058,Mixonychus (Bakerina) orissaensis,Tetranychidae,1,1,2,0,0
 TET0059,Mixonychus (Tylonychus) jayaraji,Tetranychidae,1,1,2,0,0
 TET0060,Mononychellus mcgregori,Tetranychidae,1,1,1,4,3
 TET0061,Neopetrobia (Neopetrobia) simlaensis,Tetranychidae,2,1,2,0,0
 TET0062,Oligonychus bambusae,Tetranychidae,3,1,3,0,0
 TET0063,Oligonychus bellarensis,Tetranychidae,1,1,1,0,0
-TET0064,Oligonychus biharensis,Tetranychidae,10,23,3,12,7
-TET0065,Oligonychus coffeae,Tetranychidae,12,20,3,4,2
+TET0064,Oligonychus biharensis,Tetranychidae,10,18,3,12,7
+TET0065,Oligonychus coffeae,Tetranychidae,12,6,3,4,2
 TET0066,Oligonychus coniferarum,Tetranychidae,2,5,2,0,0
 TET0067,Oligonychus duncombei,Tetranychidae,1,1,2,0,0
 TET0068,Oligonychus gossypii,Tetranychidae,2,4,1,1,0
-TET0069,Oligonychus grypus,Tetranychidae,2,3,2,3,2
-TET0070,Oligonychus indicus,Tetranychidae,18,27,4,7,6
+TET0069,Oligonychus grypus,Tetranychidae,2,2,2,3,2
+TET0070,Oligonychus indicus,Tetranychidae,18,25,4,7,6
 TET0071,Oligonychus iseilemae,Tetranychidae,6,5,2,0,0
-TET0072,Oligonychus mangiferus,Tetranychidae,18,28,4,4,4
+TET0072,Oligonychus mangiferus,Tetranychidae,18,23,4,4,4
 TET0073,Oligonychus manishi,Tetranychidae,1,1,2,0,0
-TET0074,Oligonychus martensis,Tetranychidae,1,2,1,0,0
+TET0074,Oligonychus martensis,Tetranychidae,1,0,1,0,0
 TET0075,Oligonychus neotylus,Tetranychidae,1,2,2,0,0
-TET0076,Oligonychus oryzae,Tetranychidae,11,13,4,2,2
-TET0077,Oligonychus plegas,Tetranychidae,1,8,1,1,1
+TET0076,Oligonychus oryzae,Tetranychidae,11,10,4,2,2
+TET0077,Oligonychus plegas,Tetranychidae,1,0,1,1,1
 TET0078,Oligonychus ponmanaiensis,Tetranychidae,1,2,2,0,0
 TET0079,Oligonychus pratensis,Tetranychidae,2,0,2,1,0
-TET0080,Oligonychus punicae,Tetranychidae,12,20,4,25,0
+TET0080,Oligonychus punicae,Tetranychidae,12,9,4,25,0
 TET0081,Oligonychus sacchari,Tetranychidae,7,4,3,0,0
 TET0082,Oligonychus saccharinus,Tetranychidae,1,0,1,0,0
 TET0083,Oligonychus sapienticolus,Tetranychidae,1,1,2,0,0
-TET0084,Oligonychus thelytokus,Tetranychidae,1,33,2,5,5
-TET0085,Oligonychus tylus,Tetranychidae,5,11,3,19,16
-TET0086,Oligonychus vitis,Tetranychidae,2,11,2,1,0
-TET0087,Panonychus citri,Tetranychidae,15,12,4,72,0
+TET0084,Oligonychus thelytokus,Tetranychidae,1,2,2,5,5
+TET0085,Oligonychus tylus,Tetranychidae,5,7,3,19,16
+TET0086,Oligonychus vitis,Tetranychidae,2,2,2,1,0
+TET0087,Panonychus citri,Tetranychidae,16,5,4,72,0
 TET0088,Panonychus elongatus,Tetranychidae,2,21,2,1,0
-TET0089,Panonychus ulmi,Tetranychidae,8,17,3,96,1
-TET0090,Petrobia (Petrobia) latens,Tetranychidae,12,21,3,5,1
-TET0091,Petrobia (Tetranychina) harti,Tetranychidae,6,4,4,7,2
+TET0089,Panonychus ulmi,Tetranychidae,7,17,3,96,1
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,12,19,3,5,1
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,6,3,4,7,2
 TET0092,Porcupinychus abutiloni,Tetranychidae,3,11,3,0,0
-TET0093,Schizotetranychus andropogoni,Tetranychidae,17,11,3,9,9
-TET0094,Schizotetranychus approximatus,Tetranychidae,1,2,1,0,0
+TET0093,Schizotetranychus andropogoni,Tetranychidae,17,10,3,9,9
+TET0094,Schizotetranychus approximatus,Tetranychidae,1,0,1,0,0
 TET0095,Schizotetranychus asparagi,Tetranychidae,1,4,2,1,1
 TET0096,Schizotetranychus baltazari,Tetranychidae,10,13,4,3,3
 TET0097,Schizotetranychus cajani,Tetranychidae,12,8,4,0,0
 TET0098,Schizotetranychus chiangmaiensis,Tetranychidae,1,3,2,0,0
-TET0099,Schizotetranychus fluvialis,Tetranychidae,3,4,2,0,0
+TET0099,Schizotetranychus fluvialis,Tetranychidae,3,3,2,0,0
 TET0100,Schizotetranychus hindustanicus,Tetranychidae,5,5,3,0,0
 TET0101,Schizotetranychus indicus,Tetranychidae,1,1,2,0,0
 TET0102,Schizotetranychus kochummeni,Tetranychidae,1,1,2,0,0
 TET0103,Schizotetranychus krungthepensis,Tetranychidae,8,1,2,19,19
 TET0104,Schizotetranychus laevidorsatus,Tetranychidae,2,2,2,1,1
-TET0105,Schizotetranychus lespedezae,Tetranychidae,2,8,3,2,0
+TET0105,Schizotetranychus lespedezae,Tetranychidae,2,7,3,2,0
 TET0106,Schizotetranychus mansoni,Tetranychidae,5,2,3,2,1
-TET0107,Schizotetranychus recki,Tetranychidae,1,1,1,1,0
+TET0107,Schizotetranychus recki,Tetranychidae,1,0,1,1,0
 TET0108,Schizotetranychus reticulatus,Tetranychidae,1,1,2,0,0
-TET0109,Schizotetranychus schizopus,Tetranychidae,1,1,1,2,0
+TET0109,Schizotetranychus schizopus,Tetranychidae,1,0,1,2,0
 TET0110,Schizotetranychus spiculus,Tetranychidae,2,2,2,0,0
 TET0111,Schizotetranychus spireafolia,Tetranychidae,5,3,2,0,0
 TET0112,Schizotetranychus tephrosiae,Tetranychidae,1,5,2,0,0
 TET0113,Schizotetranychus undulatus,Tetranychidae,1,4,2,0,0
-TET0114,Stigmaeopsis longus,Tetranychidae,1,1,1,18,0
+TET0114,Stigmaeopsis longus,Tetranychidae,1,0,1,18,0
 TET0115,Stigmaeopsis meghalayensis,Tetranychidae,1,1,2,0,0
 TET0116,Stylophoronychus baghensis,Tetranychidae,3,3,2,0,0
 TET0117,Stylophoronychus lalii,Tetranychidae,2,1,3,0,0
-TET0118,Stylophoronychus vannus,Tetranychidae,4,5,1,0,0
+TET0118,Stylophoronychus vannus,Tetranychidae,4,0,1,0,0
 TET0119,Swarnanychus bandipurensis,Tetranychidae,2,1,2,0,0
 TET0120,Tenuipalponychus citri,Tetranychidae,1,1,2,0,0
 TET0121,Tetranychus afrindicus,Tetranychidae,1,1,2,0,0
@@ -124,64 +124,64 @@ TET0122,Tetranychus angolensis,Tetranychidae,1,2,2,0,0
 TET0123,Tetranychus bambusae,Tetranychidae,2,2,2,2,1
 TET0124,Tetranychus bellottii,Tetranychidae,2,1,2,0,0
 TET0125,Tetranychus caricae,Tetranychidae,1,1,1,0,0
-TET0127,Tetranychus fijiensis,Tetranychidae,8,20,3,7,7
-TET0128,Tetranychus gloveri,Tetranychidae,3,61,2,23,10
+TET0127,Tetranychus fijiensis,Tetranychidae,8,14,3,7,7
+TET0128,Tetranychus gloveri,Tetranychidae,4,35,3,23,10
 TET0129,Tetranychus hirsutus,Tetranychidae,1,1,2,2,2
 TET0130,Tetranychus hydrangea,Tetranychidae,1,0,1,0,0
-TET0131,Tetranychus hypogeae,Tetranychidae,3,11,3,0,0
-TET0132,Tetranychus kanzawai,Tetranychidae,3,5,3,63,7
+TET0131,Tetranychus hypogeae,Tetranychidae,3,10,3,0,0
+TET0132,Tetranychus kanzawai,Tetranychidae,3,4,3,63,7
 TET0133,Tetranychus lombardinii,Tetranychidae,4,5,3,7,7
-TET0134,Tetranychus ludeni,Tetranychidae,19,50,4,79,3
-TET0135,Tetranychus macfarlanei,Tetranychidae,16,50,4,14,11
+TET0134,Tetranychus ludeni,Tetranychidae,19,38,4,79,3
+TET0135,Tetranychus macfarlanei,Tetranychidae,16,40,4,14,11
 TET0136,Tetranychus marianae,Tetranychidae,2,4,3,4,1
 TET0137,Tetranychus muricatus,Tetranychidae,1,0,1,0,0
-TET0138,Tetranychus neocaledonicus,Tetranychidae,19,56,3,21,3
-TET0139,Tetranychus papayae,Tetranychidae,3,1,2,0,0
+TET0138,Tetranychus neocaledonicus,Tetranychidae,19,29,3,21,3
+TET0139,Tetranychus papayae,Tetranychidae,3,1,3,0,0
 TET0140,Tetranychus parakanzawai,Tetranychidae,1,0,1,6,0
 TET0141,Tetranychus piercei,Tetranychidae,2,2,2,11,1
-TET0142,Tetranychus puschelii,Tetranychidae,4,7,4,9,8
-TET0143,Tetranychus sayedi,Tetranychidae,3,3,3,0,0
+TET0142,Tetranychus puschelii,Tetranychidae,4,4,4,9,8
+TET0143,Tetranychus sayedi,Tetranychidae,3,2,3,0,0
 TET0144,Tetranychus taiwanicus,Tetranychidae,2,2,2,1,0
-TET0145,Tetranychus truncatus,Tetranychidae,7,28,2,122,40
-TET0146,Tetranychus turkestani,Tetranychidae,4,28,2,47,4
-TET0147,Tetranychus udaipurensis,Tetranychidae,5,6,3,17,15
-TET0148,Tetranychus urticae,Tetranychidae,21,110,3,394,34
+TET0145,Tetranychus truncatus,Tetranychidae,7,27,3,122,40
+TET0146,Tetranychus turkestani,Tetranychidae,4,2,2,47,4
+TET0147,Tetranychus udaipurensis,Tetranychidae,5,4,3,17,15
+TET0148,Tetranychus urticae,Tetranychidae,22,118,3,394,34
 TET0149,Tetranychus zaheri,Tetranychidae,2,1,2,0,0
 TEN0001,Aegyptobia menoni,Tenuipalpidae,1,1,2,0,0
 TEN0002,Aegyptobia nummulus,Tenuipalpidae,2,3,2,0,0
-TEN0003,Aegyptobia salubris,Tenuipalpidae,1,3,2,0,0
-TEN0004,Aegyptobia tragardhi,Tenuipalpidae,1,6,2,1,0
+TEN0003,Aegyptobia salubris,Tenuipalpidae,1,2,2,0,0
+TEN0004,Aegyptobia tragardhi,Tenuipalpidae,1,2,2,1,0
 TEN0005,Brevipalpus absens,Tenuipalpidae,1,1,1,0,0
 TEN0006,Brevipalpus amicus,Tenuipalpidae,2,2,2,0,0
 TEN0007,Brevipalpus araucanus,Tenuipalpidae,1,1,1,0,0
 TEN0008,Brevipalpus assamensis,Tenuipalpidae,2,1,2,0,0
-TEN0009,Brevipalpus californicus,Tenuipalpidae,12,97,5,24,0
-TEN0010,Brevipalpus chilensis,Tenuipalpidae,2,9,3,19,0
+TEN0009,Brevipalpus californicus,Tenuipalpidae,12,33,5,24,0
+TEN0010,Brevipalpus chilensis,Tenuipalpidae,2,8,3,19,0
 TEN0011,Brevipalpus creber,Tenuipalpidae,2,4,2,0,0
 TEN0012,Brevipalpus cucurbitae,Tenuipalpidae,3,5,3,0,0
 TEN0013,Brevipalpus deleoni,Tenuipalpidae,5,6,3,0,0
 TEN0014,Brevipalpus dosis,Tenuipalpidae,1,1,2,0,0
 TEN0015,Brevipalpus edwinae,Tenuipalpidae,1,0,1,0,0
-TEN0016,Brevipalpus essigi,Tenuipalpidae,4,16,5,0,0
+TEN0016,Brevipalpus essigi,Tenuipalpidae,4,5,5,0,0
 TEN0017,Brevipalpus euphorbiae,Tenuipalpidae,4,5,4,0,0
 TEN0018,Brevipalpus gauhatiensis,Tenuipalpidae,1,2,2,0,0
 TEN0019,Brevipalpus grewiae,Tenuipalpidae,1,1,1,0,0
 TEN0020,Brevipalpus jambhiri,Tenuipalpidae,1,1,1,0,0
-TEN0021,Brevipalpus karachiensis,Tenuipalpidae,2,25,3,0,0
-TEN0022,Brevipalpus lewisi,Tenuipalpidae,2,35,5,5,0
-TEN0023,Brevipalpus lilium,Tenuipalpidae,1,18,2,0,0
+TEN0021,Brevipalpus karachiensis,Tenuipalpidae,2,3,3,0,0
+TEN0022,Brevipalpus lewisi,Tenuipalpidae,2,7,5,5,0
+TEN0023,Brevipalpus lilium,Tenuipalpidae,1,0,2,0,0
 TEN0024,Brevipalpus melichrus,Tenuipalpidae,1,3,3,0,0
-TEN0025,Brevipalpus mitrofanovi,Tenuipalpidae,1,5,3,0,0
+TEN0025,Brevipalpus mitrofanovi,Tenuipalpidae,1,4,3,0,0
 TEN0026,Brevipalpus nangalensis,Tenuipalpidae,2,1,2,0,0
-TEN0027,Brevipalpus obovatus,Tenuipalpidae,8,61,5,32,0
-TEN0028,Brevipalpus phoenicis,Tenuipalpidae,20,79,4,59,0
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,8,19,5,32,0
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,20,46,4,59,0
 TEN0029,Brevipalpus phoenicoides,Tenuipalpidae,2,7,2,0,0
-TEN0030,Brevipalpus rica,Tenuipalpidae,4,22,5,0,0
-TEN0031,Brevipalpus rugulosus,Tenuipalpidae,5,24,4,0,0
+TEN0030,Brevipalpus rica,Tenuipalpidae,4,3,5,0,0
+TEN0031,Brevipalpus rugulosus,Tenuipalpidae,5,6,4,0,0
 TEN0032,Brevipalpus tinsukiaensis,Tenuipalpidae,3,7,3,0,0
 TEN0033,Brevipalpus turrialbensis,Tenuipalpidae,1,3,3,0,0
-TEN0034,Cenopalpus picitilis,Tenuipalpidae,1,4,3,0,0
-TEN0035,Cenopalpus pulcher,Tenuipalpidae,3,10,3,8,0
+TEN0034,Cenopalpus picitilis,Tenuipalpidae,1,3,3,0,0
+TEN0035,Cenopalpus pulcher,Tenuipalpidae,3,7,3,8,0
 TEN0036,Dolichotetranychus cocos,Tenuipalpidae,1,1,2,0,0
 TEN0037,Dolichotetranychus elatariae,Tenuipalpidae,1,1,2,0,0
 TEN0038,Dolichotetranychus floridanus,Tenuipalpidae,3,4,3,0,0
@@ -195,21 +195,21 @@ TEN0045,Neoraoiella euginae,Tenuipalpidae,1,1,1,0,0
 TEN0046,Obuloides rajamohani,Tenuipalpidae,1,1,2,0,0
 TEN0047,Pentamerismus oregonensis,Tenuipalpidae,1,6,2,3,0
 TEN0048,Phytoptipalpus albizziae,Tenuipalpidae,1,1,2,0,0
-TEN0049,Priscapalpus gurdaspurensis,Tenuipalpidae,1,2,1,0,0
-TEN0050,Priscapalpus piarai,Tenuipalpidae,1,5,2,0,0
-TEN0051,Raoiella eugenia,Tenuipalpidae,1,1,1,0,0
-TEN0052,Raoiella indica,Tenuipalpidae,9,12,4,58,6
-TEN0053,Raoiella macfarlanei,Tenuipalpidae,4,6,3,1,1
+TEN0049,Priscapalpus gurdaspurensis,Tenuipalpidae,1,2,2,0,0
+TEN0050,Priscapalpus piarai,Tenuipalpidae,1,3,2,0,0
+TEN0051,Raoiella eugenia,Tenuipalpidae,1,0,1,0,0
+TEN0052,Raoiella indica,Tenuipalpidae,9,9,4,58,6
+TEN0053,Raoiella macfarlanei,Tenuipalpidae,4,5,3,1,1
 TEN0054,Raoiella pandanae,Tenuipalpidae,1,1,1,0,0
 TEN0055,Raoiella shimapana,Tenuipalpidae,1,2,2,0,0
-TEN0056,Tenuilichus malvae,Tenuipalpidae,1,1,2,0,0
+TEN0056,Tenuilichus malvae,Tenuipalpidae,1,0,2,0,0
 TEN0057,Tenuilichus striatus,Tenuipalpidae,1,0,2,0,0
 TEN0058,Tenuipalpus aboharensis,Tenuipalpidae,1,1,2,0,0
 TEN0059,Tenuipalpus acacii,Tenuipalpidae,1,1,2,0,0
 TEN0060,Tenuipalpus acuminatae,Tenuipalpidae,1,1,2,0,0
 TEN0061,Tenuipalpus amygdalusae,Tenuipalpidae,3,1,2,0,0
 TEN0062,Tenuipalpus bassiae,Tenuipalpidae,2,2,3,0,0
-TEN0063,Tenuipalpus caudatus,Tenuipalpidae,1,6,2,0,0
+TEN0063,Tenuipalpus caudatus,Tenuipalpidae,1,2,2,0,0
 TEN0064,Tenuipalpus cissampelosa,Tenuipalpidae,1,1,2,0,0
 TEN0065,Tenuipalpus coimbatorensis,Tenuipalpidae,1,0,1,0,0
 TEN0066,Tenuipalpus crassulus,Tenuipalpidae,1,2,2,0,0
@@ -220,9 +220,9 @@ TEN0070,Tenuipalpus erythrinae,Tenuipalpidae,2,1,2,0,0
 TEN0071,Tenuipalpus faresianus,Tenuipalpidae,1,1,2,0,0
 TEN0072,Tenuipalpus fici,Tenuipalpidae,1,1,2,0,0
 TEN0073,Tenuipalpus ghaii,Tenuipalpidae,1,0,2,0,0
-TEN0074,Tenuipalpus granati,Tenuipalpidae,3,13,3,0,0
+TEN0074,Tenuipalpus granati,Tenuipalpidae,3,8,3,0,0
 TEN0075,Tenuipalpus guptai,Tenuipalpidae,2,2,2,0,0
-TEN0076,Tenuipalpus hastaligni,Tenuipalpidae,1,3,2,0,0
+TEN0076,Tenuipalpus hastaligni,Tenuipalpidae,1,0,2,0,0
 TEN0077,Tenuipalpus indicus,Tenuipalpidae,4,2,2,0,0
 TEN0078,Tenuipalpus ixorae,Tenuipalpidae,1,1,2,0,0
 TEN0079,Tenuipalpus jagatkhanaensis,Tenuipalpidae,1,1,3,0,0
@@ -235,9 +235,9 @@ TEN0085,Tenuipalpus leptadeniae,Tenuipalpidae,2,2,4,0,0
 TEN0086,Tenuipalpus ludhianaensis,Tenuipalpidae,1,3,3,0,0
 TEN0087,Tenuipalpus malligai,Tenuipalpidae,1,0,2,0,0
 TEN0088,Tenuipalpus mallotae,Tenuipalpidae,1,1,2,0,0
-TEN0089,Tenuipalpus micheli,Tenuipalpidae,4,5,2,0,0
+TEN0089,Tenuipalpus micheli,Tenuipalpidae,4,2,2,0,0
 TEN0090,Tenuipalpus mustus,Tenuipalpidae,1,11,3,0,0
-TEN0091,Tenuipalpus pernicis,Tenuipalpidae,2,11,2,0,0
+TEN0091,Tenuipalpus pernicis,Tenuipalpidae,2,9,2,0,0
 TEN0092,Tenuipalpus persicae,Tenuipalpidae,1,1,2,0,0
 TEN0093,Tenuipalpus pruni,Tenuipalpidae,2,1,2,0,0
 TEN0094,Tenuipalpus punicae,Tenuipalpidae,6,13,3,4,0
@@ -245,12 +245,12 @@ TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,4,5,3,0,0
 TEN0096,Tenuipalpus pyrusae,Tenuipalpidae,1,3,2,0,0
 TEN0097,Tenuipalpus sharmai,Tenuipalpidae,1,2,3,0,0
 TEN0098,Tenuipalpus solanensis,Tenuipalpidae,2,3,3,0,0
-TEN0099,Tenuipalpus tectonae,Tenuipalpidae,2,2,2,0,0
-TEN0100,Tenuipalpus tetrazygae,Tenuipalpidae,1,2,2,0,0
+TEN0099,Tenuipalpus tectonae,Tenuipalpidae,2,1,2,0,0
+TEN0100,Tenuipalpus tetrazygae,Tenuipalpidae,1,1,2,0,0
 TEN0101,Tenuipalpus trifoliatae,Tenuipalpidae,1,0,1,0,0
 TEN0102,Tenuipalpus vriddagiriensis,Tenuipalpidae,2,0,2,0,0
-TEN0103,Tenuipalpus yousefi,Tenuipalpidae,1,1,1,0,0
-TEN0104,Tenuipalpus zizyphae,Tenuipalpidae,1,1,2,0,0
+TEN0103,Tenuipalpus yousefi,Tenuipalpidae,1,0,1,0,0
+TEN0104,Tenuipalpus zizyphae,Tenuipalpidae,1,0,2,0,0
 TEN0105,Tenuipalus triflorate,Tenuipalpidae,1,0,1,0,0
 TEN0106,Terminalichus dehlonensis,Tenuipalpidae,1,1,2,0,0
 TEN0107,Terminalichus delhiensis,Tenuipalpidae,1,3,2,0,0
@@ -259,7 +259,7 @@ TEN0109,Terminalichus panajiensis,Tenuipalpidae,2,1,3,0,0
 TEN0110,Terminalichus psidi,Tenuipalpidae,1,1,2,0,0
 TEN0111,Terminalichus serratus,Tenuipalpidae,2,2,3,0,0
 TEN0112,Ultratenuipalpus gonianensis,Tenuipalpidae,1,2,2,0,0
-TEN0113,Ultratenuipalpus meekeri,Tenuipalpidae,1,1,2,1,0
+TEN0113,Ultratenuipalpus meekeri,Tenuipalpidae,1,0,2,1,0
 TEN0114,Ultratenuipalpus quadrisetosus,Tenuipalpidae,1,1,2,0,0
 ERI0001,Acarhynchus baboovagrans,Eriophyoidea,1,1,2,0,0
 ERI0002,Amrinella dendrocalami,Eriophyoidea,1,1,1,0,0
@@ -289,7 +289,7 @@ ERI0025,Diptilomiopus ficivorus,Eriophyoidea,1,1,1,0,0
 ERI0026,Diptilomiopus ficus,Eriophyoidea,1,0,1,0,0
 ERI0027,Diptilomiopus ficusis,Eriophyoidea,1,1,2,0,0
 ERI0028,Diptilomiopus guajavae,Eriophyoidea,2,1,3,0,0
-ERI0029,Diptilomiopus holoptelus,Eriophyoidea,1,4,2,0,0
+ERI0029,Diptilomiopus holoptelus,Eriophyoidea,1,3,2,0,0
 ERI0030,Diptilomiopus indicus,Eriophyoidea,1,1,2,0,0
 ERI0031,Diptilomiopus indogangetic,Eriophyoidea,1,1,2,0,0
 ERI0032,Diptilomiopus integrifoliae,Eriophyoidea,1,1,2,0,0
@@ -353,7 +353,7 @@ ERI0089,Acalitus schefflerae,Eriophyoidea,1,1,2,0,0
 ERI0090,Acaphylla indiae,Eriophyoidea,0,1,0,0,0
 ERI0091,Acaphylla stienwedeni,Eriophyoidea,1,1,2,1,0
 ERI0092,Acaphylla syzygii,Eriophyoidea,4,1,4,0,0
-ERI0093,Acaphylla theae,Eriophyoidea,1,1,1,0,0
+ERI0093,Acaphylla theae,Eriophyoidea,1,1,2,0,0
 ERI0094,Acaphyllisa araucariae,Eriophyoidea,1,2,2,0,0
 ERI0095,Acaphyllisa pipera,Eriophyoidea,1,1,3,0,0
 ERI0096,Acaricalus artocarpae,Eriophyoidea,1,1,2,0,0
@@ -430,13 +430,13 @@ ERI0166,Aceria jasmini,Eriophyoidea,5,1,4,0,0
 ERI0167,Aceria jogimatiensis,Eriophyoidea,1,0,1,0,0
 ERI0168,Aceria justiciae,Eriophyoidea,3,2,4,0,0
 ERI0169,Aceria kenyae,Eriophyoidea,6,1,4,4,1
-ERI0170,Aceria kigeliae,Eriophyoidea,1,2,2,0,0
+ERI0170,Aceria kigeliae,Eriophyoidea,1,1,2,0,0
 ERI0171,Aceria lalbaghi,Eriophyoidea,1,1,1,0,0
 ERI0172,Aceria leucophloeae,Eriophyoidea,1,1,2,0,0
 ERI0173,Aceria leucopyrae,Eriophyoidea,1,1,2,0,0
 ERI0174,Aceria linnae,Eriophyoidea,1,1,2,0,0
 ERI0175,Aceria litchii,Eriophyoidea,8,1,5,6,1
-ERI0176,Aceria litseae,Eriophyoidea,2,2,3,4,0
+ERI0176,Aceria litseae,Eriophyoidea,2,1,3,4,0
 ERI0177,Aceria longisetae,Eriophyoidea,1,0,2,0,0
 ERI0178,Aceria lycopersici,Eriophyoidea,2,1,3,0,0
 ERI0179,Aceria madhucae,Eriophyoidea,1,1,1,0,0
@@ -561,7 +561,7 @@ ERI0297,Calacarus malvae,Eriophyoidea,1,1,2,0,0
 ERI0298,Calacarus malvavagrans,Eriophyoidea,1,1,2,0,0
 ERI0299,Calacarus microrostrus,Eriophyoidea,1,1,2,0,0
 ERI0300,Calacarus millingtoniae,Eriophyoidea,2,1,3,0,0
-ERI0301,Calacarus palmae,Eriophyoidea,1,1,1,0,0
+ERI0301,Calacarus palmae,Eriophyoidea,1,0,1,0,0
 ERI0302,Calacarus polyalthiae,Eriophyoidea,1,1,2,0,0
 ERI0303,Calacarus quisqualis,Eriophyoidea,2,1,4,0,0
 ERI0304,Calacarus swietensis,Eriophyoidea,1,1,2,0,0
@@ -699,7 +699,7 @@ ERI0436,Neocupacarus flabelliferis,Eriophyoidea,1,1,1,0,0
 ERI0437,Neodactylus mohanasundarami,Eriophyoidea,1,1,1,0,0
 ERI0438,Neodichopelmus cordiae,Eriophyoidea,1,1,2,0,0
 ERI0439,Neodicrothrix bengalensis,Eriophyoidea,1,1,1,0,0
-ERI0440,Neodicrothrix celloshieldae,Eriophyoidea,1,1,1,0,0
+ERI0440,Neodicrothrix celloshieldae,Eriophyoidea,1,0,1,0,0
 ERI0441,Neodicrothrix piperae,Eriophyoidea,1,1,2,0,0
 ERI0442,Neodicrothrix rutacevagrans,Eriophyoidea,1,0,1,0,0
 ERI0443,Neodicrothrix tiliacorae,Eriophyoidea,1,1,2,2,0
@@ -714,7 +714,7 @@ ERI0451,Neotegonotus indicus,Eriophyoidea,1,1,3,0,0
 ERI0452,Neotegophyes diami,Eriophyoidea,1,1,1,0,0
 ERI0453,Nonthaburinus litchi,Eriophyoidea,1,1,1,1,0
 ERI0454,Notacaphylla chinensiae,Eriophyoidea,2,1,3,0,0
-ERI0455,Nothopoda kallarensis,Eriophyoidea,1,0,1,0,0
+ERI0455,Nothopoda kallarensis,Eriophyoidea,1,0,2,0,0
 ERI0456,Notostrix attenuata,Eriophyoidea,1,1,1,0,0
 ERI0457,Notostrix flabelliferae,Eriophyoidea,1,1,2,0,0
 ERI0458,Obesophyes linocierae,Eriophyoidea,1,1,2,0,0
@@ -728,7 +728,7 @@ ERI0465,Paraphytoptus chrysanthemi,Eriophyoidea,1,1,1,0,0
 ERI0466,Paraphytoptus cristatae,Eriophyoidea,1,1,2,0,0
 ERI0467,Paraphytoptus crotalariphagous,Eriophyoidea,1,1,2,0,0
 ERI0468,Paraphytoptus elaeocarpae,Eriophyoidea,1,1,2,0,0
-ERI0469,Paraphytoptus erinevagrans,Eriophyoidea,1,1,2,0,0
+ERI0469,Paraphytoptus erinevagrans,Eriophyoidea,1,0,2,0,0
 ERI0470,Paraphytoptus jujubae,Eriophyoidea,2,1,4,0,0
 ERI0471,Paraphytoptus serenus,Eriophyoidea,1,2,3,0,0
 ERI0472,Paratetra albizziae,Eriophyoidea,1,1,2,0,0
@@ -741,7 +741,7 @@ ERI0478,Phyllocoptacus barringtoniae,Eriophyoidea,1,1,2,0,0
 ERI0479,Phyllocoptes acaciae,Eriophyoidea,2,1,2,0,0
 ERI0480,Phyllocoptes aliyamagarensis,Eriophyoidea,3,1,3,0,0
 ERI0481,Phyllocoptes anisomelesis,Eriophyoidea,1,1,2,0,0
-ERI0482,Phyllocoptes asperaevagrans,Eriophyoidea,1,1,2,0,0
+ERI0482,Phyllocoptes asperaevagrans,Eriophyoidea,1,0,2,0,0
 ERI0483,Phyllocoptes ficivagrans,Eriophyoidea,1,1,2,0,0
 ERI0484,Phyllocoptes immigrans,Eriophyoidea,1,1,2,0,0
 ERI0485,Phyllocoptes indicae,Eriophyoidea,1,2,2,0,0
@@ -796,7 +796,7 @@ ERI0533,Tegolophus parviflorii,Eriophyoidea,1,1,2,0,0
 ERI0534,Tegolophus securinegavagrans,Eriophyoidea,1,1,1,0,0
 ERI0535,Tegolophus spondiallus,Eriophyoidea,1,1,3,0,0
 ERI0536,Tegolophus vitexis,Eriophyoidea,1,1,2,0,0
-ERI0537,Tegonotus bassius,Eriophyoidea,1,1,1,0,0
+ERI0537,Tegonotus bassius,Eriophyoidea,1,0,1,0,0
 ERI0538,Tegonotus bengalensis,Eriophyoidea,1,1,2,0,0
 ERI0539,Tegonotus bhutani,Eriophyoidea,0,1,0,0,0
 ERI0540,Tegonotus convolvuli,Eriophyoidea,2,1,3,0,0
@@ -861,13 +861,13 @@ TAR0017,Metatarsonemus connexus,Tarsonemidae,1,1,2,0,0
 TAR0018,Metatarsonemus diplojuga,Tarsonemidae,1,1,2,0,0
 TAR0019,Metatarsonemus infundibulum,Tarsonemidae,1,1,2,0,0
 TAR0020,Metatarsonemus shirishi,Tarsonemidae,1,1,2,0,0
-TAR0021,Polyphagotarsonemus latus,Tarsonemidae,15,39,4,19,9
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,16,39,4,19,9
 TAR0022,Steneotarsonemus amlisoae,Tarsonemidae,1,1,2,0,0
 TAR0023,Steneotarsonemus bancrofti,Tarsonemidae,1,1,1,0,0
 TAR0024,Steneotarsonemus furcatus,Tarsonemidae,2,0,2,0,0
 TAR0025,Steneotarsonemus indianensis,Tarsonemidae,2,1,2,0,0
 TAR0026,Steneotarsonemus konoi,Tarsonemidae,1,1,2,0,0
-TAR0027,Steneotarsonemus spinki,Tarsonemidae,3,4,2,21,4
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,3,4,3,21,4
 TAR0028,Steneotarsonemus subfurcatus,Tarsonemidae,1,0,1,0,0
 TAR0029,Tarsonemus bengalicus,Tarsonemidae,1,1,1,0,0
 TAR0030,Tarsonemus confusus,Tarsonemidae,1,3,2,0,0
@@ -890,8 +890,8 @@ TUC0003,Tuckerella indica,Tuckerellidae,1,1,1,0,0
 TUC0004,Tuckerella kumaonensis,Tuckerellidae,2,2,2,0,0
 PHY0001,Amblydromalus mahasagaricus,Phytoseiidae,1,0,1,0,0
 PHY0002,Amblydromalus swaga,Phytoseiidae,1,0,1,0,0
-PHY0003,Amblyseiulella cancellatus,Phytoseiidae,0,0,0,0,0
-PHY0004,Amblyseiulella gangtokiensis,Phytoseiidae,0,0,0,0,0
+PHY0003,Amblyseiulella cancellatus,Phytoseiidae,1,0,1,0,0
+PHY0004,Amblyseiulella gangtokiensis,Phytoseiidae,1,0,1,0,0
 PHY0005,Amblyseiulella heveae,Phytoseiidae,1,0,1,0,0
 PHY0006,Amblyseiulella horrifer,Phytoseiidae,0,0,0,0,0
 PHY0007,Amblyseiulella hyauliangensis,Phytoseiidae,1,0,1,0,0
@@ -910,7 +910,7 @@ PHY0020,Amblyseius apocynaevagrans,Phytoseiidae,0,0,0,0,0
 PHY0021,Amblyseius azaliae,Phytoseiidae,2,0,1,0,0
 PHY0022,Amblyseius bengalensis,Phytoseiidae,1,0,1,0,0
 PHY0023,Amblyseius bhadrakshae,Phytoseiidae,1,1,1,0,0
-PHY0024,Amblyseius brachycalyx,Phytoseiidae,2,8,1,0,0
+PHY0024,Amblyseius brachycalyx,Phytoseiidae,2,8,2,0,0
 PHY0025,Amblyseius channabasavannai,Phytoseiidae,6,0,1,0,0
 PHY0026,Amblyseius charui,Phytoseiidae,1,0,1,0,0
 PHY0027,Amblyseius coffeae,Phytoseiidae,2,2,2,1,1
@@ -933,8 +933,8 @@ PHY0043,Amblyseius jarooa,Phytoseiidae,2,0,1,0,0
 PHY0044,Amblyseius koothaliensis,Phytoseiidae,1,0,1,0,0
 PHY0045,Amblyseius kulini,Phytoseiidae,3,0,1,0,0
 PHY0046,Amblyseius kundurukkae,Phytoseiidae,1,3,1,0,0
-PHY0047,Amblyseius lanceae,Phytoseiidae,0,0,0,0,0
-PHY0048,Amblyseius largoensis,Phytoseiidae,22,82,3,10,0
+PHY0047,Amblyseius lanceae,Phytoseiidae,1,0,1,0,0
+PHY0048,Amblyseius largoensis,Phytoseiidae,23,82,3,10,0
 PHY0049,Amblyseius maai,Phytoseiidae,1,0,1,0,0
 PHY0050,Amblyseius malabarensis,Phytoseiidae,1,1,1,0,0
 PHY0051,Amblyseius manipurensis,Phytoseiidae,1,0,1,0,0
@@ -962,7 +962,7 @@ PHY0072,Amblyseius sundi,Phytoseiidae,1,1,1,0,0
 PHY0073,Asperoseius jujubae,Phytoseiidae,1,0,1,0,0
 PHY0074,Asperoseius latericulus,Phytoseiidae,1,1,1,0,0
 PHY0075,Euseius ahaioensis,Phytoseiidae,1,0,1,0,0
-PHY0076,Euseius alstoniae,Phytoseiidae,16,51,3,0,0
+PHY0076,Euseius alstoniae,Phytoseiidae,20,51,3,0,0
 PHY0077,Euseius aridophilus,Phytoseiidae,1,0,1,0,0
 PHY0078,Euseius arunachalensis,Phytoseiidae,2,3,2,0,0
 PHY0079,Euseius asperivorous,Phytoseiidae,0,0,0,0,0
@@ -999,12 +999,12 @@ PHY0109,Euseius neococcineae,Phytoseiidae,2,1,2,0,0
 PHY0110,Euseius ovalis,Phytoseiidae,18,41,3,3,1
 PHY0111,Euseius papayensis,Phytoseiidae,1,0,1,0,0
 PHY0112,Euseius pariyarensis,Phytoseiidae,1,0,1,0,0
-PHY0113,Euseius prasadi,Phytoseiidae,11,10,3,0,0
+PHY0113,Euseius prasadi,Phytoseiidae,12,10,3,0,0
 PHY0114,Euseius rhododendronis,Phytoseiidae,7,0,1,0,0
 PHY0115,Euseius sacchari,Phytoseiidae,2,0,1,1,0
 PHY0116,Euseius sajnekhalicus,Phytoseiidae,2,22,2,0,0
 PHY0117,Euseius sativum,Phytoseiidae,1,0,1,0,0
-PHY0118,Euseius scutalis,Phytoseiidae,0,0,0,8,0
+PHY0118,Euseius scutalis,Phytoseiidae,1,0,1,8,0
 PHY0119,Euseius spontaneum,Phytoseiidae,2,0,1,0,0
 PHY0120,Euseius sundarbanensis,Phytoseiidae,2,8,2,0,0
 PHY0121,Euseius tamilicus,Phytoseiidae,1,0,1,0,0
@@ -1034,13 +1034,13 @@ PHY0145,Neoseiulus cucumeris,Phytoseiidae,3,0,1,10,0
 PHY0146,Neoseiulus cynodonae,Phytoseiidae,3,1,2,0,0
 PHY0147,Neoseiulus dhani,Phytoseiidae,1,0,1,0,0
 PHY0148,Neoseiulus dhooriai,Phytoseiidae,1,0,1,0,0
-PHY0149,Neoseiulus fallacis,Phytoseiidae,10,4,2,12,0
+PHY0149,Neoseiulus fallacis,Phytoseiidae,11,4,2,12,0
 PHY0150,Neoseiulus ficusi,Phytoseiidae,1,0,1,0,0
 PHY0151,Neoseiulus imbricatus,Phytoseiidae,5,4,2,3,0
 PHY0152,Neoseiulus indicus,Phytoseiidae,5,8,3,0,0
 PHY0153,Neoseiulus khejurae,Phytoseiidae,1,0,1,0,0
 PHY0154,Neoseiulus lablabi,Phytoseiidae,1,0,1,0,0
-PHY0155,Neoseiulus longispinosus,Phytoseiidae,15,28,3,7,3
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,16,28,3,7,3
 PHY0156,Neoseiulus lula,Phytoseiidae,1,0,1,0,0
 PHY0157,Neoseiulus mulbericus,Phytoseiidae,1,0,1,0,0
 PHY0158,Neoseiulus neoghanii,Phytoseiidae,1,0,1,0,0
@@ -1095,7 +1095,7 @@ PHY0207,Phytoseius indicus,Phytoseiidae,5,1,2,0,0
 PHY0208,Phytoseius intermedius,Phytoseiidae,7,3,2,0,0
 PHY0209,Phytoseius jaunpurensis,Phytoseiidae,1,0,1,0,0
 PHY0210,Phytoseius jujuba,Phytoseiidae,5,14,2,0,0
-PHY0211,Phytoseius kapuri,Phytoseiidae,16,17,3,0,0
+PHY0211,Phytoseius kapuri,Phytoseiidae,17,17,3,0,0
 PHY0212,Phytoseius khowaiensis,Phytoseiidae,1,0,1,0,0
 PHY0213,Phytoseius leopardisimilis,Phytoseiidae,1,0,1,0,0
 PHY0214,Phytoseius macropilis,Phytoseiidae,7,2,2,14,0
@@ -1155,7 +1155,7 @@ PHY0267,Typhlodromips jhilimiliensis,Phytoseiidae,1,0,1,0,0
 PHY0268,Typhlodromips neosyzygii,Phytoseiidae,1,0,1,0,0
 PHY0269,Typhlodromips syzygii,Phytoseiidae,10,58,3,0,0
 PHY0270,Typhlodromus (Anthoseius) adhatoda,Phytoseiidae,1,0,1,0,0
-PHY0271,Typhlodromus (Anthoseius) arunachalensis,Phytoseiidae,1,0,1,0,0
+PHY0271,Typhlodromus (Anthoseius) arunachalensis,Phytoseiidae,2,0,1,0,0
 PHY0272,Typhlodromus (Anthoseius) bakeri,Phytoseiidae,1,0,1,2,0
 PHY0273,Typhlodromus (Anthoseius) bambusicolus,Phytoseiidae,2,0,1,0,0
 PHY0274,Typhlodromus (Anthoseius) barapanicus,Phytoseiidae,1,0,1,0,0
@@ -1182,7 +1182,7 @@ PHY0294,Typhlodromus (Anthoseius) gosabaensis,Phytoseiidae,1,0,1,0,0
 PHY0295,Typhlodromus (Anthoseius) hadii,Phytoseiidae,2,0,1,0,0
 PHY0296,Typhlodromus (Anthoseius) hasnuhanae,Phytoseiidae,1,2,2,0,0
 PHY0297,Typhlodromus (Anthoseius) heliotropium,Phytoseiidae,1,2,2,0,0
-PHY0298,Typhlodromus (Anthoseius) himalayensis,Phytoseiidae,3,2,2,0,0
+PHY0298,Typhlodromus (Anthoseius) himalayensis,Phytoseiidae,4,2,2,0,0
 PHY0299,Typhlodromus (Anthoseius) himaliniae,Phytoseiidae,1,0,1,0,0
 PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,14,15,2,0,0
 PHY0301,Typhlodromus (Anthoseius) kanchangarhensis,Phytoseiidae,1,0,1,0,0
@@ -1204,7 +1204,7 @@ PHY0316,Typhlodromus (Anthoseius) pruni,Phytoseiidae,4,0,1,0,0
 PHY0317,Typhlodromus (Anthoseius) ramdhuraensis,Phytoseiidae,1,2,1,0,0
 PHY0318,Typhlodromus (Anthoseius) rhenanus,Phytoseiidae,4,0,1,2,0
 PHY0319,Typhlodromus (Anthoseius) rhododendroni,Phytoseiidae,1,0,1,0,0
-PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,6,2,2,0,0
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,8,2,2,0,0
 PHY0321,Typhlodromus (Anthoseius) sagaricus,Phytoseiidae,1,0,1,0,0
 PHY0322,Typhlodromus (Anthoseius) saptaparniae,Phytoseiidae,1,0,1,0,0
 PHY0323,Typhlodromus (Anthoseius) sijiensis,Phytoseiidae,1,0,1,0,0

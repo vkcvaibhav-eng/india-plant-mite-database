@@ -1,0 +1,38 @@
+account_number,state,basis
+3,Jammu & Kashmir,book prints 'India (Kashmir valley)'
+36,Jammu & Kashmir,book prints 'India (Kashmir valley)'
+126,Jammu & Kashmir,book prints 'India (Kashmir valley)'
+1130,Jammu & Kashmir,book prints 'India (Kashmir valley)'
+33,Mizoram,state printed without a comma ('Assam, Mizoram Himachal Pradesh')
+91,Bihar,states printed without commas ('West Bengal. Bihar Gujarat, Punjab')
+91,Gujarat,states printed without commas ('West Bengal. Bihar Gujarat, Punjab')
+122,Delhi,book prints 'Distribution (Delhi)'
+179,Punjab,book prints 'India: (Punjab)'
+269,Tamil Nadu,book prints 'Indi: (Tamil Nadu)'
+790,Tripura,first state after 'India (' was not read
+794,West Bengal,book prints 'India (Throughout West Bengal)'
+803,West Bengal,book prints 'India (West Bengal: Gangetic plains)'
+989,Sikkim,book prints 'India (Sikkim (Plant Conservatory; Bulbul))'
+990,Sikkim,book prints 'India (Sikkim (Bakthang Falls))'
+1030,West Bengal,book prints '(India; West Bengal)'
+1050,Sikkim,book prints 'India (Sikkim (Plant Conservatory; Bulbul))'
+1095,Maharashtra,state after a broken bracket in the OCR text
+1095,Jammu & Kashmir,state after a broken bracket in the OCR text
+1095,Rajasthan,state after a broken bracket in the OCR text
+1095,Tamil Nadu,OCR text 're Nadu' read as Tamil Nadu
+1095,Madhya Pradesh,OCR text 'Madh) Pradesh' read as Madhya Pradesh
+1113,Uttar Pradesh,states printed without a comma ('Uttar Pradesh Himachal Pradesh')
+1113,Himachal Pradesh,states printed without a comma ('Uttar Pradesh Himachal Pradesh')
+1157,Orissa,state printed without a comma ('Bihar; Odisha Tamil Nadu')
+1238,Mizoram,states printed without a comma ('Mizoram Sikkim')
+1238,Sikkim,states printed without a comma ('Mizoram Sikkim')
+470,West Bengal,book prints 'India (Kolkata)'
+963,Lakshadweep,book prints 'Lakshadwip Isls.'
+968,Lakshadweep,book prints 'Lakshadwip Isls.'
+1051,Lakshadweep,book prints 'Lakshadwip Isls.'
+1125,Lakshadweep,book prints 'Lakshadwip Isls.'
+1191,Lakshadweep,book prints 'Lakshadwip Isls.'
+1218,Lakshadweep,book prints 'Lakshadwip Isls.'
+797,West Bengal,book prints 'India (Kalyani Gangetic plains)'
+798,West Bengal,book prints 'India (Kalyani Gangetic plains)'
+804,West Bengal,book prints 'India (Burdwan lateritic zone)'

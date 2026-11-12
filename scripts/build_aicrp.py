@@ -220,19 +220,39 @@ def add(block_id, mite, hosts, places, status, note, pairing, code=""):
             combos = [(h, pl, "host_and_place_paired" if h else "place_only") for h in (hosts or [""]) for pl in places]
         else:
             combos = [(h, "", "host_only" if h else "no_host_no_place") for h in (hosts or [""])]
+        multi = block_id in MULTI_STATE or "(not split)" in b["state"]
+        # states of the places printed on this line; a place not in the table is trusted to lie in the block state only for single-state blocks
+        line_states, line_open = set(), False
+        for pl in places:
+            s_, b_ = place_state(pl, b["state"])
+            if b_ == "place_lookup" or (b_ == "centre_state" and not multi): line_states.add(s_)
+            else: line_open = True
         for h, pl, how in combos:
             hc, hs = host_parts(h)
             if h.startswith("sci:"): h = h[4:]
             st, basis = (place_state(pl, b["state"]) if pl else (b["state"], "centre_state"))
+            if not pl and places:   # host row of a line that prints its own places: the state follows those places
+                if len(line_states) == 1 and not line_open: st = next(iter(line_states))
+                elif line_states: st = "; ".join(sorted(line_states)) + ("; unplaced locality" if line_open else "") + " (not split)"
             if pl and block_id in MULTI_STATE and basis in ("centre_state", "ambiguous_place"):
                 unresolved[(block_id, pl, b["state"], basis)] += 1
             extra = "host and place lists printed separately for this species" if len(places) > 1 and hosts and pairing != "force" else ""
+            # may this row support a species x state record?
+            if pl:
+                if basis == "place_lookup": evidence, counts = "place", 1
+                elif basis == "ambiguous_place": evidence, counts = "place_ambiguous", 0
+                else: evidence, counts = "place_not_in_table_centre_state_used", int(not multi)
+            elif places:
+                evidence, counts = "host_row_state_from_the_places_on_its_line", int(len(line_states) == 1 and not line_open)
+            else:
+                evidence, counts = "no_place_block_state_used", int(not multi)
             obs.append({
                 "obs_id": "", "block_id": block_id, "report": b["report"], "centre": b["centre"], "institute": b["institute"],
                 "survey_period": b["survey_period"], "pdf_pages": b["pdf_pages"], "printed_pages": b["printed_pages"],
                 "mite_as_printed": piece, "mite_name": name, "mite_rank": rank, "mite_family": family, "mite_authority": auth,
                 "host_as_printed": h, "host_common": hc, "host_scientific": hs,
                 "place_as_printed": pl, "state": st, "state_basis": basis if pl else "centre_state",
+                "state_evidence": evidence, "state_counts": counts,
                 "status": status, "occurrence_code": code, "pairing": how,
                 "remark": "; ".join(x for x in (remark, note, extra, ("host: " + stages[h]) if h in stages else "") if x),
             })
@@ -321,13 +341,13 @@ for r in obs:
     if r["mite_rank"] != "species": continue
     nm = r["mite_name"]
     if nm in cross and cross[nm]["checklist_name"] in valid2id:
-        r["species_id"] = valid2id[cross[nm]["checklist_name"]]; r["checklist_name"] = cross[nm]["checklist_name"]; r["join_basis"] = "crosswalk"
+        r["species_id"] = valid2id[cross[nm]["checklist_name"]]; r["checklist_name"] = cross[nm]["checklist_name"]; r["join_basis"] = "crosswalk_assumed" if "assumed" in cross[nm]["basis"] else "crosswalk"
         continue
     ids = name2id.get(nm, set())
     alt = re.sub(r" \([A-Z][a-z]+\)", "", nm)   # subgenus dropped
     if not ids and alt != nm:
         if alt in cross and cross[alt]["checklist_name"] in valid2id:
-            r["species_id"] = valid2id[cross[alt]["checklist_name"]]; r["checklist_name"] = cross[alt]["checklist_name"]; r["join_basis"] = "crosswalk"
+            r["species_id"] = valid2id[cross[alt]["checklist_name"]]; r["checklist_name"] = cross[alt]["checklist_name"]; r["join_basis"] = "crosswalk_assumed" if "assumed" in cross[alt]["basis"] else "crosswalk"
             continue
         ids = name2id.get(alt, set())
         if len(ids) == 1:
@@ -349,34 +369,28 @@ write_csv(REV / "aicrp_names_not_in_checklist.csv",
           [{"mite_name": k, "family": v["family"], "rows": v["rows"], "centres": ";".join(sorted(v["centres"])), "ambiguous_join": int(v.get("multi", False))}
            for k, v in sorted(missing.items())], ["mite_name", "family", "rows", "centres", "ambiguous_join"])
 
-# compare with the Gupta & Mondal (2023) species x state layer
-import states_norm
-gm_state = {(r["species_id"], states_norm.canon(r["state"])) for r in read_csv(ROOT / "data/records/species_state.csv") if r["species_id"]}
-gm_species = {sid for sid, _ in gm_state}
-gm_by_sp = collections.defaultdict(set)
-for sid, st in gm_state:
-    gm_by_sp[sid].add(st)
+# compare with the Gupta & Mondal (2023) species x state layer (categories are explained in scripts/gm_compare.py)
+import states_norm, gm_compare
+BOOK = gm_compare.Book()
 NOT_SINGLE = ("(not split)",)
-pairs = collections.defaultdict(lambda: {"rows": 0, "centres": set(), "periods": set(), "names": set()})
+pairs = collections.defaultdict(lambda: {"rows": 0, "centres": set(), "periods": set(), "names": set(), "joins": set()})
 for r in obs:
-    if not r["species_id"] or not r["state"] or any(x in r["state"] for x in NOT_SINGLE): continue
-    k = (r["species_id"], states_norm.canon(r["state"])); pairs[k]["rows"] += 1; pairs[k]["centres"].add(r["centre"]); pairs[k]["periods"].add(r["survey_period"]); pairs[k]["names"].add(r["mite_as_printed"])
+    if not r["species_id"] or not r["state"] or any(x in r["state"] for x in NOT_SINGLE) or not r["state_counts"]: continue
+    k = (r["species_id"], states_norm.canon(r["state"])); v = pairs[k]
+    v["rows"] += 1; v["centres"].add(r["centre"]); v["periods"].add(r["survey_period"]); v["names"].add(r["mite_as_printed"]); v["joins"].add(r["join_basis"])
 cmp_rows = []
 for (sid, st), v in sorted(pairs.items()):
+    status = BOOK.status(sid, st)
     cmp_rows.append({"species_id": sid, "valid_name": species[sid]["species"], "family": species[sid]["family"], "state": st,
-                     "in_gupta_mondal_2023": int((sid, st) in gm_state),
-                     "in_gm2023_same_or_parent_state": int(bool(states_norm.related(st) & gm_by_sp.get(sid, set()))),
-                     "species_in_gupta_mondal_2023": int(sid in gm_species),
+                     "book_status": status, "in_gupta_mondal_2023": int(status == "state_in_book"),
                      "aicrp_rows": v["rows"], "centres": ";".join(sorted(v["centres"])), "survey_periods": ";".join(sorted(v["periods"])),
-                     "printed_names": " | ".join(sorted(v["names"]))})
+                     "join_bases": ";".join(sorted(v["joins"])), "printed_names": " | ".join(sorted(v["names"]))})
 write_csv(OUT / "aicrp_species_state_vs_gm2023.csv", cmp_rows,
-          ["species_id", "valid_name", "family", "state", "in_gupta_mondal_2023", "in_gm2023_same_or_parent_state", "species_in_gupta_mondal_2023", "aicrp_rows", "centres", "survey_periods", "printed_names"])
+          ["species_id", "valid_name", "family", "state", "book_status", "in_gupta_mondal_2023", "aicrp_rows", "centres", "survey_periods", "join_bases", "printed_names"])
 
 print("observations", len(obs))
 print(collections.Counter(r["centre"] for r in obs))
 print(collections.Counter(r["mite_rank"] for r in obs))
 print(collections.Counter(r["join_basis"] for r in obs if r["mite_rank"] == "species"))
-print("species x state pairs:", len(cmp_rows), "already in G&M:", sum(c["in_gupta_mondal_2023"] for c in cmp_rows),
-      "in G&M same or parent state:", sum(c["in_gm2023_same_or_parent_state"] for c in cmp_rows),
-      "species new to G&M layer:", sum(1 for c in cmp_rows if not c["species_in_gupta_mondal_2023"]))
+print("species x state pairs:", len(cmp_rows), dict(collections.Counter(c["book_status"] for c in cmp_rows)))
 print("names in covered families not joined:", len(missing))

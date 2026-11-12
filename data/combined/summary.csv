@@ -1,12 +1,13 @@
-layer,species_state_rows,species_host_rows,names_not_joined,species_state_pairs,pairs_not_in_gm2023
-chalil2024,453,921,0,453,186
-mitra2025,175,657,0,175,48
-tn2020,281,270,1,277,53
-karn2025,49,0,0,49,37
-som2025,60,0,1,58,36
-mandal2026,232,270,1,230,100
-tarswb2023,25,0,0,25,10
-gb2017,73,163,0,73,33
-mitra2018,17,39,0,17,14
-add2026,64,37,0,64,58
-all layers combined,,,,2458,732
+layer,species_state_rows,species_host_rows,names_not_joined,species_state_pairs,state_in_book,parent_or_child_state_in_book,book_gives_no_state,new_state_for_a_book_species,species_not_in_book
+chalil2024,456,921,0,456,273,4,51,107,21
+mitra2025,175,657,0,175,128,0,16,21,10
+tn2020,281,270,1,277,225,0,0,50,2
+karn2025,49,0,0,49,12,0,0,27,10
+som2025,60,0,1,58,22,0,1,30,5
+mandal2026,232,270,1,230,130,0,2,68,30
+tarswb2023,25,0,0,25,16,0,0,1,8
+gb2017,73,163,0,73,40,0,4,20,9
+mitra2018,17,39,0,17,3,0,1,7,6
+add2026,64,37,0,64,6,0,0,0,58
+aicrp (layers 2-10),,,,487,209,7,47,213,11
+all layers combined,,,,2468,1759,11,84,466,148

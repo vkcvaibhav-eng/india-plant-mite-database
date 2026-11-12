@@ -1,7 +1,7 @@
 group,species,no_host_genus,one_host_genus,2_5,6_20,over_20,share_one_host_genus_of_those_with_hosts,median_host_genera
-Tetranychidae,148,7,44,55,26,16,0.312,3
-Tenuipalpidae,114,9,42,40,16,7,0.4,2
-Eriophyoidea,580,55,471,52,2,0,0.897,1
+Tetranychidae,148,17,42,60,19,10,0.321,2
+Tenuipalpidae,114,16,39,43,14,2,0.398,2.0
+Eriophyoidea,580,60,468,50,2,0,0.9,1.0
 Tarsonemidae,43,7,29,6,0,1,0.806,1.0
 Tuckerellidae,4,0,3,1,0,0,0.75,1.0
 Phytoseiidae,332,230,44,33,15,10,0.431,2.0

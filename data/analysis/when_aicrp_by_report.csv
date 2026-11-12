@@ -1,10 +1,10 @@
-report,centres,states,checklist_species,species_state_pairs
-AICRP 1988,6,8,72,92
-AICRP 1989,6,10,42,65
-AICRP 1990 Group Meeting,6,8,45,61
-AICRP 1990-91,8,11,69,143
-AICRP 1992-94,7,10,58,110
-AICRP 1996-98,7,12,79,163
-AICRP 2020-21,6,8,71,134
-AICRP 2021-22,5,7,31,48
-AICRP 2024-25,7,5,55,93
+report,observation_rows,mite_species_names,host_names_as_printed,centres,states,checklist_species,species_state_pairs,pairs_that_add_to_the_book
+AICRP 1988,510,105,124,6,8,72,91,38
+AICRP 1989,545,95,181,6,10,75,69,25
+AICRP 1990 Group Meeting,322,73,130,6,8,55,62,18
+AICRP 1990-91,1000,95,255,8,11,69,148,54
+AICRP 1992-94,347,79,72,7,10,58,115,30
+AICRP 1996-98,1109,128,310,7,12,83,169,48
+AICRP 2020-21,1978,88,360,6,8,71,132,57
+AICRP 2021-22,317,31,114,5,7,31,47,25
+AICRP 2024-25,757,122,197,7,5,80,93,56

@@ -29,3 +29,4 @@ fruit: Corylus*; Pistacia*; Durio*; Cerasus*; Ribes*; Crataegus*; Myrtus*
 vegetable: Physalis*; Arracacia*; Eruca*; Lepidium*; Cichorium*; Cynara*; Canavalia*
 plantation_spice: Laurus*; Humulus*; Bixa*; Alpinia*
 medicinal_aromatic: Perilla*; Artemisia*; Costus*; Houttuynia*; Ephedra*; Plantago*; Adhatoda*; Aristolochia*; Chloranthus*
+tree_forest: Vateria*

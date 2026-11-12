@@ -103,21 +103,51 @@ note("where", "species recorded from the three richest states (union)", len(set(
 for k in ("North-East", "Central", "West", "Islands"):
     note("where", f"species in region {k}", len(reg.get(k, ())))
 
+bs = collections.Counter(r["book_status"] for r in comb)
+for k in ("state_in_book", "parent_or_child_state_in_book", "book_gives_no_state", "new_state_for_a_book_species", "species_not_in_book"):
+    note("where", f"species x state pairs, {k}", bs[k])
+note("where", "species x state pairs, all", len(comb))
+new_pairs = [r for r in comb if r["book_status"] in ("new_state_for_a_book_species", "species_not_in_book")]
+note("where", "additions to the book (new state or species not in book)", len(new_pairs))
+note("where", "additions resting on AICRP reports only", sum(1 for r in new_pairs if r["only_aicrp"] == "1"))
+ap = [r for r in comb if r["in_aicrp"] == "1"]
+note("where", "AICRP species x state pairs", len(ap))
+note("where", "AICRP pairs that are additions to the book", sum(1 for r in ap if r["book_status"] in ("new_state_for_a_book_species", "species_not_in_book")))
+note("where", "AICRP pairs where the book gives no state for the species", sum(1 for r in ap if r["book_status"] == "book_gives_no_state"))
+write("where_additions_by_group.csv",
+      [{"group": g, "pairs": sum(1 for r in comb if group[r["species_id"]] == g),
+        **{k: sum(1 for r in comb if group[r["species_id"]] == g and r["book_status"] == k) for k in
+           ("state_in_book", "parent_or_child_state_in_book", "book_gives_no_state", "new_state_for_a_book_species", "species_not_in_book")}} for g in GROUPS])
+
 # AICRP coverage by state and period
 obs = read(ROOT / "data/aicrp/aicrp_observations.csv")
-per_report = collections.defaultdict(lambda: {"pairs": set(), "species": set(), "centres": set(), "states": set()})
+per_report = collections.defaultdict(lambda: {"pairs": set(), "species": set(), "centres": set(), "states": set(),
+                                             "rows": 0, "mites": set(), "hosts": set()})
+status_of = {(r["species_id"], r["state"]): r["book_status"] for r in comb}
 for r in obs:
-    if r["species_id"] in sp and r["state"] and "(not split)" not in r["state"]:
-        d = per_report[r["report"]]
-        st = states_norm.canon(r["state"])
-        d["pairs"].add((r["species_id"], st)); d["species"].add(r["species_id"]); d["states"].add(st)
+    d = per_report[r["report"]]
+    d["rows"] += 1
+    if r["mite_rank"] == "species":
+        d["mites"].add(r["mite_name"])
+    if r["host_as_printed"]:
+        d["hosts"].add(r["host_as_printed"].strip().lower())
+    if r["species_id"] in sp:
+        d["species"].add(r["species_id"])
+        if r["state"] and "(not split)" not in r["state"] and r["state_counts"] == "1":
+            st = states_norm.canon(r["state"])
+            d["pairs"].add((r["species_id"], st)); d["states"].add(st)
     if r["centre"]:
-        per_report[r["report"]]["centres"].add(r["centre"])
+        d["centres"].add(r["centre"])
 ORDER = ["AICRP 1988", "AICRP 1989", "AICRP 1990 Group Meeting", "AICRP 1990-91", "AICRP 1992-94", "AICRP 1996-98",
          "AICRP 2020-21", "AICRP 2021-22", "AICRP 2024-25"]
+ADD = ("new_state_for_a_book_species", "species_not_in_book")
 write("when_aicrp_by_report.csv",
-      [{"report": k, "centres": len(per_report[k]["centres"]), "states": len(per_report[k]["states"]),
-        "checklist_species": len(per_report[k]["species"]), "species_state_pairs": len(per_report[k]["pairs"])} for k in ORDER if k in per_report])
+      [{"report": k, "observation_rows": per_report[k]["rows"], "mite_species_names": len(per_report[k]["mites"]),
+        "host_names_as_printed": len(per_report[k]["hosts"]), "centres": len(per_report[k]["centres"]),
+        "states": len(per_report[k]["states"]), "checklist_species": len(per_report[k]["species"]),
+        "species_state_pairs": len(per_report[k]["pairs"]),
+        "pairs_that_add_to_the_book": sum(1 for x in per_report[k]["pairs"] if status_of.get(x) in ADD)}
+       for k in ORDER if k in per_report])
 
 # ======================================================================= WHEN
 dec = collections.defaultdict(collections.Counter)
@@ -147,12 +177,20 @@ for g in GROUPS:
         note("when", f"median description year, {g}", int(statistics.median(ys)))
 
 # ======================================================================= WHO
-ALIAS = {"Mohansundaram": "Mohanasundaram", "ChannaBasavanna": "Channabasavanna", "Channabasvanna": "Channabasavanna",
-         "Pgst": "Pagenstecher", "Boisd": "Boisduval", "Oud": "Oudemans", "Geisk": "Geijskes", "Smith-Meyer": "Smith Meyer"}
+# spelling variants and OCR damage in the authority strings: config/author_aliases.csv
+TEXT_FIX, ALIAS = [], {}
+for r in read(ROOT / "config/author_aliases.csv"):
+    if r["kind"] == "text":
+        TEXT_FIX.append((r["printed"], r["read_as"]))
+    else:
+        ALIAS[r["printed"]] = r["read_as"]
 
 
 def authors(auth):
-    a = re.sub(r"[()\[\]]", "", auth or "")
+    a = auth or ""
+    for old, new_ in TEXT_FIX:
+        a = a.replace(old, new_)
+    a = re.sub(r"[()\[\]]", "", a)
     etal = bool(re.search(r"et al", a))
     a = re.sub(r"\bet al\.?", "", a)
     out = []
@@ -216,8 +254,35 @@ for r in read(ROOT / "data/records/species_host.csv"):
         add_host(r["species_id"], r["host_taxon_std"], r["host_rank_std"], r["host_crop_type"], r["host_std_common"], "gm2023")
 for r in obs:
     add_host(r["species_id"], r["host_taxon_std"], r["host_rank_std"], r["host_crop_type"], r["host_std_common"], "aicrp")
-for r in read(ROOT / "data/regional/regional_species_host.csv"):
-    add_host(r["species_id"], r["host_taxon_std"], r["host_rank_std"], r["host_crop_type"], r["host_std_common"], r["source"])
+regional_hosts = read(ROOT / "data/regional/regional_species_host.csv")
+for r in regional_hosts:
+    if r["host_scope"] == "indian_record":      # the two national checklists print worldwide hosts for widespread species
+        add_host(r["species_id"], r["host_taxon_std"], r["host_rank_std"], r["host_crop_type"], r["host_std_common"], r["source"])
+
+
+def breadth(keep):
+    """Host genera per phytophagous species under a choice of layers; returns the summary used in the sensitivity table."""
+    gen = collections.defaultdict(set)
+    for r in read(ROOT / "data/records/species_host.csv"):
+        if keep("gm2023") and r["in_india"] == "1" and r["species_id"] in sp and r["host_rank_std"] in ("species", "genus"):
+            gen[r["species_id"]].add(r["host_taxon_std"].split()[0])
+    for r in obs:
+        if keep("aicrp") and r["species_id"] in sp and r["host_rank_std"] in ("species", "genus"):
+            gen[r["species_id"]].add(r["host_taxon_std"].split()[0])
+    for r in regional_hosts:
+        if keep(r["source"]) and r["species_id"] in sp and r["host_rank_std"] in ("species", "genus"):
+            gen[r["species_id"]].add(r["host_taxon_std"].split()[0])
+    ids = [s for s in sp if group[s] in PHYTOPHAGOUS and gen[s]]
+    one = sum(1 for s in ids if len(gen[s]) == 1)
+    return {"phytophagous_species_with_host": len(ids), "one_host_genus": one, "share_one_host_genus": round(one / len(ids), 3),
+            "more_than_20_genera": sum(1 for s in ids if len(gen[s]) > 20)}
+
+
+WORLD = ("chalil2024", "mitra2025")
+write("hosts_sensitivity.csv", [
+    {"host_layers_used": "book + AICRP + regional lists and papers (main analysis)", **breadth(lambda l: l not in WORLD)},
+    {"host_layers_used": "AICRP + regional lists and papers only", **breadth(lambda l: l not in WORLD and l != "gm2023")},
+    {"host_layers_used": "all layers including the two national checklists", **breadth(lambda l: True)}])
 
 rows = []
 for g in GROUPS:
@@ -239,8 +304,27 @@ note("hosts", "phytophagous species with more than 20 host genera", sum(1 for s 
 
 crop_sp = collections.defaultdict(set)
 crop_pred = collections.defaultdict(set)
+genus_sp, genus_pred, genus_names = collections.defaultdict(set), collections.defaultdict(set), collections.defaultdict(collections.Counter)
 for (sid, taxon), layers in host_src.items():
     (crop_sp if group[sid] in PHYTOPHAGOUS else crop_pred)[taxon].add(sid)
+    (genus_sp if group[sid] in PHYTOPHAGOUS else genus_pred)[taxon.split()[0]].add(sid)
+    genus_names[taxon.split()[0]][crop_type.get(taxon, ("", ""))[1]] += 1
+rows = []
+for g_, ids in sorted(genus_sp.items(), key=lambda x: (-len(x[1]), x[0]))[:40]:
+    # crop type and names come from the species of the genus with most mite species, not from file order
+    members = sorted((t for t in crop_sp if t.split()[0] == g_), key=lambda t: (-len(crop_sp[t]), t))
+    ct = next((crop_type[t][0] for t in members if crop_type.get(t, ("", ""))[0]), "")
+    names_ = []
+    for t in members:
+        n = crop_type.get(t, ("", ""))[1]
+        if n and n not in names_:
+            names_.append(n)
+    rows.append({"host_genus": g_, "common_names": "; ".join(names_[:3]), "most_recorded_species": members[0],
+                 "crop_type_of_most_recorded_species": ct,
+                 "phytophagous_species": len(ids), **{g: sum(1 for s in ids if group[s] == g) for g in GROUPS if g != "Phytoseiidae"},
+                 "phytoseiid_species": len(genus_pred.get(g_, ()))})
+write("hosts_top_genera.csv", rows)
+topg = rows[:5]
 rows = []
 for taxon, ids in sorted(crop_sp.items(), key=lambda x: -len(x[1]))[:40]:
     ct, common = crop_type.get(taxon, ("", ""))
@@ -263,8 +347,7 @@ for taxon in KEY:
         rows.append({"host": taxon, "common_name": crop_type.get(taxon, ("", ""))[1], "mite": sp[sid]["species"], "group": group[sid],
                      "layers": ";".join(sorted(host_src[(sid, taxon)])), "n_layers": len(host_src[(sid, taxon)])})
 write("hosts_key_crops.csv", rows)
-top = sorted(crop_sp.items(), key=lambda x: -len(x[1]))[:5]
-note("hosts", "five plants with most phytophagous mite species", "; ".join(f"{crop_type.get(t, ('', ''))[1] or t} {len(v)}" for t, v in top))
+note("hosts", "five host genera with most phytophagous mite species", "; ".join(f"{r['host_genus']} {r['phytophagous_species']}" for r in topg))
 
 # ======================================================================= LINK TO PAPER 1
 cov = {r["species_id"]: r for r in read(ROOT / "data/raw/coverage_by_species.csv")}

@@ -508,7 +508,24 @@ lauraceae => Lauraceae | Lauraceae | Lauraceae (unspecified)
 liliaceae => Liliaceae | Liliaceae | Liliaceae (unspecified)
 arecaceae => Arecaceae | Arecaceae | Palm (unspecified)
 unidentified; unknown; unidentified plantand => [group] unidentified plant | | Unidentified plant
+poaceae species; poacea sp => Poaceae | Poaceae | Grass (unspecified)
+arecaceae sp => Arecaceae | Arecaceae | Palm (unspecified)
+lauraceae sp => Lauraceae | Lauraceae | Lauraceae (unspecified)
+liliaceae sp => Liliaceae | Liliaceae | Liliaceae (unspecified)
+malvaceous plant => Malvaceae | Malvaceae | Malvaceous plant
+fern sp; fern type => [group] ferns | | Ferns
+bamboo species => Bambusa sp. | Poaceae | Bamboo
+citrusjambhiri lush => Citrus jambhiri | Rutaceae | Rough lemon
 [genus spellings]
+ariocarpus => Artocarpus
+aigelia => Kigelia
+jetrazygia => Tetrazygia
+malas => Malus
+pandas => Pandanus
+peedanil => Peucedanum
+stormcloud => Strongylodon
+vareria => Vateria
+ureria => Uraria
 abuliton => Abutilon
 acecia => Acacia
 actinider => Actinidia
@@ -676,7 +693,6 @@ Aporosa: Phyllanthaceae
 Araucaria: Araucariaceae
 Ardisia: Primulaceae
 Argyreia: Convolvulaceae
-Ariocarpus: Cactaceae
 Aristida: Poaceae
 Arundina: Orchidaceae
 Arundo: Poaceae
@@ -1084,3 +1100,4 @@ Verbena: Verbenaceae
 Veronica: Plantaginaceae
 Vietnamosasa: Poaceae
 Wissadula: Malvaceae
+Vateria: Dipterocarpaceae

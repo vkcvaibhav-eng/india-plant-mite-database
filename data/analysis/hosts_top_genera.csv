@@ -1,0 +1,41 @@
+host_genus,common_names,most_recorded_species,crop_type_of_most_recorded_species,phytophagous_species,Tetranychidae,Tenuipalpidae,Eriophyoidea,Tarsonemidae,Tuckerellidae,phytoseiid_species
+Citrus,Citrus; Lemon; Mandarin,Citrus sp.,fruit,54,30,18,5,1,0,19
+Ficus,Fig; Ficus; Banyan,Ficus carica,fruit,51,15,7,28,1,0,14
+Prunus,Peach; Apricot; Plum,Prunus persica,fruit,27,13,12,0,2,0,10
+Rosa,Rose,Rosa sp.,ornamental,27,20,6,1,0,0,13
+Psidium,Guava,Psidium guajava,fruit,26,4,17,3,2,0,17
+Bambusa,Bamboo,Bambusa sp.,tree_forest,25,16,2,6,1,0,7
+Solanum,Brinjal; Tomato; Potato,Solanum melongena,vegetable,24,14,5,3,2,0,25
+Ziziphus,Ber; Jujube / ber; Jackal jujube,Ziziphus mauritiana,fruit,24,13,4,4,3,0,17
+Hibiscus,China rose; Hibiscus; Land lotus (sthal padma),Hibiscus rosa-sinensis,ornamental,23,10,6,7,0,0,12
+Pyrus,Pear,Pyrus communis,fruit,23,11,11,1,0,0,9
+Acacia,Acacia,Acacia sp.,tree_forest,21,5,7,9,0,0,2
+Syzygium,Jamun; Rose apple / water apple,Syzygium cumini,fruit,21,6,7,6,2,0,11
+Artocarpus,Jackfruit; Monkey jack,Artocarpus heterophyllus,fruit,20,8,4,7,1,0,11
+Saccharum,Sugarcane; Sarkanda,Saccharum officinarum,field_crop,19,12,0,4,3,0,7
+Malus,Apple,Malus domestica,fruit,18,11,7,0,0,0,11
+Morus,Mulberry,Morus alba,plantation_spice,18,12,4,1,1,0,16
+Musa,Banana,Musa sp.,fruit,18,13,3,1,1,0,6
+Abelmoschus,Okra,Abelmoschus esculentus,vegetable,17,9,5,1,2,0,21
+Jasminum,Jasmine; Arabian jasmine; Spanish jasmine,Jasminum sp.,ornamental,17,7,6,3,1,0,4
+Mangifera,Mango,Mangifera indica,fruit,17,5,3,9,0,0,19
+Carica,Papaya,Carica papaya,fruit,16,11,3,1,1,0,10
+Cassia,Cassia; Sickle senna; Golden shower,Cassia sp.,tree_forest,15,8,2,5,0,0,2
+Manihot,Cassava,Manihot esculenta,field_crop,15,15,0,0,0,0,1
+Terminalia,Arjun; Terminalia; Harad,Terminalia arjuna,tree_forest,15,2,4,8,0,1,8
+Ipomoea,Ipomoea; Sweet potato; Cairo morning glory,Ipomoea sp.,weed_wild,14,5,1,6,2,0,1
+Justicia,Adulsa,Justicia adhatoda,medicinal_aromatic,14,5,5,4,0,0,2
+Ocimum,Tulsi; Basil,Ocimum tenuiflorum,medicinal_aromatic,14,4,6,3,1,0,8
+Oryza,Rice,Oryza sativa,field_crop,14,8,0,4,2,0,8
+Bauhinia,Bauhinia; Kachnar,Bauhinia sp.,tree_forest,13,9,2,2,0,0,6
+Cajanus,Pigeonpea,Cajanus cajan,field_crop,13,12,0,1,0,0,1
+Gossypium,Cotton; Tree cotton,Gossypium sp.,field_crop,13,9,0,3,1,0,9
+Lablab,Lablab bean,Lablab purpureus,weed_wild,13,7,3,2,1,0,6
+Punica,Pomegranate,Punica granatum,fruit,13,4,8,1,0,0,11
+Vitis,Grape,Vitis vinifera,fruit,13,6,6,1,0,0,5
+Azadirachta,Neem,Azadirachta indica,tree_forest,12,7,2,2,1,0,4
+Camellia,Tea,Camellia sinensis,plantation_spice,12,4,2,5,1,0,4
+Tagetes,Marigold,Tagetes sp.,ornamental,12,6,3,2,1,0,6
+Chrysanthemum,Chrysanthemum,Chrysanthemum sp.,ornamental,11,6,3,1,1,0,1
+Cocos,Coconut,Cocos nucifera,plantation_spice,11,4,3,3,1,0,5
+Grewia,Phalsa; Grewia; Beul,Grewia sp.,weed_wild,11,5,3,3,0,0,3

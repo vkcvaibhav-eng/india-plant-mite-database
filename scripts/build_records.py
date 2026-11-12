@@ -81,13 +81,26 @@ def parse_hosts(raw):
     return out, left
 
 state_rows, host_rows, host_left, state_left, no_host, no_dist = [], [], [], [], [], []
+STATE_ADD = collections.defaultdict(list)
+for r in read(ROOT / "config/gm2023_state_additions.csv"):
+    STATE_ADD[r["account_number"]].append(r)
+in_book = {}
 for a in accounts:
     sid, valid, group, counted = link(a["species"])
     base = {"account_number": a["number"], "species_id": sid, "valid_name": valid,
             "name_in_source": a["species"], "family": a["family"], "section": a["section"],
             "level": a["level"], "source": SRC, "page": a["pages"]}
-    for st in filter(None, a["india_states"].split(";")):
-        state_rows.append({**base, "state": st})
+    parsed = [st for st in a["india_states"].split(";") if st]
+    for st in parsed:
+        state_rows.append({**base, "state": st, "state_basis": "parsed"})
+    for add_ in STATE_ADD.get(a["number"], []):      # states printed in the book that the parser did not read (checked by hand)
+        if add_["state"] not in parsed:
+            state_rows.append({**base, "state": add_["state"], "state_basis": "added_by_hand: " + add_["basis"]})
+            parsed.append(add_["state"])
+    if sid:
+        d = in_book.setdefault(sid, {"species_id": sid, "valid_name": valid, "accounts": [], "states": set(), "text": []})
+        d["accounts"].append(a["number"]); d["states"].update(parsed)
+        if not parsed and a["distribution_raw"].strip(): d["text"].append(a["distribution_raw"].strip()[:120])
     if a["india_unmatched"]:
         state_left.append({**base, "locality_text": a["india_unmatched"], "distribution_raw": a["distribution_raw"]})
     if not a["india_states"] and not a["india_unmatched"]:
@@ -122,7 +135,11 @@ for r in host_rows:
 
 base_cols = ["account_number", "species_id", "valid_name", "name_in_source", "family", "section", "level"]
 tail = ["source", "page"]
-write(REC / "species_state.csv", state_rows, base_cols + ["state"] + tail)
+write(REC / "species_state.csv", state_rows, base_cols + ["state", "state_basis"] + tail)
+write(REC / "species_in_book.csv",
+      [{"species_id": d["species_id"], "valid_name": d["valid_name"], "accounts": ";".join(d["accounts"]), "n_states": len(d["states"]),
+        "distribution_text_when_no_state": " | ".join(d["text"]) if not d["states"] else ""} for d in sorted(in_book.values(), key=lambda d: d["species_id"])],
+      ["species_id", "valid_name", "accounts", "n_states", "distribution_text_when_no_state"])
 write(REC / "species_host.csv", host_rows, base_cols + ["host_as_printed", "host_name", "host_genus", "host_rank", "in_india"] + STD + tail)
 write(REV / "host_names_not_standardised.csv", [{"host_name": k[0], "parser_rank": k[1], "rows": v} for k, v in sorted(host_std_left.items(), key=lambda x: (-x[1], x[0]))], ["host_name", "parser_rank", "rows"])
 write(REV / "host_unparsed.csv", host_left, base_cols + ["unparsed_text", "host_raw"] + tail)

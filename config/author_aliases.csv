@@ -1,0 +1,43 @@
+kind,printed,read_as,basis
+text,andTuttle,and Tuttle,missing space
+text,Chaudhriet al,Chaudhri et al,missing space
+text,Chakrabart Ghosh,"Chakrabarti, Ghosh",missing separator
+text,Manda Ghosh,"Mondal, Ghosh",missing separator; Mondal assumed
+text,Menon Ochoa,"Menon, Ochoa",missing separator
+text,D Chandrapatya,Chandrapatya,stray letter
+text,Gupta -,Gupta,stray mark
+text,Karmakar :,Karmakar,stray mark
+text,Sadanandan :,Sadanandan,stray mark
+text,(Wainstein) 33,(Wainstein),stray number
+text,Akbor&,Akbar &,spelling and missing space
+name,Akbor,Akbar,spelling
+name,André,Andre,accent
+name,Chakrabar,Chakrabarti,spelling
+name,Chakrabarati,Chakrabarti,spelling
+name,Chakrabart,Chakrabarti,spelling
+name,ChannaBassavanna,Channabasavanna,spelling
+name,ChannaBasavanna,Channabasavanna,spelling
+name,Channabasvanna,Channabasavanna,spelling
+name,Flecthmann,Flechtmann,spelling
+name,Gu pta,Gupta,OCR space
+name,Keife,Keifer,spelling
+name,Moanasundaram,Mohanasundaram,spelling
+name,Mohanasu ndaram,Mohanasundaram,OCR space
+name,Mohanasundaran,Mohanasundaram,spelling
+name,Mohanasundram,Mohanasundaram,spelling
+name,Mohansundaram,Mohanasundaram,spelling
+name,Narayan,Narayanan,spelling (Narayanan & Ghai)
+name,OQudemans,Oudemans,OCR
+name,Qudemans,Oudemans,OCR
+name,Oud,Oudemans,abbreviation
+name,Pagt,Pagenstecher,abbreviation
+name,Pgst,Pagenstecher,abbreviation
+name,Pand,Pandit,truncated
+name,Pandi,Pandit,truncated
+name,Rassool,Rasool,spelling
+name,Uckermann,Ueckermann,spelling
+name,Danesshvar,Daneshvar,spelling
+name,Meyer,Smith Meyer,same author (M. K. P. Smith Meyer)
+name,Smith-Meyer,Smith Meyer,hyphen
+name,Boisd,Boisduval,abbreviation
+name,Geisk,Geijskes,abbreviation

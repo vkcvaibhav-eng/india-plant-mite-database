@@ -1,32 +1,32 @@
 state,region,species,Tetranychidae,Tenuipalpidae,Eriophyoidea,Tarsonemidae,Tuckerellidae,Phytoseiidae,pairs_on_one_layer_only,share_on_one_layer,species_recorded_only_from_this_state
-West Bengal,East,515,53,33,253,37,0,139,233,0.452,266
-Tamil Nadu,South,427,44,27,311,2,1,42,147,0.344,228
-Karnataka,South,259,72,26,114,4,0,43,182,0.703,70
-Punjab,North,108,33,34,3,2,0,36,51,0.472,26
-Delhi,North,95,37,28,17,1,1,11,47,0.495,33
-Uttar Pradesh,North,94,28,13,19,1,0,33,59,0.628,7
+West Bengal,East,515,53,33,253,37,0,139,231,0.449,266
+Tamil Nadu,South,428,44,27,311,2,1,43,147,0.343,228
+Karnataka,South,260,73,26,114,4,0,43,183,0.704,70
+Punjab,North,107,32,34,3,2,0,36,49,0.458,26
+Delhi,North,95,37,28,17,1,1,11,46,0.484,33
+Uttar Pradesh,North,94,28,13,19,1,0,33,58,0.617,7
 Assam,North-East,81,27,11,10,2,0,31,57,0.704,8
 Kerala,South,80,31,6,8,1,0,34,55,0.688,19
 Meghalaya,North-East,77,22,3,11,0,0,41,62,0.805,13
-Arunachal Pradesh,North-East,74,21,1,0,0,0,52,69,0.932,18
-Bihar,East,69,18,2,19,2,0,28,42,0.609,14
-Tripura,North-East,60,15,3,1,0,0,41,56,0.933,6
-Gujarat,West,59,25,5,8,2,1,18,43,0.729,1
+Arunachal Pradesh,North-East,74,21,1,0,0,0,52,69,0.932,17
+Bihar,East,69,18,2,19,2,0,28,41,0.594,14
+Tripura,North-East,61,15,3,1,1,0,41,57,0.934,6
+Gujarat,West,59,25,5,8,2,1,18,42,0.712,1
 Andaman & Nicobar Islands,Islands,57,12,5,6,0,0,34,41,0.719,32
-Jammu & Kashmir,North,54,16,2,0,0,0,36,42,0.778,22
-Himachal Pradesh,North,50,22,8,4,1,0,15,27,0.54,3
-Sikkim,North-East,42,8,3,0,0,0,31,40,0.952,6
+Jammu & Kashmir,North,57,18,2,0,0,0,37,41,0.719,24
+Himachal Pradesh,North,50,22,8,4,1,0,15,26,0.52,3
+Sikkim,North-East,46,8,3,0,0,0,35,44,0.957,9
 Andhra Pradesh,South,40,20,1,0,1,1,17,29,0.725,5
-Haryana,North,36,13,13,0,0,0,10,22,0.611,0
-Odisha,East,30,13,3,1,1,0,12,19,0.633,3
-Mizoram,North-East,24,7,0,0,1,0,16,24,1.0,0
-Rajasthan,North,21,10,3,3,0,0,5,13,0.619,2
-Madhya Pradesh,Central,21,17,0,0,0,0,4,16,0.762,1
+Haryana,North,36,13,13,0,0,0,10,21,0.583,0
+Odisha,East,31,13,3,1,1,0,13,19,0.613,3
+Mizoram,North-East,26,8,0,0,1,0,17,26,1.0,0
+Rajasthan,North,22,10,3,3,0,0,6,14,0.636,2
+Madhya Pradesh,Central,22,17,0,0,0,0,5,17,0.773,1
+Maharashtra,West,17,8,2,2,1,0,4,12,0.706,0
 Uttarakhand,North,17,4,1,5,1,1,5,17,1.0,4
-Maharashtra,West,16,8,2,2,1,0,3,11,0.688,0
+Lakshadweep,Islands,14,0,2,0,0,0,12,12,0.857,0
 Chhattisgarh,Central,12,8,0,0,0,0,4,12,1.0,0
-Lakshadweep,Islands,8,0,2,0,0,0,6,6,0.75,0
-Chandigarh,North,7,2,2,0,1,0,2,7,1.0,0
+Chandigarh,North,8,3,2,0,1,0,2,8,1.0,0
 Manipur,North-East,5,1,0,0,0,0,4,4,0.8,2
 Nagaland,North-East,2,0,0,0,0,0,2,2,1.0,0
 Goa,West,2,0,2,0,0,0,0,0,0.0,0

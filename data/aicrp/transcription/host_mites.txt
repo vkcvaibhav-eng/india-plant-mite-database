@@ -176,7 +176,7 @@ C04|sci:Dracaena sp.|Lucknow|Brevipalpus sp.|
 C04|Date palm|Lucknow|Tetranychidae|
 C04|sci:Ficus carica|Varanasi; Ballia; Jaunpur|Eotetranychus hirsti Pritchard & Baker; Agistemus sp.; Tyrophagus putrescentiae; Phytoseius (Phytoseius) sp.|
 C04|sci:Psidium guajava|Varanasi; Pratapgarh; Allahabad|Brevipalpus phoenicis (Geijskes); Amblyseius (Euseius) alstoniae Gupta; Tyrophagus putrescentiae|
-C04|sci:Tinospora cordifolia||Tenuipalpidae|sampling sites not transcribed
+C04|sci:Tinospora cordifolia|Varanasi|Tenuipalpidae|
 C04|sci:Syzygium cumini|Varanasi; Ballia; Lucknow; Ghazipur|Tenuipalpidae; Phytoseiidae|
 C04|Lime (Citrus aurantifolia)||Oligonychus sp.|sampling sites not transcribed
 C04|sci:Morus alba|Varanasi|Aceria mori (Keifer); Agistemus sp.; Cunaxa sp.; Tetranychidae; Tenuipalpidae; Tarsonemidae; Phytoseiidae; Cryptostigmata|families printed in the family column
