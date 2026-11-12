@@ -49,11 +49,15 @@ w = read('data/analysis/where_species_by_state.csv'); chk('25 of 31', (sum(1 for
 yrs = {s: int(r['year']) for s, r in sp.items() if r['year'].isdigit()}
 chk('with year', len(yrs), 1171); chk('median', int(statistics.median(yrs.values())), 1982)
 dec = collections.Counter(y//10*10 for y in yrs.values())
-for d, n in [(1950,46),(1960,141),(1970,144),(1980,381),(1990,117),(2000,59),(2010,50),(2020,131)]: chk('decade %d'%d, dec[d], n)
+for d, n in [(1950,45),(1960,142),(1970,144),(1980,381),(1990,117),(2000,59),(2010,50),(2020,131)]: chk('decade %d'%d, dec[d], n)
 chk('1980s erio', sum(1 for s,y in yrs.items() if y//10*10==1980 and grp[s]=='Eriophyoidea'), 266)
 n20 = [s for s,y in yrs.items() if y>=2020]; chk('2020s phyto', sum(1 for s in n20 if grp[s]=='Phytoseiidae'), 73); chk('2020s tars', sum(1 for s in n20 if grp[s]=='Tarsonemidae'), 30); chk('2020s WB', sum(1 for s in n20 if 'West Bengal' in st[s]), 85)
-for g, m in [('Tetranychidae',1966),('Tenuipalpidae',1978),('Eriophyoidea',1983),('Phytoseiidae',1983),('Tarsonemidae',2021)]:
+for g, m in [('Tetranychidae',1967),('Tenuipalpidae',1978),('Eriophyoidea',1983),('Phytoseiidae',1983),('Tarsonemidae',2021)]:
     chk('median '+g, int(statistics.median([y for s,y in yrs.items() if grp[s]==g])), m)
+sens = {r['decade']: r for r in read('data/analysis/when_decade_year_sensitivity.csv')}
+chk('1980s range', (int(sens['1980s']['lowest_if_other_years_used']), int(sens['1980s']['highest_if_other_years_used'])), (377,393)); chk('1960s range', (int(sens['1960s']['lowest_if_other_years_used']), int(sens['1960s']['highest_if_other_years_used'])), (133,146)); chk('1970s range', (int(sens['1970s']['lowest_if_other_years_used']), int(sens['1970s']['highest_if_other_years_used'])), (141,145))
+fs = {r['measure']: r['value'] for r in read('data/analysis/findings_summary.csv')}
+chk('decade could change', fs['of these, species whose decade could change'], '27')
 al = read('config/author_aliases.csv')
 def authors(a):
     for f in al:
@@ -76,7 +80,9 @@ chk('1980s either', sum(1 for s,y in yrs.items() if y//10*10==1980 and A[s]&{'Mo
 def home(a, h): ids=[s for s in A if a in A[s] and st[s]]; return (len(ids), sum(1 for s in ids if h in st[s]), sum(1 for s in ids if st[s]=={h}))
 chk('Moh home', home('Mohanasundaram','Tamil Nadu'), (280,264,189)); chk('Chak home', home('Chakrabarti','West Bengal'), (144,121,109)); chk('Chan home', home('Channabasavanna','Karnataka')[:2], (45,38))
 # hosts
-PH = {'Tetranychidae','Tenuipalpidae','Eriophyoidea','Tarsonemidae','Tuckerellidae'}
+PH = {'Tetranychidae','Tenuipalpidae','Eriophyoidea','Tuckerellidae'}
+PFT = {'Polyphagotarsonemus','Steneotarsonemus','Phytonemus'}
+def pfeed(s): return grp[s] in PH or (grp[s]=='Tarsonemidae' and sp[s]['genus'] in PFT)
 gen = collections.defaultdict(set); taxa=set(); fams=set()
 def add(r):
     if r['species_id'] in sp and r['host_rank_std'] in ('species','genus'):
@@ -87,9 +93,10 @@ for r in read('data/records/species_host.csv'):
 for r in obs: add(r)
 for r in read('data/regional/regional_species_host.csv'):
     if r['host_scope']=='indian_record': add(r)
-ph = [s for s in sp if grp[s] in PH]; pw = [s for s in ph if gen[s]]
-chk('phytophagous', len(ph), 889); chk('with host', len(pw), 789); chk('one genus', sum(1 for s in pw if len(gen[s])==1), 581); chk('pct', round(100*581/789,1), 73.6)
-for g, v in [('Eriophyoidea',(468,520,90.0)),('Tarsonemidae',(29,36,80.6)),('Tenuipalpidae',(39,98,39.8)),('Tetranychidae',(42,131,32.1))]:
+ph = [s for s in sp if pfeed(s)]; pw = [s for s in ph if gen[s]]
+chk('plant feeders', len(ph), 854); chk('tars other', sum(1 for s in sp if grp[s]=='Tarsonemidae' and not pfeed(s)), 35); chk('tars pf', sum(1 for s in sp if grp[s]=='Tarsonemidae' and pfeed(s)), 8); chk('with host', len(pw), 759); chk('one genus', sum(1 for s in pw if len(gen[s])==1), 556); chk('pct', round(100*556/759,1), 73.3)
+tp=[s for s in pw if grp[s]=='Tarsonemidae']; chk('tars pf one', (sum(1 for s in tp if len(gen[s])==1), len(tp)), (4,6)); tk=[s for s in pw if grp[s]=='Tuckerellidae']; chk('tuck one', (sum(1 for s in tk if len(gen[s])==1), len(tk)), (3,4))
+for g, v in [('Eriophyoidea',(468,520,90.0)),('Tenuipalpidae',(39,98,39.8)),('Tetranychidae',(42,131,32.1))]:
     ids=[s for s in pw if grp[s]==g]; o=sum(1 for s in ids if len(gen[s])==1); chk('one genus '+g, (o,len(ids),round(100*o/len(ids),1)), v)
 chk('>20', sum(1 for s in pw if len(gen[s])>20), 13)
 for n_, v in [('Tetranychus urticae',118),('Eutetranychus orientalis',57),('Brevipalpus phoenicis',46),('Tetranychus macfarlanei',40),('Polyphagotarsonemus latus',39)]:
@@ -99,19 +106,23 @@ chk('big list', big, {'Tetranychus urticae','Eutetranychus orientalis','Brevipal
 hg = collections.defaultdict(set)
 for s in pw:
     for g_ in gen[s]: hg[g_].add(s)
-for g_, n in [('Citrus',54),('Ficus',51),('Prunus',27),('Rosa',27),('Psidium',26),('Saccharum',19),('Oryza',14),('Gossypium',13),('Cajanus',13)]: chk('host '+g_, len(hg[g_]), n)
+for g_, n in [('Citrus',54),('Ficus',50),('Rosa',27),('Prunus',26),('Bambusa',24),('Psidium',24),('Solanum',24),('Saccharum',18),('Oryza',13),('Gossypium',13),('Cajanus',13)]: chk('host '+g_, len(hg[g_]), n)
 chk('Citrus tet', sum(1 for s in hg['Citrus'] if grp[s]=='Tetranychidae'), 30); chk('Citrus ten', sum(1 for s in hg['Citrus'] if grp[s]=='Tenuipalpidae'), 18); chk('Ficus erio', sum(1 for s in hg['Ficus'] if grp[s]=='Eriophyoidea'), 28); chk('Psidium ten', sum(1 for s in hg['Psidium'] if grp[s]=='Tenuipalpidae'), 17)
 ct = {r['crop_type']: int(r['phytophagous_species']) for r in read('data/analysis/hosts_by_crop_type.csv')}
-for k, n in [('tree_forest',272),('fruit',202),('weed_wild',117),('ornamental',110),('medicinal_aromatic',82),('plantation_spice',72),('field_crop',70),('vegetable',51)]: chk('crop '+k, ct[k], n)
-sens = read('data/analysis/hosts_sensitivity.csv'); chk('sens', (sens[1]['share_one_host_genus'], sens[2]['share_one_host_genus']), ('0.832','0.727'))
+for k, n in [('tree_forest',268),('fruit',193),('weed_wild',116),('ornamental',103),('medicinal_aromatic',77),('plantation_spice',68),('field_crop',68),('vegetable',50)]: chk('crop '+k, ct[k], n)
+sens = read('data/analysis/hosts_sensitivity.csv'); hs = read('data/analysis/hosts_sensitivity.csv'); chk('sens', [(r['plant_feeding_species_with_host'], r['share_one_host_genus']) for r in hs], [('759','0.733'),('526','0.831'),('773','0.723')])
 chk('host taxa', (len(taxa), len({t.split()[0] for t in taxa}), len(fams)), (1029,517,135))
 chk('phyto with plant', sum(1 for s in sp if grp[s]=='Phytoseiidae' and gen[s]), 102)
+gmst=collections.defaultdict(set)
+for r in comb:
+    if r['in_gm2023']=='1': gmst[r['state']].add(r['species_id'])
+gall=set().union(*gmst.values()); chk('handbook only', (len(gmst['Tamil Nadu']), len(gmst['West Bengal']), len(gmst['Karnataka']), len(gmst['Tamil Nadu']|gmst['West Bengal']|gmst['Karnataka']), len(gall)), (339,322,181,745,1050)); chk('pct hb', round(100*745/1050,1), 71.0)
 # handbook comparison
 bs = collections.Counter(r['book_status'] for r in comb)
 chk('book classes', (bs['state_in_book'],bs['parent_or_child_state_in_book'],bs['book_gives_no_state'],bs['new_state_for_a_book_species'],bs['species_not_in_book']), (1759,11,84,466,148)); chk('not in handbook', 2468-1759, 709)
 ADD = ('new_state_for_a_book_species','species_not_in_book')
 chk('new state species', len({r['species_id'] for r in comb if r['book_status']==ADD[0]}), 272); nbs={r['species_id'] for r in comb if r['book_status']==ADD[1]}; chk('not in book species', len(nbs), 132)
-chk('>=2022', sum(1 for s in nbs if yrs.get(s,0)>=2022), 63); chk('<2020', sum(1 for s in nbs if s in yrs and yrs[s]<2020), 53)
+chk('after 2022', sum(1 for s in nbs if yrs.get(s,0)>2022), 59); chk('2022', sum(1 for s in nbs if yrs.get(s,0)==2022), 4); chk('<2022', sum(1 for s in nbs if s in yrs and yrs[s]<2022), 55); chk('no year', sum(1 for s in nbs if s not in yrs), 14)
 t4 = {r['group']: r for r in read('data/analysis/where_additions_by_group.csv')}
 for g, v in [('Tetranychidae',(594,345,8,57,153,31)),('Tenuipalpidae',(239,142,1,20,61,15)),('Eriophyoidea',(795,546,0,7,188,54)),('Tarsonemidae',(62,29,1,0,10,22)),('Tuckerellidae',(5,4,0,0,1,0)),('Phytoseiidae',(773,693,1,0,53,26))]:
     r=t4[g]; chk('table4 '+g, tuple(int(r[k]) for k in ('pairs','state_in_book','parent_or_child_state_in_book','book_gives_no_state','new_state_for_a_book_species','species_not_in_book')), v)
@@ -141,10 +152,12 @@ cov = {r['species_id']: r for r in read('data/raw/coverage_by_species.csv') if r
 bc = {s for s, r in cov.items() if int(r['n_coi'])>0}; chk('barcoded', len(bc), 137); chk('india', sum(1 for r in cov.values() if int(r['n_coi_india'])>0), 56); chk('pct', (round(100*137/1221,1), round(100*56/1221,1)), (11.2,4.6))
 def cls(lo, hi): ids=[s for s in sp if lo<=len(st[s])<=hi]; return (sum(1 for s in ids if s in bc), len(ids), round(100*sum(1 for s in ids if s in bc)/len(ids),1))
 chk('bc 1', cls(1,1), (34,793,4.3)); chk('bc 2-3', cls(2,3), (38,269,14.1)); chk('bc 4-9', cls(4,9), (35,91,38.5)); chk('bc 10+', cls(10,99), (27,39,69.2))
-chk('medians', (statistics.median([len(st[s]) for s in bc]), statistics.median([len(st[s]) for s in sp if s not in bc]), statistics.median([len(gen[s]) for s in bc]), statistics.median([len(gen[s]) for s in sp if s not in bc])), (3,1,2,1))
+chk('medians', (statistics.median([len(st[s]) for s in bc]), statistics.median([len(st[s]) for s in sp if s not in bc])), (3,1))
 from scipy import stats
 u1 = stats.mannwhitneyu([len(st[s]) for s in bc], [len(st[s]) for s in sp if s not in bc], alternative='two-sided'); chk('U states', round(u1.statistic), 114936)
-u2 = stats.mannwhitneyu([len(gen[s]) for s in bc], [len(gen[s]) for s in sp if s not in bc], alternative='two-sided'); chk('U hosts', round(u2.statistic), 109435)
+w1=[s for s in sp if st[s]]; u3 = stats.mannwhitneyu([len(st[s]) for s in w1 if s in bc], [len(st[s]) for s in w1 if s not in bc], alternative='two-sided'); chk('U states no zero', (sum(1 for s in w1 if s in bc), len(w1)-sum(1 for s in w1 if s in bc), round(u3.statistic)), (134,1058,111412))
+pwh=[s for s in pw]; a=[len(gen[s]) for s in pwh if s in bc]; b=[len(gen[s]) for s in pwh if s not in bc]; u2 = stats.mannwhitneyu(a, b, alternative='two-sided'); chk('U hosts pf', (len(a), len(b), statistics.median(a), statistics.median(b), round(u2.statistic)), (100,659,3.5,1,50590))
+rho1 = stats.spearmanr([len(st[s]) for s in w1], [1 if s in bc else 0 for s in w1]); chk('rho no zero', round(rho1.statistic,3), 0.374); chk('P2', max(u3.pvalue, rho1.pvalue) < 0.001, True)
 rho = stats.spearmanr([len(st[s]) for s in sp], [1 if s in bc else 0 for s in sp]); chk('rho', round(rho.statistic,3), 0.353); chk('P<0.001', max(u1.pvalue,u2.pvalue,rho.pvalue) < 0.001, True)
 chk('MP+CG+MH union < Tripura', len(by_state['Madhya Pradesh']|by_state['Chhattisgarh']|by_state['Maharashtra']) < len(by_state['Tripura']), True)
 chk('Punjab gap', len(by_state['Karnataka'])-len(by_state['Punjab']) > 150, True)
