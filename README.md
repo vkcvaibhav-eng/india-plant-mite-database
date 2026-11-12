@@ -4,9 +4,9 @@ Literature-derived records of plant-associated mites in India: which species is 
 
 This is the data repository for Paper 2 of the project *Agricultural mites in India*. Paper 1 (COI coverage and name reliability) lives in [india-agri-mite-coi](https://github.com/vkcvaibhav-eng/india-agri-mite-coi); its species checklist is the name backbone used here.
 
-## Status (11 November 2026)
+## Status (12 November 2026)
 
-Ten layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts), and the survey tables in the All India Coordinated Research Project on Agricultural Acarology (AICRP) annual reports for 1996–98, 1992–94, 1990–91, 1989 (the Second Workshop report) and 1988 (the First Workshop report). The book layer is machine-parsed from an OCR transcription. The AICRP layers are typed by hand, the 1996–98 report from the scan's text layer and the 1990–91 report from the page images. The 1988, 1989 and 1992–94 reports were typed from the page images as well. None has been checked page by page against the printed source.
+Eleven layers so far: Gupta & Mondal (2023), *Handbook: Plant Mites of India* (literature up to 2022, 1,249 numbered accounts); the survey tables in the All India Coordinated Research Project / All India Network Project on Agricultural Acarology reports from 1988 to 2024-25 (layers 2-10, typed by hand from the reports; the older reports are available on Krishikosh and the recent progress reports are published); and the regional and family checklists used for the Paper 1 species list (layer 11). Every layer is joined to the Paper 1 checklist, and `data/combined/species_state_all_sources.csv` puts all of them in one species x state table.
 
 ### Layer 1: Gupta & Mondal (2023)
 
@@ -157,7 +157,32 @@ The most recent report in the set. Seven centres give species and host tables: B
 | Distinct mite species names | 122 |
 | Distinct host names | 197 |
 
-Combined AICRP layers: 6,885 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer.
+Combined AICRP layers: 6,885 observation rows, 497 species x state pairs, 293 of them not in the Gupta & Mondal (2023) layer. Counting a record from a state that was later split or shared (Telangana, Uttarakhand, Jharkhand, Chhattisgarh, Chandigarh) as matching the parent state in the book, 286 are not in the book layer.
+
+State names are compared through `scripts/states_norm.py`, which gives one spelling (Odisha for the book's Orissa, Puducherry for Pondicherry) and lists parent and child states. The record files keep the state as the source prints it.
+
+### Layer 11: regional and family checklists
+
+The ten checklist extracts that built the Paper 1 species list, copied from india-agri-mite-coi at the pinned commit, turned into species x state and species x host rows (`scripts/build_regional.py`).
+
+| Source | Coverage | Species x state pairs | Species x host rows | Pairs not in the book layer |
+| --- | --- | ---: | ---: | ---: |
+| Chalil et al. (2024), Persian Journal of Acarology 13(1): 29-75 | Tetranychidae of India | 453 | 921 | 186 |
+| Mitra (2025), International Journal of Tropical Insect Science 45: 1041-1055 | Tenuipalpidae of India | 175 | 657 | 48 |
+| Dyamanagouda et al. (2020), Journal of Entomology and Zoology Studies 8(6): 137-146 | Eriophyoidea of Tamil Nadu | 277 | 270 | 53 |
+| Dyamanagouda et al. (2025) | Eriophyoidea of Karnataka (no hosts) | 49 | 0 | 37 |
+| Som et al. (2025) | Eriophyoidea of South Bengal (no hosts) | 58 | 0 | 36 |
+| Mandal et al. (2026) | Eriophyoidea of West Bengal | 230 | 270 | 100 |
+| Mondal et al. (2023) and Karmakar (2016) | Tarsonemidae of West Bengal (no hosts) | 25 | 0 | 10 |
+| Gupta & Bose (2017), Records of the Zoological Survey of India 117(2): 154-181 | mites on medicinal plants, South Bengal | 73 | 163 | 33 |
+| Mitra et al. (2018), Acarologia 58(4): 850-854 | Tenuipalpidae of southern West Bengal | 17 | 39 | 14 |
+| Papers dated 2022-2026 | new species and records after the book | 64 | 37 | 58 |
+
+Of the 186 Chalil et al. pairs missing from the book layer, 5 are states the book prints but the parser missed; in 159 the state does not appear in the book's distribution text at all, and 22 are species the book does not list. Host lists are taken as each checklist prints them; the checklists are of the Indian fauna but do not always say whether every host was recorded in India. Of 2,357 host rows, 2,269 resolve to a plant species or genus; host text the splitter could not read (authorities, coordinates, collector names) is in `data/review/regional_hosts_unparsed.csv`.
+
+### All layers combined
+
+`data/combined/species_state_all_sources.csv`: 2,458 species x state pairs for 1,187 of the 1,221 checklist species. 1,451 pairs rest on one layer only, 845 on two and 162 on three or more. 732 pairs are not in the book layer (721 counting parent and child states as the same area): Tetranychidae 264, Eriophyidae 227, Tenuipalpidae 98, Phytoseiidae 84, Tarsonemidae 34, Diptilomiopidae 24, Tuckerellidae 1. Counts by layer are in `data/combined/summary.csv`.
 
 
 
@@ -188,6 +213,7 @@ Repair of the 2020-21 Kalyani tables: abundance counts, diversity-index rows and
 - `data/records/species_state.csv`: one row per species and Indian state.
 - `data/records/species_host.csv`: one row per species and host. `host_as_printed` keeps the source text; `host_rank` is `species`, `genus`, `common_name`, `species_genus_expanded` or `undetermined_plant`; `in_india` is 0 for hosts the book lists as recorded outside India.
 - `data/records/summary.csv`: the counts above.
+- `data/regional/`: layer 11 records. `data/combined/`: all layers in one species x state table.
 - `data/review/`: text the parser could not place. Nothing in these files is in the records.
 - `data/raw/`: source files copied from the checklist repository at the commit pinned in `config/sources.json`.
 
@@ -198,7 +224,7 @@ python scripts/fetch_sources.py
 python scripts/build_records.py
 ```
 
-Python standard library only. Add `python scripts/build_aicrp.py` after `build_records.py` to build the AICRP layer.
+Python standard library only. Then run `python scripts/build_aicrp.py` (AICRP layers) and `python scripts/build_regional.py` (layer 11 and the combined table), in that order.
 
 ## Limits
 

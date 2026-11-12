@@ -1,0 +1,2459 @@
+species_id,valid_name,family,state,layers,n_layers,in_gm2023,in_gm2023_same_or_parent_state,in_aicrp,aicrp_periods
+ERI0001,Acarhynchus baboovagrans,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0002,Amrinella dendrocalami,Diptilomiopidae,Meghalaya,gm2023,1,1,1,0,
+ERI0003,Asetadiptacus carmonae,Diptilomiopidae,Karnataka,gm2023,1,1,1,0,
+ERI0003,Asetadiptacus carmonae,Diptilomiopidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0004,Catarhinus munnarensis,Diptilomiopidae,Kerala,gm2023,1,1,1,0,
+ERI0004,Catarhinus munnarensis,Diptilomiopidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0005,Catarhinus raii,Diptilomiopidae,Karnataka,gm2023,1,1,1,0,
+ERI0005,Catarhinus raii,Diptilomiopidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0006,Cathetacarus spontaneae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0006,Cathetacarus spontaneae,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0007,Chakrabartiella ficusis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0008,Cheiracus sulcatus,Diptilomiopidae,Karnataka,karn2025,1,0,0,0,
+ERI0008,Cheiracus sulcatus,Diptilomiopidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988;2024-25
+ERI0008,Cheiracus sulcatus,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0009,Chiangmaiola longifolii,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0010,Diptacus cephalanthi,Diptilomiopidae,Meghalaya,gm2023,1,1,1,0,
+ERI0011,Diptacus duabangiphagus,Diptilomiopidae,Meghalaya,gm2023,1,1,1,0,
+ERI0012,Diptilomiopus alagarmaliensis,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0013,Diptilomiopus alangii,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0014,Diptilomiopus ambromae,Diptilomiopidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0015,Diptilomiopus anthocephali,Diptilomiopidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0016,Diptilomiopus asperis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0017,Diptilomiopus assamica,Diptilomiopidae,Assam,gm2023,1,1,1,0,
+ERI0017,Diptilomiopus assamica,Diptilomiopidae,Karnataka,karn2025,1,0,0,0,
+ERI0017,Diptilomiopus assamica,Diptilomiopidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0018,Diptilomiopus augustifoliae,Diptilomiopidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0019,Diptilomiopus bengalensis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0020,Diptilomiopus camerae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0020,Diptilomiopus camerae,Diptilomiopidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0021,Diptilomiopus cocculae,Diptilomiopidae,Karnataka,karn2025,1,0,0,0,
+ERI0021,Diptilomiopus cocculae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0022,Diptilomiopus cordifoliae,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0023,Diptilomiopus cuminis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0024,Diptilomiopus ficicolus,Diptilomiopidae,West Bengal,add2026,1,0,0,0,
+ERI0025,Diptilomiopus ficivorus,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0026,Diptilomiopus ficus,Diptilomiopidae,West Bengal,som2025,1,0,0,0,
+ERI0027,Diptilomiopus ficusis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0028,Diptilomiopus guajavae,Diptilomiopidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0028,Diptilomiopus guajavae,Diptilomiopidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0029,Diptilomiopus holoptelus,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0030,Diptilomiopus indicus,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0031,Diptilomiopus indogangetic,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0032,Diptilomiopus integrifoliae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0033,Diptilomiopus jevremovici,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0034,Diptilomiopus knorri,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0035,Diptilomiopus lagerstroemae,Diptilomiopidae,West Bengal,gm2023,1,1,1,0,
+ERI0036,Diptilomiopus leeasis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0037,Diptilomiopus maduraiensis,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0037,Diptilomiopus maduraiensis,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0038,Diptilomiopus mohanasundarami,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0039,Diptilomiopus panithus,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0040,Diptilomiopus streblusis,Diptilomiopidae,West Bengal,add2026,1,0,0,0,
+ERI0041,Diptilomiopus subhimalayansis,Diptilomiopidae,West Bengal,add2026,1,0,0,0,
+ERI0042,Diptilomiopus thangaveli,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0043,Diptilomiopus thunbergiae,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0044,Diptilomiopus trewier,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0045,Diptilomiopus ulmivagrans,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0046,Diptilorhynacus sinusetus,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0047,Hyboderus globulus,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0048,Hyborhinus kallarensis,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0049,Levonga attakattiensis,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0050,Levonga caseariasis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0051,Levonga combretis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0052,Levonga litseae,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0053,Neodialox palmyrae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0054,Neodiptilomiopus vishakantai,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0055,Neorhynacus bidhanae,Diptilomiopidae,Odisha,gm2023,1,1,1,0,
+ERI0056,Neorhynacus lakoochii,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0057,Neorhynacus rajendrani,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0058,Prodiptilomiopus auriculatae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0058,Prodiptilomiopus auriculatae,Diptilomiopidae,West Bengal,mandal2026,1,0,0,0,
+ERI0059,Rhyncaphytoptus ficifoliae,Diptilomiopidae,Delhi,gm2023,1,1,1,0,
+ERI0059,Rhyncaphytoptus ficifoliae,Diptilomiopidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0060,Rhyncaphytoptus shoreacola,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0061,Sakthirhynchus canariae,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0062,Stenarhynchus aristidus,Diptilomiopidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0063,Unilox lataguriensis,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0064,Vimola artocarpae,Diptilomiopidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988
+ERI0064,Vimola artocarpae,Diptilomiopidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0065,Vimola guajavae,Diptilomiopidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0066,Aaphyllisa parindiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0067,Abacarus arjunalis,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0068,Abacarus asiaticae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0069,Abacarus delhiensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0070,Abacarus digitariae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0071,Abacarus foliavagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0071,Abacarus foliavagrans,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0072,Abacarus fuzhoubambusae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0073,Abacarus goaensis,Eriophyidae,Maharashtra,gm2023,1,1,1,0,
+ERI0073,Abacarus goaensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0073,Abacarus goaensis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0074,Abacarus gossypii,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0075,Abacarus horseshoex,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0076,Abacarus indogangeticus,Eriophyidae,West Bengal,add2026,1,0,0,0,
+ERI0077,Abacarus mutica,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0079,Abacarus sacchari,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0079,Abacarus sacchari,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0079,Abacarus sacchari,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0080,Abacarus sundarbanensis,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0080,Abacarus sundarbanensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0081,Acalitus delhiensis,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0082,Acalitus epiphytivagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0083,Acalitus gossypii,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0083,Acalitus gossypii,Eriophyidae,Tamil Nadu,aicrp,1,0,0,1,1996-98
+ERI0084,Acalitus hibisci,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0085,Acalitus meliosmae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0086,Acalitus odoratus,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0087,Acalitus reticulatae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0088,Acalitus ruelliae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0088,Acalitus ruelliae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0088,Acalitus ruelliae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0089,Acalitus schefflerae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0091,Acaphylla stienwedeni,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0092,Acaphylla syzygii,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0092,Acaphylla syzygii,Eriophyidae,Rajasthan,gm2023,1,1,1,0,
+ERI0092,Acaphylla syzygii,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+ERI0092,Acaphylla syzygii,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0093,Acaphylla theae,Eriophyidae,West Bengal,aicrp,1,0,0,1,1992-94
+ERI0094,Acaphyllisa araucariae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0095,Acaphyllisa pipera,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0096,Acaricalus artocarpae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0097,Acaricalus darjeelingensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0098,Acaricalus indicus,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0099,Aceria abutilonae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0100,Aceria acaicae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0101,Aceria acalyphae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0102,Aceria acanthae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0103,Aceria achyranthi,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0104,Aceria aervae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0105,Aceria agallochae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0106,Aceria ailanthae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0107,Aceria alangiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0107,Aceria alangiae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0108,Aceria allophylae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0109,Aceria amrini,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0110,Aceria anisomelae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0111,Aceria anonae,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0112,Aceria antidotalae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0113,Aceria apodytae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0114,Aceria ariyankavensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0115,Aceria articulate,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0116,Aceria asperae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0117,Aceria asystasiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0118,Aceria attakattiensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0119,Aceria balanites,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0120,Aceria bambusae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0120,Aceria bambusae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0120,Aceria bambusae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0121,Aceria banyani,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0121,Aceria banyani,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0122,Aceria barleriae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0122,Aceria barleriae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0123,Aceria bassiae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0124,Aceria berberae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0125,Aceria boisi,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0126,Aceria boraginae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0127,Aceria borreriae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0128,Aceria bueitneriae,Eriophyidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+ERI0129,Aceria cajani,Eriophyidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+ERI0129,Aceria cajani,Eriophyidae,Bihar,aicrp,1,0,0,1,1993;1996-97
+ERI0129,Aceria cajani,Eriophyidae,Gujarat,aicrp,1,0,0,1,1988-89;1989-90;2020-21
+ERI0129,Aceria cajani,Eriophyidae,Karnataka,aicrp;gm2023;karn2025,3,1,1,1,1988;1989-90;1993
+ERI0129,Aceria cajani,Eriophyidae,Tamil Nadu,aicrp;tn2020,2,0,0,1,1990;1992-94;1996-98;2024-25
+ERI0129,Aceria cajani,Eriophyidae,West Bengal,gb2017,1,0,0,0,
+ERI0130,Aceria cernuus,Eriophyidae,Punjab,aicrp,1,0,0,1,1992-94;1996-97;2020-21;2021-22
+ERI0130,Aceria cernuus,Eriophyidae,Rajasthan,aicrp,1,0,0,1,2020-21;2021-22
+ERI0130,Aceria cernuus,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0130,Aceria cernuus,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1992-94;1996-97;1997-98
+ERI0130,Aceria cernuus,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0131,Aceria channabasavannai,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0132,Aceria chrysopsis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0133,Aceria clerodendronis,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0133,Aceria clerodendronis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0134,Aceria clerodendrum,Eriophyidae,West Bengal,som2025,1,0,0,0,
+ERI0135,Aceria commelinae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0136,Aceria commiphorae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0137,Aceria corchorae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0138,Aceria cordiae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0138,Aceria cordiae,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1992-94;1996-97;1997-98
+ERI0138,Aceria cordiae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0139,Aceria crotalariae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0139,Aceria crotalariae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0140,Aceria cymbopogonis,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988
+ERI0141,Aceria dactylonae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0141,Aceria dactylonae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0142,Aceria dalbergiae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0142,Aceria dalbergiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0142,Aceria dalbergiae,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+ERI0143,Aceria dasi,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0144,Aceria debregeasiae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0145,Aceria delhiensis,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0145,Aceria delhiensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0146,Aceria dhanikhariensis,Eriophyidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+ERI0146,Aceria dhanikhariensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0147,Aceria dichotomae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0147,Aceria dichotomae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0148,Aceria dichrostachyia,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0149,Aceria donacis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0150,Aceria eragrastae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0151,Aceria erythrensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0152,Aceria erythrinae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0152,Aceria erythrinae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0153,Aceria eugeniae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0153,Aceria eugeniae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0154,Aceria feroniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0155,Aceria ficarius,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0156,Aceria ficivagrans,Eriophyidae,West Bengal,som2025,1,0,0,0,
+ERI0157,Aceria ficus,Eriophyidae,Tamil Nadu,aicrp,1,0,0,1,1996-98
+ERI0157,Aceria ficus,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+ERI0157,Aceria ficus,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0158,Aceria fissistigmae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0159,Aceria gastrotrichus,Eriophyidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+ERI0159,Aceria gastrotrichus,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0159,Aceria gastrotrichus,Eriophyidae,Tamil Nadu,aicrp;tn2020,2,0,0,1,1988
+ERI0160,Aceria granati,Eriophyidae,Gujarat,aicrp,1,0,0,1,2020-21
+ERI0160,Aceria granati,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0160,Aceria granati,Eriophyidae,Punjab,aicrp,1,0,0,1,2020-21;2021-22
+ERI0160,Aceria granati,Eriophyidae,Rajasthan,aicrp,1,0,0,1,2021-22
+ERI0160,Aceria granati,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1996-98
+ERI0160,Aceria granati,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+ERI0160,Aceria granati,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0161,Aceria guerreronis,Eriophyidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+ERI0161,Aceria guerreronis,Eriophyidae,Gujarat,aicrp,1,0,0,1,2020-21
+ERI0161,Aceria guerreronis,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0161,Aceria guerreronis,Eriophyidae,Kerala,aicrp,1,0,0,1,2024-25
+ERI0161,Aceria guerreronis,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,2024-25
+ERI0161,Aceria guerreronis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0162,Aceria hirsutivagrans,Eriophyidae,Himachal Pradesh,gm2023,1,1,1,0,
+ERI0163,Aceria holopteleae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0163,Aceria holopteleae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0163,Aceria holopteleae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0164,Aceria infectoriae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0164,Aceria infectoriae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0164,Aceria infectoriae,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0165,Aceria ipomoeae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0166,Aceria jasmini,Eriophyidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+ERI0166,Aceria jasmini,Eriophyidae,Gujarat,aicrp,1,0,0,1,2020-21
+ERI0166,Aceria jasmini,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0166,Aceria jasmini,Eriophyidae,Kerala,aicrp,1,0,0,1,2024-25
+ERI0166,Aceria jasmini,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988;1992-94;1996-98;2024-25
+ERI0167,Aceria jogimatiensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0168,Aceria justiciae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0168,Aceria justiciae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0168,Aceria justiciae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0169,Aceria kenyae,Eriophyidae,Gujarat,aicrp,1,0,0,1,1988-89
+ERI0169,Aceria kenyae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0169,Aceria kenyae,Eriophyidae,Punjab,aicrp,1,0,0,1,2020-21;2021-22
+ERI0169,Aceria kenyae,Eriophyidae,Tamil Nadu,aicrp;tn2020,2,0,0,1,2024-25
+ERI0169,Aceria kenyae,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1992-94;1996-97;1997-98
+ERI0169,Aceria kenyae,Eriophyidae,West Bengal,aicrp;gm2023,2,1,1,1,1992-94
+ERI0170,Aceria kigeliae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0171,Aceria lalbaghi,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0172,Aceria leucophloeae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0173,Aceria leucopyrae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0174,Aceria linnae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0175,Aceria litchii,Eriophyidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+ERI0175,Aceria litchii,Eriophyidae,Bihar,aicrp,1,0,0,1,1988;1989-90;1990;1990-91;1993;1996-97
+ERI0175,Aceria litchii,Eriophyidae,Himachal Pradesh,aicrp,1,0,0,1,1992-94
+ERI0175,Aceria litchii,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0175,Aceria litchii,Eriophyidae,Kerala,aicrp,1,0,0,1,2024-25
+ERI0175,Aceria litchii,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0175,Aceria litchii,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1992-94;1996-97;1997-98
+ERI0175,Aceria litchii,Eriophyidae,West Bengal,aicrp;mandal2026;som2025,3,0,0,1,1988-89;1990;1990-91;1992-94
+ERI0176,Aceria litseae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0176,Aceria litseae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0177,Aceria longisetae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0178,Aceria lycopersici,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0178,Aceria lycopersici,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+ERI0179,Aceria madhucae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0180,Aceria madukkaraiensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0181,Aceria malloticola,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0182,Aceria mangiferae,Eriophyidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+ERI0182,Aceria mangiferae,Eriophyidae,Bihar,aicrp,1,0,0,1,1993;1996-97
+ERI0182,Aceria mangiferae,Eriophyidae,Gujarat,aicrp,1,0,0,1,2020-21
+ERI0182,Aceria mangiferae,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988;1996-98
+ERI0182,Aceria mangiferae,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1992-94;1996-97;1997-98
+ERI0182,Aceria mangiferae,Eriophyidae,West Bengal,aicrp;mandal2026;som2025,3,0,0,1,1988-89;1990;1990-91;1992-94
+ERI0183,Aceria marudamalaiensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0184,Aceria mauritianae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0184,Aceria mauritianae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0185,Aceria medicaginis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0186,Aceria mimusopae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0187,Aceria mitragynae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0187,Aceria mitragynae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0188,Aceria mori,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0188,Aceria mori,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988;1990;1996-98
+ERI0188,Aceria mori,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1992-94;1996-97;1997-98
+ERI0188,Aceria mori,Eriophyidae,West Bengal,gb2017;mandal2026,2,0,0,0,
+ERI0189,Aceria nandiensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0191,Aceria nerii,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0191,Aceria nerii,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1996-98
+ERI0191,Aceria nerii,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+ERI0191,Aceria nerii,Eriophyidae,West Bengal,gb2017;mandal2026;som2025,3,0,0,0,
+ERI0192,Aceria noxia,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0193,Aceria obliquae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0194,Aceria phyllantae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0195,Aceria poae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0196,Aceria polygalae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0197,Aceria pongamiae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0197,Aceria pongamiae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0197,Aceria pongamiae,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,2024-25
+ERI0197,Aceria pongamiae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0198,Aceria pustulatus,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0199,Aceria puttarudriahi,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0199,Aceria puttarudriahi,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0200,Aceria randi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0201,Aceria saccharini,Eriophyidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+ERI0201,Aceria saccharini,Eriophyidae,Karnataka,aicrp;gm2023,2,1,1,1,1990-91
+ERI0201,Aceria saccharini,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988;1992-94;1996-98
+ERI0201,Aceria saccharini,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+ERI0202,Aceria sapindi,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0202,Aceria sapindi,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0203,Aceria securinegae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0204,Aceria serndanurensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0205,Aceria setaceus,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0206,Aceria sheldoni,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0207,Aceria siruvaniensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0208,Aceria sorghi,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0208,Aceria sorghi,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0209,Aceria subramani,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0210,Aceria terminaliphagus,Eriophyidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+ERI0211,Aceria trianthemae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0212,Aceria trichocnemum,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0213,Aceria tripuraensis,Eriophyidae,Tripura,gm2023,1,1,1,0,
+ERI0214,Aceria tulipae,Eriophyidae,Gujarat,aicrp,1,0,0,1,2020-21
+ERI0214,Aceria tulipae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0214,Aceria tulipae,Eriophyidae,West Bengal,aicrp;mandal2026,2,0,0,1,2020-21
+ERI0215,Aceria vadulurensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0216,Aceria vitifoliae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0217,Aceria vriddhagiriensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0218,Aceria walayri,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0220,Aceria waltheriae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0220,Aceria waltheriae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0221,Aceria wandoorensis,Eriophyidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+ERI0222,Aceria xeromphisi,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0223,Aceria zeala,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0224,Acerimina tiliaceae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0225,Aculops abutiloni,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0226,Aculops anacardiae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0226,Aculops anacardiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0226,Aculops anacardiae,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0227,Aculops boerhaeviae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0227,Aculops boerhaeviae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0228,Aculops dilleniae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0229,Aculops eugeniae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0230,Aculops extensae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0231,Aculops jalpaiguriensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0232,Aculops lycopersici,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0232,Aculops lycopersici,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88
+ERI0233,Aculops morindae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0234,Aculops pretoriensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0235,Aculops privae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0236,Aculops spondiasis,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0237,Aculops webpenetrans,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0238,Aculops xanthocarpi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0239,Aculus acanthae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0239,Aculus acanthae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0240,Aculus acutangulae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0241,Aculus asperus,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0241,Aculus asperus,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0242,Aculus atturensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0243,Aculus bangalorensis,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0243,Aculus bangalorensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0244,Aculus cassiae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0245,Aculus colei,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0246,Aculus excoecarius,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0247,Aculus ficivagrans,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0247,Aculus ficivagrans,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0247,Aculus ficivagrans,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0248,Aculus flacourtiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0249,Aculus ichnocarpi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0250,Aculus indicus,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0251,Aculus kolengii,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0252,Aculus kumara,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0252,Aculus kumara,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0253,Aculus leguminae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0254,Aculus leptadeniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0255,Aculus mackenziei,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0256,Aculus menoni,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0256,Aculus menoni,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0256,Aculus menoni,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0257,Aculus mohanis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0258,Aculus montanae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0258,Aculus montanae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0259,Aculus moringeae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0259,Aculus moringeae,Eriophyidae,Tamil Nadu,aicrp,1,0,0,1,1992-94
+ERI0260,Aculus niphlocladae,Eriophyidae,Uttarakhand,gm2023,1,1,1,0,
+ERI0261,Aculus ocimumae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0262,Aculus pittosporae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0262,Aculus pittosporae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0263,Aculus pseudostriae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0263,Aculus pseudostriae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0264,Aculus pterygospermae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0264,Aculus pterygospermae,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1988
+ERI0264,Aculus pterygospermae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0265,Aculus sarococcae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0266,Aculus shoreum,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0267,Aculus yelagiriensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0268,Anothopoda fici,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0268,Anothopoda fici,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0269,Anthocoptes adhatodae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0269,Anthocoptes adhatodae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0269,Anthocoptes adhatodae,Eriophyidae,Uttarakhand,gm2023,1,1,1,0,
+ERI0269,Anthocoptes adhatodae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0270,Anthocoptes ayyanari,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0271,Anthocoptes bamboovagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0272,Anthocoptes glycosmis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0273,Anthocoptes pavoniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0273,Anthocoptes pavoniae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0274,Anthocoptes rutacevagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0274,Anthocoptes rutacevagrans,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0275,Anthocoptes tectonae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0275,Anthocoptes tectonae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0276,Anthocoptes vitexae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0277,Anthocoptes walayarensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0278,Anthopoda deviarensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0279,Anthopoda micheliae,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0280,Anthopoda wightianae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0281,Ashieldophyes pennadamensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0282,Baileyna indica,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0283,Bidhanicarus tejpati,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0284,Brachendus grewiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0285,Brevishieldophyes glochidionae,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0285,Brevishieldophyes glochidionae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0286,Brionesa semecarpae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0287,Calacarus araliae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0288,Calacarus brionesae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0289,Calacarus capsica,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0289,Calacarus capsica,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0290,Calacarus carinatus,Eriophyidae,Assam,gm2023,1,1,1,0,
+ERI0290,Calacarus carinatus,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0290,Calacarus carinatus,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0291,Calacarus channabasavannae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0291,Calacarus channabasavannae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0292,Calacarus citrifolii,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0292,Calacarus citrifolii,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1990-91
+ERI0293,Calacarus duranti,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0294,Calacarus jasmini,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0294,Calacarus jasmini,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0295,Calacarus kalyaniensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0296,Calacarus keiferi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0297,Calacarus malvae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0298,Calacarus malvavagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0299,Calacarus microrostrus,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0300,Calacarus millingtoniae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0300,Calacarus millingtoniae,Eriophyidae,Tamil Nadu,aicrp;gm2023,2,1,1,1,1988
+ERI0301,Calacarus palmae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0302,Calacarus polyalthiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0303,Calacarus quisqualis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0303,Calacarus quisqualis,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0304,Calacarus swietensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0305,Calacarus vasicae,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0306,Calepitrimerus adinus,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0307,Calepitrimerus antedesmae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0308,Calepitrimerus asperrimae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0309,Calepitrimerus azadirachtae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0309,Calepitrimerus azadirachtae,Eriophyidae,Gujarat,aicrp,1,0,0,1,1988-89
+ERI0309,Calepitrimerus azadirachtae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0309,Calepitrimerus azadirachtae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0310,Calepitrimerus cordiae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0311,Calepitrimerus hispidus,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0312,Calepitrimerus leucadis,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0312,Calepitrimerus leucadis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0313,Calepitrimerus massanjoris,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0314,Calepitrimerus mysorensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0315,Calepitrimerus sagarensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0316,Calepitrimerus tabernaemontanis,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0317,Calepitrimerus terminalis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0318,Calepitrimerus woodfordis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0319,Caliphytoptus buchnaniae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0320,Caliphytoptus ulmifoliae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0321,Circaces chakrabartii,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0322,Circaces icacinae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0323,Colomerus alangii,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0324,Colomerus neopiperis,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0325,Colomerus terminaliae,Eriophyidae,West Bengal,add2026,1,0,0,0,
+ERI0326,Colomerus trichodesmae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0327,Colomerus vitis,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+ERI0327,Colomerus vitis,Eriophyidae,Uttarakhand,aicrp,1,0,0,1,1987-88
+ERI0328,Colomerus woodfordis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0329,Colopodacus bengalensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0329,Colopodacus bengalensis,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0330,Colopodacus cinnamomae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0331,Colopodacus combretus,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0332,Colopodacus eugeniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0333,Colopodacus glochidionis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0334,Colopodacus gynalaxtae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0335,Colopodacus kallari,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0336,Colopodacus roseusa,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0337,Colopodacus walayarensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0338,Cosella cissi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0339,Cosella fleschneri,Eriophyidae,Assam,gm2023,1,1,1,0,
+ERI0340,Cosella ichnocarpasia,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0341,Cosella meghalayensis,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0342,Cosetacus citrifolis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0342,Cosetacus citrifolis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0343,Cosetacus eupatori,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0344,Cosetacus prosteti,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0345,Cosetacus sharadi,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0346,Cymeda indica,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0347,Cymoptus bengalensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0348,Delillophyis guajavae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0349,Dichopelmus puncti,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0350,Disella cuminis,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0350,Disella cuminis,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0351,Disella granulacoxae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0352,Disella jasminae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0353,Disella oblongifoliae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0354,Disella tectona,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0354,Disella tectona,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0355,Disella vagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0356,Ditrymacus integrifoliae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0356,Ditrymacus integrifoliae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0357,Ditrymacus keiferi,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0358,Ectomerus chebulae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0359,Epicecidophyes clerodendris,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0360,Epicecidophyes indica,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0361,Epiphytimerus palampurensis,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0362,Epitrimerus azimae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0363,Epitrimerus buchneriae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0364,Epitrimerus chandramohani,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0364,Epitrimerus chandramohani,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0365,Epitrimerus morindae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0365,Epitrimerus morindae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0366,Epitrimerus parasakthi,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0366,Epitrimerus parasakthi,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0367,Eriophyes acaciae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0368,Eriophyes alangii,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0369,Eriophyes antiquorum,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0370,Eriophyes breyniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0371,Eriophyes canthii,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0371,Eriophyes canthii,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0372,Eriophyes carissae,Eriophyidae,Kerala,gm2023,1,1,1,0,
+ERI0372,Eriophyes carissae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0373,Eriophyes casuarinae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0373,Eriophyes casuarinae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0374,Eriophyes cheriani,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0375,Eriophyes coimbatoriensis,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0376,Eriophyes cyperi,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0376,Eriophyes cyperi,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0377,Eriophyes eletariae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0378,Eriophyes ensifoliae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0379,Eriophyes erineus,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0379,Eriophyes erineus,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+ERI0379,Eriophyes erineus,Eriophyidae,Uttarakhand,aicrp,1,0,0,1,1987-88
+ERI0380,Eriophyes ficivorus,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0380,Eriophyes ficivorus,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0381,Eriophyes glycomisae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0382,Eriophyes hexandrae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0383,Eriophyes karnatakaensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0383,Eriophyes karnatakaensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0385,Eriophyes lantanae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0385,Eriophyes lantanae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0385,Eriophyes lantanae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0386,Eriophyes laurae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0387,Eriophyes manilkarae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0388,Eriophyes morindae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0388,Eriophyes morindae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0389,Eriophyes plectroniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0390,Eriophyes prosopidis,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0392,Eriophyes rosae,Eriophyidae,Tamil Nadu,aicrp;gm2023;tn2020,3,1,1,1,1996-98
+ERI0393,Eriophyes rotundae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0394,Eriophyes rubifolii,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0394,Eriophyes rubifolii,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0395,Eriophyes subbaroi,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0396,Eriophyes terminaliae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0396,Eriophyes terminaliae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0396,Eriophyes terminaliae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0398,Floracarus biharensis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0399,Floracarus eugenifoliae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0401,Floracarus pollachiensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0402,Floracarus salvifoliae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0403,Floracarus siruvaniensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0404,Floracarus sivakumarii,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0405,Fujianacarus bidhani,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0406,Gammaphytoptus bengalensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0407,Gammaphytoptus gangarampurensis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0408,Gammaphytoptus litseasis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0409,Hemiscolocenus rares,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0410,Hornophyes andamanensis,Eriophyidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+ERI0411,Indiaphyes ocimis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0412,Indonotalox sudarsani,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0413,Indosetacus cleistanthusi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0414,Indosetacus rhinacanthi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0415,Indotegolophus darjeelingensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0416,Isoannulus bengalensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0417,Jutarus benjaminae,Eriophyidae,Karnataka,add2026;karn2025,2,0,0,0,
+ERI0418,Keiferana neolitseae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0419,Keiferophyes avicenniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0420,Knorella gigantochloae,Eriophyidae,Karnataka,add2026;karn2025,2,0,0,0,
+ERI0421,Laterotuberculus sterculia,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0422,Mangalaus bkapus,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0423,Mesalox odayarae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0424,Mesoshieldophyes varecae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0425,Metaculus foveolatae,Eriophyidae,Kerala,gm2023,1,1,1,0,
+ERI0426,Metaculus londaensis,Eriophyidae,Maharashtra,gm2023,1,1,1,0,
+ERI0426,Metaculus londaensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0427,Metaculus mangiferae,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0427,Metaculus mangiferae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0428,Metaculus sapindiphagus,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0429,Monotrimacus quadrangulari,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0430,Neoacaphyllisa alangia,Eriophyidae,Assam,gm2023,1,1,1,0,
+ERI0431,Neocalacarus mangiferae,Eriophyidae,Delhi,gm2023,1,1,1,0,
+ERI0431,Neocalacarus mangiferae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0431,Neocalacarus mangiferae,Eriophyidae,Tamil Nadu,aicrp;tn2020,2,0,0,1,1988
+ERI0432,Neocecidophyes mallotivagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0432,Neocecidophyes mallotivagrans,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0433,Neocolopodacus mitragynae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0434,Neocolopodacus muruganii,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0435,Neocosella ichnocarpae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0435,Neocosella ichnocarpae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0435,Neocosella ichnocarpae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0436,Neocupacarus flabelliferis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0437,Neodactylus mohanasundarami,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0438,Neodichopelmus cordiae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0439,Neodicrothrix bengalensis,Eriophyidae,West Bengal,add2026,1,0,0,0,
+ERI0440,Neodicrothrix celloshieldae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0441,Neodicrothrix piperae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0442,Neodicrothrix rutacevagrans,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0443,Neodicrothrix tiliacorae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0444,Neomesalox kallarensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0445,Neometaculus bauhiniae,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0445,Neometaculus bauhiniae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0445,Neometaculus bauhiniae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0446,Neooxycenus dilleniae,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0447,Neophantacrus mallotus,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0447,Neophantacrus mallotus,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0448,Neophytoptus ocimae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0449,Neotegonotus fastigans,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0451,Neotegonotus indicus,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0452,Neotegophyes diami,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0453,Nonthaburinus litchi,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0454,Notacaphylla chinensiae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0454,Notacaphylla chinensiae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0455,Nothopoda kallarensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0456,Notostrix attenuata,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0457,Notostrix flabelliferae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0458,Obesophyes linocierae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0459,Oxycenus diospyrosis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0460,Oxycenus diospyrus,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0461,Paracaphylla streblae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0461,Paracaphylla streblae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0462,Paraciota tetracanthae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0463,Paraphytoptus alangiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0464,Paraphytoptus champacae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0464,Paraphytoptus champacae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0464,Paraphytoptus champacae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0465,Paraphytoptus chrysanthemi,Eriophyidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91
+ERI0466,Paraphytoptus cristatae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0467,Paraphytoptus crotalariphagous,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0468,Paraphytoptus elaeocarpae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0469,Paraphytoptus erinevagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0470,Paraphytoptus jujubae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0470,Paraphytoptus jujubae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0471,Paraphytoptus serenus,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0472,Paratetra albizziae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0473,Paratetra elephantae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0474,Paratetra integrifoliavagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0475,Paratetra murrayacola,Eriophyidae,West Bengal,add2026,1,0,0,0,
+ERI0476,Paratetra murrayae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0476,Paratetra murrayae,Eriophyidae,Uttarakhand,gm2023,1,1,1,0,
+ERI0476,Paratetra murrayae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0477,Phaicus bambusae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0477,Phaicus bambusae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0478,Phyllocoptacus barringtoniae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0479,Phyllocoptes acaciae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0479,Phyllocoptes acaciae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0480,Phyllocoptes aliyamagarensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0480,Phyllocoptes aliyamagarensis,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0480,Phyllocoptes aliyamagarensis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0481,Phyllocoptes anisomelesis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0482,Phyllocoptes asperaevagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0483,Phyllocoptes ficivagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0484,Phyllocoptes immigrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0485,Phyllocoptes indicae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0486,Phyllocoptes salmaliae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0487,Phyllocoptes simplicifoliae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0488,Phyllocoptes tomentosae,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0488,Phyllocoptes tomentosae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0489,Phyllocoptruta citricola,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0490,Phyllocoptruta daturae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0491,Phyllocoptruta himalayana,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0492,Phyllocoptruta malligai,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0492,Phyllocoptruta malligai,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0493,Phyllocoptruta musae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0494,Phyllocoptruta neemae,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0494,Phyllocoptruta neemae,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0495,Phyllocoptruta oleivora,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0495,Phyllocoptruta oleivora,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0495,Phyllocoptruta oleivora,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0496,Porcupinotus acaiae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0496,Porcupinotus acaiae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0497,Porcupinotus humpae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0497,Porcupinotus humpae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0498,Proartacris pinnivagrans,Eriophyidae,Himachal Pradesh,gm2023,1,1,1,0,
+ERI0499,Procalacarus aliyarensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0500,Procoxinullus annanglica,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0501,Proneotegonotus antiquorae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0502,Propeaciota genusetosis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0503,Prophyllocoptes riveae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0504,Protumescoptes antidesmae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0505,Pseudocalepitrimerus dharmapuriensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0506,Ramaculus karnatakaensis,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0507,Rhombacus eucalypti,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0508,Rhombacus morrisii,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0509,Scolocenus spiniferus,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0510,Shevtchenkella birbhumensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0511,Shevtchenkella brideliae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0512,Shevtchenkella cardiavagrans,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0513,Shevtchenkella coimbatorensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0514,Shevtchenkella holoptele,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0515,Shevtchenkella parviflorae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0515,Shevtchenkella parviflorae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0516,Spinacus pagonis,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0516,Spinacus pagonis,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0517,Spinaephyes alnus,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0518,Subductophyes digitariae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0519,Tegolophus betonicae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0520,Tegolophus birbhumensis,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0520,Tegolophus birbhumensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0521,Tegolophus calotropi,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0521,Tegolophus calotropi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0522,Tegolophus cordis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0523,Tegolophus dhodabettaensis,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0524,Tegolophus ficusi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0525,Tegolophus gelonis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0526,Tegolophus gmelinus,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0527,Tegolophus indica,Eriophyidae,Karnataka,karn2025,1,0,0,0,
+ERI0527,Tegolophus indica,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0528,Tegolophus kalashae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0529,Tegolophus kalyanii,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0530,Tegolophus mohanasundarami,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0530,Tegolophus mohanasundarami,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0531,Tegolophus monospermasis,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0532,Tegolophus nerii,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0533,Tegolophus parviflorii,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0534,Tegolophus securinegavagrans,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0535,Tegolophus spondiallus,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0536,Tegolophus vitexis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0537,Tegonotus bassius,Eriophyidae,Bihar,gm2023,1,1,1,0,
+ERI0538,Tegonotus bengalensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0540,Tegonotus convolvuli,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0540,Tegonotus convolvuli,Eriophyidae,Tamil Nadu,aicrp;tn2020,2,0,0,1,1988
+ERI0541,Tegonotus dubrakoni,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0542,Tegonotus ferrugeniae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0543,Tegonotus golaghatiensis,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0544,Tegonotus jambolensis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0545,Tegonotus litseae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0546,Tegonotus litseasis,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0547,Tegonotus mangiferae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0547,Tegonotus mangiferae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0547,Tegonotus mangiferae,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0548,Tegonotus schleicherae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0549,Tergamplum callicarpi,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0550,Tetra aegleis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0551,Tetra anisomelae,Eriophyidae,Himachal Pradesh,gm2023,1,1,1,0,
+ERI0551,Tetra anisomelae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0551,Tetra anisomelae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0552,Tetra ardesiae,Eriophyidae,Kerala,gm2023,1,1,1,0,
+ERI0553,Tetra asperae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0553,Tetra asperae,Eriophyidae,West Bengal,mandal2026;som2025,2,0,0,0,
+ERI0554,Tetra bauhiniae,Eriophyidae,Karnataka,gm2023;karn2025,2,1,1,0,
+ERI0555,Tetra brideliae,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0556,Tetra buteae,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0557,Tetra cassiae,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0558,Tetra coimbatorensis,Eriophyidae,Tamil Nadu,gm2023,1,1,1,0,
+ERI0559,Tetra dalbergicola,Eriophyidae,West Bengal,add2026,1,0,0,0,
+ERI0560,Tetra lanneansis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0561,Tetra limonis,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0562,Tetra petuniae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0562,Tetra petuniae,Eriophyidae,Uttar Pradesh,gm2023,1,1,1,0,
+ERI0563,Tetra shoreacola,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0564,Tetra sissoae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0564,Tetra sissoae,Eriophyidae,Uttar Pradesh,gm2023,1,1,1,0,
+ERI0564,Tetra sissoae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0565,Tetra tephrosiae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0565,Tetra tephrosiae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0566,Tetra triflorae,Eriophyidae,Meghalaya,gm2023,1,1,1,0,
+ERI0567,Tetra tyrohylae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0568,Tetra visci,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0569,Tetraspinus litchi,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0570,Thamnacus acanthae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0570,Thamnacus acanthae,Eriophyidae,Tamil Nadu,tn2020,1,0,0,0,
+ERI0571,Thamnacus elaegnae,Eriophyidae,Kerala,gm2023,1,1,1,0,
+ERI0572,Thamnacus euphorbiae,Eriophyidae,Karnataka,gm2023,1,1,1,0,
+ERI0573,Tumescoptes trachycarpi,Eriophyidae,West Bengal,gm2023,1,1,1,0,
+ERI0574,Vareeboona fisus,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0575,Vasates cassiae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0576,Vasates lakoochae,Eriophyidae,West Bengal,gm2023;mandal2026,2,1,1,0,
+ERI0577,Vasates odinae,Eriophyidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0577,Vasates odinae,Eriophyidae,West Bengal,mandal2026,1,0,0,0,
+ERI0578,Vasates pavetis,Eriophyidae,West Bengal,gm2023;mandal2026;som2025,3,1,1,0,
+ERI0579,Vittacus bougainvilleae,Eriophyidae,Karnataka,add2026;karn2025,2,0,0,0,
+ERI0580,Anchiphytoptus giganticus,Phytoptidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+ERI0581,Mackiella borasis,Phytoptidae,Tamil Nadu,gm2023;tn2020,2,1,1,0,
+PHY0001,Amblydromalus mahasagaricus,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0002,Amblydromalus swaga,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0005,Amblyseiulella heveae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0007,Amblyseiulella hyauliangensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0008,Amblyseiulella nucifera,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0008,Amblyseiulella nucifera,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0009,Amblyseiulella solanae,Phytoseiidae,Punjab,add2026,1,0,0,0,
+PHY0010,Amblyseiulella tibouchina,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0012,Amblyseius adhatodae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0012,Amblyseius adhatodae,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0012,Amblyseius adhatodae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0012,Amblyseius adhatodae,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0013,Amblyseius aerialis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0013,Amblyseius aerialis,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0013,Amblyseius aerialis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0013,Amblyseius aerialis,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0015,Amblyseius amorphalae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0016,Amblyseius amtalaensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0017,Amblyseius andamanicus,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0021,Amblyseius azaliae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0021,Amblyseius azaliae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0022,Amblyseius bengalensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0023,Amblyseius bhadrakshae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0024,Amblyseius brachycalyx,Phytoseiidae,Bihar,aicrp,1,0,0,1,2020-21
+PHY0024,Amblyseius brachycalyx,Phytoseiidae,West Bengal,aicrp,1,0,0,1,2020-21
+PHY0025,Amblyseius channabasavannai,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0025,Amblyseius channabasavannai,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0025,Amblyseius channabasavannai,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0025,Amblyseius channabasavannai,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0025,Amblyseius channabasavannai,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0025,Amblyseius channabasavannai,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0026,Amblyseius charui,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0027,Amblyseius coffeae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0027,Amblyseius coffeae,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0028,Amblyseius conulus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,2020-21
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0029,Amblyseius crotalariae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0029,Amblyseius crotalariae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0030,Amblyseius cucurbitae,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0031,Amblyseius dahlia,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0033,Amblyseius eujeniae,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0034,Amblyseius excelsus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0035,Amblyseius fraterculus,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0035,Amblyseius fraterculus,Phytoseiidae,West Bengal,aicrp,1,0,0,1,2020-21
+PHY0036,Amblyseius giganticus,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0037,Amblyseius guajavae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0037,Amblyseius guajavae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0037,Amblyseius guajavae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0037,Amblyseius guajavae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0037,Amblyseius guajavae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0038,Amblyseius hapoliensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0039,Amblyseius herbicolus,Phytoseiidae,Uttar Pradesh,aicrp,1,0,0,1,1992-94;1996-97
+PHY0039,Amblyseius herbicolus,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1992-94;2020-21
+PHY0041,Amblyseius indirae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0043,Amblyseius jarooa,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0043,Amblyseius jarooa,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0044,Amblyseius koothaliensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0045,Amblyseius kulini,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0045,Amblyseius kulini,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0045,Amblyseius kulini,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0046,Amblyseius kundurukkae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1989-90;1990-91;2020-21
+PHY0048,Amblyseius largoensis,Phytoseiidae,Gujarat,aicrp;gm2023,2,1,1,1,1990-91
+PHY0048,Amblyseius largoensis,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Kerala,aicrp;gm2023,2,1,1,1,1990-91;2024-25
+PHY0048,Amblyseius largoensis,Phytoseiidae,Maharashtra,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Manipur,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Nagaland,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0048,Amblyseius largoensis,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1997-98
+PHY0048,Amblyseius largoensis,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990;1990-91;1992-94;1997-98;2020-21
+PHY0049,Amblyseius maai,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0050,Amblyseius malabarensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0051,Amblyseius manipurensis,Phytoseiidae,Manipur,gm2023,1,1,1,0,
+PHY0052,Amblyseius mcmurtryi,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0052,Amblyseius mcmurtryi,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0052,Amblyseius mcmurtryi,Phytoseiidae,Lakshadweep,gm2023,1,1,1,0,
+PHY0052,Amblyseius mcmurtryi,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0052,Amblyseius mcmurtryi,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0053,Amblyseius meghalayensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0053,Amblyseius meghalayensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0054,Amblyseius metaliensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0056,Amblyseius muraleedharani,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0057,Amblyseius neocrotalariae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0058,Amblyseius neorykei,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0058,Amblyseius neorykei,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0058,Amblyseius neorykei,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0058,Amblyseius neorykei,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0059,Amblyseius orientalis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0060,Amblyseius paraaerialis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0060,Amblyseius paraaerialis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0060,Amblyseius paraaerialis,Phytoseiidae,Bihar,aicrp,1,0,0,1,1989-90;1990-91
+PHY0060,Amblyseius paraaerialis,Phytoseiidae,Kerala,aicrp,1,0,0,1,2024-25
+PHY0060,Amblyseius paraaerialis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0060,Amblyseius paraaerialis,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0061,Amblyseius parbatabasii,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0062,Amblyseius potentillae,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0062,Amblyseius potentillae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0063,Amblyseius pseudorientalis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0064,Amblyseius raoiellus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0065,Amblyseius reticulatus,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0066,Amblyseius rhabdus,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0067,Amblyseius rishyapensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0068,Amblyseius rosica,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0069,Amblyseius rubiae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0070,Amblyseius shoreae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0071,Amblyseius sijiensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0072,Amblyseius sundi,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0073,Asperoseius jujubae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0074,Asperoseius latericulus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0075,Euseius ahaioensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Assam,aicrp,1,0,0,1,2021-22
+PHY0076,Euseius alstoniae,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,2020-21
+PHY0076,Euseius alstoniae,Phytoseiidae,Chandigarh,aicrp,1,0,1,1,1992-94;1996-97;1997
+PHY0076,Euseius alstoniae,Phytoseiidae,Gujarat,aicrp;gm2023,2,1,1,1,1990-91;1993
+PHY0076,Euseius alstoniae,Phytoseiidae,Haryana,aicrp;gm2023,2,1,1,1,1990-91
+PHY0076,Euseius alstoniae,Phytoseiidae,Himachal Pradesh,aicrp;gm2023,2,1,1,1,1997
+PHY0076,Euseius alstoniae,Phytoseiidae,Jammu & Kashmir,aicrp,1,0,0,1,1990
+PHY0076,Euseius alstoniae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990;1992-94;1996-97;1997
+PHY0076,Euseius alstoniae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0076,Euseius alstoniae,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1990-91;1992-94;1996-97;1997-98
+PHY0076,Euseius alstoniae,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990-91;1992-94;1997-98;2020-21
+PHY0077,Euseius aridophilus,Phytoseiidae,Tamil Nadu,add2026,1,0,0,0,
+PHY0078,Euseius arunachalensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0078,Euseius arunachalensis,Phytoseiidae,West Bengal,aicrp,1,0,0,1,2020-21
+PHY0080,Euseius astrictus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0081,Euseius bambusae,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0081,Euseius bambusae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0081,Euseius bambusae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0081,Euseius bambusae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0081,Euseius bambusae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0081,Euseius bambusae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0082,Euseius bandispermathecae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0083,Euseius bomdilae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0084,Euseius chikmagalurensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0085,Euseius chitradurgae,Phytoseiidae,Gujarat,aicrp,1,0,0,1,1990-91
+PHY0085,Euseius chitradurgae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0085,Euseius chitradurgae,Phytoseiidae,Lakshadweep,gm2023,1,1,1,0,
+PHY0085,Euseius chitradurgae,Phytoseiidae,Tamil Nadu,aicrp,1,0,0,1,1996-98
+PHY0086,Euseius chittooriensis,Phytoseiidae,Andhra Pradesh,add2026;gm2023,2,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1989-90;1990-91
+PHY0087,Euseius coccineae,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Madhya Pradesh,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0087,Euseius coccineae,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,1992-94;1996
+PHY0088,Euseius coccosocius,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Lakshadweep,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Puducherry,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0088,Euseius coccosocius,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,1997-98
+PHY0089,Euseius concordis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0090,Euseius curcasae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0091,Euseius delhiensis,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0091,Euseius delhiensis,Phytoseiidae,Gujarat,aicrp,1,0,0,1,1990-91
+PHY0091,Euseius delhiensis,Phytoseiidae,Haryana,aicrp;gm2023,2,1,1,1,1990-91
+PHY0091,Euseius delhiensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0091,Euseius delhiensis,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0091,Euseius delhiensis,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0091,Euseius delhiensis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0091,Euseius delhiensis,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1990-91;1992-94;1996-97;1997-98
+PHY0091,Euseius delhiensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0092,Euseius dwakiensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0092,Euseius dwakiensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0093,Euseius eucalypti,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0094,Euseius fascae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0094,Euseius fascae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1989-90;1990-91;2020-21
+PHY0095,Euseius finlandicus,Phytoseiidae,Haryana,aicrp,1,0,0,1,1990-91
+PHY0095,Euseius finlandicus,Phytoseiidae,Himachal Pradesh,aicrp,1,0,0,1,1990-91
+PHY0095,Euseius finlandicus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Lakshadweep,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990;1990-91;1992-94;1996-97;1997
+PHY0095,Euseius finlandicus,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0095,Euseius finlandicus,Phytoseiidae,Uttar Pradesh,aicrp,1,0,0,1,1992-94;1996-97
+PHY0095,Euseius finlandicus,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1990-91;1992-94;2020-21
+PHY0097,Euseius hima,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0097,Euseius hima,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0098,Euseius indica,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0099,Euseius insanus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0100,Euseius jalika,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0101,Euseius jhinukae,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0102,Euseius kalimpongensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0103,Euseius karpasae,Phytoseiidae,Andhra Pradesh,add2026;gm2023,2,1,1,0,
+PHY0105,Euseius macrospatulatus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0105,Euseius macrospatulatus,Phytoseiidae,Assam,aicrp,1,0,0,1,2020-21
+PHY0106,Euseius madhubanensis,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0107,Euseius madrasi,Phytoseiidae,Tamil Nadu,add2026,1,0,0,0,
+PHY0108,Euseius neoalstoniae,Phytoseiidae,Andhra Pradesh,add2026;gm2023,2,1,1,0,
+PHY0109,Euseius neococcineae,Phytoseiidae,Haryana,aicrp,1,0,0,1,1990-91
+PHY0109,Euseius neococcineae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Assam,aicrp;gm2023,2,1,1,1,2024-25
+PHY0110,Euseius ovalis,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,2020-21
+PHY0110,Euseius ovalis,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Kerala,aicrp;gm2023,2,1,1,1,1990-91
+PHY0110,Euseius ovalis,Phytoseiidae,Lakshadweep,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Maharashtra,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Manipur,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,Tamil Nadu,aicrp;gm2023,2,1,1,1,2024-25
+PHY0110,Euseius ovalis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0110,Euseius ovalis,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990-91;1996;2020-21
+PHY0111,Euseius papayensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0112,Euseius pariyarensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Bihar,aicrp,1,0,0,1,1989-90;1990-91
+PHY0113,Euseius prasadi,Phytoseiidae,Himachal Pradesh,aicrp;gm2023,2,1,1,1,2024-25
+PHY0113,Euseius prasadi,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0113,Euseius prasadi,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990-91;1992-94
+PHY0114,Euseius rhododendronis,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0114,Euseius rhododendronis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0114,Euseius rhododendronis,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0114,Euseius rhododendronis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0114,Euseius rhododendronis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0114,Euseius rhododendronis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0114,Euseius rhododendronis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0115,Euseius sacchari,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0115,Euseius sacchari,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0116,Euseius sajnekhalicus,Phytoseiidae,Bihar,aicrp,1,0,0,1,2020-21
+PHY0116,Euseius sajnekhalicus,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0117,Euseius sativum,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0119,Euseius spontaneum,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0119,Euseius spontaneum,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0120,Euseius sundarbanensis,Phytoseiidae,Bihar,aicrp,1,0,0,1,2020-21
+PHY0120,Euseius sundarbanensis,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0121,Euseius tamilicus,Phytoseiidae,Tamil Nadu,add2026,1,0,0,0,
+PHY0122,Euseius tripuraensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0122,Euseius tripuraensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0123,Euseius tripurii,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0123,Euseius tripurii,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0123,Euseius tripurii,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0124,Euseius tubuliferus,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0125,Euseius vignus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0126,Euseius vikrami,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0128,Gynaeseius dweepabasi,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0129,Gynaeseius eharai,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0129,Gynaeseius eharai,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0130,Gynaeseius ghaiae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0131,Gynaeseius kalapaharicus,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0132,Gynaeseius ricini,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,2020-21
+PHY0133,Gynaeseius santosoi,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0134,Kuzinellus kuzini,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0135,Kuzinellus neosoleiger,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0136,Neoseiulella celtis,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0137,Neoseiulella nesbitti,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0137,Neoseiulella nesbitti,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0139,Neoseiulella transitans,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0140,Neoseiulus aceriae,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0140,Neoseiulus aceriae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0141,Neoseiulus assamensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0142,Neoseiulus baraki,Phytoseiidae,Gujarat,aicrp,1,0,0,1,2024-25
+PHY0142,Neoseiulus baraki,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0142,Neoseiulus baraki,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0143,Neoseiulus barkeri,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0144,Neoseiulus bindrai,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0145,Neoseiulus cucumeris,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0145,Neoseiulus cucumeris,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0145,Neoseiulus cucumeris,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0146,Neoseiulus cynodonae,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0146,Neoseiulus cynodonae,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0146,Neoseiulus cynodonae,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0147,Neoseiulus dhani,Phytoseiidae,West Bengal,add2026,1,0,0,0,
+PHY0148,Neoseiulus dhooriai,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Chhattisgarh,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Haryana,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0149,Neoseiulus fallacis,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,1988-89;1990-91;1992-94;1996
+PHY0150,Neoseiulus ficusi,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,2020-21
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0151,Neoseiulus imbricatus,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0152,Neoseiulus indicus,Phytoseiidae,Jammu & Kashmir,aicrp,1,0,0,1,1990
+PHY0152,Neoseiulus indicus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0152,Neoseiulus indicus,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0152,Neoseiulus indicus,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1997-98
+PHY0152,Neoseiulus indicus,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1992-94;1996;1997-98
+PHY0153,Neoseiulus khejurae,Phytoseiidae,West Bengal,add2026,1,0,0,0,
+PHY0154,Neoseiulus lablabi,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,2020-21
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Himachal Pradesh,aicrp,1,0,0,1,2024-25
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Karnataka,aicrp;gm2023,2,1,1,1,1990-91;1996-97
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Kerala,aicrp;gm2023,2,1,1,1,2024-25
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Tamil Nadu,aicrp;gm2023,2,1,1,1,1996-98;2024-25
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1992-94;1996-97;1997-98
+PHY0155,Neoseiulus longispinosus,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990-91;1996;1997-98;2020-21
+PHY0156,Neoseiulus lula,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0157,Neoseiulus mulbericus,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0158,Neoseiulus neoghanii,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0159,Neoseiulus oahuensis,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0160,Neoseiulus paspalivorus,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0160,Neoseiulus paspalivorus,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0161,Neoseiulus pranadae,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0162,Neoseiulus ramabettaensis,Phytoseiidae,Karnataka,add2026,1,0,0,0,
+PHY0163,Neoseiulus rangatensis,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0164,Neoseiulus reticulatus,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0165,Okeseius unisetatus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0166,Okiseius himalayana,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0167,Okiseius jainticus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0167,Okiseius jainticus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0168,Okiseius laaensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0169,Okiseius pahari,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0170,Okiseius ramdhuracus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0171,Okiseius roseus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0172,Okiseius sikkimensis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0173,Okiseius yazuliensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0175,Paraamblyseius fragariae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0175,Paraamblyseius fragariae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0175,Paraamblyseius fragariae,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0175,Paraamblyseius fragariae,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0175,Paraamblyseius fragariae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0176,Paraamblyseius mumai,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0176,Paraamblyseius mumai,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0176,Paraamblyseius mumai,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0176,Paraamblyseius mumai,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0177,Paraamblyseius ranipoolensis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0178,Paraphytoseius andamani,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0179,Paraphytoseius arjunae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Chhattisgarh,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0180,Paraphytoseius bhadrakaliensis,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0181,Paraphytoseius camarae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0182,Paraphytoseius cracentis,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Bihar,aicrp,1,0,0,1,1990-91
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Gujarat,aicrp,1,0,0,1,1990-91
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Haryana,aicrp,1,0,0,1,1990-91
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Himachal Pradesh,aicrp,1,0,0,1,2024-25
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Kerala,aicrp;gm2023,2,1,1,1,2024-25
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Maharashtra,gm2023,1,1,1,0,
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Odisha,aicrp,1,0,0,1,1988-89
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Punjab,aicrp,1,0,0,1,1990;1990-91;1992-94;1996-97;1997
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Tamil Nadu,aicrp,1,0,0,1,1990-91
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1992-94;1996-97;1997-98
+PHY0183,Paraphytoseius orientalis,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990;1990-91;1992-94;1996;2020-21
+PHY0184,Paraphytoseius punjabensis,Phytoseiidae,Punjab,add2026,1,0,0,0,
+PHY0185,Paraphytoseius scleroticus,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0185,Paraphytoseius scleroticus,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0186,Phytoscutus bakeri,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0190,Phytoscutus salebrosus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0190,Phytoscutus salebrosus,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0190,Phytoscutus salebrosus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0190,Phytoscutus salebrosus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0191,Phytoseiulus persimilis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0192,Phytoseius alathurensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0193,Phytoseius aonlae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0193,Phytoseius aonlae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0194,Phytoseius bandipurensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0195,Phytoseius baramuracus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0196,Phytoseius birbikrami,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0197,Phytoseius brevicrinis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0198,Phytoseius clavus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0198,Phytoseius clavus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0199,Phytoseius coheni,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0200,Phytoseius corniger,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0200,Phytoseius corniger,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88
+PHY0201,Phytoseius crinitus,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0202,Phytoseius domesticus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0203,Phytoseius dorsospinosus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0204,Phytoseius dumurae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0205,Phytoseius ferrum,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0205,Phytoseius ferrum,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0207,Phytoseius indicus,Phytoseiidae,Haryana,aicrp,1,0,0,1,1990-91
+PHY0207,Phytoseius indicus,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0207,Phytoseius indicus,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0207,Phytoseius indicus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0207,Phytoseius indicus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0208,Phytoseius intermedius,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0208,Phytoseius intermedius,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1989-90;1990-91
+PHY0208,Phytoseius intermedius,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0208,Phytoseius intermedius,Phytoseiidae,Kerala,aicrp,1,0,0,1,2024-25
+PHY0208,Phytoseius intermedius,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0208,Phytoseius intermedius,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1997-98
+PHY0208,Phytoseius intermedius,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0209,Phytoseius jaunpurensis,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0210,Phytoseius jujuba,Phytoseiidae,Bihar,aicrp,1,0,0,1,2020-21
+PHY0210,Phytoseius jujuba,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0210,Phytoseius jujuba,Phytoseiidae,Haryana,aicrp,1,0,0,1,1990-91
+PHY0210,Phytoseius jujuba,Phytoseiidae,Rajasthan,gm2023,1,1,1,0,
+PHY0210,Phytoseius jujuba,Phytoseiidae,West Bengal,aicrp,1,0,0,1,2020-21
+PHY0211,Phytoseius kapuri,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Bihar,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Chhattisgarh,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Gujarat,aicrp;gm2023,2,1,1,1,1990-91
+PHY0211,Phytoseius kapuri,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Madhya Pradesh,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Rajasthan,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Tamil Nadu,aicrp;gm2023,2,1,1,1,2024-25
+PHY0211,Phytoseius kapuri,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0211,Phytoseius kapuri,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1992-94;1996-97
+PHY0211,Phytoseius kapuri,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,2020-21
+PHY0212,Phytoseius khowaiensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0213,Phytoseius leopardisimilis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0214,Phytoseius macropilis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0214,Phytoseius macropilis,Phytoseiidae,Chandigarh,aicrp,1,0,0,1,1992-94;1996-97
+PHY0214,Phytoseius macropilis,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0214,Phytoseius macropilis,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0214,Phytoseius macropilis,Phytoseiidae,Punjab,aicrp,1,0,0,1,1992-94;1996-97
+PHY0214,Phytoseius macropilis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0214,Phytoseius macropilis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0215,Phytoseius macrosetosus,Phytoseiidae,Madhya Pradesh,gm2023,1,1,1,0,
+PHY0215,Phytoseius macrosetosus,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0216,Phytoseius maldahaensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0217,Phytoseius mauritiana,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0218,Phytoseius meyerae,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,1988-89;1992-94
+PHY0219,Phytoseius minutus,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0219,Phytoseius minutus,Phytoseiidae,Himachal Pradesh,aicrp;gm2023,2,1,1,1,1992-94;1996-97
+PHY0219,Phytoseius minutus,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990;1992-94;1996-97
+PHY0219,Phytoseius minutus,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1992-94;1996-97;1997-98
+PHY0219,Phytoseius minutus,Phytoseiidae,West Bengal,gb2017,1,0,0,0,
+PHY0220,Phytoseius mixtus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0220,Phytoseius mixtus,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0221,Phytoseius mizoramensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0221,Phytoseius mizoramensis,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0221,Phytoseius mizoramensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0222,Phytoseius namdaphaensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0223,Phytoseius namkhanaensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0224,Phytoseius neglecta,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0225,Phytoseius neocorniger,Phytoseiidae,Punjab,aicrp,1,0,0,1,1992-94;1996-97
+PHY0225,Phytoseius neocorniger,Phytoseiidae,Rajasthan,gm2023,1,1,1,0,
+PHY0226,Phytoseius neoferox,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0227,Phytoseius nipponicus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0228,Phytoseius punicae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0228,Phytoseius punicae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0229,Phytoseius punjabensis,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0229,Phytoseius punjabensis,Phytoseiidae,Uttar Pradesh,aicrp,1,0,0,1,1992-94;1996-97;1997-98
+PHY0230,Phytoseius rachelae,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0230,Phytoseius rachelae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0231,Phytoseius roseus,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0231,Phytoseius roseus,Phytoseiidae,Haryana,aicrp,1,0,0,1,1990-91
+PHY0231,Phytoseius roseus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0231,Phytoseius roseus,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990;1992-94;1996-97;1997
+PHY0231,Phytoseius roseus,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0231,Phytoseius roseus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0231,Phytoseius roseus,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1997-98
+PHY0231,Phytoseius roseus,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0232,Phytoseius rugosus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0232,Phytoseius rugosus,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0233,Phytoseius strobilantheae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0234,Phytoseius swirskii,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0234,Phytoseius swirskii,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0235,Phytoseius viscosum,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0236,Phytoseius wainsteini,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0236,Phytoseius wainsteini,Phytoseiidae,Lakshadweep,gm2023,1,1,1,0,
+PHY0237,Phytoseius woodburyi,Phytoseiidae,Uttarakhand,gm2023,1,1,1,0,
+PHY0237,Phytoseius woodburyi,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0238,Platyseiella mumai,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0239,Proprioseiopsis amari,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0240,Proprioseiopsis arunachalensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0241,Proprioseiopsis indicus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0242,Proprioseiopsis keralaensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0243,Proprioseiopsis nemotoi,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0244,Proprioseiopsis peltatus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0246,Proprioseiopsis synachattiensis,Phytoseiidae,Uttarakhand,gm2023,1,1,1,0,
+PHY0247,Proprioseius kumaonensis,Phytoseiidae,Uttarakhand,gm2023,1,1,1,0,
+PHY0248,Scapulaseius andamanicus,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0248,Scapulaseius andamanicus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0248,Scapulaseius andamanicus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0248,Scapulaseius andamanicus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0248,Scapulaseius andamanicus,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0248,Scapulaseius andamanicus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0249,Scapulaseius arecae,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0250,Scapulaseius asiaticus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0250,Scapulaseius asiaticus,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0251,Scapulaseius augusta,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0252,Scapulaseius daturae,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0252,Scapulaseius daturae,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0252,Scapulaseius daturae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0252,Scapulaseius daturae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0253,Scapulaseius eucalypticus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0254,Scapulaseius hapoli,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0254,Scapulaseius hapoli,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0255,Scapulaseius mangiferae,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0256,Scapulaseius meghalayensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0256,Scapulaseius meghalayensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0257,Scapulaseius moraesi,Phytoseiidae,Bihar,aicrp,1,0,0,1,2020-21
+PHY0257,Scapulaseius moraesi,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0258,Scapulaseius officinaria,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0258,Scapulaseius officinaria,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0258,Scapulaseius officinaria,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0258,Scapulaseius officinaria,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0259,Scapulaseius polyantheae,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0259,Scapulaseius polyantheae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0259,Scapulaseius polyantheae,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0260,Scapulaseius sapienticola,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0261,Scapulaseius sorghumae,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Andaman & Nicobar Islands,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Gujarat,aicrp,1,0,0,1,1990-91
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Punjab,aicrp,1,0,0,1,1990
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0262,Scapulaseius suknaensis,Phytoseiidae,West Bengal,gb2017;gm2023,2,1,1,0,
+PHY0263,Transeius bangalorensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Assam,aicrp,1,0,0,1,2020-21
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1990-91
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Gujarat,aicrp,1,0,0,1,1990-91
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0264,Transeius tetranychivorus,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0265,Transeius uttarbharaticus,Phytoseiidae,Punjab,add2026,1,0,0,0,
+PHY0266,Typhlodromips cinchonai,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0267,Typhlodromips jhilimiliensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0268,Typhlodromips neosyzygii,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,2020-21
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Chhattisgarh,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0269,Typhlodromips syzygii,Phytoseiidae,West Bengal,aicrp;gb2017;gm2023,3,1,1,1,1988-89;1990;1992-94;2020-21
+PHY0270,Typhlodromus (Anthoseius) adhatoda,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0271,Typhlodromus (Anthoseius) arunachalensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0272,Typhlodromus (Anthoseius) bakeri,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0273,Typhlodromus (Anthoseius) bambusicolus,Phytoseiidae,Assam,gm2023,1,1,1,0,
+PHY0273,Typhlodromus (Anthoseius) bambusicolus,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0274,Typhlodromus (Anthoseius) barapanicus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0275,Typhlodromus (Anthoseius) bengalensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0276,Typhlodromus (Anthoseius) bolpurensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0277,Typhlodromus (Anthoseius) bulbosis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0278,Typhlodromus (Anthoseius) campana,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0279,Typhlodromus (Anthoseius) carambolae,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0280,Typhlodromus (Anthoseius) channabasavannai,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0280,Typhlodromus (Anthoseius) channabasavannai,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0281,Typhlodromus (Anthoseius) cherrapunjiensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0281,Typhlodromus (Anthoseius) cherrapunjiensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0282,Typhlodromus (Anthoseius) chrysanthemi,Phytoseiidae,Gujarat,gm2023,1,1,1,0,
+PHY0283,Typhlodromus (Anthoseius) communis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0283,Typhlodromus (Anthoseius) communis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0283,Typhlodromus (Anthoseius) communis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0283,Typhlodromus (Anthoseius) communis,Phytoseiidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+PHY0283,Typhlodromus (Anthoseius) communis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0284,Typhlodromus (Anthoseius) dactylifera,Phytoseiidae,Rajasthan,gm2023,1,1,1,0,
+PHY0285,Typhlodromus (Anthoseius) dahungensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0286,Typhlodromus (Anthoseius) dalii,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Mizoram,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0287,Typhlodromus (Anthoseius) darjeeligensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0288,Typhlodromus (Anthoseius) denmarki,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0289,Typhlodromus (Anthoseius) divergentis,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0289,Typhlodromus (Anthoseius) divergentis,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0290,Typhlodromus (Anthoseius) fleschneri,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1989-90;1990-91
+PHY0290,Typhlodromus (Anthoseius) fleschneri,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0290,Typhlodromus (Anthoseius) fleschneri,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0290,Typhlodromus (Anthoseius) fleschneri,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0291,Typhlodromus (Anthoseius) garhwalicus,Phytoseiidae,Uttarakhand,gm2023,1,1,1,0,
+PHY0292,Typhlodromus (Anthoseius) gilbertoi,Phytoseiidae,Andhra Pradesh,add2026;gm2023,2,1,1,0,
+PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990
+PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,Rajasthan,gm2023,1,1,1,0,
+PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0293,Typhlodromus (Anthoseius) gopali,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0294,Typhlodromus (Anthoseius) gosabaensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0295,Typhlodromus (Anthoseius) hadii,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0295,Typhlodromus (Anthoseius) hadii,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0296,Typhlodromus (Anthoseius) hasnuhanae,Phytoseiidae,West Bengal,add2026;gm2023,2,1,1,0,
+PHY0297,Typhlodromus (Anthoseius) heliotropium,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,2020-21
+PHY0298,Typhlodromus (Anthoseius) himalayensis,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0298,Typhlodromus (Anthoseius) himalayensis,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0298,Typhlodromus (Anthoseius) himalayensis,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1997-98
+PHY0299,Typhlodromus (Anthoseius) himaliniae,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Bihar,aicrp;gm2023,2,1,1,1,1989-90;1990-91
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Gujarat,aicrp,1,0,0,1,1990-91
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Haryana,aicrp;gm2023,2,1,1,1,1990-91
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Himachal Pradesh,aicrp;gm2023,2,1,1,1,1996-97
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Kerala,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Punjab,aicrp;gm2023,2,1,1,1,1990;1992-94;1996-97
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1992-94;1996-97;1997-98
+PHY0300,Typhlodromus (Anthoseius) homalii,Phytoseiidae,West Bengal,aicrp;gm2023,2,1,1,1,1988-89;1990;1990-91;1992-94
+PHY0301,Typhlodromus (Anthoseius) kanchangarhensis,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0302,Typhlodromus (Anthoseius) kanchanjanghai,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0303,Typhlodromus (Anthoseius) kodaikanelensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0304,Typhlodromus (Anthoseius) majumderi,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0305,Typhlodromus (Anthoseius) malviyai,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0306,Typhlodromus (Anthoseius) manipurensis,Phytoseiidae,Manipur,gm2023,1,1,1,0,
+PHY0307,Typhlodromus (Anthoseius) meerutensis,Phytoseiidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1997-98
+PHY0308,Typhlodromus (Anthoseius) mori,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0309,Typhlodromus (Anthoseius) neorhenanus,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0309,Typhlodromus (Anthoseius) neorhenanus,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0309,Typhlodromus (Anthoseius) neorhenanus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0310,Typhlodromus (Anthoseius) neotransvaalensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0310,Typhlodromus (Anthoseius) neotransvaalensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0311,Typhlodromus (Anthoseius) nilgiriensis,Phytoseiidae,Tamil Nadu,gm2023,1,1,1,0,
+PHY0312,Typhlodromus (Anthoseius) orissaensis,Phytoseiidae,Odisha,gm2023,1,1,1,0,
+PHY0314,Typhlodromus (Anthoseius) parnangiae,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0315,Typhlodromus (Anthoseius) persicus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0316,Typhlodromus (Anthoseius) pruni,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0316,Typhlodromus (Anthoseius) pruni,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0316,Typhlodromus (Anthoseius) pruni,Phytoseiidae,Sikkim,gm2023,1,1,1,0,
+PHY0316,Typhlodromus (Anthoseius) pruni,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0317,Typhlodromus (Anthoseius) ramdhuraensis,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0318,Typhlodromus (Anthoseius) rhenanus,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0318,Typhlodromus (Anthoseius) rhenanus,Phytoseiidae,Himachal Pradesh,gm2023,1,1,1,0,
+PHY0318,Typhlodromus (Anthoseius) rhenanus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0318,Typhlodromus (Anthoseius) rhenanus,Phytoseiidae,Punjab,gm2023,1,1,1,0,
+PHY0319,Typhlodromus (Anthoseius) rhododendroni,Phytoseiidae,Karnataka,gm2023,1,1,1,0,
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Andhra Pradesh,gm2023,1,1,1,0,
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Karnataka,aicrp;gm2023,2,1,1,1,1992-94
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Madhya Pradesh,gm2023,1,1,1,0,
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Meghalaya,gm2023,1,1,1,0,
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Nagaland,gm2023,1,1,1,0,
+PHY0320,Typhlodromus (Anthoseius) rickeri,Phytoseiidae,Uttar Pradesh,gm2023,1,1,1,0,
+PHY0321,Typhlodromus (Anthoseius) sagaricus,Phytoseiidae,West Bengal,gm2023,1,1,1,0,
+PHY0322,Typhlodromus (Anthoseius) saptaparniae,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0323,Typhlodromus (Anthoseius) sijiensis,Phytoseiidae,Arunachal Pradesh,gm2023,1,1,1,0,
+PHY0324,Typhlodromus (Anthoseius) sodaliae,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+PHY0325,Typhlodromus (Anthoseius) sonajhuriae,Phytoseiidae,Tripura,gm2023,1,1,1,0,
+PHY0326,Typhlodromus (Anthoseius) sonprayagensis,Phytoseiidae,Uttarakhand,gm2023,1,1,1,0,
+PHY0326,Typhlodromus (Anthoseius) sonprayagensis,Phytoseiidae,West Bengal,aicrp,1,0,0,1,1990
+PHY0327,Typhlodromus (Anthoseius) theae,Phytoseiidae,West Bengal,add2026;gm2023,2,1,1,0,
+PHY0328,Typhlodromus (Anthoseius) torbatejamae,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0329,Typhlodromus (Anthoseius) umbratus,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0330,Typhlodromus (Anthoseius) viniferae,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0331,Typhlodromus (Anthoseius) zafari,Phytoseiidae,Jammu & Kashmir,gm2023,1,1,1,0,
+PHY0332,Typhlodromus (Typhlodromus) confusus,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0333,Typhlodromus (Typhlodromus) roshanlali,Phytoseiidae,Delhi,gm2023,1,1,1,0,
+PHY0335,Ueckermannseius samudricus,Phytoseiidae,Andaman & Nicobar Islands,add2026,1,0,0,0,
+TAR0001,Bongotarsonemus bicornus,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0002,Bongotarsonemus unicornus,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0003,Ceratotarsonemus bengalicus,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0004,Daidalotarsonemus duolamella,Tarsonemidae,West Bengal,add2026;tarswb2023,2,0,0,0,
+TAR0005,Daidalotarsonemus flamingobeccus,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0006,Daidalotarsonemus kalyanicus,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0007,Daidalotarsonemus tambulae,Tarsonemidae,West Bengal,add2026;tarswb2023,2,0,0,0,
+TAR0008,Floridotarsonemus boroiae,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0009,Floridotarsonemus kanthali,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0010,Floridotarsonemus kukri,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0011,Fungitarsonemus baganbilasae,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0012,Fungitarsonemus icchepaharicus,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0013,Fungitarsonemus jasminae,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0014,Fungitarsonemus rishyapensis,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0015,Lupotarsonemus randsi,Tarsonemidae,Bihar,gm2023,1,1,1,0,
+TAR0016,Metatarsonemus badurkani,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0017,Metatarsonemus connexus,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0018,Metatarsonemus diplojuga,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0019,Metatarsonemus infundibulum,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0020,Metatarsonemus shirishi,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Bihar,aicrp;gm2023,2,1,1,1,1990-91;1996-97
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Chandigarh,aicrp,1,0,1,1,1992-94;1996-97;1997
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Gujarat,aicrp,1,0,0,1,1988-89;1990-91;2020-21
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Himachal Pradesh,aicrp,1,0,0,1,1992-94;1996-97
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Karnataka,aicrp;gm2023,2,1,1,1,1990-91
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Kerala,aicrp,1,0,0,1,1990-91;2024-25
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Maharashtra,gm2023,1,1,1,0,
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Mizoram,gm2023,1,1,1,0,
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Odisha,aicrp,1,0,0,1,1988-89
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Punjab,aicrp;gm2023,2,1,1,1,1990-91;1992-94;1996-97;1997;2020-21;2021-22
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Tamil Nadu,aicrp,1,0,0,1,1988;1990;1990-91;1992-94;1996-98;2021-22;2024-25
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,Uttar Pradesh,aicrp;gm2023,2,1,1,1,1987-88;1990-91;1992-94;1996-97;1997-98
+TAR0021,Polyphagotarsonemus latus,Tarsonemidae,West Bengal,aicrp;gb2017;gm2023;tarswb2023,4,1,1,1,1988-89;1990;1990-91;1992-94;1996;2020-21
+TAR0022,Steneotarsonemus amlisoae,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0023,Steneotarsonemus bancrofti,Tarsonemidae,Punjab,gm2023,1,1,1,0,
+TAR0024,Steneotarsonemus furcatus,Tarsonemidae,Uttarakhand,gm2023,1,1,1,0,
+TAR0024,Steneotarsonemus furcatus,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0025,Steneotarsonemus indianensis,Tarsonemidae,Delhi,gm2023,1,1,1,0,
+TAR0025,Steneotarsonemus indianensis,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0026,Steneotarsonemus konoi,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,Assam,aicrp,1,0,0,1,2020-21
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,Gujarat,aicrp,1,0,0,1,1993;2020-21
+TAR0027,Steneotarsonemus spinki,Tarsonemidae,West Bengal,aicrp;tarswb2023,2,0,0,1,2020-21
+TAR0028,Steneotarsonemus subfurcatus,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0029,Tarsonemus bengalicus,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0030,Tarsonemus confusus,Tarsonemidae,West Bengal,gb2017;gm2023,2,1,1,0,
+TAR0031,Tarsonemus dakshinbharaticus,Tarsonemidae,Karnataka,add2026,1,0,0,0,
+TAR0032,Tarsonemus kajuae,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0033,Tarsonemus krichneri,Tarsonemidae,Tamil Nadu,gm2023,1,1,1,0,
+TAR0034,Tarsonemus mondouriensis,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0035,Tarsonemus narkelae,Tarsonemidae,West Bengal,gm2023;tarswb2023,2,1,1,0,
+TAR0036,Tarsonemus parijatae,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0037,Tarsonemus parulae,Tarsonemidae,Karnataka,add2026,1,0,0,0,
+TAR0038,Tarsonemus sertum,Tarsonemidae,Karnataka,add2026,1,0,0,0,
+TAR0039,Xenotarsonemus barshai,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0040,Xenotarsonemus chinsurahensis,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0041,Xenotarsonemus keukandae,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TAR0042,Xenotarsonemus krishnai,Tarsonemidae,West Bengal,tarswb2023,1,0,0,0,
+TAR0043,Xenotarsonemus lingua,Tarsonemidae,West Bengal,add2026,1,0,0,0,
+TEN0001,Aegyptobia menoni,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0002,Aegyptobia nummulus,Tenuipalpidae,Himachal Pradesh,gm2023;mitra2025,2,1,1,0,
+TEN0002,Aegyptobia nummulus,Tenuipalpidae,Punjab,mitra2025,1,0,0,0,
+TEN0003,Aegyptobia salubris,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0004,Aegyptobia tragardhi,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0005,Brevipalpus absens,Tenuipalpidae,West Bengal,gb2017,1,0,0,0,
+TEN0006,Brevipalpus amicus,Tenuipalpidae,Delhi,gm2023,1,1,1,0,
+TEN0006,Brevipalpus amicus,Tenuipalpidae,West Bengal,gb2017,1,0,0,0,
+TEN0007,Brevipalpus araucanus,Tenuipalpidae,West Bengal,gb2017,1,0,0,0,
+TEN0008,Brevipalpus assamensis,Tenuipalpidae,Assam,gm2023,1,1,1,0,
+TEN0008,Brevipalpus assamensis,Tenuipalpidae,Punjab,aicrp,1,0,0,1,1987-88
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Chandigarh,aicrp,1,0,1,1,1992-94;1996-97;1997
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Gujarat,aicrp,1,0,0,1,2020-21
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Haryana,aicrp;gm2023;mitra2025,3,1,1,1,1985-87;1990-91
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Himachal Pradesh,aicrp;gm2023;mitra2025,3,1,1,1,1996-97
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Jammu & Kashmir,gm2023;mitra2025,2,1,1,0,
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Lakshadweep,gm2023;mitra2025,2,1,1,0,
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Odisha,aicrp,1,0,0,1,1988-89
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Punjab,aicrp,1,0,0,1,1990;1990-91;1992-94;1996-97;1997
+TEN0009,Brevipalpus californicus,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1997-98
+TEN0009,Brevipalpus californicus,Tenuipalpidae,West Bengal,aicrp;gb2017;gm2023;mitra2018;mitra2025,5,1,1,1,1988-89;1990-91;1992-94;1997-98
+TEN0010,Brevipalpus chilensis,Tenuipalpidae,Assam,aicrp,1,0,0,1,2021-22
+TEN0010,Brevipalpus chilensis,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0011,Brevipalpus creber,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88
+TEN0011,Brevipalpus creber,Tenuipalpidae,West Bengal,gb2017,1,0,0,0,
+TEN0012,Brevipalpus cucurbitae,Tenuipalpidae,Punjab,gm2023,1,1,1,0,
+TEN0012,Brevipalpus cucurbitae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0012,Brevipalpus cucurbitae,Tenuipalpidae,West Bengal,mitra2018;mitra2025,2,0,0,0,
+TEN0013,Brevipalpus deleoni,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1990-91
+TEN0013,Brevipalpus deleoni,Tenuipalpidae,Punjab,aicrp;gm2023,2,1,1,1,1992-94;1996-97
+TEN0013,Brevipalpus deleoni,Tenuipalpidae,Tamil Nadu,aicrp,1,0,0,1,1988;1990-91
+TEN0013,Brevipalpus deleoni,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1992-94;1996-97;1997-98
+TEN0013,Brevipalpus deleoni,Tenuipalpidae,West Bengal,gb2017;gm2023,2,1,1,0,
+TEN0014,Brevipalpus dosis,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0015,Brevipalpus edwinae,Tenuipalpidae,West Bengal,gb2017,1,0,0,0,
+TEN0016,Brevipalpus essigi,Tenuipalpidae,Andaman & Nicobar Islands,gm2023;mitra2025,2,1,1,0,
+TEN0016,Brevipalpus essigi,Tenuipalpidae,Lakshadweep,gm2023;mitra2025,2,1,1,0,
+TEN0016,Brevipalpus essigi,Tenuipalpidae,Uttarakhand,aicrp,1,0,0,1,1987-88
+TEN0016,Brevipalpus essigi,Tenuipalpidae,West Bengal,gb2017;gm2023;mitra2018;mitra2025,4,1,1,0,
+TEN0017,Brevipalpus euphorbiae,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1990-91
+TEN0017,Brevipalpus euphorbiae,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0017,Brevipalpus euphorbiae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0017,Brevipalpus euphorbiae,Tenuipalpidae,West Bengal,mitra2018;mitra2025,2,0,0,0,
+TEN0018,Brevipalpus gauhatiensis,Tenuipalpidae,Assam,gm2023;mitra2025,2,1,1,0,
+TEN0019,Brevipalpus grewiae,Tenuipalpidae,Karnataka,gm2023,1,1,1,0,
+TEN0020,Brevipalpus jambhiri,Tenuipalpidae,Punjab,gm2023,1,1,1,0,
+TEN0021,Brevipalpus karachiensis,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1985-87
+TEN0021,Brevipalpus karachiensis,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88;1996-97
+TEN0022,Brevipalpus lewisi,Tenuipalpidae,Uttar Pradesh,aicrp;gm2023;mitra2025,3,1,1,1,1997-98
+TEN0022,Brevipalpus lewisi,Tenuipalpidae,West Bengal,gb2017;mitra2018;mitra2025,3,0,0,0,
+TEN0023,Brevipalpus lilium,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0024,Brevipalpus melichrus,Tenuipalpidae,West Bengal,gb2017;mitra2018;mitra2025,3,0,0,0,
+TEN0025,Brevipalpus mitrofanovi,Tenuipalpidae,West Bengal,gb2017;mitra2018;mitra2025,3,0,0,0,
+TEN0026,Brevipalpus nangalensis,Tenuipalpidae,Haryana,gm2023;mitra2025,2,1,1,0,
+TEN0026,Brevipalpus nangalensis,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Assam,mitra2025,1,0,0,0,
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Haryana,aicrp;gm2023;mitra2025,3,1,1,1,1990-91
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Himachal Pradesh,aicrp,1,0,0,1,1989
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Karnataka,aicrp,1,0,0,1,1996-97
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Punjab,aicrp,1,0,0,1,1987-88;1989;1990;1990-91;1996-97;1997
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+TEN0027,Brevipalpus obovatus,Tenuipalpidae,West Bengal,aicrp;gb2017;gm2023;mitra2018;mitra2025,5,1,1,1,1988-89;1997-98
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Arunachal Pradesh,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Assam,aicrp;mitra2025,2,0,0,1,2020-21;2024-25
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Bihar,aicrp;mitra2025,2,0,0,1,1993;1996-97
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Chandigarh,aicrp,1,0,0,1,1996-97;1997
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Delhi,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Gujarat,aicrp,1,0,0,1,1988-89;1990-91;2020-21
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Haryana,aicrp;mitra2025,2,0,0,1,1985-87;1990-91
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Himachal Pradesh,aicrp;mitra2025,2,0,0,1,1996-97;1997
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Jammu & Kashmir,aicrp;mitra2025,2,0,0,1,1996-97
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Karnataka,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Maharashtra,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Meghalaya,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Odisha,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Punjab,aicrp;mitra2025,2,0,0,1,1987-88;1989;1990;1990-91;1992-94;1996-97;1997;2020-21;2021-22
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Rajasthan,aicrp,1,0,0,1,1996-97
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Sikkim,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Tamil Nadu,aicrp;mitra2025,2,0,0,1,1996-98
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Tripura,mitra2025,1,0,0,0,
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1992-94;1996-97;1997-98
+TEN0028,Brevipalpus phoenicis,Tenuipalpidae,West Bengal,aicrp;gb2017;mitra2018;mitra2025,4,0,0,1,1988-89;1990-91;1992-94;1996;1997-98;2020-21
+TEN0029,Brevipalpus phoenicoides,Tenuipalpidae,Karnataka,gm2023,1,1,1,0,
+TEN0029,Brevipalpus phoenicoides,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88
+TEN0030,Brevipalpus rica,Tenuipalpidae,Delhi,gm2023,1,1,1,0,
+TEN0030,Brevipalpus rica,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1985-87
+TEN0030,Brevipalpus rica,Tenuipalpidae,Karnataka,mitra2025,1,0,0,0,
+TEN0030,Brevipalpus rica,Tenuipalpidae,West Bengal,gb2017;mitra2018;mitra2025,3,0,0,0,
+TEN0031,Brevipalpus rugulosus,Tenuipalpidae,Karnataka,mitra2025,1,0,0,0,
+TEN0031,Brevipalpus rugulosus,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88;1996-97
+TEN0031,Brevipalpus rugulosus,Tenuipalpidae,Sikkim,gm2023;mitra2025,2,1,1,0,
+TEN0031,Brevipalpus rugulosus,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+TEN0031,Brevipalpus rugulosus,Tenuipalpidae,West Bengal,gb2017;gm2023;mitra2025,3,1,1,0,
+TEN0032,Brevipalpus tinsukiaensis,Tenuipalpidae,Assam,gm2023;mitra2025,2,1,1,0,
+TEN0032,Brevipalpus tinsukiaensis,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1985-87
+TEN0032,Brevipalpus tinsukiaensis,Tenuipalpidae,Punjab,aicrp,1,0,0,1,1987-88
+TEN0033,Brevipalpus turrialbensis,Tenuipalpidae,West Bengal,gb2017;mitra2018;mitra2025,3,0,0,0,
+TEN0034,Cenopalpus picitilis,Tenuipalpidae,West Bengal,gb2017;mitra2018;mitra2025,3,0,0,0,
+TEN0035,Cenopalpus pulcher,Tenuipalpidae,Assam,aicrp,1,0,0,1,2021-22
+TEN0035,Cenopalpus pulcher,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0035,Cenopalpus pulcher,Tenuipalpidae,West Bengal,mitra2025,1,0,0,0,
+TEN0036,Dolichotetranychus cocos,Tenuipalpidae,Kerala,gm2023;mitra2025,2,1,1,0,
+TEN0037,Dolichotetranychus elatariae,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0038,Dolichotetranychus floridanus,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0038,Dolichotetranychus floridanus,Tenuipalpidae,Kerala,aicrp;mitra2025,2,0,0,1,2024-25
+TEN0038,Dolichotetranychus floridanus,Tenuipalpidae,West Bengal,aicrp;gm2023;mitra2025,3,1,1,1,1988-89;1990-91;1992-94
+TEN0039,Dolichotetranychus ramaniae,Tenuipalpidae,Karnataka,aicrp;gm2023;mitra2025,3,1,1,1,1996-97
+TEN0039,Dolichotetranychus ramaniae,Tenuipalpidae,Kerala,gm2023,1,1,1,0,
+TEN0040,Dolichotetranychus repenae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0041,Dolichotetranychus tenellae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0042,Dolichotetranychus vandergooti,Tenuipalpidae,Kerala,gm2023;mitra2025,2,1,1,0,
+TEN0043,Krugeria ramosa,Tenuipalpidae,Andhra Pradesh,aicrp,1,0,0,1,1988-89
+TEN0043,Krugeria ramosa,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0044,Larvacarus transitans,Tenuipalpidae,Bihar,gm2023;mitra2025,2,1,1,0,
+TEN0044,Larvacarus transitans,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0044,Larvacarus transitans,Tenuipalpidae,Gujarat,aicrp,1,0,0,1,2020-21;2024-25
+TEN0044,Larvacarus transitans,Tenuipalpidae,Haryana,gm2023;mitra2025,2,1,1,0,
+TEN0044,Larvacarus transitans,Tenuipalpidae,Punjab,aicrp,1,0,0,1,2020-21;2021-22
+TEN0044,Larvacarus transitans,Tenuipalpidae,Rajasthan,gm2023;mitra2025,2,1,1,0,
+TEN0044,Larvacarus transitans,Tenuipalpidae,Tamil Nadu,aicrp,1,0,0,1,1992-94
+TEN0044,Larvacarus transitans,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1997-98
+TEN0044,Larvacarus transitans,Tenuipalpidae,West Bengal,gm2023;mitra2025,2,1,1,0,
+TEN0045,Neoraoiella euginae,Tenuipalpidae,Karnataka,gm2023,1,1,1,0,
+TEN0046,Obuloides rajamohani,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0047,Pentamerismus oregonensis,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0048,Phytoptipalpus albizziae,Tenuipalpidae,Assam,gm2023;mitra2025,2,1,1,0,
+TEN0049,Priscapalpus gurdaspurensis,Tenuipalpidae,Punjab,mitra2025,1,0,0,0,
+TEN0050,Priscapalpus piarai,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0051,Raoiella eugenia,Tenuipalpidae,Karnataka,mitra2025,1,0,0,0,
+TEN0052,Raoiella indica,Tenuipalpidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+TEN0052,Raoiella indica,Tenuipalpidae,Gujarat,aicrp,1,0,0,1,1988-89;1990-91;2020-21
+TEN0052,Raoiella indica,Tenuipalpidae,Karnataka,aicrp;gm2023;mitra2025,3,1,1,1,1988;1988-89;1996-97;1997-98
+TEN0052,Raoiella indica,Tenuipalpidae,Kerala,aicrp;gm2023;mitra2025,3,1,1,1,1990;1990-91;2024-25
+TEN0052,Raoiella indica,Tenuipalpidae,Odisha,gm2023;mitra2025,2,1,1,0,
+TEN0052,Raoiella indica,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0052,Raoiella indica,Tenuipalpidae,Tamil Nadu,aicrp;gm2023;mitra2025,3,1,1,1,1990;1996-98;2021-22;2024-25
+TEN0052,Raoiella indica,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88
+TEN0052,Raoiella indica,Tenuipalpidae,West Bengal,aicrp;gb2017;gm2023;mitra2025,4,1,1,1,1990-91;1992-94;1997-98
+TEN0053,Raoiella macfarlanei,Tenuipalpidae,Gujarat,aicrp;gm2023,2,1,1,1,1988-89
+TEN0053,Raoiella macfarlanei,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0053,Raoiella macfarlanei,Tenuipalpidae,Kerala,gm2023;mitra2025,2,1,1,0,
+TEN0053,Raoiella macfarlanei,Tenuipalpidae,West Bengal,mitra2025,1,0,0,0,
+TEN0054,Raoiella pandanae,Tenuipalpidae,Tamil Nadu,gm2023,1,1,1,0,
+TEN0055,Raoiella shimapana,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0056,Tenuilichus malvae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0057,Tenuilichus striatus,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0058,Tenuipalpus aboharensis,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0059,Tenuipalpus acacii,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0060,Tenuipalpus acuminatae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0061,Tenuipalpus amygdalusae,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0061,Tenuipalpus amygdalusae,Tenuipalpidae,Maharashtra,gm2023;mitra2025,2,1,1,0,
+TEN0061,Tenuipalpus amygdalusae,Tenuipalpidae,Punjab,mitra2025,1,0,0,0,
+TEN0062,Tenuipalpus bassiae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0062,Tenuipalpus bassiae,Tenuipalpidae,West Bengal,mitra2018;mitra2025,2,0,0,0,
+TEN0063,Tenuipalpus caudatus,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0064,Tenuipalpus cissampelosa,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0065,Tenuipalpus coimbatorensis,Tenuipalpidae,Tamil Nadu,mitra2025,1,0,0,0,
+TEN0066,Tenuipalpus crassulus,Tenuipalpidae,West Bengal,mitra2018;mitra2025,2,0,0,0,
+TEN0067,Tenuipalpus crassus,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0067,Tenuipalpus crassus,Tenuipalpidae,Sikkim,gm2023;mitra2025,2,1,1,0,
+TEN0067,Tenuipalpus crassus,Tenuipalpidae,West Bengal,aicrp;mitra2018;mitra2025,3,0,0,1,1992-94
+TEN0068,Tenuipalpus decus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0069,Tenuipalpus dimensus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0069,Tenuipalpus dimensus,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+TEN0070,Tenuipalpus erythrinae,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0070,Tenuipalpus erythrinae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0071,Tenuipalpus faresianus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0072,Tenuipalpus fici,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0073,Tenuipalpus ghaii,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0074,Tenuipalpus granati,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0074,Tenuipalpus granati,Tenuipalpidae,Tamil Nadu,aicrp,1,0,0,1,1996-98
+TEN0074,Tenuipalpus granati,Tenuipalpidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+TEN0075,Tenuipalpus guptai,Tenuipalpidae,Himachal Pradesh,gm2023;mitra2025,2,1,1,0,
+TEN0075,Tenuipalpus guptai,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0076,Tenuipalpus hastaligni,Tenuipalpidae,Andaman & Nicobar Islands,gm2023;mitra2025,2,1,1,0,
+TEN0077,Tenuipalpus indicus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0077,Tenuipalpus indicus,Tenuipalpidae,Haryana,mitra2025,1,0,0,0,
+TEN0077,Tenuipalpus indicus,Tenuipalpidae,Punjab,mitra2025,1,0,0,0,
+TEN0077,Tenuipalpus indicus,Tenuipalpidae,West Bengal,mitra2025,1,0,0,0,
+TEN0078,Tenuipalpus ixorae,Tenuipalpidae,Uttar Pradesh,gm2023;mitra2025,2,1,1,0,
+TEN0079,Tenuipalpus jagatkhanaensis,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88
+TEN0080,Tenuipalpus kesari,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88
+TEN0081,Tenuipalpus lalbaghensis,Tenuipalpidae,Karnataka,aicrp;gm2023;mitra2025,3,1,1,1,1990-91
+TEN0082,Tenuipalpus laminasetae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0083,Tenuipalpus leguminae,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0083,Tenuipalpus leguminae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0084,Tenuipalpus leipoldti,Tenuipalpidae,West Bengal,mitra2018;mitra2025,2,0,0,0,
+TEN0085,Tenuipalpus leptadeniae,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0085,Tenuipalpus leptadeniae,Tenuipalpidae,West Bengal,gb2017;mitra2018,2,0,0,0,
+TEN0086,Tenuipalpus ludhianaensis,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88
+TEN0087,Tenuipalpus malligai,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0088,Tenuipalpus mallotae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0089,Tenuipalpus micheli,Tenuipalpidae,Andaman & Nicobar Islands,gm2023;mitra2025,2,1,1,0,
+TEN0089,Tenuipalpus micheli,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0089,Tenuipalpus micheli,Tenuipalpidae,Tripura,gm2023;mitra2025,2,1,1,0,
+TEN0089,Tenuipalpus micheli,Tenuipalpidae,West Bengal,gm2023;mitra2025,2,1,1,0,
+TEN0090,Tenuipalpus mustus,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1996-97
+TEN0091,Tenuipalpus pernicis,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0091,Tenuipalpus pernicis,Tenuipalpidae,West Bengal,gm2023;mitra2025,2,1,1,0,
+TEN0092,Tenuipalpus persicae,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0093,Tenuipalpus pruni,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0093,Tenuipalpus pruni,Tenuipalpidae,Himachal Pradesh,mitra2025,1,0,0,0,
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,Himachal Pradesh,gm2023;mitra2025,2,1,1,0,
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,Meghalaya,gm2023;mitra2025,2,1,1,0,
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,2020-21;2021-22
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,Rajasthan,aicrp,1,0,0,1,2021-22
+TEN0094,Tenuipalpus punicae,Tenuipalpidae,West Bengal,mitra2025,1,0,0,0,
+TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1990-91
+TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,Meghalaya,gm2023;mitra2025,2,1,1,0,
+TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1992-94;1996-97;1997
+TEN0095,Tenuipalpus punjabensis,Tenuipalpidae,Tripura,gm2023;mitra2025,2,1,1,0,
+TEN0096,Tenuipalpus pyrusae,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0097,Tenuipalpus sharmai,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88
+TEN0098,Tenuipalpus solanensis,Tenuipalpidae,Himachal Pradesh,mitra2025,1,0,0,0,
+TEN0098,Tenuipalpus solanensis,Tenuipalpidae,Punjab,aicrp;gm2023;mitra2025,3,1,1,1,1987-88
+TEN0099,Tenuipalpus tectonae,Tenuipalpidae,Goa,gm2023;mitra2025,2,1,1,0,
+TEN0099,Tenuipalpus tectonae,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0100,Tenuipalpus tetrazygae,Tenuipalpidae,Andaman & Nicobar Islands,gm2023;mitra2025,2,1,1,0,
+TEN0101,Tenuipalpus trifoliatae,Tenuipalpidae,Tamil Nadu,mitra2025,1,0,0,0,
+TEN0102,Tenuipalpus vriddagiriensis,Tenuipalpidae,Karnataka,mitra2025,1,0,0,0,
+TEN0102,Tenuipalpus vriddagiriensis,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0103,Tenuipalpus yousefi,Tenuipalpidae,Delhi,mitra2025,1,0,0,0,
+TEN0104,Tenuipalpus zizyphae,Tenuipalpidae,Karnataka,gm2023;mitra2025,2,1,1,0,
+TEN0105,Tenuipalus triflorate,Tenuipalpidae,Tamil Nadu,gm2023,1,1,1,0,
+TEN0106,Terminalichus dehlonensis,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0107,Terminalichus delhiensis,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0108,Terminalichus karachiensis,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0109,Terminalichus panajiensis,Tenuipalpidae,Goa,gm2023;mitra2025,2,1,1,0,
+TEN0109,Terminalichus panajiensis,Tenuipalpidae,Karnataka,aicrp,1,0,0,1,1990-91
+TEN0110,Terminalichus psidi,Tenuipalpidae,Tamil Nadu,gm2023;mitra2025,2,1,1,0,
+TEN0111,Terminalichus serratus,Tenuipalpidae,Delhi,gm2023;mitra2025,2,1,1,0,
+TEN0111,Terminalichus serratus,Tenuipalpidae,Haryana,aicrp,1,0,0,1,1990-91
+TEN0112,Ultratenuipalpus gonianensis,Tenuipalpidae,Punjab,gm2023;mitra2025,2,1,1,0,
+TEN0113,Ultratenuipalpus meekeri,Tenuipalpidae,Assam,gm2023;mitra2025,2,1,1,0,
+TEN0114,Ultratenuipalpus quadrisetosus,Tenuipalpidae,Andaman & Nicobar Islands,gm2023;mitra2025,2,1,1,0,
+TET0001,Aplonobia sphaeralceae,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0001,Aplonobia sphaeralceae,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0001,Aplonobia sphaeralceae,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0002,Aponychus bambusae,Tetranychidae,Arunachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0002,Aponychus bambusae,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Sikkim,gm2023,1,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Tamil Nadu,chalil2024,1,0,0,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0003,Aponychus corpuzae,Tetranychidae,West Bengal,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990-91;2020-21
+TET0004,Aponychus kodaikanalensis,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0005,Aponychus mallotus,Tetranychidae,Bihar,chalil2024,1,0,0,0,
+TET0005,Aponychus mallotus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0006,Aponychus sarjui,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0007,Aponychus sulcatus,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,Gujarat,chalil2024,1,0,0,0,
+TET0008,Bryobia eharai,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,Maharashtra,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,Meghalaya,chalil2024,1,0,0,0,
+TET0008,Bryobia eharai,Tetranychidae,Punjab,chalil2024,1,0,0,0,
+TET0008,Bryobia eharai,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0008,Bryobia eharai,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Assam,chalil2024,1,0,0,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22
+TET0009,Bryobia praetiosa,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0009,Bryobia praetiosa,Tetranychidae,Uttarakhand,aicrp,1,0,1,1,1987-88
+TET0009,Bryobia praetiosa,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0010,Bryobia rubrioculus,Tetranychidae,Himachal Pradesh,aicrp;chalil2024,2,0,0,1,2024-25
+TET0010,Bryobia rubrioculus,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0011,Bryobiella punjabensis,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0013,Eotetranychus broodryki,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0013,Eotetranychus broodryki,Tetranychidae,Arunachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0013,Eotetranychus broodryki,Tetranychidae,Gujarat,aicrp,1,0,0,1,1988-89
+TET0013,Eotetranychus broodryki,Tetranychidae,Karnataka,aicrp;gm2023,2,1,1,1,1990;1992-94
+TET0013,Eotetranychus broodryki,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0014,Eotetranychus communis,Tetranychidae,Rajasthan,chalil2024;gm2023,2,1,1,0,
+TET0014,Eotetranychus communis,Tetranychidae,Uttar Pradesh,chalil2024,1,0,0,0,
+TET0015,Eotetranychus fremonti,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0015,Eotetranychus fremonti,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0015,Eotetranychus fremonti,Tetranychidae,Karnataka,aicrp,1,0,0,1,1988-89
+TET0015,Eotetranychus fremonti,Tetranychidae,West Bengal,chalil2024;gb2017,2,0,0,0,
+TET0016,Eotetranychus frosti,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0016,Eotetranychus frosti,Tetranychidae,Chhattisgarh,chalil2024,1,0,1,0,
+TET0016,Eotetranychus frosti,Tetranychidae,Gujarat,chalil2024;gm2023,2,1,1,0,
+TET0016,Eotetranychus frosti,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0016,Eotetranychus frosti,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0016,Eotetranychus frosti,Tetranychidae,Madhya Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0017,Eotetranychus hicoriae,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0017,Eotetranychus hicoriae,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Andhra Pradesh,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Bihar,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Chandigarh,aicrp,1,0,0,1,1992-94;1996-97;1997
+TET0018,Eotetranychus hirsti,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Himachal Pradesh,aicrp,1,0,0,1,1992-94;1996-97;1997
+TET0018,Eotetranychus hirsti,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Meghalaya,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Punjab,aicrp;chalil2024,2,0,0,1,1992-94;1996-97;1997
+TET0018,Eotetranychus hirsti,Tetranychidae,Tamil Nadu,chalil2024,1,0,0,0,
+TET0018,Eotetranychus hirsti,Tetranychidae,Uttar Pradesh,aicrp;chalil2024,2,0,0,1,1987-88;1990-91;1997-98
+TET0018,Eotetranychus hirsti,Tetranychidae,West Bengal,chalil2024;gb2017,2,0,0,0,
+TET0019,Eotetranychus hypogeae,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0020,Eotetranychus indicus,Tetranychidae,Arunachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0020,Eotetranychus indicus,Tetranychidae,Sikkim,gm2023,1,1,1,0,
+TET0020,Eotetranychus indicus,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0021,Eotetranychus irregularis,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0022,Eotetranychus kankitus,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0022,Eotetranychus kankitus,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0022,Eotetranychus kankitus,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0022,Eotetranychus kankitus,Tetranychidae,Tamil Nadu,gm2023,1,1,1,0,
+TET0022,Eotetranychus kankitus,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0022,Eotetranychus kankitus,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0023,Eotetranychus ladakhensis,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0023,Eotetranychus ladakhensis,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0023,Eotetranychus ladakhensis,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0024,Eotetranychus limonae,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0025,Eotetranychus mandensis,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0026,Eotetranychus multidigituli,Tetranychidae,Gujarat,chalil2024,1,0,0,0,
+TET0026,Eotetranychus multidigituli,Tetranychidae,Punjab,gm2023,1,1,1,0,
+TET0027,Eotetranychus nanningensis,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0027,Eotetranychus nanningensis,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0028,Eotetranychus neoperplexus,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0029,Eotetranychus pamelae,Tetranychidae,Arunachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0029,Eotetranychus pamelae,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0029,Eotetranychus pamelae,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0029,Eotetranychus pamelae,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0029,Eotetranychus pamelae,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0030,Eotetranychus populi,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0031,Eotetranychus pruni,Tetranychidae,Jammu & Kashmir,gm2023,1,1,1,0,
+TET0032,Eotetranychus rajouriensis,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0032,Eotetranychus rajouriensis,Tetranychidae,Gujarat,aicrp,1,0,0,1,1988-89
+TET0032,Eotetranychus rajouriensis,Tetranychidae,Karnataka,aicrp;chalil2024,2,0,0,1,1990-91
+TET0032,Eotetranychus rajouriensis,Tetranychidae,Telangana,aicrp,1,0,0,1,1988-89
+TET0033,Eotetranychus ranikhetensis,Tetranychidae,Uttar Pradesh,chalil2024,1,0,1,0,
+TET0033,Eotetranychus ranikhetensis,Tetranychidae,Uttarakhand,gm2023,1,1,1,0,
+TET0034,Eotetranychus rohilae,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Gujarat,chalil2024,1,0,0,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Tamil Nadu,gm2023,1,1,1,0,
+TET0035,Eotetranychus sexmaculatus,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0036,Eotetranychus strychonsi,Tetranychidae,Karnataka,gm2023,1,1,1,0,
+TET0037,Eotetranychus suginamensis,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0037,Eotetranychus suginamensis,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0037,Eotetranychus suginamensis,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0038,Eotetranychus syzygii,Tetranychidae,Madhya Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0039,Eotetranychus thailandicus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0040,Eotetranychus truncates,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0040,Eotetranychus truncates,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0041,Eotetranychus uncatus,Tetranychidae,Meghalaya,gm2023,1,1,1,0,
+TET0041,Eotetranychus uncatus,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1990-91;1997-98
+TET0041,Eotetranychus uncatus,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0042,Eotetranychus weldoni,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0043,Eutetranychus africanus,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0043,Eutetranychus africanus,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0043,Eutetranychus africanus,Tetranychidae,Haryana,aicrp,1,0,0,1,1990-91
+TET0043,Eutetranychus africanus,Tetranychidae,Himachal Pradesh,chalil2024,1,0,0,0,
+TET0043,Eutetranychus africanus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0043,Eutetranychus africanus,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0043,Eutetranychus africanus,Tetranychidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88
+TET0043,Eutetranychus africanus,Tetranychidae,West Bengal,chalil2024;gb2017;gm2023,3,1,1,0,
+TET0044,Eutetranychus banksi,Tetranychidae,Uttar Pradesh,chalil2024,1,0,0,0,
+TET0045,Eutetranychus bilobatus,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0046,Eutetranychus bredini,Tetranychidae,Assam,chalil2024,1,0,0,0,
+TET0046,Eutetranychus bredini,Tetranychidae,Haryana,aicrp,1,0,0,1,1990-91
+TET0046,Eutetranychus bredini,Tetranychidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88
+TET0047,Eutetranychus caricae,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0048,Eutetranychus citri,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0049,Eutetranychus maximae,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0049,Eutetranychus maximae,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017,3,0,0,1,1988-89;1990-91;1992-94
+TET0050,Eutetranychus nagai,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Andhra Pradesh,aicrp;gm2023,2,1,1,1,1990-91
+TET0051,Eutetranychus orientalis,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Assam,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2024-25
+TET0051,Eutetranychus orientalis,Tetranychidae,Bihar,aicrp;gm2023,2,1,1,1,1990-91;2020-21
+TET0051,Eutetranychus orientalis,Tetranychidae,Chhattisgarh,chalil2024,1,0,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Gujarat,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;2020-21
+TET0051,Eutetranychus orientalis,Tetranychidae,Haryana,aicrp;chalil2024;gm2023,3,1,1,1,1990-91
+TET0051,Eutetranychus orientalis,Tetranychidae,Himachal Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1992-94;1996-97;1997;2024-25
+TET0051,Eutetranychus orientalis,Tetranychidae,Jammu & Kashmir,chalil2024,1,0,0,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990;1990-91;1996-97
+TET0051,Eutetranychus orientalis,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2020-21;2024-25
+TET0051,Eutetranychus orientalis,Tetranychidae,Madhya Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Maharashtra,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,1990;1992-94;1996-97;1997;2020-21;2021-22
+TET0051,Eutetranychus orientalis,Tetranychidae,Rajasthan,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22
+TET0051,Eutetranychus orientalis,Tetranychidae,Sikkim,gm2023,1,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,1990;1996-98;2021-22
+TET0051,Eutetranychus orientalis,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0051,Eutetranychus orientalis,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1987-88;1990-91;1992-94;1996-97;1997-98
+TET0051,Eutetranychus orientalis,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1988-89;1990-91;1992-94;1997-98;2020-21
+TET0052,Eutetranychus pantopus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0053,Eutetranychus phaseoli,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0053,Eutetranychus phaseoli,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0053,Eutetranychus phaseoli,Tetranychidae,West Bengal,chalil2024;gb2017;gm2023,3,1,1,0,
+TET0054,Hellenychus umfoloziensis,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0055,Mesobryobia jobneri,Tetranychidae,Rajasthan,chalil2024;gm2023,2,1,1,0,
+TET0056,Mesobryobia terpoghossiani,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0056,Mesobryobia terpoghossiani,Tetranychidae,Rajasthan,chalil2024,1,0,0,0,
+TET0057,Mixonychus (Bakerina) aculus,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0057,Mixonychus (Bakerina) aculus,Tetranychidae,West Bengal,chalil2024;gb2017,2,0,0,0,
+TET0058,Mixonychus (Bakerina) orissaensis,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0059,Mixonychus (Tylonychus) jayaraji,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0060,Mononychellus mcgregori,Tetranychidae,Karnataka,add2026,1,0,0,0,
+TET0061,Neopetrobia (Neopetrobia) simlaensis,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0061,Neopetrobia (Neopetrobia) simlaensis,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0062,Oligonychus bambusae,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0062,Oligonychus bambusae,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0062,Oligonychus bambusae,Tetranychidae,Uttar Pradesh,chalil2024,1,0,0,0,
+TET0063,Oligonychus bellarensis,Tetranychidae,Karnataka,add2026,1,0,0,0,
+TET0064,Oligonychus biharensis,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0064,Oligonychus biharensis,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0064,Oligonychus biharensis,Tetranychidae,Bihar,chalil2024;gm2023,2,1,1,0,
+TET0064,Oligonychus biharensis,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0064,Oligonychus biharensis,Tetranychidae,Gujarat,aicrp;chalil2024;gm2023,3,1,1,1,1988-89
+TET0064,Oligonychus biharensis,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990;1990-91;1996-97;1997-98
+TET0064,Oligonychus biharensis,Tetranychidae,Kerala,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22;2024-25
+TET0064,Oligonychus biharensis,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,2024-25
+TET0064,Oligonychus biharensis,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0064,Oligonychus biharensis,Tetranychidae,West Bengal,aicrp;chalil2024;gm2023,3,1,1,1,2020-21
+TET0065,Oligonychus coffeae,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Assam,aicrp;chalil2024;gm2023,3,1,1,1,2020-21
+TET0065,Oligonychus coffeae,Tetranychidae,Chhattisgarh,chalil2024,1,0,0,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Himachal Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1992-94
+TET0065,Oligonychus coffeae,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0065,Oligonychus coffeae,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,1996-98;2024-25
+TET0065,Oligonychus coffeae,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0065,Oligonychus coffeae,Tetranychidae,West Bengal,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990-91;1992-94;2020-21
+TET0066,Oligonychus coniferarum,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0066,Oligonychus coniferarum,Tetranychidae,Uttar Pradesh,chalil2024,1,0,0,0,
+TET0067,Oligonychus duncombei,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0068,Oligonychus gossypii,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0068,Oligonychus gossypii,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0069,Oligonychus grypus,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0069,Oligonychus grypus,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2024-25
+TET0070,Oligonychus indicus,Tetranychidae,Andhra Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1990-91
+TET0070,Oligonychus indicus,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,Assam,aicrp;gm2023,2,1,1,1,2020-21;2024-25
+TET0070,Oligonychus indicus,Tetranychidae,Bihar,aicrp;chalil2024;gm2023,3,1,1,1,1993;1996-97
+TET0070,Oligonychus indicus,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,Gujarat,aicrp,1,0,0,1,1988-89;1990-91;2020-21
+TET0070,Oligonychus indicus,Tetranychidae,Haryana,chalil2024;gm2023,2,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,Himachal Pradesh,aicrp,1,0,0,1,1996-97;1997
+TET0070,Oligonychus indicus,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1988;1990
+TET0070,Oligonychus indicus,Tetranychidae,Kerala,aicrp,1,0,0,1,2020-21
+TET0070,Oligonychus indicus,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0070,Oligonychus indicus,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,1992-94;1996-97;1997;2020-21;2021-22
+TET0070,Oligonychus indicus,Tetranychidae,Sikkim,gm2023,1,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,1988;1996-98;2024-25
+TET0070,Oligonychus indicus,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0070,Oligonychus indicus,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1988-89;1990-91;1992-94;1997-98;2020-21
+TET0071,Oligonychus iseilemae,Tetranychidae,Andaman & Nicobar Islands,chalil2024,1,0,0,0,
+TET0071,Oligonychus iseilemae,Tetranychidae,Andhra Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0071,Oligonychus iseilemae,Tetranychidae,Chhattisgarh,chalil2024,1,0,0,0,
+TET0071,Oligonychus iseilemae,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0071,Oligonychus iseilemae,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0071,Oligonychus iseilemae,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0072,Oligonychus mangiferus,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+TET0072,Oligonychus mangiferus,Tetranychidae,Bihar,aicrp;chalil2024;gm2023,3,1,1,1,1990-91;2020-21
+TET0072,Oligonychus mangiferus,Tetranychidae,Chhattisgarh,chalil2024,1,0,0,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Gujarat,aicrp;chalil2024;gm2023,3,1,1,1,2020-21
+TET0072,Oligonychus mangiferus,Tetranychidae,Haryana,chalil2024;gm2023,2,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Himachal Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1989;1990-91
+TET0072,Oligonychus mangiferus,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990
+TET0072,Oligonychus mangiferus,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,1989;1990;1990-91;1992-94;1996-97;1997
+TET0072,Oligonychus mangiferus,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0072,Oligonychus mangiferus,Tetranychidae,Uttar Pradesh,aicrp;chalil2024,2,0,0,1,1987-88;1997-98
+TET0072,Oligonychus mangiferus,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1990;1990-91;1992-94;1997-98;2020-21
+TET0073,Oligonychus manishi,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0074,Oligonychus martensis,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0075,Oligonychus neotylus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0076,Oligonychus oryzae,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0076,Oligonychus oryzae,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0076,Oligonychus oryzae,Tetranychidae,Gujarat,aicrp,1,0,0,1,2020-21
+TET0076,Oligonychus oryzae,Tetranychidae,Karnataka,aicrp;chalil2024,2,0,0,1,1990;1997-98
+TET0076,Oligonychus oryzae,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2020-21;2021-22;2024-25
+TET0076,Oligonychus oryzae,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0076,Oligonychus oryzae,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0076,Oligonychus oryzae,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,2024-25
+TET0076,Oligonychus oryzae,Tetranychidae,Telangana,aicrp,1,0,0,1,1988-89
+TET0076,Oligonychus oryzae,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0076,Oligonychus oryzae,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1988-89;1990-91;1992-94;2020-21
+TET0077,Oligonychus plegas,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0078,Oligonychus ponmanaiensis,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0079,Oligonychus pratensis,Tetranychidae,Karnataka,aicrp,1,0,0,1,1990
+TET0079,Oligonychus pratensis,Tetranychidae,West Bengal,gm2023,1,1,1,0,
+TET0080,Oligonychus punicae,Tetranychidae,Andhra Pradesh,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Bihar,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Haryana,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Meghalaya,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Odisha,chalil2024,1,0,0,0,
+TET0080,Oligonychus punicae,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0080,Oligonychus punicae,Tetranychidae,Rajasthan,chalil2024;gm2023,2,1,1,0,
+TET0080,Oligonychus punicae,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2024-25
+TET0080,Oligonychus punicae,Tetranychidae,Uttar Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0080,Oligonychus punicae,Tetranychidae,West Bengal,chalil2024;gb2017,2,0,0,0,
+TET0081,Oligonychus sacchari,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0081,Oligonychus sacchari,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0081,Oligonychus sacchari,Tetranychidae,Gujarat,chalil2024;gm2023,2,1,1,0,
+TET0081,Oligonychus sacchari,Tetranychidae,Madhya Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0081,Oligonychus sacchari,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0081,Oligonychus sacchari,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,1996-98
+TET0081,Oligonychus sacchari,Tetranychidae,West Bengal,aicrp;chalil2024;gm2023,3,1,1,1,2020-21
+TET0082,Oligonychus saccharinus,Tetranychidae,Tamil Nadu,gm2023,1,1,1,0,
+TET0083,Oligonychus sapienticolus,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0084,Oligonychus thelytokus,Tetranychidae,Karnataka,aicrp;chalil2024,2,0,0,1,1990;1996-97
+TET0085,Oligonychus tylus,Tetranychidae,Gujarat,aicrp;chalil2024,2,0,0,1,2024-25
+TET0085,Oligonychus tylus,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0085,Oligonychus tylus,Tetranychidae,Kerala,aicrp,1,0,0,1,2020-21;2021-22;2024-25
+TET0085,Oligonychus tylus,Tetranychidae,Maharashtra,chalil2024;gm2023,2,1,1,0,
+TET0085,Oligonychus tylus,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2024-25
+TET0086,Oligonychus vitis,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0086,Oligonychus vitis,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0087,Panonychus citri,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Andhra Pradesh,gm2023,1,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Himachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Karnataka,aicrp,1,0,0,1,1988-89
+TET0087,Panonychus citri,Tetranychidae,Manipur,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Punjab,chalil2024,1,0,0,0,
+TET0087,Panonychus citri,Tetranychidae,Sikkim,gm2023,1,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Tripura,chalil2024;gm2023,2,1,1,0,
+TET0087,Panonychus citri,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1987-88;1997-98
+TET0087,Panonychus citri,Tetranychidae,Uttarakhand,aicrp,1,0,1,1,1987-88
+TET0087,Panonychus citri,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1988-89;1990-91;1992-94
+TET0088,Panonychus elongatus,Tetranychidae,Karnataka,gm2023,1,1,1,0,
+TET0088,Panonychus elongatus,Tetranychidae,Sikkim,chalil2024,1,0,0,0,
+TET0089,Panonychus ulmi,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0089,Panonychus ulmi,Tetranychidae,Himachal Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22;2024-25
+TET0089,Panonychus ulmi,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0089,Panonychus ulmi,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0089,Panonychus ulmi,Tetranychidae,Punjab,aicrp,1,0,0,1,2020-21
+TET0089,Panonychus ulmi,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1987-88;1997-98
+TET0089,Panonychus ulmi,Tetranychidae,Uttarakhand,aicrp,1,0,1,1,1987-88
+TET0089,Panonychus ulmi,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Assam,gm2023,1,1,1,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Bihar,aicrp;chalil2024,2,0,0,1,1988-89;1996-97
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Gujarat,aicrp,1,0,0,1,2024-25
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Haryana,chalil2024,1,0,0,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Jammu & Kashmir,chalil2024;gm2023,2,1,1,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Rajasthan,aicrp;chalil2024,2,0,0,1,1989;2020-21;2021-22
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,Uttar Pradesh,chalil2024,1,0,0,0,
+TET0090,Petrobia (Petrobia) latens,Tetranychidae,West Bengal,aicrp;gm2023,2,1,1,1,1988-89;1990-91;1997-98
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Jammu & Kashmir,chalil2024,1,0,0,0,
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1988;1988-89;1990
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,Punjab,aicrp;chalil2024,2,0,0,1,2020-21;2021-22
+TET0091,Petrobia (Tetranychina) harti,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1988-89;1990-91;1997-98
+TET0092,Porcupinychus abutiloni,Tetranychidae,Gujarat,chalil2024;gm2023,2,1,1,0,
+TET0092,Porcupinychus abutiloni,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0092,Porcupinychus abutiloni,Tetranychidae,West Bengal,chalil2024;gb2017,2,0,0,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Bihar,chalil2024;gm2023,2,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Chhattisgarh,chalil2024,1,0,0,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Gujarat,aicrp;chalil2024;gm2023,3,1,1,1,2020-21
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Haryana,chalil2024;gm2023,2,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Kerala,aicrp;chalil2024;gm2023,3,1,1,1,2024-25
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Meghalaya,gm2023,1,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,1992-94;1996-97
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,1990;1996-98
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0093,Schizotetranychus andropogoni,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1987-88
+TET0093,Schizotetranychus andropogoni,Tetranychidae,West Bengal,aicrp;chalil2024;gm2023,3,1,1,1,1990-91;1992-94
+TET0094,Schizotetranychus approximatus,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0095,Schizotetranychus asparagi,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,Bihar,gm2023,1,1,1,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,Gujarat,aicrp,1,0,0,1,2024-25
+TET0096,Schizotetranychus baltazari,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,Kerala,aicrp,1,0,0,1,2020-21;2021-22;2024-25
+TET0096,Schizotetranychus baltazari,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,Punjab,chalil2024,1,0,0,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2024-25
+TET0096,Schizotetranychus baltazari,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0096,Schizotetranychus baltazari,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1990;2020-21
+TET0097,Schizotetranychus cajani,Tetranychidae,Andhra Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Assam,aicrp,1,0,0,1,2024-25
+TET0097,Schizotetranychus cajani,Tetranychidae,Bihar,chalil2024,1,0,0,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Gujarat,chalil2024,1,0,0,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Haryana,gm2023,1,1,1,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Karnataka,aicrp,1,0,0,1,1988
+TET0097,Schizotetranychus cajani,Tetranychidae,Mizoram,gm2023,1,1,1,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,1990;1990-91
+TET0097,Schizotetranychus cajani,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0097,Schizotetranychus cajani,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1990-91;1992-94;2020-21
+TET0098,Schizotetranychus chiangmaiensis,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0099,Schizotetranychus fluvialis,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0099,Schizotetranychus fluvialis,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0099,Schizotetranychus fluvialis,Tetranychidae,Tamil Nadu,chalil2024,1,0,0,0,
+TET0100,Schizotetranychus hindustanicus,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0100,Schizotetranychus hindustanicus,Tetranychidae,Kerala,chalil2024;gm2023,2,1,1,0,
+TET0100,Schizotetranychus hindustanicus,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0100,Schizotetranychus hindustanicus,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,2024-25
+TET0100,Schizotetranychus hindustanicus,Tetranychidae,West Bengal,chalil2024;gm2023,2,1,1,0,
+TET0101,Schizotetranychus indicus,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0102,Schizotetranychus kochummeni,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Andhra Pradesh,chalil2024,1,0,0,0,
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Gujarat,aicrp;chalil2024,2,0,0,1,2024-25
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Haryana,aicrp,1,0,0,1,2021-22
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2021-22;2024-25
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Punjab,aicrp;chalil2024,2,0,0,1,2020-21;2021-22
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2024-25
+TET0103,Schizotetranychus krungthepensis,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0104,Schizotetranychus laevidorsatus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0104,Schizotetranychus laevidorsatus,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0105,Schizotetranychus lespedezae,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0105,Schizotetranychus lespedezae,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2024-25
+TET0106,Schizotetranychus mansoni,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0106,Schizotetranychus mansoni,Tetranychidae,Arunachal Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0106,Schizotetranychus mansoni,Tetranychidae,Kerala,aicrp,1,0,0,1,2024-25
+TET0106,Schizotetranychus mansoni,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,2024-25
+TET0106,Schizotetranychus mansoni,Tetranychidae,West Bengal,gm2023,1,1,1,0,
+TET0107,Schizotetranychus recki,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0108,Schizotetranychus reticulatus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0109,Schizotetranychus schizopus,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0110,Schizotetranychus spiculus,Tetranychidae,Karnataka,gm2023,1,1,1,0,
+TET0110,Schizotetranychus spiculus,Tetranychidae,Tamil Nadu,chalil2024,1,0,0,0,
+TET0111,Schizotetranychus spireafolia,Tetranychidae,Andhra Pradesh,chalil2024,1,0,0,0,
+TET0111,Schizotetranychus spireafolia,Tetranychidae,Bihar,chalil2024,1,0,0,0,
+TET0111,Schizotetranychus spireafolia,Tetranychidae,Gujarat,chalil2024,1,0,0,0,
+TET0111,Schizotetranychus spireafolia,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0111,Schizotetranychus spireafolia,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0112,Schizotetranychus tephrosiae,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0113,Schizotetranychus undulatus,Tetranychidae,Punjab,chalil2024;gm2023,2,1,1,0,
+TET0114,Stigmaeopsis longus,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0115,Stigmaeopsis meghalayensis,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0116,Stylophoronychus baghensis,Tetranychidae,Bihar,chalil2024;gm2023,2,1,1,0,
+TET0116,Stylophoronychus baghensis,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0116,Stylophoronychus baghensis,Tetranychidae,Meghalaya,chalil2024;gm2023,2,1,1,0,
+TET0117,Stylophoronychus lalii,Tetranychidae,Bihar,chalil2024;gm2023,2,1,1,0,
+TET0117,Stylophoronychus lalii,Tetranychidae,Karnataka,aicrp,1,0,0,1,1990-91
+TET0118,Stylophoronychus vannus,Tetranychidae,Arunachal Pradesh,chalil2024,1,0,0,0,
+TET0118,Stylophoronychus vannus,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0118,Stylophoronychus vannus,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0118,Stylophoronychus vannus,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0119,Swarnanychus bandipurensis,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0119,Swarnanychus bandipurensis,Tetranychidae,Tamil Nadu,chalil2024,1,0,0,0,
+TET0120,Tenuipalponychus citri,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0121,Tetranychus afrindicus,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0122,Tetranychus angolensis,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0123,Tetranychus bambusae,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0123,Tetranychus bambusae,Tetranychidae,Punjab,gm2023,1,1,1,0,
+TET0124,Tetranychus bellottii,Tetranychidae,Karnataka,gm2023,1,1,1,0,
+TET0124,Tetranychus bellottii,Tetranychidae,Kerala,chalil2024,1,0,0,0,
+TET0125,Tetranychus caricae,Tetranychidae,West Bengal,add2026,1,0,0,0,
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Bihar,aicrp,1,0,0,1,1990-91;1993;1996-97
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Chandigarh,aicrp,1,0,0,1,1992-94;1996-97;1997
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Gujarat,aicrp,1,0,0,1,1988-89
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Haryana,aicrp,1,0,0,1,1990-91
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Himachal Pradesh,aicrp,1,0,0,1,1989;1996-97
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Jammu & Kashmir,aicrp,1,0,0,1,1996-97
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Karnataka,aicrp,1,0,0,1,1988
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Odisha,aicrp,1,0,0,1,1988-89
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Punjab,aicrp,1,0,0,1,1990;1990-91;1992-94;1996-97;1997
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,1988;1990;1992-94;1996-98
+TET0126,Tetranychus cinnabarinus,Tetranychidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1990-91;1992-94;1996-97;1997-98
+TET0126,Tetranychus cinnabarinus,Tetranychidae,West Bengal,aicrp,1,0,0,1,1988-89;1990-91;1992-94;1996;1997-98
+TET0127,Tetranychus fijiensis,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0127,Tetranychus fijiensis,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0127,Tetranychus fijiensis,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0127,Tetranychus fijiensis,Tetranychidae,Gujarat,aicrp,1,0,0,1,2020-21
+TET0127,Tetranychus fijiensis,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990;1992-94;1996-97
+TET0127,Tetranychus fijiensis,Tetranychidae,Kerala,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22;2024-25
+TET0127,Tetranychus fijiensis,Tetranychidae,Tamil Nadu,chalil2024;gm2023,2,1,1,0,
+TET0127,Tetranychus fijiensis,Tetranychidae,West Bengal,aicrp;chalil2024,2,0,0,1,1988-89;1990-91
+TET0128,Tetranychus gloveri,Tetranychidae,Assam,aicrp,1,0,0,1,2024-25
+TET0128,Tetranychus gloveri,Tetranychidae,Kerala,aicrp;gm2023,2,1,1,1,2020-21;2021-22;2024-25
+TET0128,Tetranychus gloveri,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,2024-25
+TET0129,Tetranychus hirsutus,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0130,Tetranychus hydrangea,Tetranychidae,Delhi,gm2023,1,1,1,0,
+TET0131,Tetranychus hypogeae,Tetranychidae,Meghalaya,gm2023,1,1,1,0,
+TET0131,Tetranychus hypogeae,Tetranychidae,Tripura,gm2023,1,1,1,0,
+TET0131,Tetranychus hypogeae,Tetranychidae,West Bengal,chalil2024;gb2017;gm2023,3,1,1,0,
+TET0132,Tetranychus kanzawai,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0132,Tetranychus kanzawai,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0132,Tetranychus kanzawai,Tetranychidae,Kerala,aicrp,1,0,0,1,2024-25
+TET0133,Tetranychus lombardinii,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0133,Tetranychus lombardinii,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0133,Tetranychus lombardinii,Tetranychidae,Kerala,aicrp,1,0,0,1,2020-21
+TET0133,Tetranychus lombardinii,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,2024-25
+TET0134,Tetranychus ludeni,Tetranychidae,Andhra Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Bihar,aicrp;chalil2024;gm2023,3,1,1,1,1988;1990-91;1993;1996-97
+TET0134,Tetranychus ludeni,Tetranychidae,Chandigarh,aicrp,1,0,1,1,1992-94;1996-97
+TET0134,Tetranychus ludeni,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Gujarat,aicrp;chalil2024;gm2023,3,1,1,1,1990-91;2020-21
+TET0134,Tetranychus ludeni,Tetranychidae,Haryana,aicrp;chalil2024;gm2023,3,1,1,1,1990-91;1992-94;1996-97;1997
+TET0134,Tetranychus ludeni,Tetranychidae,Himachal Pradesh,aicrp,1,0,0,1,1988;2024-25
+TET0134,Tetranychus ludeni,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1990;1992-94;1996-97
+TET0134,Tetranychus ludeni,Tetranychidae,Kerala,aicrp;chalil2024;gm2023,3,1,1,1,2020-21;2021-22
+TET0134,Tetranychus ludeni,Tetranychidae,Maharashtra,chalil2024;gm2023,2,1,1,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Meghalaya,chalil2024,1,0,0,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Odisha,chalil2024;gm2023,2,1,1,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Punjab,aicrp;chalil2024;gm2023,3,1,1,1,1992-94;1996-97;1997;2020-21;2021-22
+TET0134,Tetranychus ludeni,Tetranychidae,Sikkim,gm2023,1,1,1,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,1990;1990-91;1992-94;1996-98;2024-25
+TET0134,Tetranychus ludeni,Tetranychidae,Tripura,chalil2024;gm2023,2,1,1,0,
+TET0134,Tetranychus ludeni,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1987-88;1990-91;1997-98
+TET0134,Tetranychus ludeni,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017;gm2023,4,1,1,1,1990-91;1992-94;1996;1997-98;2020-21
+TET0135,Tetranychus macfarlanei,Tetranychidae,Andaman & Nicobar Islands,chalil2024;gm2023,2,1,1,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Andhra Pradesh,aicrp;gm2023,2,1,1,1,1990-91
+TET0135,Tetranychus macfarlanei,Tetranychidae,Arunachal Pradesh,gm2023,1,1,1,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Chhattisgarh,chalil2024,1,0,1,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Gujarat,aicrp;chalil2024;gm2023,3,1,1,1,1988-89;1990-91
+TET0135,Tetranychus macfarlanei,Tetranychidae,Himachal Pradesh,aicrp,1,0,0,1,2024-25
+TET0135,Tetranychus macfarlanei,Tetranychidae,Karnataka,aicrp;chalil2024;gm2023,3,1,1,1,1990;1990-91;1992-94;1996-97;1997-98
+TET0135,Tetranychus macfarlanei,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,1996-97;2020-21;2021-22;2024-25
+TET0135,Tetranychus macfarlanei,Tetranychidae,Madhya Pradesh,chalil2024;gm2023,2,1,1,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Maharashtra,gm2023,1,1,1,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Punjab,aicrp,1,0,0,1,2020-21;2021-22
+TET0135,Tetranychus macfarlanei,Tetranychidae,Rajasthan,chalil2024;gm2023,2,1,1,0,
+TET0135,Tetranychus macfarlanei,Tetranychidae,Tamil Nadu,aicrp;chalil2024;gm2023,3,1,1,1,2021-22;2024-25
+TET0135,Tetranychus macfarlanei,Tetranychidae,Uttar Pradesh,aicrp;chalil2024;gm2023,3,1,1,1,1987-88;1992-94;1996-97;1997-98
+TET0135,Tetranychus macfarlanei,Tetranychidae,West Bengal,chalil2024;gb2017;gm2023,3,1,1,0,
+TET0136,Tetranychus marianae,Tetranychidae,Karnataka,chalil2024;gm2023,2,1,1,0,
+TET0136,Tetranychus marianae,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2020-21;2024-25
+TET0137,Tetranychus muricatus,Tetranychidae,West Bengal,add2026,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Andhra Pradesh,aicrp,1,0,0,1,1990-91
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Assam,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Bihar,aicrp;chalil2024,2,0,0,1,1988;1990-91
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Chhattisgarh,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Gujarat,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Haryana,aicrp;chalil2024,2,0,0,1,1990-91
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Himachal Pradesh,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Karnataka,aicrp;chalil2024,2,0,0,1,1988-89;1990-91;1996-97;1997-98
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2020-21;2021-22
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Maharashtra,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Meghalaya,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Odisha,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Punjab,aicrp;chalil2024,2,0,0,1,1990-91
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Rajasthan,chalil2024,1,0,0,0,
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,1988;1996-98;2024-25
+TET0138,Tetranychus neocaledonicus,Tetranychidae,Uttar Pradesh,aicrp;chalil2024,2,0,0,1,1987-88;1990-91;1997-98
+TET0138,Tetranychus neocaledonicus,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017,3,0,0,1,1988-89;1990;1990-91;1992-94;1996;1997-98
+TET0139,Tetranychus papayae,Tetranychidae,Bihar,aicrp,1,0,0,1,1990-91
+TET0139,Tetranychus papayae,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0139,Tetranychus papayae,Tetranychidae,Uttar Pradesh,aicrp,1,0,0,1,1987-88;1997-98
+TET0140,Tetranychus parakanzawai,Tetranychidae,West Bengal,add2026,1,0,0,0,
+TET0141,Tetranychus piercei,Tetranychidae,Assam,aicrp,1,0,0,1,2024-25
+TET0141,Tetranychus piercei,Tetranychidae,West Bengal,add2026,1,0,0,0,
+TET0142,Tetranychus puschelii,Tetranychidae,Assam,chalil2024;gm2023,2,1,1,0,
+TET0142,Tetranychus puschelii,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0142,Tetranychus puschelii,Tetranychidae,Kerala,aicrp;chalil2024;gm2023,3,1,1,1,2021-22
+TET0142,Tetranychus puschelii,Tetranychidae,West Bengal,chalil2024;gb2017,2,0,0,0,
+TET0143,Tetranychus sayedi,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0143,Tetranychus sayedi,Tetranychidae,Karnataka,aicrp,1,0,0,1,1988-89;1990
+TET0143,Tetranychus sayedi,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0144,Tetranychus taiwanicus,Tetranychidae,Karnataka,gm2023,1,1,1,0,
+TET0144,Tetranychus taiwanicus,Tetranychidae,Tamil Nadu,chalil2024,1,0,0,0,
+TET0145,Tetranychus truncatus,Tetranychidae,Assam,aicrp,1,0,0,1,2020-21;2024-25
+TET0145,Tetranychus truncatus,Tetranychidae,Himachal Pradesh,chalil2024,1,0,0,0,
+TET0145,Tetranychus truncatus,Tetranychidae,Jammu & Kashmir,chalil2024,1,0,0,0,
+TET0145,Tetranychus truncatus,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0145,Tetranychus truncatus,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2020-21;2021-22;2024-25
+TET0145,Tetranychus truncatus,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,2021-22;2024-25
+TET0145,Tetranychus truncatus,Tetranychidae,West Bengal,chalil2024,1,0,0,0,
+TET0146,Tetranychus turkestani,Tetranychidae,Jammu & Kashmir,chalil2024,1,0,0,0,
+TET0146,Tetranychus turkestani,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0146,Tetranychus turkestani,Tetranychidae,Maharashtra,chalil2024,1,0,0,0,
+TET0146,Tetranychus turkestani,Tetranychidae,Tamil Nadu,aicrp,1,0,0,1,2024-25
+TET0147,Tetranychus udaipurensis,Tetranychidae,Himachal Pradesh,chalil2024,1,0,0,0,
+TET0147,Tetranychus udaipurensis,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TET0147,Tetranychus udaipurensis,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2021-22
+TET0147,Tetranychus udaipurensis,Tetranychidae,Rajasthan,chalil2024;gm2023,2,1,1,0,
+TET0147,Tetranychus udaipurensis,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2021-22
+TET0148,Tetranychus urticae,Tetranychidae,Andhra Pradesh,aicrp;chalil2024,2,0,0,1,1990-91
+TET0148,Tetranychus urticae,Tetranychidae,Assam,aicrp;chalil2024,2,0,0,1,2020-21;2024-25
+TET0148,Tetranychus urticae,Tetranychidae,Bihar,aicrp;chalil2024,2,0,0,1,2020-21
+TET0148,Tetranychus urticae,Tetranychidae,Delhi,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Gujarat,aicrp;chalil2024,2,0,0,1,2020-21;2024-25
+TET0148,Tetranychus urticae,Tetranychidae,Haryana,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Himachal Pradesh,aicrp;chalil2024,2,0,0,1,2020-21;2021-22;2024-25
+TET0148,Tetranychus urticae,Tetranychidae,Jammu & Kashmir,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Jharkhand,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Karnataka,aicrp;chalil2024,2,0,0,1,1990;1992-94;1996-97;1997-98
+TET0148,Tetranychus urticae,Tetranychidae,Kerala,aicrp;chalil2024,2,0,0,1,2020-21;2021-22;2024-25
+TET0148,Tetranychus urticae,Tetranychidae,Madhya Pradesh,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Maharashtra,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Meghalaya,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Odisha,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Punjab,aicrp;chalil2024,2,0,0,1,1992-94;1996-97;2020-21;2021-22
+TET0148,Tetranychus urticae,Tetranychidae,Rajasthan,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Sikkim,chalil2024,1,0,0,0,
+TET0148,Tetranychus urticae,Tetranychidae,Tamil Nadu,aicrp;chalil2024,2,0,0,1,2021-22;2024-25
+TET0148,Tetranychus urticae,Tetranychidae,Uttar Pradesh,aicrp;chalil2024,2,0,0,1,1987-88;1997-98
+TET0148,Tetranychus urticae,Tetranychidae,West Bengal,aicrp;chalil2024;gb2017,3,0,0,1,2020-21
+TET0149,Tetranychus zaheri,Tetranychidae,Delhi,chalil2024;gm2023,2,1,1,0,
+TET0149,Tetranychus zaheri,Tetranychidae,Karnataka,chalil2024,1,0,0,0,
+TUC0001,Tuckerella channabasavannai,Tuckerellidae,Andhra Pradesh,gm2023,1,1,1,0,
+TUC0002,Tuckerella delhiensis,Tuckerellidae,Delhi,gm2023,1,1,1,0,
+TUC0003,Tuckerella indica,Tuckerellidae,Tamil Nadu,gm2023,1,1,1,0,
+TUC0004,Tuckerella kumaonensis,Tuckerellidae,Gujarat,aicrp,1,0,0,1,2020-21
+TUC0004,Tuckerella kumaonensis,Tuckerellidae,Uttarakhand,gm2023,1,1,1,0,

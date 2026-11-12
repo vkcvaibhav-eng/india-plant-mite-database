@@ -503,7 +503,72 @@ camelia sinensis => Camellia sinensis | Theaceae | Tea
 kafal => Myrica esculenta | Myricaceae | Kafal
 buel; beul; bhimal => Grewia optiva | Malvaceae | Beul | m
 reetha => Sapindus mukorossi | Sapindaceae | Soapnut (reetha)
+poaceae; poacea; poaceae sp => Poaceae | Poaceae | Grass (unspecified)
+lauraceae => Lauraceae | Lauraceae | Lauraceae (unspecified)
+liliaceae => Liliaceae | Liliaceae | Liliaceae (unspecified)
+arecaceae => Arecaceae | Arecaceae | Palm (unspecified)
+unidentified; unknown; unidentified plantand => [group] unidentified plant | | Unidentified plant
 [genus spellings]
+abuliton => Abutilon
+acecia => Acacia
+actinider => Actinidia
+adathoda => Adhatoda
+aervia => Aerva
+alium => Allium
+alpinta => Alpinia
+althea => Althaea
+aristidia => Aristida
+artacarpus => Artocarpus
+azelea => Azalea
+boerhhavia => Boerhavia
+bueitneria => Byttneria
+cajaus => Cajanus
+claucena => Clausena
+clerodendron => Clerodendrum
+coccinea => Coccinia
+dalhia => Dahlia
+desmodicum => Desmodium
+dichanthum => Dichanthium
+dimicarpus => Dimocarpus
+dodonia => Dodonaea
+dolichus => Dolichos
+epidendrun => Epidendrum
+eragrastis => Eragrostis
+eragrostris => Eragrostis
+eriobatrya => Eriobotrya
+flacourtiae => Flacourtia
+flagaria => Fragaria
+fumeria => Fumaria
+gardenis => Gardenia
+gemelina => Gmelina
+gossyppium => Gossypium
+grivellia => Grevillea
+holopeltea => Holoptelea
+impatines => Impatiens
+juglanus => Juglans
+kigela => Kigelia
+linocieria => Linociera
+lusine => Eleusine
+meducago => Medicago
+meliosoma => Meliosma
+melostoma => Melastoma
+michaelia => Michelia
+moghanis => Moghania
+operlina => Operculina
+oryzae => Oryza
+oscimum => Ocimum
+phonex => Phoenix
+phyllantus => Phyllanthus
+pleoblastus => Pleioblastus
+polygyla => Polygala
+ricinis => Ricinus
+santhalum => Santalum
+sarococca => Sarcococca
+sianhopea => Stanhopea
+sphaerolcea => Sphaeralcea
+syzygi => Syzygium
+trichophila => Trichopilia
+feronia => Limonia
 albizzia => Albizia
 allangium => Alangium
 annanas => Ananas
@@ -848,4 +913,174 @@ Ailanthus: Simaroubaceae
 Bougainvillea: Nyctaginaceae
 Ziziphus: Rhamnaceae
 Lycopersicon: Solanaceae
-
+Acanthophoenix: Arecaceae
+Acidoton: Euphorbiaceae
+Adhatoda: Acanthaceae
+Aesculus: Sapindaceae
+Alpinia: Zingiberaceae
+Alsophila: Cyatheaceae
+Althaea: Malvaceae
+Alyssum: Brassicaceae
+Amorpha: Fabaceae
+Anemone: Ranunculaceae
+Anthurium: Araceae
+Aphelandra: Acanthaceae
+Aristolochia: Aristolochiaceae
+Arracacia: Apiaceae
+Artemisia: Asteraceae
+Asclepias: Apocynaceae
+Aster: Asteraceae
+Atriplex: Amaranthaceae
+Atylosia: Fabaceae
+Aucuba: Garryaceae
+Azalea: Ericaceae
+Baliospermum: Euphorbiaceae
+Bidens: Asteraceae
+Bignonia: Bignoniaceae
+Bixa: Bixaceae
+Bletia: Orchidaceae
+Blumea: Asteraceae
+Bombax: Malvaceae
+Bouteloua: Poaceae
+Buddleia: Scrophulariaceae
+Buddleja: Scrophulariaceae
+Caesalpinia: Fabaceae
+Callistemon: Myrtaceae
+Caloncoba: Achariaceae
+Calophyllum: Calophyllaceae
+Campsis: Bignoniaceae
+Canavalia: Fabaceae
+Canna: Cannaceae
+Carpinus: Betulaceae
+Catalpa: Bignoniaceae
+Catasetum: Orchidaceae
+Cedrus: Pinaceae
+Ceiba: Malvaceae
+Cephalostachyum: Poaceae
+Cerasus: Rosaceae
+Chaenomeles: Rosaceae
+Chaerophyllum: Apiaceae
+Chaetachme: Cannabaceae
+Chaetacme: Cannabaceae
+Chloranthus: Chloranthaceae
+Christella: Thelypteridaceae
+Chromolaena: Asteraceae
+Cichorium: Asteraceae
+Clausena: Rutaceae
+Cleidion: Euphorbiaceae
+Cleome: Cleomaceae
+Codiaeum: Euphorbiaceae
+Conyza: Asteraceae
+Corylus: Betulaceae
+Cosmos: Asteraceae
+Costus: Costaceae
+Cotoneaster: Rosaceae
+Crataegus: Rosaceae
+Crepidiastrum: Asteraceae
+Crescentia: Bignoniaceae
+Cynara: Asteraceae
+Cynoglossum: Boraginaceae
+Cyrtococcum: Poaceae
+Dicliptera: Acanthaceae
+Diervilla: Caprifoliaceae
+Dipladenia: Apocynaceae
+Diplocyclos: Cucurbitaceae
+Dryopteris: Dryopteridaceae
+Durio: Malvaceae
+Dysoxylum: Meliaceae
+Echinops: Asteraceae
+Eclipta: Asteraceae
+Elephantopus: Asteraceae
+Elymus: Poaceae
+Ephedra: Ephedraceae
+Epidendrum: Orchidaceae
+Epimeredi: Lamiaceae
+Eranthemum: Acanthaceae
+Eruca: Brassicaceae
+Eurya: Pentaphylacaceae
+Fatsia: Araliaceae
+Flaveria: Asteraceae
+Flemingia: Fabaceae
+Fumaria: Papaveraceae
+Geranium: Geraniaceae
+Gloriosa: Colchicaceae
+Harrisonia: Rutaceae
+Hedera: Araliaceae
+Heterotheca: Asteraceae
+Holmskioldia: Lamiaceae
+Houlletia: Orchidaceae
+Houttuynia: Saururaceae
+Humulus: Cannabaceae
+Hyptis: Lamiaceae
+Kentia: Arecaceae
+Kickxia: Plantaginaceae
+Kigelia: Bignoniaceae
+Lamium: Lamiaceae
+Laurus: Lauraceae
+Lepidium: Brassicaceae
+Livistona: Arecaceae
+Lobelia: Campanulaceae
+Lycium: Solanaceae
+Lygodium: Lygodiaceae
+Marsdenia: Apocynaceae
+Melanolepis: Euphorbiaceae
+Melanthera: Asteraceae
+Melastoma: Melastomataceae
+Melicope: Rutaceae
+Melochia: Malvaceae
+Miscanthus: Poaceae
+Moghania: Fabaceae
+Monoon: Annonaceae
+Myrtus: Myrtaceae
+Nectandra: Lauraceae
+Neyraudia: Poaceae
+Ocotea: Lauraceae
+Odontoglossum: Orchidaceae
+Oenothera: Onagraceae
+Ostrya: Betulaceae
+Otostegia: Lamiaceae
+Pachira: Malvaceae
+Pachycarpus: Apocynaceae
+Parthenocissus: Vitaceae
+Paspalum: Poaceae
+Perilla: Lamiaceae
+Periploca: Apocynaceae
+Peristeria: Orchidaceae
+Petrea: Verbenaceae
+Peucedanum: Apiaceae
+Physalis: Solanaceae
+Pilea: Urticaceae
+Pistacia: Anacardiaceae
+Plantago: Plantaginaceae
+Pleioblastus: Poaceae
+Poinsettia: Euphorbiaceae
+Poranopsis: Convolvulaceae
+Pyracantha: Rosaceae
+Rhizophora: Rhizophoraceae
+Rhus: Anacardiaceae
+Ribes: Grossulariaceae
+Sarcobatus: Sarcobataceae
+Silene: Caryophyllaceae
+Solidago: Asteraceae
+Sonchus: Asteraceae
+Spathodea: Bignoniaceae
+Sporobolus: Poaceae
+Stanhopea: Orchidaceae
+Stellaria: Caryophyllaceae
+Strongylodon: Fabaceae
+Suregada: Euphorbiaceae
+Synedrella: Asteraceae
+Tetrazygia: Melastomataceae
+Thevetia: Apocynaceae
+Thyrsostachys: Poaceae
+Tragus: Poaceae
+Trevesia: Araliaceae
+Trichopilia: Orchidaceae
+Uraria: Fabaceae
+Urena: Malvaceae
+Veitchia: Arecaceae
+Verbascum: Scrophulariaceae
+Verbena: Verbenaceae
+Veronica: Plantaginaceae
+Vietnamosasa: Poaceae
+Wissadula: Malvaceae

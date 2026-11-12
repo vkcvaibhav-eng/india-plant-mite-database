@@ -22,3 +22,10 @@ fruit: Olea europaea
 ornamental: Prunus laurocerasus
 fodder: Grewia optiva
 tree_forest: Myrica*
+ornamental: Callistemon*; Cotoneaster*; Pyracantha*; Canna*; Anthurium*; Cosmos*; Geranium*; Gloriosa*; Petrea*; Spathodea*; Bignonia*; Campsis*; Hedera*; Verbena*; Dipladenia*; Poinsettia*; Codiaeum*; Aphelandra*; Eranthemum*; Livistona*; Veitchia*; Kentia*; Fatsia*; Aucuba*; Bletia*; Catasetum*; Epidendrum*; Houlletia*; Odontoglossum*; Peristeria*; Stanhopea*; Trichopilia*; Holmskioldia*; Buddleja*; Buddleia*; Chaenomeles*; Alyssum*; Lobelia*; Oenothera*; Solidago*; Verbascum*; Veronica*; Anemone*; Silene*
+weed_wild: Conyza*; Bidens*; Chromolaena*; Synedrella*; Eclipta*; Elephantopus*; Sonchus*; Blumea*; Urena*; Paspalum*; Sporobolus*; Tragus*; Miscanthus*; Neyraudia*; Cyrtococcum*; Bouteloua*; Elymus*; Cleome*; Hyptis*; Melochia*; Wissadula*; Flaveria*; Melanthera*; Kickxia*; Fumaria*; Stellaria*; Lamium*; Cynoglossum*; Echinops*; Atriplex*
+tree_forest: Thyrsostachys*; Cephalostachyum*; Pleioblastus*; Vietnamosasa*; Bombax*; Ceiba*; Calophyllum*; Dysoxylum*; Catalpa*; Kigelia*; Aesculus*; Carpinus*; Ostrya*; Rhizophora*; Cedrus*; Caesalpinia*; Melicope*; Ocotea*; Nectandra*; Eurya*; Cleidion*; Suregada*; Melanolepis*; Monoon*; Pachira*; Crescentia*; Alsophila*; Rhus*
+fruit: Corylus*; Pistacia*; Durio*; Cerasus*; Ribes*; Crataegus*; Myrtus*
+vegetable: Physalis*; Arracacia*; Eruca*; Lepidium*; Cichorium*; Cynara*; Canavalia*
+plantation_spice: Laurus*; Humulus*; Bixa*; Alpinia*
+medicinal_aromatic: Perilla*; Artemisia*; Costus*; Houttuynia*; Ephedra*; Plantago*; Adhatoda*; Aristolochia*; Chloranthus*

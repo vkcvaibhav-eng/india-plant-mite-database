@@ -152,6 +152,13 @@ class HostDictionary:
                 return self._result(taxon, "species" if sp else "genus", fam, "", label, "high" if sp else "medium")
         if entry is not None and entry["rank"] == "ambiguous":
             return self._result("", "ambiguous", "", entry["common"], "context_dependent_name", "")
+        # a well-formed binomial whose genus is not in the table: keep the printed name, family unknown
+        for cand in (sci, common):
+            m = re.match(r"^\s*([A-Z][a-z]{2,})\s+([a-z][a-z\-]{2,}|sp\.?|spp\.?)\s*$", cand or "")
+            if m:
+                taxon = f"{m.group(1)} sp." if m.group(2).startswith("sp") else f"{m.group(1)} {m.group(2)}"
+                return self._result(taxon, "genus" if taxon.endswith(" sp.") else "species", "", "",
+                                    "printed_binomial_genus_not_in_table", "medium")
         return self._result("", "unresolved", "", "", "not_in_dictionary", "")
 
 

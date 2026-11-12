@@ -350,26 +350,33 @@ write_csv(REV / "aicrp_names_not_in_checklist.csv",
            for k, v in sorted(missing.items())], ["mite_name", "family", "rows", "centres", "ambiguous_join"])
 
 # compare with the Gupta & Mondal (2023) species x state layer
-gm_state = {(r["species_id"], r["state"]) for r in read_csv(ROOT / "data/records/species_state.csv") if r["species_id"]}
+import states_norm
+gm_state = {(r["species_id"], states_norm.canon(r["state"])) for r in read_csv(ROOT / "data/records/species_state.csv") if r["species_id"]}
 gm_species = {sid for sid, _ in gm_state}
+gm_by_sp = collections.defaultdict(set)
+for sid, st in gm_state:
+    gm_by_sp[sid].add(st)
 NOT_SINGLE = ("(not split)",)
 pairs = collections.defaultdict(lambda: {"rows": 0, "centres": set(), "periods": set(), "names": set()})
 for r in obs:
     if not r["species_id"] or not r["state"] or any(x in r["state"] for x in NOT_SINGLE): continue
-    k = (r["species_id"], r["state"]); pairs[k]["rows"] += 1; pairs[k]["centres"].add(r["centre"]); pairs[k]["periods"].add(r["survey_period"]); pairs[k]["names"].add(r["mite_as_printed"])
+    k = (r["species_id"], states_norm.canon(r["state"])); pairs[k]["rows"] += 1; pairs[k]["centres"].add(r["centre"]); pairs[k]["periods"].add(r["survey_period"]); pairs[k]["names"].add(r["mite_as_printed"])
 cmp_rows = []
 for (sid, st), v in sorted(pairs.items()):
     cmp_rows.append({"species_id": sid, "valid_name": species[sid]["species"], "family": species[sid]["family"], "state": st,
-                     "in_gupta_mondal_2023": int((sid, st) in gm_state), "species_in_gupta_mondal_2023": int(sid in gm_species),
+                     "in_gupta_mondal_2023": int((sid, st) in gm_state),
+                     "in_gm2023_same_or_parent_state": int(bool(states_norm.related(st) & gm_by_sp.get(sid, set()))),
+                     "species_in_gupta_mondal_2023": int(sid in gm_species),
                      "aicrp_rows": v["rows"], "centres": ";".join(sorted(v["centres"])), "survey_periods": ";".join(sorted(v["periods"])),
                      "printed_names": " | ".join(sorted(v["names"]))})
 write_csv(OUT / "aicrp_species_state_vs_gm2023.csv", cmp_rows,
-          ["species_id", "valid_name", "family", "state", "in_gupta_mondal_2023", "species_in_gupta_mondal_2023", "aicrp_rows", "centres", "survey_periods", "printed_names"])
+          ["species_id", "valid_name", "family", "state", "in_gupta_mondal_2023", "in_gm2023_same_or_parent_state", "species_in_gupta_mondal_2023", "aicrp_rows", "centres", "survey_periods", "printed_names"])
 
 print("observations", len(obs))
 print(collections.Counter(r["centre"] for r in obs))
 print(collections.Counter(r["mite_rank"] for r in obs))
 print(collections.Counter(r["join_basis"] for r in obs if r["mite_rank"] == "species"))
 print("species x state pairs:", len(cmp_rows), "already in G&M:", sum(c["in_gupta_mondal_2023"] for c in cmp_rows),
+      "in G&M same or parent state:", sum(c["in_gm2023_same_or_parent_state"] for c in cmp_rows),
       "species new to G&M layer:", sum(1 for c in cmp_rows if not c["species_in_gupta_mondal_2023"]))
 print("names in covered families not joined:", len(missing))

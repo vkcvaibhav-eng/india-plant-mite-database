@@ -720,7 +720,7 @@ Berseem,,Trifolium alexandrinum,species,Fabaceae,Berseem,dictionary,high,fodder,
 Betelevine,,Piper betle,species,Piperaceae,Betel vine,dictionary,high,plantation_spice,,1,Kalyani
 Bhadraksha,,Elaeocarpus sp.,genus,Elaeocarpaceae,Rudraksha,dictionary,high,not_assigned,,1,Thrissur
 Bhambola,,,ambiguous,,Local name not resolved,context_dependent_name,,,,1,Ludhiana
-Bharangi,Clerodendron serratum,Clerodendrum serratum,species,Lamiaceae,Clerodendrum,dictionary,high,medicinal_aromatic,,1,Varanasi
+Bharangi,Clerodendron serratum,Clerodendrum serratum,species,Lamiaceae,Clerodendrum,dictionary,high,medicinal_aromatic,agree,1,Varanasi
 Bitter guard,,Momordica charantia,species,Cucurbitaceae,Bitter gourd,dictionary,high,vegetable,,1,Ludhiana
 Bogainvillea,,Bougainvillea sp.,genus,Nyctaginaceae,Bougainvillea,dictionary,high,ornamental,,1,Kalyani
 Boher,,Ficus benghalensis,species,Moraceae,Banyan,dictionary,high,tree_forest,,1,Ludhiana
@@ -863,7 +863,7 @@ Hibiscus rosa-sinensis,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dict
 Hibiscus rosasinensis,,Hibiscus rosa-sinensis,species,Malvaceae,China rose,dictionary,high,ornamental,,1,Kalyani
 Hibiscus sp.,,Hibiscus sp.,genus,Malvaceae,Hibiscus,dictionary,high,ornamental,,1,Bangalore
 Holarrhena antidysenterica,,Holarrhena antidysenterica,species,Apocynaceae,Kurchi,dictionary,high,medicinal_aromatic,,1,Bangalore
-Hollyhock,Althaea rosea,Alcea rosea,species,Malvaceae,Hollyhock,dictionary,high,ornamental,,1,Kalyani
+Hollyhock,Althaea rosea,Alcea rosea,species,Malvaceae,Hollyhock,dictionary,high,ornamental,agree,1,Kalyani
 Hollyhock,,Alcea rosea,species,Malvaceae,Hollyhock,dictionary,high,ornamental,,1,Kalyani
 Honey,,other stored or debris substrate,substrate,,Stored-product substrate,dictionary,high,stored_product,,1,Kalyani
 Honne,,Pterocarpus marsupium,species,Fabaceae,Indian kino,dictionary,medium,tree_forest,,1,Bangalore
@@ -1127,7 +1127,7 @@ Wild plants,,weeds and wild plants,group,,Weeds / wild plants (unspecified),dict
 Wild solanaceous plant,,Solanaceae,family,Solanaceae,Wild solanaceous plant,dictionary,high,not_assigned,,1,Bangalore
 Wild sugarcane,,Saccharum sp.,genus,Poaceae,Wild sugarcane,dictionary,high,weed_wild,,1,Thrissur
 Wild trees,,forest plants,group,,Forest plants (unspecified),dictionary,high,tree_forest,,1,Navsari
-Wood apple,Feronia elephantum,Limonia acidissima,species,Rutaceae,Wood apple,dictionary,high,fruit,,1,Varanasi
+Wood apple,Feronia elephantum,Limonia acidissima,species,Rutaceae,Wood apple,dictionary,high,fruit,species_differs,1,Varanasi
 Woodrose,,,ambiguous,,Local name not resolved,context_dependent_name,,,,1,Bangalore
 Yellow kaner,,Cascabela thevetia,species,Apocynaceae,Yellow oleander,dictionary,medium,ornamental,,1,Hisar
 Zarberra sp.,,Gerbera sp.,genus,Asteraceae,Gerbera,dictionary,high,ornamental,,1,Kalyani

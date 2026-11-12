@@ -4,6 +4,16 @@
   "files": {
     "gm2023": "data/checklist/gupta_mondal2023_all.csv",
     "species_list": "data/checklist/species_list.csv",
-    "species_list_names": "data/checklist/species_list_names.csv"
+    "species_list_names": "data/checklist/species_list_names.csv",
+    "chalil2024": "data/checklist/chalil2024_tetranychidae.csv",
+    "mitra2025": "data/checklist/mitra2025_tenuipalpidae_india.csv",
+    "tn2020": "data/checklist/dyamanagouda2020_eriophyoidea_tamilnadu.csv",
+    "karn2025": "data/checklist/dyamanagouda2025_eriophyoidea_karnataka.csv",
+    "som2025": "data/checklist/som2025_eriophyoidea_south_bengal.csv",
+    "mandal2026": "data/checklist/mandal2026_eriophyoidea_west_bengal.csv",
+    "tarswb2023": "data/checklist/tarsonemidae_west_bengal.csv",
+    "add2026": "data/checklist/additions_2022_2026.csv",
+    "gb2017": "data/checklist/gupta_bose2017_south_bengal.csv",
+    "mitra2018": "data/checklist/mitra2018_tenuipalpidae_west_bengal.csv"
   }
 }
