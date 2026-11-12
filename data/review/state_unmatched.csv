@@ -14,10 +14,10 @@ account_number,species_id,valid_name,name_in_source,family,section,level,localit
 431,ERI0206,Aceria sheldoni,Aceria sheldoni,Eriophyidae,eriophyoidea,named_species_account,India;USA,"India, USA.",gm2023,137
 447,ERI0219,Aceria wallichianae,Aceria wallichianae,Eriophyidae,eriophyoidea,named_species_account,Himalayas,India (Himalayas).,gm2023,140
 459,ERI0465,Paraphytoptus chrysanthemi,Paraphytoptus chrysanthemi,Eriophyidae,eriophyoidea,named_species_account,India;USA,"India, USA.",gm2023,142
-467,ERI0090,Acaphylla indiae,Acaphylla indiae,Eriophyidae,eriophyoidea,named_species_account,India;USA,"India, USA.",gm2023,143
-470,ERI0093,Acaphylla theae,Acaphylla theae,Eriophyidae,eriophyoidea,named_species_account,Kolkata,India (Kolkata).,gm2023,144
+467,ERI0089,Acaphylla indiae,Acaphylla indiae,Eriophyidae,eriophyoidea,named_species_account,India;USA,"India, USA.",gm2023,143
+470,ERI0092,Acaphylla theae,Acaphylla theae,Eriophyidae,eriophyoidea,named_species_account,Kolkata,India (Kolkata).,gm2023,144
 523,ERI0539,Tegonotus bhutani,Tegonotus bhutani,Eriophyidae,eriophyoidea,named_species_account,India;Bhutan,"India, Bhutan.",gm2023,153
-597,ERI0078,Abacarus oryzae,Abacarus oryzae,Eriophyidae,eriophyoidea,named_species_account,India;Phillipine islands,"India, Phillipine islands.",gm2023,"165,166"
+597,ERI0077,Abacarus oryzae,Abacarus oryzae,Eriophyidae,eriophyoidea,named_species_account,India;Phillipine islands,"India, Phillipine islands.",gm2023,"165,166"
 790,TAR0021,Polyphagotarsonemus latus,Polyphagotarsonemus latus,Tarsonemidae,tarsonemidae,named_species_account,India (Tripura;Cosmopolitan;Pp =,"India (Tripura, Mizoram, West Bengal, Bihar, Uttar Pradesh, Punjab, Maharashtra, Karnataka , Cosmopolitan. Pp =",gm2023,"201,202"
 794,TAR0027,Steneotarsonemus spinki,Steneotarsonemus spinki,Tarsonemidae,tarsonemidae,named_species_account,Throughout West Bengal,India (Throughout West Bengal).,gm2023,202
 797,,,Steneotarsonemus sp.1,Tarsonemidae,tarsonemidae,unidentified_genus_record,Kalyani Gangetic plains,India (Kalyani Gangetic plains).,gm2023,203

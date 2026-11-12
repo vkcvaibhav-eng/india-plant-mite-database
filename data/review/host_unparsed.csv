@@ -81,7 +81,7 @@ account_number,species_id,valid_name,name_in_source,family,section,level,unparse
 506,ERI0499,Procalacarus aliyarensis,Procalacarus aliyarensis,Eriophyidae,eriophyoidea,named_species_account,unidentified host.,unidentified host.,gm2023,150
 510,ERI0459,Oxycenus diospyrosis,Oxycenus diospyrosis,Eriophyidae,eriophyoidea,named_species_account,Diospyros melanoxy],"Diospyros melanoxy],) : EE",gm2023,"150,151"
 510,ERI0459,Oxycenus diospyrosis,Oxycenus diospyrosis,Eriophyidae,eriophyoidea,named_species_account,) : EE,"Diospyros melanoxy],) : EE",gm2023,"150,151"
-591,ERI0067,Abacarus arjunalis,Abacarus arjunalis,Eriophyidae,eriophyoidea,named_species_account,OO ———,Terminalia arjuna. OO ———,gm2023,"164,165"
+591,ERI0066,Abacarus arjunalis,Abacarus arjunalis,Eriophyidae,eriophyoidea,named_species_account,OO ———,Terminalia arjuna. OO ———,gm2023,"164,165"
 612,ERI0237,Aculops webpenetrans,Aculops webpenetrans,Eriophyidae,eriophyoidea,named_species_account,Unidentified host.,Unidentified host.,gm2023,168
 614,ERI0239,Aculus acanthae,Aculus acanthae,Eriophyidae,eriophyoidea,named_species_account,Prostrate Acanthaceous weed with pink flower.,Prostrate Acanthaceous weed with pink flower.,gm2023,168
 633,ERI0259,Aculus moringeae,Aculus moringae,Eriophyidae,eriophyoidea,named_species_account,Moringa oleifera. a Ss,Moringa oleifera. a Ss,gm2023,"171,172"

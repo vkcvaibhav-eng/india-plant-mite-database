@@ -1,0 +1,32 @@
+species_id,species,authority_in_checklist,year_in_checklist,years_printed_by_sources,decade_would_change
+ERI0051,Levonga combretis,(Ghosh & Chakrabarti),1992,gm2023 1992; mandal2026 1982,1
+ERI0138,Aceria cordiae,Channabasavanna,1966,gm2023 1966; mandal2026 1914,1
+ERI0163,Aceria holopteleae,Channabasavanna,1966,gm2023 1966; mandal2026 1966; tn2020 1982,1
+ERI0164,Aceria infectoriae,Channabasavanna,1966,gm2023 1966; mandal2026 1966; tn2020 1982,1
+ERI0166,Aceria jasmini,Channabasavanna,1966,gm2023 1966; tn2020 1982,1
+ERI0168,Aceria justiciae,Channabasavanna,1966,gm2023 1966; mandal2026 1966; tn2020 1982,1
+ERI0176,Aceria litseae,(Keifer),1972,gm2023 1972; mandal2026 1972; tn2020 1982,1
+ERI0185,Aceria medicaginis,(Keifer),1941,gm2023 1941; tn2020 1982,1
+ERI0191,Aceria nerii,Channabasavanna,1966,gm2023 1966; mandal2026 1966; tn2020 1982,1
+ERI0194,Aceria phyllantae,Mohanasundaram,1999,gm2023 1999; tn2020 1990,0
+ERI0199,Aceria puttarudriahi,Channabasavanna,1966,gm2023 1966; tn2020 1982,1
+ERI0201,Aceria saccharini,(Wang),1964,gm2023 1964; tn2020 1981,1
+ERI0212,Aceria trichocnemum,(Nalepa),1929,gm2023 1914; tn2020 1982,1
+ERI0214,Aceria tulipae,(Keifer),1938,gm2023 1938; mandal2026 1938; tn2020 1986,1
+ERI0261,Aculus ocimumae,Mohanasundaram,1991,gm2023 1991; tn2020 1999,0
+ERI0263,Aculus pseudostriae,Mohanasundaram,1984,gm2023 1984; mandal2026 1984; tn2020 1998,1
+ERI0303,Calacarus quisqualis,Chakrabarti & Mondal,1980,gm2023 1980; mandal2026 1979; tn2020 1982,1
+ERI0307,Calepitrimerus antedesmae,Chakrabarti & Das,1982,gm2023 1985; mandal2026 1982,0
+ERI0449,Neotegonotus fastigans,(Nalepa),1890,gm2023 1890; tn2020 1961,1
+ERI0495,Phyllocoptruta oleivora,(Ashmead),1879,gm2023 1879; mandal2026 1879; tn2020 1938,1
+TEN0044,Larvacarus transitans,(Ewing),1922,gm2023 1922; mitra2025 1992,1
+TEN0074,Tenuipalpus granati,Sayed,1942,gm2023 1946; mitra2025 1942,0
+TET0022,Eotetranychus kankitus,Ehara,1955,chalil2024 1963; gm2023 1955,1
+TET0027,Eotetranychus nanningensis,Ma & Wang,1981,chalil2024 1981; gm2023 1994,1
+TET0028,Eotetranychus neoperplexus,Estebanes & Baker,1950,chalil2024 1968; gm2023 1950,1
+TET0032,Eotetranychus rajouriensis,Nassar & Ghai,1981,chalil2024 1965; gm2023 1981,1
+TET0089,Panonychus ulmi,Koch,1836,chalil2024 1836; gm2023 1960,1
+TET0090,Petrobia (Petrobia) latens,Müller,1776,chalil2024 1776; gm2023 1877,1
+TET0097,Schizotetranychus cajani,Gupta,1976,chalil2024 1976; gm2023 1994,1
+TET0120,Tenuipalponychus citri,Channabasavanna & Lakkundi,1977,chalil2024 1977; gm2023 1997,1
+TET0128,Tetranychus gloveri,Banks,1900,chalil2024 1900; gm2023 1995,1

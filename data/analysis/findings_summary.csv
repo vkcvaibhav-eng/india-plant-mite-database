@@ -23,7 +23,7 @@ where,AICRP pairs where the book gives no state for the species,47
 when,species with a description year,1171
 when,species without a year,50
 when,median description year,1982
-when,species described 1970-1999,643
+when,species described 1970-1999,642
 when,species described 2000-2026,240
 when,decade with most descriptions,1980s (381)
 when,"median description year, Tetranychidae",1966
@@ -33,8 +33,8 @@ when,"median description year, Tarsonemidae",2021
 when,"median description year, Tuckerellidae",1977
 when,"median description year, Phytoseiidae",1983
 who,distinct author names in authorities,201
-who,five most frequent authors,Mohanasundaram 282; Chakrabarti 145; Gupta 138; Karmakar 127; Mondal 65
-who,species with at least one of the top five authors,690 (0.565)
+who,five most frequent authors,Mohanasundaram 282; Chakrabarti 145; Gupta 138; Karmakar 127; Mondal 64
+who,species with at least one of the top five authors,689 (0.564)
 who,Mohanasundaram share of Eriophyoidea,0.419
 hosts,phytophagous species (five families),889
 hosts,phytophagous species with a host genus,789

@@ -575,14 +575,14 @@ account_number,species_id,valid_name,name_in_source,family,section,level,state,s
 321,ERI0394,Eriophyes rubifolii,Eriophyes rubifolii,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,118
 322,ERI0396,Eriophyes terminaliae,Eriophyes terminaliae,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,118
 324,ERI0498,Proartacris pinnivagrans,Proartacris pinnivagrans,Eriophyidae,eriophyoidea,named_species_account,Himachal Pradesh,parsed,gm2023,119
-325,ERI0081,Acalitus delhiensis,Acalitus delhiensis,Eriophyidae,eriophyoidea,named_species_account,Delhi,parsed,gm2023,119
-326,ERI0082,Acalitus epiphytivagrans,Acalitus epiphytivagrans,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,119
-327,ERI0083,Acalitus gossypii,Acalitus gossypii,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,119
-328,ERI0084,Acalitus hibisci,Acalitus hibisci,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,"119,120"
-329,ERI0085,Acalitus meliosmae,Acalitus meliosmae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,120
-330,ERI0087,Acalitus reticulatae,Acalitus reticulatae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,120
-331,ERI0088,Acalitus ruelliae,Acalitus ruelliae,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,120
-332,ERI0089,Acalitus schefflerae,Acalitus schefflerae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,120
+325,ERI0080,Acalitus delhiensis,Acalitus delhiensis,Eriophyidae,eriophyoidea,named_species_account,Delhi,parsed,gm2023,119
+326,ERI0081,Acalitus epiphytivagrans,Acalitus epiphytivagrans,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,119
+327,ERI0082,Acalitus gossypii,Acalitus gossypii,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,119
+328,ERI0083,Acalitus hibisci,Acalitus hibisci,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,"119,120"
+329,ERI0084,Acalitus meliosmae,Acalitus meliosmae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,120
+330,ERI0086,Acalitus reticulatae,Acalitus reticulatae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,120
+331,ERI0087,Acalitus ruelliae,Acalitus ruelliae,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,120
+332,ERI0088,Acalitus schefflerae,Acalitus schefflerae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,120
 333,ERI0099,Aceria abutilonae,Aceria abutilonae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,"120,121"
 334,ERI0101,Aceria acalyphae,Aceria acalyphae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,121
 335,ERI0102,Aceria acanthae,Aceria acanthae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,121
@@ -687,7 +687,7 @@ account_number,species_id,valid_name,name_in_source,family,section,level,state,s
 425,ERI0199,Aceria puttarudriahi,Aceria puttarudriahi,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,136
 425,ERI0199,Aceria puttarudriahi,Aceria puttarudriahi,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,136
 426,ERI0200,Aceria randi,Aceria randi,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,136
-427,ERI0088,Acalitus ruelliae,Aceria ruelliae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,136
+427,ERI0087,Acalitus ruelliae,Aceria ruelliae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,136
 428,ERI0201,Aceria saccharini,Aceria sacchari,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,137
 429,ERI0201,Aceria saccharini,Aceria saccharini,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,137
 429,ERI0201,Aceria saccharini,Aceria saccharini,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,137
@@ -727,12 +727,12 @@ account_number,species_id,valid_name,name_in_source,family,section,level,state,s
 464,ERI0470,Paraphytoptus jujubae,Paraphytoptus jujubae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,143
 465,ERI0471,Paraphytoptus serenus,Paraphytoptus serenus,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,143
 466,ERI0506,Ramaculus karnatakaensis,Ramaculus karnatakaensis,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,143
-468,ERI0091,Acaphylla stienwedeni,Acaphylla stienwedeni,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,143
-469,ERI0092,Acaphylla syzygii,Acaphylla syzigii,Eriophyidae,eriophyoidea,named_species_account,Delhi,parsed,gm2023,"143,144"
-469,ERI0092,Acaphylla syzygii,Acaphylla syzigii,Eriophyidae,eriophyoidea,named_species_account,Rajasthan,parsed,gm2023,"143,144"
-470,ERI0093,Acaphylla theae,Acaphylla theae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,added_by_hand: book prints 'India (Kolkata)',gm2023,144
-471,ERI0094,Acaphyllisa araucariae,Acaphyllisa araucuriae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,144
-472,ERI0066,Aaphyllisa parindiae,Aaphyllisa parindiae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,144
+468,ERI0090,Acaphylla stienwedeni,Acaphylla stienwedeni,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,143
+469,ERI0091,Acaphylla syzygii,Acaphylla syzigii,Eriophyidae,eriophyoidea,named_species_account,Delhi,parsed,gm2023,"143,144"
+469,ERI0091,Acaphylla syzygii,Acaphylla syzigii,Eriophyidae,eriophyoidea,named_species_account,Rajasthan,parsed,gm2023,"143,144"
+470,ERI0092,Acaphylla theae,Acaphylla theae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,added_by_hand: book prints 'India (Kolkata)',gm2023,144
+471,ERI0093,Acaphyllisa araucariae,Acaphyllisa araucuriae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,144
+472,ERI0094,Acaphyllisa parindiae,Aaphyllisa parindiae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,144
 473,ERI0095,Acaphyllisa pipera,Acaphyllisa pipera,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,144
 474,ERI0096,Acaricalus artocarpae,Acaricalus artocarpae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,144
 475,ERI0097,Acaricalus darjeelingensis,Acaricalus darjeelingensis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,"144,145"
@@ -856,15 +856,15 @@ account_number,species_id,valid_name,name_in_source,family,section,level,state,s
 588,ERI0576,Vasates lakoochae,Vasates lakoochae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,164
 589,ERI0577,Vasates odinae,Vasates odinae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,164
 590,ERI0578,Vasates pavetis,Vasates pavetis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,164
-591,ERI0067,Abacarus arjunalis,Abacarus arjunalis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,"164,165"
-592,ERI0068,Abacarus asiaticae,Abacarus asiaticae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,165
-593,ERI0069,Abacarus delhiensis,Abacarus delhiensis,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,165
-594,ERI0071,Abacarus foliavagrans,Abacarus foliavagrans,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,165
-595,ERI0073,Abacarus goaensis,Abacarus goaensis,Eriophyidae,eriophyoidea,named_species_account,Maharashtra,parsed,gm2023,165
-596,ERI0074,Abacarus gossypii,Abacarus gossypii,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,165
+591,ERI0066,Abacarus arjunalis,Abacarus arjunalis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,"164,165"
+592,ERI0067,Abacarus asiaticae,Abacarus asiaticae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,165
+593,ERI0068,Abacarus delhiensis,Abacarus delhiensis,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,165
+594,ERI0070,Abacarus foliavagrans,Abacarus foliavagrans,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,165
+595,ERI0072,Abacarus goaensis,Abacarus goaensis,Eriophyidae,eriophyoidea,named_species_account,Maharashtra,parsed,gm2023,165
+596,ERI0073,Abacarus gossypii,Abacarus gossypii,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,165
 598,ERI0263,Aculus pseudostriae,Abacarus pseudostriae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,166
-599,ERI0079,Abacarus sacchari,Abacarus sacchari,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,166
-600,ERI0080,Abacarus sundarbanensis,Abacarus sundarbanensis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,166
+599,ERI0078,Abacarus sacchari,Abacarus sacchari,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,166
+600,ERI0079,Abacarus sundarbanensis,Abacarus sundarbanensis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,166
 601,ERI0225,Aculops abutiloni,Aculops abutiloni,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,166
 602,ERI0226,Aculops anacardiae,Aculops anacardiae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,"166,167"
 602,ERI0226,Aculops anacardiae,Aculops anacardiae,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,"166,167"
@@ -924,7 +924,7 @@ account_number,species_id,valid_name,name_in_source,family,section,level,state,s
 654,ERI0415,Indotegolophus darjeelingensis,Indotegolophus darjeelingensis,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,175
 655,ERI0418,Keiferana neolitseae,Keiferana neolitsieae,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,"175,176"
 656,ERI0423,Mesalox odayarae,Mesalox odayarae,Eriophyidae,eriophyoidea,named_species_account,Tamil Nadu,parsed,gm2023,176
-657,ERI0077,Abacarus mutica,Mesalox mutica,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,176
+657,ERI0076,Abacarus mutica,Mesalox mutica,Eriophyidae,eriophyoidea,named_species_account,West Bengal,parsed,gm2023,176
 658,ERI0425,Metaculus foveolatae,Metaculus foveolatae,Eriophyidae,eriophyoidea,named_species_account,Kerala,parsed,gm2023,176
 659,ERI0426,Metaculus londaensis,Metaculus londaensis,Eriophyidae,eriophyoidea,named_species_account,Maharashtra,parsed,gm2023,176
 660,ERI0427,Metaculus mangiferae,Metaculus mangiferae,Eriophyidae,eriophyoidea,named_species_account,Karnataka,parsed,gm2023,"176,177"

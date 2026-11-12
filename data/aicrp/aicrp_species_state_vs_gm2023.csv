@@ -1,9 +1,9 @@
 species_id,valid_name,family,state,book_status,in_gupta_mondal_2023,aicrp_rows,centres,survey_periods,join_bases,printed_names
 ERI0008,Cheiracus sulcatus,Diptilomiopidae,Tamil Nadu,state_in_book,1,2,Coimbatore,1988;2024-25,crosswalk;exact,Cheiracus sulcatus Keifer | Chiracus sulcatus Keifer
 ERI0064,Vimola artocarpae,Diptilomiopidae,Tamil Nadu,state_in_book,1,1,Coimbatore,1988,listed_synonym,Diptilomiopus artocarpae MMS
-ERI0083,Acalitus gossypii,Eriophyidae,Tamil Nadu,new_state_for_a_book_species,0,1,Coimbatore,1996-98,exact,Acalitus gossypii (Ewing)
-ERI0092,Acaphylla syzygii,Eriophyidae,Uttar Pradesh,new_state_for_a_book_species,0,2,Varanasi,1987-88;1997-98,exact,Acaphylla syzygii | Acaphylla syzygii Channabasavanna
-ERI0093,Acaphylla theae,Eriophyidae,West Bengal,state_in_book,1,1,Kalyani,1992-94,exact,Acaphylla theae
+ERI0082,Acalitus gossypii,Eriophyidae,Tamil Nadu,new_state_for_a_book_species,0,1,Coimbatore,1996-98,exact,Acalitus gossypii (Ewing)
+ERI0091,Acaphylla syzygii,Eriophyidae,Uttar Pradesh,new_state_for_a_book_species,0,2,Varanasi,1987-88;1997-98,exact,Acaphylla syzygii | Acaphylla syzygii Channabasavanna
+ERI0092,Acaphylla theae,Eriophyidae,West Bengal,state_in_book,1,1,Kalyani,1992-94,exact,Acaphylla theae
 ERI0129,Aceria cajani,Eriophyidae,Assam,new_state_for_a_book_species,0,6,Jorhat,2020-21;2024-25,exact,Aceria cajani
 ERI0129,Aceria cajani,Eriophyidae,Bihar,new_state_for_a_book_species,0,2,Pusa,1993;1996-97,exact,Aceria cajani
 ERI0129,Aceria cajani,Eriophyidae,Gujarat,new_state_for_a_book_species,0,4,Navsari,1988-89;1989-90;2020-21,exact,Aceria cajani | Aceria cajani (Channabasavanna) | Aceria cajani Channabasavanna

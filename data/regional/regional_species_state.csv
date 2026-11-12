@@ -631,12 +631,12 @@ mitra2025,2025,Ultratenuipalpus gonianensis,TEN0112,Ultratenuipalpus gonianensis
 mitra2025,2025,Ultratenuipalpus meekeri,TEN0113,Ultratenuipalpus meekeri,Tenuipalpidae,exact,,Assam,Assam
 mitra2025,2025,Ultratenuipalpus quadrisetosus,TEN0114,Ultratenuipalpus quadrisetosus,Tenuipalpidae,exact,,Andaman & Nicobar Islands,Andaman & Nicobar Islands
 tn2020,2020,Abacarus anacardiae,ERI0226,Aculops anacardiae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Abacarus asiaticae,ERI0068,Abacarus asiaticae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Abacarus foliavagrans,ERI0071,Abacarus foliavagrans,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Abacarus goaensis,ERI0073,Abacarus goaensis,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Abacarus gossypii,ERI0074,Abacarus gossypii,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Abacarus asiaticae,ERI0067,Abacarus asiaticae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Abacarus foliavagrans,ERI0070,Abacarus foliavagrans,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Abacarus goaensis,ERI0072,Abacarus goaensis,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Abacarus gossypii,ERI0073,Abacarus gossypii,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Abacarus pseudostriae,ERI0263,Aculus pseudostriae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Abacarus sacchari,ERI0079,Abacarus sacchari,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Abacarus sacchari,ERI0078,Abacarus sacchari,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Aculops betonicae,ERI0519,Tegolophus betonicae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Aculops boerhaeviae,ERI0227,Aculops boerhaeviae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Aculops extensae,ERI0230,Aculops extensae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
@@ -706,8 +706,8 @@ tn2020,2020,Phyllocoptes ficivagrans,ERI0483,Phyllocoptes ficivagrans,Eriophyida
 tn2020,2020,Phyllocoptes immigrans,ERI0484,Phyllocoptes immigrans,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Phyllocoptes indicae,ERI0485,Phyllocoptes indicae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Phyllocoptes simplicifoliae,ERI0487,Phyllocoptes simplicifoliae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Acaphylla stienwedeni,ERI0091,Acaphylla stienwedeni,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Acaphyllisa parindiae,ERI0066,Aaphyllisa parindiae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Acaphylla stienwedeni,ERI0090,Acaphylla stienwedeni,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Acaphyllisa parindiae,ERI0094,Acaphyllisa parindiae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Phyllocoptruta malligai,ERI0492,Phyllocoptruta malligai,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Phyllocoptruta odayarae,ERI0423,Mesalox odayarae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Phyllocoptruta oleivora,ERI0495,Phyllocoptruta oleivora,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
@@ -735,10 +735,10 @@ tn2020,2020,Thamnacus acanthae,ERI0570,Thamnacus acanthae,Eriophyidae,exact,,Tam
 tn2020,2020,Vasates cassiae,ERI0575,Vasates cassiae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Vasates odinae,ERI0577,Vasates odinae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Neophantacrus mallotus,ERI0447,Neophantacrus mallotus,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Acalitus epiphytivagrans,ERI0082,Acalitus epiphytivagrans,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Acalitus meliosomae,ERI0085,Acalitus meliosmae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Acalitus reticulatae,ERI0087,Acalitus reticulatae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
-tn2020,2020,Acalitus schefflerae,ERI0089,Acalitus schefflerae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Acalitus epiphytivagrans,ERI0081,Acalitus epiphytivagrans,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Acalitus meliosomae,ERI0084,Acalitus meliosmae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Acalitus reticulatae,ERI0086,Acalitus reticulatae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
+tn2020,2020,Acalitus schefflerae,ERI0088,Acalitus schefflerae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Aceria abulitonae,ERI0099,Aceria abutilonae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Aceria acaicae,ERI0100,Aceria acaicae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
 tn2020,2020,Aceria acalyphae,ERI0101,Aceria acalyphae,Eriophyidae,exact,,Tamil Nadu,Tamil Nadu
@@ -928,7 +928,7 @@ karn2025,2025,Aceria mauritianae,ERI0184,Aceria mauritianae,Eriophyidae,exact,,K
 karn2025,2025,Aceria guerreronis,ERI0161,Aceria guerreronis,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Aceria cajani,ERI0129,Aceria cajani,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Aceria holopteleae,ERI0163,Aceria holopteleae,Eriophyidae,exact,,Karnataka,Karnataka
-karn2025,2025,Acalitus odoratus,ERI0086,Acalitus odoratus,Eriophyidae,exact,,Karnataka,Karnataka
+karn2025,2025,Acalitus odoratus,ERI0085,Acalitus odoratus,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Eriophyes lantanae,ERI0385,Eriophyes lantanae,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Eriophyes morindae,ERI0388,Eriophyes morindae,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Cisaberoptus kenyae,ERI0169,Aceria kenyae,Eriophyidae,exact,,Karnataka,Karnataka
@@ -936,9 +936,9 @@ karn2025,2025,Aculops lycopersici,ERI0232,Aculops lycopersici,Eriophyidae,exact,
 karn2025,2025,Aculus pterygospermae,ERI0264,Aculus pterygospermae,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Aculus bangalorensis,ERI0243,Aculus bangalorensis,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Abcarus anacardiae,ERI0226,Aculops anacardiae,Eriophyidae,exact,,Karnataka,Karnataka
-karn2025,2025,Abacarus sundarbanensis,ERI0080,Abacarus sundarbanensis,Eriophyidae,exact,,Karnataka,Karnataka
-karn2025,2025,Abacarus horseshoex,ERI0075,Abacarus horseshoex,Eriophyidae,exact,,Karnataka,Karnataka
-karn2025,2025,Abacarus fuzhoubambusae,ERI0072,Abacarus fuzhoubambusae,Eriophyidae,exact,,Karnataka,Karnataka
+karn2025,2025,Abacarus sundarbanensis,ERI0079,Abacarus sundarbanensis,Eriophyidae,exact,,Karnataka,Karnataka
+karn2025,2025,Abacarus horseshoex,ERI0074,Abacarus horseshoex,Eriophyidae,exact,,Karnataka,Karnataka
+karn2025,2025,Abacarus fuzhoubambusae,ERI0071,Abacarus fuzhoubambusae,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Vittacus bougainvilleae,ERI0579,Vittacus bougainvilleae,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Tegolophus calotropi,ERI0521,Tegolophus calotropi,Eriophyidae,exact,,Karnataka,Karnataka
 karn2025,2025,Tegolophus indica,ERI0527,Tegolophus indica,Eriophyidae,exact,,Karnataka,Karnataka
@@ -960,9 +960,9 @@ karn2025,2025,Knorella gigantochloae,ERI0420,Knorella gigantochloae,Eriophyidae,
 karn2025,2025,Diptilomiopus cocculae,ERI0021,Diptilomiopus cocculae,Diptilomiopidae,exact,,Karnataka,Karnataka
 karn2025,2025,Diptilomiopous assamica,ERI0017,Diptilomiopus assamica,Diptilomiopidae,exact,,Karnataka,Karnataka
 karn2025,2025,Cheiracus sulcatus,ERI0008,Cheiracus sulcatus,Diptilomiopidae,exact,,Karnataka,Karnataka
-som2025,2025,Abacus arjunalis,ERI0067,Abacarus arjunalis,Eriophyidae,exact,,West Bengal,West Bengal
-som2025,2025,Acalitus ruelliae,ERI0088,Acalitus ruelliae,Eriophyidae,exact,,West Bengal,West Bengal
-som2025,2025,Acaphylla syzygii,ERI0092,Acaphylla syzygii,Eriophyidae,exact,,West Bengal,West Bengal
+som2025,2025,Abacus arjunalis,ERI0066,Abacarus arjunalis,Eriophyidae,exact,,West Bengal,West Bengal
+som2025,2025,Acalitus ruelliae,ERI0087,Acalitus ruelliae,Eriophyidae,exact,,West Bengal,West Bengal
+som2025,2025,Acaphylla syzygii,ERI0091,Acaphylla syzygii,Eriophyidae,exact,,West Bengal,West Bengal
 som2025,2025,Acaphyllisa pipera,ERI0095,Acaphyllisa pipera,Eriophyidae,exact,,West Bengal,West Bengal
 som2025,2025,Aceria alangiae,ERI0107,Aceria alangiae,Eriophyidae,exact,,West Bengal,West Bengal
 som2025,2025,Aceria anonae,ERI0111,Aceria anonae,Eriophyidae,exact,,West Bengal,West Bengal
@@ -1058,8 +1058,8 @@ mandal2026,2026,Eriophyes manilkarae,ERI0387,Eriophyes manilkarae,Eriophyidae,ex
 mandal2026,2026,Eriophyes rubifolii,ERI0394,Eriophyes rubifolii,Eriophyidae,exact,"Rongtong (Darjeeling), . Hura (Purulia)",West Bengal,West Bengal
 mandal2026,2026,Eriophyes sp,,,,,Kolkata,West Bengal,West Bengal
 mandal2026,2026,Eriophyes terminaliae,ERI0396,Eriophyes terminaliae,Eriophyidae,exact,East Medinipur,West Bengal,West Bengal
-mandal2026,2026,Acalitus hibisci,ERI0084,Acalitus hibisci,Eriophyidae,exact,Kalyani (Nadia),West Bengal,West Bengal
-mandal2026,2026,Acalitus ruelliae,ERI0088,Acalitus ruelliae,Eriophyidae,exact,"Arambag (Hooghly), East Medinipur",West Bengal,West Bengal
+mandal2026,2026,Acalitus hibisci,ERI0083,Acalitus hibisci,Eriophyidae,exact,Kalyani (Nadia),West Bengal,West Bengal
+mandal2026,2026,Acalitus ruelliae,ERI0087,Acalitus ruelliae,Eriophyidae,exact,"Arambag (Hooghly), East Medinipur",West Bengal,West Bengal
 mandal2026,2026,Aceria alangiae,ERI0107,Aceria alangiae,Eriophyidae,exact,Arambag (Hooghly),West Bengal,West Bengal
 mandal2026,2026,Aceria annonae,ERI0111,Aceria anonae,Eriophyidae,exact,"Arambag & Sheoraphuli (Hooghly), Howrah",West Bengal,West Bengal
 mandal2026,2026,Aceria bambusae,ERI0120,Aceria bambusae,Eriophyidae,exact,"JCB Nat Bor Garden   Ch (Howrah), Hoomgarh & 2021 Raghunathbari (Medinipur), Sillery t Gaon & Tashiding",West Bengal,West Bengal
@@ -1091,8 +1091,8 @@ mandal2026,2026,Cymoptus bengalensis,ERI0347,Cymoptus bengalensis,Eriophyidae,ex
 mandal2026,2026,Paraphytoptus champacae,ERI0464,Paraphytoptus champacae,Eriophyidae,exact,Sheoraphuli (Hooghly) S,West Bengal,West Bengal
 mandal2026,2026,Paraphytoptus jujubae,ERI0470,Paraphytoptus jujubae,Eriophyidae,exact,East Medinipur records for West Ben,West Bengal,West Bengal
 mandal2026,2026,Paraphytoptus serenus,ERI0471,Paraphytoptus serenus,Eriophyidae,exact,Arambag (Hooghly),West Bengal,West Bengal
-mandal2026,2026,Acaphylla syzigii,ERI0092,Acaphylla syzygii,Eriophyidae,exact,"Howrah, Sheoraphuli (Hooghly",West Bengal,West Bengal
-mandal2026,2026,Acaphyllisa araucariae,ERI0094,Acaphyllisa araucariae,Eriophyidae,exact,Dubrajpur (Birbhum),West Bengal,West Bengal
+mandal2026,2026,Acaphylla syzigii,ERI0091,Acaphylla syzygii,Eriophyidae,exact,"Howrah, Sheoraphuli (Hooghly",West Bengal,West Bengal
+mandal2026,2026,Acaphyllisa araucariae,ERI0093,Acaphyllisa araucariae,Eriophyidae,exact,Dubrajpur (Birbhum),West Bengal,West Bengal
 mandal2026,2026,Acaphyllisa pipera,ERI0095,Acaphyllisa pipera,Eriophyidae,exact,Salpara (Purulia),West Bengal,West Bengal
 mandal2026,2026,Acaricalus artocarpae,ERI0096,Acaricalus artocarpae,Eriophyidae,exact,Lataguri Forest (Jalpaiguri),West Bengal,West Bengal
 mandal2026,2026,Acaricalus darjeelingensis,ERI0097,Acaricalus darjeelingensis,Eriophyidae,exact,Darjeeling,West Bengal,West Bengal
@@ -1154,13 +1154,13 @@ mandal2026,2026,Subductophyes digitariae,ERI0518,Subductophyes digitariae,Erioph
 mandal2026,2026,Vasates lakoochae,ERI0576,Vasates lakoochae,Eriophyidae,exact,Ramsai (Jalpaiguri),West Bengal,West Bengal
 mandal2026,2026,Vasates odinae,ERI0577,Vasates odinae,Eriophyidae,exact,U.B.K.V. Campus (Kalimpong),West Bengal,West Bengal
 mandal2026,2026,Vasates pavetis,ERI0578,Vasates pavetis,Eriophyidae,exact,Badanganj (Hooghly),West Bengal,West Bengal
-mandal2026,2026,Abacarus arjunalis,ERI0067,Abacarus arjunalis,Eriophyidae,exact,Dubrakone (Bankura),West Bengal,West Bengal
-mandal2026,2026,Abacarus digitariae,ERI0070,Abacarus digitariae,Eriophyidae,exact,idyang (Kalimpong),West Bengal,West Bengal
-mandal2026,2026,Abacarus foliavagrans,ERI0071,Abacarus foliavagrans,Eriophyidae,exact,Sukna Forest (Darjeeling),West Bengal,West Bengal
-mandal2026,2026,Abacarus goaensis,ERI0073,Abacarus goaensis,Eriophyidae,exact,y Sillery Gaon (Kalimpong),West Bengal,West Bengal
-mandal2026,2026,Abacarus mutica,ERI0077,Abacarus mutica,Eriophyidae,exact,Serampore (Hooghly),West Bengal,West Bengal
-mandal2026,2026,Abacarus sacchari,ERI0079,Abacarus sacchari,Eriophyidae,exact,Almost everywhere,West Bengal,West Bengal
-mandal2026,2026,Abacarus sundarbanensis,ERI0080,Abacarus sundarbanensis,Eriophyidae,exact,Sundarban (South 24 Paraganas),West Bengal,West Bengal
+mandal2026,2026,Abacarus arjunalis,ERI0066,Abacarus arjunalis,Eriophyidae,exact,Dubrakone (Bankura),West Bengal,West Bengal
+mandal2026,2026,Abacarus digitariae,ERI0069,Abacarus digitariae,Eriophyidae,exact,idyang (Kalimpong),West Bengal,West Bengal
+mandal2026,2026,Abacarus foliavagrans,ERI0070,Abacarus foliavagrans,Eriophyidae,exact,Sukna Forest (Darjeeling),West Bengal,West Bengal
+mandal2026,2026,Abacarus goaensis,ERI0072,Abacarus goaensis,Eriophyidae,exact,y Sillery Gaon (Kalimpong),West Bengal,West Bengal
+mandal2026,2026,Abacarus mutica,ERI0076,Abacarus mutica,Eriophyidae,exact,Serampore (Hooghly),West Bengal,West Bengal
+mandal2026,2026,Abacarus sacchari,ERI0078,Abacarus sacchari,Eriophyidae,exact,Almost everywhere,West Bengal,West Bengal
+mandal2026,2026,Abacarus sundarbanensis,ERI0079,Abacarus sundarbanensis,Eriophyidae,exact,Sundarban (South 24 Paraganas),West Bengal,West Bengal
 mandal2026,2026,Aculops abutiloni,ERI0225,Aculops abutiloni,Eriophyidae,exact,Sagar Island (South Paraganas),West Bengal,West Bengal
 mandal2026,2026,Aculops boerhaeviae,ERI0227,Aculops boerhaeviae,Eriophyidae,exact,Kalijhora Market (Darjeeling),West Bengal,West Bengal
 mandal2026,2026,Aculops dilleniae,ERI0228,Aculops dilleniae,Eriophyidae,exact,Pyrachali (Purulia),West Bengal,West Bengal
@@ -1367,7 +1367,7 @@ mitra2018,2018,Tenuipalpus crassulus,TEN0066,Tenuipalpus crassulus,Tenuipalpidae
 mitra2018,2018,Tenuipalpus crassus,TEN0067,Tenuipalpus crassus,Tenuipalpidae,exact,,West Bengal,West Bengal
 mitra2018,2018,Tenuipalpus leipoldti,TEN0084,Tenuipalpus leipoldti,Tenuipalpidae,exact,Barrackpore; Garden Reach,West Bengal,West Bengal
 mitra2018,2018,Tenuipalpus leptadeniaei,TEN0085,Tenuipalpus leptadeniae,Tenuipalpidae,exact,Digha,West Bengal,West Bengal
-add2026,2025,Abacarus indogangeticus,ERI0076,Abacarus indogangeticus,Eriophyidae,exact,,West Bengal,West Bengal
+add2026,2025,Abacarus indogangeticus,ERI0075,Abacarus indogangeticus,Eriophyidae,exact,,West Bengal,West Bengal
 add2026,2025,Neodicrothrix bengalensis,ERI0439,Neodicrothrix bengalensis,Eriophyidae,exact,,West Bengal,West Bengal
 add2026,2025,Tetra dalbergicola,ERI0559,Tetra dalbergicola,Eriophyidae,exact,,West Bengal,West Bengal
 add2026,2025,Diptilomiopus streblusis,ERI0040,Diptilomiopus streblusis,Diptilomiopidae,exact,,West Bengal,West Bengal
