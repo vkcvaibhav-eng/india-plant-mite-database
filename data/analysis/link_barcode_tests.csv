@@ -1,0 +1,7 @@
+comparison,barcoded,not_barcoded,median_barcoded,median_not_barcoded,U,P
+"states recorded, all species",137,1084,3,1.0,114936,7.2e-35
+"states recorded, species with at least one state",134,1058,3.0,1.0,111412,4.5e-38
+"host genera, plant feeders with at least one host genus",100,659,3.5,1,50590,1.3e-28
+"sources, all species",137,1084,3,2.0,102948,2.5e-15
+"Spearman rho, states vs barcoded, all species",137,1084,,,0.353,4.4e-37
+"Spearman rho, states vs barcoded, species with at least one state",134,1058,,,0.374,8e-41

@@ -20,34 +20,44 @@ where,additions resting on AICRP reports only,188
 where,AICRP species x state pairs,487
 where,AICRP pairs that are additions to the book,224
 where,AICRP pairs where the book gives no state for the species,47
+where,"species not in the handbook, described after 2022",59
+where,"species not in the handbook, described in 2022",4
+where,"species not in the handbook, described before 2022",55
+where,"species not in the handbook, described year not known",14
 when,species with a description year,1171
 when,species without a year,50
 when,median description year,1982
 when,species described 1970-1999,642
 when,species described 2000-2026,240
 when,decade with most descriptions,1980s (381)
-when,"median description year, Tetranychidae",1966
+when,"median description year, Tetranychidae",1967
 when,"median description year, Tenuipalpidae",1978
 when,"median description year, Eriophyoidea",1983
 when,"median description year, Tarsonemidae",2021
 when,"median description year, Tuckerellidae",1977
 when,"median description year, Phytoseiidae",1983
+when,species whose year differs by 3 or more years between sources,31
+when,"of these, species whose decade could change",27
+when,peak decade range if other years used,1980s 377-393
 who,distinct author names in authorities,201
 who,five most frequent authors,Mohanasundaram 282; Chakrabarti 145; Gupta 138; Karmakar 127; Mondal 64
 who,species with at least one of the top five authors,689 (0.564)
 who,Mohanasundaram share of Eriophyoidea,0.419
-hosts,phytophagous species (five families),889
-hosts,phytophagous species with a host genus,789
-hosts,"of these, known from one host genus",581 (0.736)
-hosts,phytophagous species with more than 20 host genera,13
-hosts,five host genera with most phytophagous mite species,Citrus 54; Ficus 51; Prunus 27; Rosa 27; Psidium 26
+hosts,plant-feeding species,854
+hosts,"tarsonemid species of other feeding habit, left out of the host analysis",35
+hosts,plant-feeding species with a host genus,759
+hosts,"of these, known from one host genus",556 (0.733)
+hosts,plant-feeding species with more than 20 host genera,13
+hosts,five host genera with most plant-feeding mite species,Citrus 54; Ficus 50; Rosa 27; Prunus 26; Bambusa 24
 link,barcoded species (any COI),137
-link,median n_states: barcoded vs not,"3 vs 1.0 (Mann-Whitney U=114936, P=7.2e-35)"
-link,median n_host_genera: barcoded vs not,"2 vs 1.0 (Mann-Whitney U=109435, P=7.7e-23)"
-link,median n_layers: barcoded vs not,"3 vs 2.0 (Mann-Whitney U=102948, P=2.5e-15)"
+link,"states recorded, all species","3 vs 1.0 (n = 137 and 1084; Mann-Whitney U=114936, P=7.2e-35)"
+link,"states recorded, species with at least one state","3.0 vs 1.0 (n = 134 and 1058; Mann-Whitney U=111412, P=4.5e-38)"
+link,"host genera, plant feeders with at least one host genus","3.5 vs 1 (n = 100 and 659; Mann-Whitney U=50590, P=1.3e-28)"
+link,"sources, all species","3 vs 2.0 (n = 137 and 1084; Mann-Whitney U=102948, P=2.5e-15)"
 link,"share barcoded, species from 0 states",3/29 (0.103)
 link,"share barcoded, species from 1 states",34/793 (0.043)
 link,"share barcoded, species from 2-3 states",38/269 (0.141)
 link,"share barcoded, species from 4-9 states",35/91 (0.385)
 link,"share barcoded, species from 10+ states",27/39 (0.692)
 link,"Spearman rho, states recorded vs barcoded (0/1)",0.353 (P=4.4e-37)
+link,"Spearman rho, species with at least one state","0.374 (P=8e-41, n = 1192)"

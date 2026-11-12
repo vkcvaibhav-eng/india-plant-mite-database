@@ -107,7 +107,9 @@ for r in read("data/aicrp/aicrp_observations.csv"):
 for r in read("data/regional/regional_species_host.csv"):
     if r["source"] not in ("chalil2024", "mitra2025") and r["host_rank_std"] in ("species", "genus"):
         gen[r["species_id"]].add(r["host_taxon_std"].split()[0])
-phyto = [s for s in ids if grp[s] != "Phytoseiidae"]
+genus_of = {r["species_id"]: r["species"].split()[0] for r in checklist}
+phyto = [s for s in ids if grp[s] in ("Tetranychidae", "Tenuipalpidae", "Eriophyoidea", "Tuckerellidae")
+         or (grp[s] == "Tarsonemidae" and genus_of[s] in ("Polyphagotarsonemus", "Steneotarsonemus", "Phytonemus"))]
 with_host = [s for s in phyto if gen[s]]
 one = sum(1 for s in with_host if len(gen[s]) == 1)
 per_genus = collections.Counter(g for s in with_host for g in gen[s])
@@ -144,11 +146,11 @@ mine = {
     ("who", "five most frequent authors"): "; ".join(f"{n} {count[n]}" for n in five),
     ("who", "species with at least one of the top five authors"): f"{with_five} ({round(with_five / len(checklist), 3)})",
     ("who", "Mohanasundaram share of Eriophyoidea"): round(sum(1 for s in erio if "Mohanasundaram" in per_species[s]) / len(erio), 3),
-    ("hosts", "phytophagous species (five families)"): len(phyto),
-    ("hosts", "phytophagous species with a host genus"): len(with_host),
+    ("hosts", "plant-feeding species"): len(phyto),
+    ("hosts", "plant-feeding species with a host genus"): len(with_host),
     ("hosts", "of these, known from one host genus"): f"{one} ({round(one / len(with_host), 3)})",
-    ("hosts", "phytophagous species with more than 20 host genera"): sum(1 for s in with_host if len(gen[s]) > 20),
-    ("hosts", "five host genera with most phytophagous mite species"): "; ".join(f"{g} {n}" for g, n in top5g),
+    ("hosts", "plant-feeding species with more than 20 host genera"): sum(1 for s in with_host if len(gen[s]) > 20),
+    ("hosts", "five host genera with most plant-feeding mite species"): "; ".join(f"{g} {n}" for g, n in top5g),
     ("link", "barcoded species (any COI)"): sum(1 for s in ids if coi.get(s, 0) > 0),
     ("link", "share barcoded, species from 1 states"): f"{sum(1 for s in one_state if coi.get(s, 0) > 0)}/{len(one_state)} ({round(sum(1 for s in one_state if coi.get(s, 0) > 0) / len(one_state), 3)})",
     ("link", "share barcoded, species from 10+ states"): f"{sum(1 for s in ten if coi.get(s, 0) > 0)}/{len(ten)} ({round(sum(1 for s in ten if coi.get(s, 0) > 0) / len(ten), 3)})",

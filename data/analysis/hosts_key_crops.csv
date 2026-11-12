@@ -38,7 +38,6 @@ Abelmoschus esculentus,Okra,Tetranychus urticae,Tetranychidae,aicrp,1
 Capsicum annuum,Chilli,Calacarus citrifolii,Eriophyoidea,aicrp;gm2023,2
 Capsicum annuum,Chilli,Polyphagotarsonemus latus,Tarsonemidae,aicrp;gb2017;gm2023,3
 Capsicum annuum,Chilli,Steneotarsonemus spinki,Tarsonemidae,aicrp,1
-Capsicum annuum,Chilli,Tarsonemus confusus,Tarsonemidae,aicrp,1
 Capsicum annuum,Chilli,Brevipalpus phoenicis,Tenuipalpidae,aicrp,1
 Capsicum annuum,Chilli,Eutetranychus orientalis,Tetranychidae,aicrp,1
 Capsicum annuum,Chilli,Schizotetranychus baltazari,Tetranychidae,aicrp,1
@@ -85,7 +84,6 @@ Mangifera indica,Mango,Tetranychus urticae,Tetranychidae,aicrp,1
 Cocos nucifera,Coconut,Aceria guerreronis,Eriophyoidea,aicrp;gm2023;mandal2026;tn2020,4
 Cocos nucifera,Coconut,Notostrix attenuata,Eriophyoidea,gm2023,1
 Cocos nucifera,Coconut,Scolocenus spiniferus,Eriophyoidea,gm2023,1
-Cocos nucifera,Coconut,Tarsonemus narkelae,Tarsonemidae,gm2023,1
 Cocos nucifera,Coconut,Dolichotetranychus cocos,Tenuipalpidae,gm2023,1
 Cocos nucifera,Coconut,Dolichotetranychus ramaniae,Tenuipalpidae,aicrp;gm2023,2
 Cocos nucifera,Coconut,Raoiella indica,Tenuipalpidae,aicrp;gb2017;gm2023,3
@@ -108,7 +106,6 @@ Oryza sativa,Rice,Abacarus sacchari,Eriophyoidea,mandal2026,1
 Oryza sativa,Rice,Aceria tulipae,Eriophyoidea,aicrp,1
 Oryza sativa,Rice,Cheiracus sulcatus,Eriophyoidea,aicrp;gm2023;tn2020,3
 Oryza sativa,Rice,Steneotarsonemus spinki,Tarsonemidae,aicrp,1
-Oryza sativa,Rice,Tarsonemus mondouriensis,Tarsonemidae,gm2023,1
 Oryza sativa,Rice,Oligonychus grypus,Tetranychidae,aicrp,1
 Oryza sativa,Rice,Oligonychus indicus,Tetranychidae,aicrp;gm2023,2
 Oryza sativa,Rice,Oligonychus manishi,Tetranychidae,gm2023,1
@@ -119,7 +116,6 @@ Oryza sativa,Rice,Schizotetranychus andropogoni,Tetranychidae,gm2023,1
 Oryza sativa,Rice,Schizotetranychus mansoni,Tetranychidae,aicrp;gm2023,2
 Saccharum officinarum,Sugarcane,Abacarus sacchari,Eriophyoidea,gm2023;tn2020,2
 Saccharum officinarum,Sugarcane,Aceria saccharini,Eriophyoidea,aicrp;gm2023;tn2020,3
-Saccharum officinarum,Sugarcane,Lupotarsonemus randsi,Tarsonemidae,gm2023,1
 Saccharum officinarum,Sugarcane,Polyphagotarsonemus latus,Tarsonemidae,aicrp,1
 Saccharum officinarum,Sugarcane,Steneotarsonemus bancrofti,Tarsonemidae,gm2023,1
 Saccharum officinarum,Sugarcane,Aponychus bambusae,Tetranychidae,gm2023,1
@@ -134,8 +130,6 @@ Saccharum officinarum,Sugarcane,Tetranychus urticae,Tetranychidae,aicrp,1
 Psidium guajava,Guava,Diptilomiopus guajavae,Eriophyoidea,gm2023;mandal2026,2
 Psidium guajava,Guava,Diptilomiopus jevremovici,Eriophyoidea,gm2023,1
 Psidium guajava,Guava,Vimola guajavae,Eriophyoidea,gm2023;mandal2026,2
-Psidium guajava,Guava,Tarsonemus dakshinbharaticus,Tarsonemidae,add2026,1
-Psidium guajava,Guava,Tarsonemus sertum,Tarsonemidae,add2026,1
 Psidium guajava,Guava,Brevipalpus assamensis,Tenuipalpidae,aicrp,1
 Psidium guajava,Guava,Brevipalpus californicus,Tenuipalpidae,aicrp,1
 Psidium guajava,Guava,Brevipalpus cucurbitae,Tenuipalpidae,gm2023;mitra2018,2

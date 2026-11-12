@@ -75,10 +75,10 @@ italic_legend(ax, GROUPS, loc="upper left", fontsize=7.5, ncol=2)
 fig.tight_layout(); fig.savefig(F / "fig2_described_per_decade.png", dpi=300); plt.close(fig)
 
 # ---------------------------------------------------------------- Fig. 3 host breadth
-rows = [r for r in read("hosts_breadth_by_group.csv") if r["group"] != "Phytoseiidae"]
+rows = [r for r in read("hosts_breadth_by_group.csv") if r["group"] not in ("Phytoseiidae", "Tarsonemidae, other genera")]
 classes = [("one_host_genus", "1 host genus"), ("2_5", "2–5"), ("6_20", "6–20"), ("over_20", "more than 20")]
 fig, ax = plt.subplots(figsize=(6.3, 2.8))
-names = [f"{r['group']} (n = {int(r['species']) - int(r['no_host_genus'])})" for r in rows][::-1]
+names = [f"{r['group'].replace(', plant-feeding genera', ' (plant feeders)')} (n = {int(r['species']) - int(r['no_host_genus'])})" for r in rows][::-1]
 left = [0.0] * len(rows)
 for (col, lab), colr in zip(classes, RAMP):
     vals = []
@@ -113,7 +113,7 @@ for g in PHY:
     left = [a + b for a, b in zip(left, vals)]
 for i, v in enumerate(left):
     ax.text(v + 0.5, i, str(v), va="center", fontsize=7.5, color=INK2)
-ax.set_xlabel("Phytophagous mite species recorded on the genus"); grid(ax)
+ax.set_xlabel("Plant-feeding mite species recorded on the genus"); grid(ax)
 ax.tick_params(axis="y", length=0, labelsize=7.5)
 italic_legend(ax, [g for g in PHY if g != "Tuckerellidae"], loc="lower right", fontsize=8)
 fig.tight_layout(); fig.savefig(F / "fig4_top_host_genera.png", dpi=300); plt.close(fig)

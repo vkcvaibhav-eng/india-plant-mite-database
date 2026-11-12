@@ -33,9 +33,25 @@ def write(name, rows, cols=None):
 
 
 GROUPS = ["Tetranychidae", "Tenuipalpidae", "Eriophyoidea", "Tarsonemidae", "Tuckerellidae", "Phytoseiidae"]
-PHYTOPHAGOUS = set(GROUPS) - {"Phytoseiidae"}
 sp = {r["species_id"]: r for r in read(ROOT / "data/raw/species_list.csv") if r["counted"] == "1"}
 group = {k: v["group"] for k, v in sp.items()}
+# Plant feeders: the four plant-feeding families and the plant-feeding genera of Tarsonemidae (Lindquist 1986).
+# Most other tarsonemid genera found on plants feed on fungi, algae or other microbes, or their food is not known
+# (Mondal et al. 2023), so they are not counted as plant feeders.
+PLANT_FEEDING_FAMILIES = {"Tetranychidae", "Tenuipalpidae", "Eriophyoidea", "Tuckerellidae"}
+PLANT_FEEDING_TARSONEMID_GENERA = {"Polyphagotarsonemus", "Steneotarsonemus", "Phytonemus"}
+PLANT_FEEDER = {s for s in sp if group[s] in PLANT_FEEDING_FAMILIES
+                or (group[s] == "Tarsonemidae" and sp[s]["genus"] in PLANT_FEEDING_TARSONEMID_GENERA)}
+
+
+def feeding_class(s):
+    if group[s] == "Tarsonemidae":
+        return "Tarsonemidae, plant-feeding genera" if s in PLANT_FEEDER else "Tarsonemidae, other genera"
+    return group[s]
+
+
+FEEDING_CLASSES = ["Tetranychidae", "Tenuipalpidae", "Eriophyoidea", "Tarsonemidae, plant-feeding genera",
+                   "Tuckerellidae", "Tarsonemidae, other genera", "Phytoseiidae"]
 summary = []          # (section, measure, value) for the findings table
 
 
@@ -114,6 +130,20 @@ ap = [r for r in comb if r["in_aicrp"] == "1"]
 note("where", "AICRP species x state pairs", len(ap))
 note("where", "AICRP pairs that are additions to the book", sum(1 for r in ap if r["book_status"] in ("new_state_for_a_book_species", "species_not_in_book")))
 note("where", "AICRP pairs where the book gives no state for the species", sum(1 for r in ap if r["book_status"] == "book_gives_no_state"))
+# Species with no account in the handbook, by year of description against its coverage (literature to 2022):
+# described after 2022 = later than the handbook; described in 2022 or earlier = within its coverage but not in it.
+nb = {r["species_id"] for r in comb if r["book_status"] == "species_not_in_book"}
+def _yr(s):
+    y = sp[s]["year"].strip()
+    return int(y) if re.fullmatch(r"\d{4}", y) else None
+nb_rows = [{"described": k, "species": n} for k, n in (
+    ("after 2022", sum(1 for s in nb if (_yr(s) or 0) > 2022)),
+    ("in 2022", sum(1 for s in nb if _yr(s) == 2022)),
+    ("before 2022", sum(1 for s in nb if _yr(s) is not None and _yr(s) < 2022)),
+    ("year not known", sum(1 for s in nb if _yr(s) is None)))]
+write("where_species_not_in_book_by_year.csv", nb_rows)
+for r in nb_rows:
+    note("where", f"species not in the handbook, described {r['described']}", r["species"])
 write("where_additions_by_group.csv",
       [{"group": g, "pairs": sum(1 for r in comb if group[r["species_id"]] == g),
         **{k: sum(1 for r in comb if group[r["species_id"]] == g and r["book_status"] == k) for k in
@@ -175,6 +205,22 @@ for g in GROUPS:
     ys = [int(sp[s]["year"]) for s in sp if group[s] == g and re.fullmatch(r"\d{4}", sp[s]["year"].strip())]
     if ys:
         note("when", f"median description year, {g}", int(statistics.median(ys)))
+# Sensitivity of the decade counts to the years that differ between sources
+# (data/review/checklist_years_that_differ_between_sources.csv, written by scripts/tools/check_years.py).
+alt = {}
+for r in read(ROOT / "data/review/checklist_years_that_differ_between_sources.csv"):
+    alt[r["species_id"]] = {int(x.split()[1]) for x in r["years_printed_by_sources"].split("; ")}
+base = {d: sum(dec[d].values()) for d in dec}
+sens = []
+for d in sorted(set(base) | {y // 10 * 10 for v in alt.values() for y in v}):
+    lo = base.get(d, 0) - sum(1 for s, v in alt.items() if s in sp and _yr(s) // 10 * 10 == d and any(y // 10 * 10 != d for y in v))
+    hi = base.get(d, 0) + sum(1 for s, v in alt.items() if s in sp and _yr(s) // 10 * 10 != d and any(y // 10 * 10 == d for y in v))
+    sens.append({"decade": f"{d}s", "described": base.get(d, 0), "lowest_if_other_years_used": lo, "highest_if_other_years_used": hi})
+write("when_decade_year_sensitivity.csv", sens)
+note("when", "species whose year differs by 3 or more years between sources", len(alt))
+note("when", "of these, species whose decade could change", sum(1 for s, v in alt.items() if len({y // 10 for y in v} | {_yr(s) // 10}) > 1))
+pk = max(sens, key=lambda r: r["described"])
+note("when", "peak decade range if other years used", f"{pk['decade']} {pk['lowest_if_other_years_used']}-{pk['highest_if_other_years_used']}")
 
 # ======================================================================= WHO
 # spelling variants and OCR damage in the authority strings: config/author_aliases.csv
@@ -272,9 +318,9 @@ def breadth(keep):
     for r in regional_hosts:
         if keep(r["source"]) and r["species_id"] in sp and r["host_rank_std"] in ("species", "genus"):
             gen[r["species_id"]].add(r["host_taxon_std"].split()[0])
-    ids = [s for s in sp if group[s] in PHYTOPHAGOUS and gen[s]]
+    ids = [s for s in PLANT_FEEDER if gen[s]]
     one = sum(1 for s in ids if len(gen[s]) == 1)
-    return {"phytophagous_species_with_host": len(ids), "one_host_genus": one, "share_one_host_genus": round(one / len(ids), 3),
+    return {"plant_feeding_species_with_host": len(ids), "one_host_genus": one, "share_one_host_genus": round(one / len(ids), 3),
             "more_than_20_genera": sum(1 for s in ids if len(gen[s]) > 20)}
 
 
@@ -285,8 +331,8 @@ write("hosts_sensitivity.csv", [
     {"host_layers_used": "all layers including the two national checklists", **breadth(lambda l: True)}])
 
 rows = []
-for g in GROUPS:
-    ids = [s for s in sp if group[s] == g]
+for g in FEEDING_CLASSES:
+    ids = [s for s in sp if feeding_class(s) == g]
     b = [len(host_pairs[s]) for s in ids]
     c = collections.Counter("none" if x == 0 else "1" if x == 1 else "2-5" if x <= 5 else "6-20" if x <= 20 else ">20" for x in b)
     with_host = [x for x in b if x]
@@ -295,19 +341,22 @@ for g in GROUPS:
                  "share_one_host_genus_of_those_with_hosts": round(c["1"] / len(with_host), 3) if with_host else "",
                  "median_host_genera": statistics.median(with_host) if with_host else ""})
 write("hosts_breadth_by_group.csv", rows)
-phy_ids = [s for s in sp if group[s] in PHYTOPHAGOUS]
+phy_ids = [s for s in sp if s in PLANT_FEEDER]
 ph_with = [s for s in phy_ids if host_pairs[s]]
-note("hosts", "phytophagous species (five families)", len(phy_ids))
-note("hosts", "phytophagous species with a host genus", len(ph_with))
+note("hosts", "plant-feeding species", len(phy_ids))
+note("hosts", "tarsonemid species of other feeding habit, left out of the host analysis", sum(1 for s in sp if feeding_class(s) == "Tarsonemidae, other genera"))
+note("hosts", "plant-feeding species with a host genus", len(ph_with))
 note("hosts", "of these, known from one host genus", f"{sum(1 for s in ph_with if len(host_pairs[s]) == 1)} ({round(sum(1 for s in ph_with if len(host_pairs[s]) == 1) / len(ph_with), 3)})")
-note("hosts", "phytophagous species with more than 20 host genera", sum(1 for s in ph_with if len(host_pairs[s]) > 20))
+note("hosts", "plant-feeding species with more than 20 host genera", sum(1 for s in ph_with if len(host_pairs[s]) > 20))
 
 crop_sp = collections.defaultdict(set)
 crop_pred = collections.defaultdict(set)
 genus_sp, genus_pred, genus_names = collections.defaultdict(set), collections.defaultdict(set), collections.defaultdict(collections.Counter)
 for (sid, taxon), layers in host_src.items():
-    (crop_sp if group[sid] in PHYTOPHAGOUS else crop_pred)[taxon].add(sid)
-    (genus_sp if group[sid] in PHYTOPHAGOUS else genus_pred)[taxon.split()[0]].add(sid)
+    if sid in PLANT_FEEDER:
+        crop_sp[taxon].add(sid); genus_sp[taxon.split()[0]].add(sid)
+    elif group[sid] == "Phytoseiidae":
+        crop_pred[taxon].add(sid); genus_pred[taxon.split()[0]].add(sid)
     genus_names[taxon.split()[0]][crop_type.get(taxon, ("", ""))[1]] += 1
 rows = []
 for g_, ids in sorted(genus_sp.items(), key=lambda x: (-len(x[1]), x[0]))[:40]:
@@ -334,7 +383,7 @@ for taxon, ids in sorted(crop_sp.items(), key=lambda x: -len(x[1]))[:40]:
 write("hosts_top_plants.csv", rows)
 ct_sp = collections.defaultdict(set)
 for (sid, taxon) in host_src:
-    if group[sid] in PHYTOPHAGOUS:
+    if sid in PLANT_FEEDER:
         ct_sp[crop_type.get(taxon, ("", ""))[0] or "not_assigned"].add(sid)
 write("hosts_by_crop_type.csv", [{"crop_type": k, "phytophagous_species": len(v)} for k, v in sorted(ct_sp.items(), key=lambda x: -len(x[1]))])
 
@@ -347,7 +396,7 @@ for taxon in KEY:
         rows.append({"host": taxon, "common_name": crop_type.get(taxon, ("", ""))[1], "mite": sp[sid]["species"], "group": group[sid],
                      "layers": ";".join(sorted(host_src[(sid, taxon)])), "n_layers": len(host_src[(sid, taxon)])})
 write("hosts_key_crops.csv", rows)
-note("hosts", "five host genera with most phytophagous mite species", "; ".join(f"{r['host_genus']} {r['phytophagous_species']}" for r in topg))
+note("hosts", "five host genera with most plant-feeding mite species", "; ".join(f"{r['host_genus']} {r['phytophagous_species']}" for r in topg))
 
 # ======================================================================= LINK TO PAPER 1
 cov = {r["species_id"]: r for r in read(ROOT / "data/raw/coverage_by_species.csv")}
@@ -364,9 +413,25 @@ write("link_species_records_vs_coi.csv", rows)
 bar = [r for r in rows if r["n_coi"] > 0]
 nob = [r for r in rows if r["n_coi"] == 0]
 note("link", "barcoded species (any COI)", len(bar))
-for k in ("n_states", "n_host_genera", "n_layers"):
-    u = stats.mannwhitneyu([r[k] for r in bar], [r[k] for r in nob], alternative="two-sided")
-    note("link", f"median {k}: barcoded vs not", f"{statistics.median([r[k] for r in bar])} vs {statistics.median([r[k] for r in nob])} (Mann-Whitney U={u.statistic:.0f}, P={u.pvalue:.2g})")
+# Missing-data rules: a species with no state record has n_states 0 (no record anywhere in the sources), tested with and
+# without such species; host genera are compared only among plant feeders with at least one recorded host genus,
+# because a zero elsewhere means that hosts were not extracted (Phytoseiidae) or not recorded.
+tests = []
+
+
+def mwu(label, a, b, k):
+    u = stats.mannwhitneyu([r[k] for r in a], [r[k] for r in b], alternative="two-sided")
+    tests.append({"comparison": label, "barcoded": len(a), "not_barcoded": len(b),
+                  "median_barcoded": statistics.median([r[k] for r in a]), "median_not_barcoded": statistics.median([r[k] for r in b]),
+                  "U": round(u.statistic), "P": f"{u.pvalue:.2g}"})
+    note("link", label, f"{tests[-1]['median_barcoded']} vs {tests[-1]['median_not_barcoded']} (n = {len(a)} and {len(b)}; Mann-Whitney U={u.statistic:.0f}, P={u.pvalue:.2g})")
+
+
+mwu("states recorded, all species", bar, nob, "n_states")
+mwu("states recorded, species with at least one state", [r for r in bar if r["n_states"]], [r for r in nob if r["n_states"]], "n_states")
+pf = [r for r in rows if r["species_id"] in PLANT_FEEDER and r["n_host_genera"] > 0]
+mwu("host genera, plant feeders with at least one host genus", [r for r in pf if r["n_coi"] > 0], [r for r in pf if r["n_coi"] == 0], "n_host_genera")
+mwu("sources, all species", bar, nob, "n_layers")
 cls_rows = []
 for label, lo, hi in (("0", 0, 0), ("1", 1, 1), ("2-3", 2, 3), ("4-9", 4, 9), ("10+", 10, 999)):
     ids = [r for r in rows if lo <= r["n_states"] <= hi]
@@ -379,6 +444,15 @@ for r in cls_rows:
     note("link", f"share barcoded, species from {r['states_recorded']} states", f"{r['barcoded']}/{r['species']} ({r['share_barcoded']})")
 rho = stats.spearmanr([r["n_states"] for r in rows], [1 if r["n_coi"] else 0 for r in rows])
 note("link", "Spearman rho, states recorded vs barcoded (0/1)", f"{rho.statistic:.3f} (P={rho.pvalue:.2g})")
+r1 = [r for r in rows if r["n_states"]]
+rho1 = stats.spearmanr([r["n_states"] for r in r1], [1 if r["n_coi"] else 0 for r in r1])
+note("link", "Spearman rho, species with at least one state", f"{rho1.statistic:.3f} (P={rho1.pvalue:.2g}, n = {len(r1)})")
+tests.append({"comparison": "Spearman rho, states vs barcoded, all species", "barcoded": len(bar), "not_barcoded": len(nob),
+              "median_barcoded": "", "median_not_barcoded": "", "U": round(rho.statistic, 3), "P": f"{rho.pvalue:.2g}"})
+tests.append({"comparison": "Spearman rho, states vs barcoded, species with at least one state", "barcoded": sum(1 for r in r1 if r["n_coi"]),
+              "not_barcoded": sum(1 for r in r1 if not r["n_coi"]), "median_barcoded": "", "median_not_barcoded": "",
+              "U": round(rho1.statistic, 3), "P": f"{rho1.pvalue:.2g}"})
+write("link_barcode_tests.csv", tests)
 
 write("findings_summary.csv", summary, ["section", "measure", "value"])
 for s in summary:

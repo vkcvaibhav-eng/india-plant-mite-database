@@ -1,4 +1,4 @@
-host_layers_used,phytophagous_species_with_host,one_host_genus,share_one_host_genus,more_than_20_genera
-book + AICRP + regional lists and papers (main analysis),789,581,0.736,13
-AICRP + regional lists and papers only,543,452,0.832,10
-all layers including the two national checklists,803,584,0.727,23
+host_layers_used,plant_feeding_species_with_host,one_host_genus,share_one_host_genus,more_than_20_genera
+book + AICRP + regional lists and papers (main analysis),759,556,0.733,13
+AICRP + regional lists and papers only,526,437,0.831,10
+all layers including the two national checklists,773,559,0.723,23
